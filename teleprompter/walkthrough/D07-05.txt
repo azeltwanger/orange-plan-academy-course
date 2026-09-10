@@ -1,5 +1,5 @@
-Keep the working device intact and use the official backup-check process. If the reviewed procedure uses a compatible spare, keep the original available while you check the spare.
+Before any destructive step, we need to know that the backup can support the recovery. We're keeping the working device intact while we use its official backup-check process. If the reviewed procedure uses a compatible spare, the original remains available while we check it.
 
-Include the passphrase or configuration requirements that apply to this wallet. Stop recording before entering anything private.
+The check includes any passphrase or configuration requirements for this wallet. Recording stops before private information is entered, just as it did during setup.
 
-If the check fails, stop here. Keep the working access and investigate through verified official instructions or support without disclosing the secret. Don't reset the device or send more funds to try to make the mismatch disappear.
+If the check fails, we stop here and preserve the working access. Verified official instructions or support may help us investigate, but support doesn't need the secret. Resetting the device or sending more funds would add risk while the mismatch is still unresolved. A successful, supported check is what lets us consider the next part of this isolated test.

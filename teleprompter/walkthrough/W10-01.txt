@@ -1,7 +1,7 @@
-Open Plan Overview and check that you're reading the saved plan you intend to follow. Read the result date and status, then open Your Plan report.
+We're going to read the plan as one connected set of decisions. In Plan Overview, let's first check that this is the saved plan you intend to follow, along with its result date and status. Then we'll open the matching Your Plan report.
 
-Start with the retirement date, spending and planning horizon. Keep the assumptions beside the result. The displayed chance of success depends on those inputs and the spending policy; it doesn't settle every household risk.
+The retirement date, spending and planning horizon tell us what we're asking this plan to do. The assumptions and spending policy explain the conditions behind its chance of success. That result is useful, but it doesn't settle every household risk.
 
-Read the report's accuracy issue or missing information before considering a modeled improvement. Correct a wrong fact first. If the plan is weaker than you need, identify the unfunded period or assumption driving it and choose one response to compare.
+Before comparing an improvement, let's read any accuracy issue or missing information. A wrong fact needs correcting first. If the facts are sound and the plan is weaker than you need, we can identify the unfunded period or assumption driving that weakness and choose one response to compare.
 
-Keep the same saved plan open as you move into the funding details. Don't borrow a more attractive result from a different scenario.
+We'll keep this same saved plan open as we follow the funding. That way, the attractive result and the details we're relying on belong to the same set of choices.

@@ -11,48 +11,50 @@ Give each affordable contribution an amount, start condition, receiving account 
 
 ### Read aloud
 
-Start with the money available after bills, required debt payments and the saving already coming out of payroll. Carry forward the Reserve and extra-debt amounts you've chosen.
+We've chosen a portfolio mix and looked at the accounts that can hold it. Now we're going to connect that plan to the money coming in each month. We'll follow each contribution from the amount you can afford, through the receiving account, to the investment you intend it to buy.
 
-In the Reeds' reduced-spending example, $2,475 remains before Alex's employee contribution. His $775 leaves $1,700. They assign $500 to the Reserve and $1,200 extra to the card. That uses the full $1,700. There isn't another investment contribution available in this phase.
+The amount comes first, because a target percentage doesn't tell us what we can afford to buy. In the Reeds' reduced-spending comparison, $2,475 is left before Alex's employee contribution. His $775 leaves $1,700. The proposed $500 Reserve contribution and $1,200 extra card payment use all of it. There's no additional investment transfer available in that version.
 
-Alex is still investing through payroll. His employer adds $387.50 under the fictional match: half of his 6% contribution on a $155,000 salary. Read your own formula and vesting conditions, the requirements for keeping the employer's money. Employer money increases retirement saving; it isn't cash available for another household transfer.
+Alex is still investing through payroll. His employer adds $387.50 under the fictional match: half of his 6% contribution on a $155,000 salary. Your own formula may differ, and vesting tells you the requirements for keeping the employer's money. That employer contribution adds retirement saving, but it isn't money available for another household transfer.
 
-Use this contribution order to direct any remaining money. Fund the necessary Reserve pace, account for an available employer match, then apply the extra-debt choice. Route the remainder to the first funding need that still has a gap. These goals can receive money together; you don't have to finish one completely before the next receives anything.
+So the order we're using begins with the necessary Reserve pace, an available employer match and the extra-debt choice. Any remainder can go toward the first funding need that still has a gap. Those things can receive money together. We don't have to finish every earlier item before anything reaches the next one.
 
-If early retirement lacks accessible money, fund that gap through an account you can use then. If those years are covered and this money is for later, use the retirement-account choice from the previous lesson. Include college and other commitments before committing the remainder.
+If the gap is in the early retirement years, accessible saving may be more useful than another contribution to an account you can't yet use. If the early years are covered and the money is for later, we have the retirement-account choices from the last lesson. College and other commitments also need to fit before that remainder becomes available.
 
-Keep future cash separate. When the Reeds' card payment actually ends, the illustrated $405 minimum and $1,200 extra could release $1,605. Verify what stopped and what changed elsewhere before starting a new contribution. When the Reserve reaches its target, its build contribution may also be redirected. The Reserve balance keeps its protection job.
+This changes when a payment ends. After the Reeds' card is actually paid off, the illustrated $405 required payment and $1,200 extra could release $1,605 a month. That's future money. We'd check what stopped and what else changed before starting the new contribution. The same applies when the Reserve reaches its target: its build contribution may move somewhere else, while the Reserve balance keeps its protection job.
 
-Next, choose what each contribution buys. Check the target against current holdings across all accounts. The Reeds are comparing 60% Bitcoin, 34% stocks and 6% cash within the $1,307,000 portfolio. Sixty percent is $784,200. Subtract the $728,000 of current Bitcoin exposure and the difference is $56,200.
+Once we have an affordable amount, the target helps us choose what it buys. The Reeds are comparing 60% Bitcoin, 34% stocks and 6% cash in the $1,307,000 portfolio. Sixty percent is $784,200, compared with their current $728,000 of Bitcoin exposure. The difference is $56,200.
 
-That difference helps choose future purchases. It doesn't create $56,200 of available cash. Directing new money toward a shortfall can change the mix without a taxable sale. If existing holdings create an immediate funding problem, compare a trade with its tax, fees and effect on the money needed soon.
+That difference can guide new purchases, but it doesn't create $56,200 of cash. New money directed toward a shortfall can move the mix without a taxable sale. If an existing holding creates an immediate funding problem, a trade may still deserve a comparison with its tax, fees and effect on the approaching payment.
 
-Use account location to support the whole portfolio. A workplace plan with no Bitcoin option may hold the stock funds you want. Another account can hold Bitcoin. A retirement account can reduce ongoing tax on some investments, while taxable holdings provide early access. Keep both the tax treatment and spending job in the decision.
+The accounts can work together here. A workplace plan without Bitcoin access may hold the stock funds wanted in the overall portfolio. Another account supplies Bitcoin exposure. Retirement treatment can reduce ongoing tax on some investments, while taxable holdings preserve early access. The tax benefit and the spending job both belong in that choice.
 
-For the future $1,605 released after card payoff, one Reed comparison sends $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution continues. That is a future comparison, not a transfer running today. Another commitment could change the split.
+One future route for the Reeds' $1,605 is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution continues separately. We're comparing that route after payoff; it isn't running today. Another commitment could use part of the released money and change the split.
 
-Select the actual investment before arranging the purchase. Read its holdings, costs and strategy. A spot Bitcoin fund, a leveraged fund and a Bitcoin-related company do different things. Several funds may own the same stocks underneath.
+The last part of that instruction is the actual investment. A spot Bitcoin fund, a leveraged fund and a company associated with Bitcoin do different things. With stock funds, several names on the statement can still mean the same companies underneath. The holdings, fees and strategy tell us whether the purchase matches the job.
 
-For a large one-time investment, choose the purchase timing too. In a separate no-fee example, $20,000 invested at $100,000 per Bitcoin buys 0.2 Bitcoin. Investing $10,000 now and $10,000 later buys 0.3 Bitcoin if the later price is $50,000, or 0.15 if it's $200,000. Staging changes your exposure while you wait. Choose a pace you can maintain; neither example predicts the better entry.
+For a large one-time amount, timing is another choice. Let's say $20,000 is earmarked for Bitcoin and the hypothetical price is $100,000. Investing all of it buys 0.2 Bitcoin, with fees left out. Buying $10,000 now and $10,000 later produces 0.3 Bitcoin if the later price is $50,000, or 0.15 if it's $200,000.
 
-Keep ordinary recurring saving on its chosen schedule. A bill due next month needs dependable funding even when a market indicator looks bullish. If you use an indicator for a discretionary change, identify its date, what it measures and where it can fail. It doesn't identify the exact turning point.
+Waiting buys more in one path and less in the other. Someone may choose staging because it makes a large change easier to maintain. Someone else may want the exposure immediately. The example shows what they're choosing; it doesn't tell us which price comes next.
 
-Finish the contribution instruction: amount, source, start date or condition, receiving account, tax election and investment. Then complete the provider actions. Payroll may need both a contribution election and an investment election. A bank transfer may need a separate recurring buy after the cash arrives.
+Ordinary recurring saving doesn't need that decision every payday. And a bill next month still needs dependable funding when a market indicator looks bullish. If an indicator informs a discretionary change, its date, meaning and limits matter. It can't tell us the exact turning point.
 
-Verify the first deposit and purchase. Confirm the amount arrived on time and bought the intended holding. If it remained in cash, finish the purchase instruction unless cash was the intended destination. Changing future purchases doesn't trade the assets you already own.
+Now we can connect the full instruction: the amount, where it comes from, when it begins, the receiving account, tax election and investment. A payroll change may need both a contribution election and an investment election. A bank transfer may arrive as cash and need a separate recurring buy.
 
-The walkthrough saves the chosen contribution plan. Keep any provider action pending until its confirmation shows it happened.
+That's why the first deposit and purchase are worth checking. The right amount arriving doesn't prove it bought what you intended. Cash left over may be correct, or it may be an unfinished instruction. Changing future purchases also leaves the investments you already own unchanged.
+
+The walkthrough will help you put the chosen contribution route into Orange Plan and identify the provider actions that make it happen. After that, we're moving into Tax, starting with the purchase records that explain what a sale would actually realize.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| Start with the money available | 1 · Use the available cash once | Reed reduced-spending state badge. |
+| The amount comes first | 1 · Use the available cash once | Reed reduced-spending state badge. |
 | His $775 leaves $1,700. | $2,475 − $775 = $1,700; $500 + $1,200 = $1,700 | Build arithmetic rows in order. |
-| Keep future cash separate. | 2 · Set the start condition | After actual card payoff: $1,605; not available today. |
-| Next, choose what each contribution buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
-| For a large one-time investment, choose the purchase timing too. | One-time timing illustration: 0.20 / 0.30 / 0.15 BTC | Label hypothetical prices and no fees. |
-| Verify the first deposit and purchase. | 4 · Confirm deposit AND purchase | Two completion checks; leave unverified outside actions open. |
+| That's future money. | 2 · Set the start condition | After actual card payoff: $1,605; not available today. |
+| the target helps us choose what it buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
+| For a large one-time amount, timing is another choice. | One-time timing illustration: 0.20 / 0.30 / 0.15 BTC | Label hypothetical prices and no fees. |
+| the first deposit and purchase are worth checking. | 4 · Confirm deposit AND purchase | Two completion checks; leave unverified outside actions open. |
 
 ### Walkthrough handoff — not spoken
 

@@ -26,13 +26,15 @@ Only each **Narration:** block is spoken. Record the chapter as a separate take;
 
 **Narration:**
 
-Open Plan, then Portfolio and allocation. Start with Current. Open the assets included in this percentage and check that every holding is counted once.
+Here's the portfolio we put together earlier. I'm starting in Plan, under Portfolio and allocation, with Current. Before we decide what to change, I want to make sure this percentage describes everything we intended to include.
 
-In our Reed example, direct Bitcoin is worth $410,000 and the spot Bitcoin funds are worth $318,000. Add those for $728,000 of exposure. The funds remain investments inside their accounts; the direct quantity is 4.1 Bitcoin.
+In the Reed example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
 
-Read the dollar totals before comparing percentages. Check the cash and stock holdings as well. Keep dedicated education and healthcare money attached to their jobs. Use the same included portfolio when you move from Current to Target.
+I'm opening the included assets so we can see where those dollars came from, along with the stock and cash holdings. If an account contains several investments, we count those holdings once. We don't add the account balance again on top.
 
-**Overlay:** Cue “Start with Current.” → Current holdings; cue “Add those” → $410,000 + $318,000 = $728,000, labeled Reed illustration.
+Dedicated education and healthcare money still have their own jobs. Once the included holdings agree with our records, we can compare Current with a target using that same group of assets. That gives us a useful starting point for the role we want Bitcoin to have.
+
+**Overlay:** Cue “with Current.” → Current holdings; cue “Together, that's $728,000” → $410,000 + $318,000 = $728,000, labeled Reed illustration.
 
 **Verify:** Holdings and totals reconcile without duplicate account balances. Any app denominator difference is explicitly explained; no $1,307,000 total is forced onto an incompatible screen.
 
@@ -44,11 +46,15 @@ Read the dollar totals before comparing percentages. Check the cash and stock ho
 
 **Narration:**
 
-Choose the role you want Bitcoin to have before entering a target. Use the four descriptions as orientation: Foundation, Integration, Optimization and Sovereign. The ranges describe different roles; they aren't levels you need to progress through.
+Now that we know the current mix, let's talk about what we want it to become. Before entering a percentage, I'd come back to the role you chose for Bitcoin in the teaching lesson.
 
-Keep your spending dates and the other household member in this decision. Choose a starting amount to test, then leave room to fund the Reserve and approaching expenses. We’ll test that amount against those jobs before saving the target.
+These four descriptions can help with that conversation: Foundation, Integration, Optimization and Sovereign. They describe different intentions. Someone with a smaller position isn't behind someone with a larger one.
 
-**Overlay:** Cue “Use the four descriptions” → Four illustrative paths; cue “before saving the target” → Starting choice → funding check → target.
+The amount we test needs to fit the people who share this money and the dates when they'll need it. A position can feel comfortable while markets are rising and very different when a bill arrives during a decline.
+
+For now, we're choosing a starting amount to test. The next step is to put the Reserve and approaching expenses beside it. If those jobs don't have enough funding, we can adjust the proposal before saving a target.
+
+**Overlay:** Cue “These four descriptions” → Four illustrative paths; cue “before saving a target” → Starting choice → funding check → target.
 
 **Verify:** The role/range remains a proposed preference; no arbitrary suitability recommendation or saved target is fabricated.
 
@@ -60,13 +66,15 @@ Keep your spending dates and the other household member in this decision. Choose
 
 **Narration:**
 
-Bring forward the Reserve you already chose, then add committed expenses with separate funding needs. In this separate $1 million illustration, $500,000 goes to the proposed Bitcoin position. The $60,000 Reserve and $40,000 purchase use $100,000. That leaves $400,000 for long-term stock exposure: 50% Bitcoin, 40% stocks and 10% cash.
+Let's put some dollars behind that proposed mix. We've already chosen the Reserve, so we're bringing that amount forward and adding any committed expenses that need separate funding.
 
-Add two unfunded $50,000 retirement payments that this household wants in cash. Cash becomes $200,000 and stocks become $300,000. Read what the additional cash protects and what it takes out of long-term growth.
+This is a separate $1 million illustration. The household wants to test $500,000 in Bitcoin. Its $60,000 Reserve and $40,000 purchase use $100,000. That leaves $400,000 for long-term stock exposure: 50% Bitcoin, 40% stocks and 10% cash.
 
-Return to your target comparison. Confirm the first important payment still has a source through a difficult market. Save only the target you intend to follow, then read it back beside the same Current holdings.
+Now suppose two $50,000 retirement payments still need funding, and the household wants that money in cash too. Cash becomes $200,000 and stocks become $300,000. They've given themselves more cash for those first payments, with less remaining in long-term growth investments.
 
-**Overlay:** Cue “In this separate” → Hypothetical household, not Reeds; cue “Cash becomes” → 50/30/20 versus 50/40/10.
+Back in the target comparison, I'm looking at the first important payment and the money that can supply it through a difficult market. If that source is missing, the target still needs work. Once we choose a mix we intend to follow, we can save it and read it beside Current. That saves the target; it doesn't trade the holdings.
+
+**Overlay:** Cue “a separate $1 million illustration” → Hypothetical household, not Reeds; cue “Cash becomes” → 50/30/20 versus 50/40/10.
 
 **Verify:** Near-term costs are counted once, Reserve uses the same source as Cash Flow, target totals 100%, and save/readback preserves the intended target without trading assets.
 
@@ -78,13 +86,15 @@ Return to your target comparison. Confirm the first important payment still has 
 
 **Narration:**
 
-Open Cash Flow, then Saving and investing. Use the reduced-spending version from our earlier comparison. The $2,475 before Alex’s contribution becomes $1,700 after his $775. The $500 Reserve contribution and $1,200 extra card payment use that entire amount.
+We're back in Cash Flow, under Saving and investing, to connect the plan to this month's money. I'm using the reduced-spending version from our earlier comparison, so we need to keep that version consistent here.
 
-Keep the employer’s $387.50 separate from spendable cash. There’s no additional investment transfer to assign today.
+The $2,475 before Alex's contribution becomes $1,700 after his $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. Alex is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
 
-Mark the card-payoff condition for a later review. The illustrated $1,605 becomes available only after those payments stop. At that point, verify the actual released amount and the other bills before starting a new transfer. Keep Reserve-completion routing tied to its own condition too.
+His employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
 
-**Overlay:** Cue “use that entire amount” → $500 + $1,200 = $1,700; cue “only after” → Future condition, not today’s cash.
+The card payoff gives us a future decision to prepare for. The illustrated $1,605 becomes available only after those payments stop. When that happens, we'll check what was actually released and whether the other bills have changed before starting a new transfer. Reserve completion has its own condition as well. We can prepare those later choices now while keeping today's contribution instructions affordable.
+
+**Overlay:** Cue “use that entire amount” → $500 + $1,200 = $1,700; cue “only after those payments stop” → Future condition, not today’s cash.
 
 **Verify:** Current household outflows are affordable once. Employer money is not spendable; future $1,605 is not active and no assumed payoff date is invented.
 
@@ -96,13 +106,15 @@ Mark the card-payoff condition for a later review. The illustrated $1,605 become
 
 **Narration:**
 
-Select the account that will receive this contribution. Start with the date you need the money. For an early-retirement gap, confirm access before choosing a tax benefit that leaves the dollars unavailable.
+We know what this money needs to do. Now let's find the account that can hold it. I'm starting with the date we'll need to use it, because that can change which account makes sense.
 
-Open the provider’s investment menu and check the holding you intend to buy. Then check contribution eligibility, remaining room and fees. Include the HSA, education or self-employed account only when it serves your actual commitment and you qualify.
+For an early-retirement gap, we need a supported way to get the money out at that time. A tax benefit doesn't help fund the gap if the money is unavailable when the bills arrive.
 
-Keep the account you already have when it meets those conditions. If a new account is needed, record opening it as an outside action. The contribution destination is ready when both the account rules and intended investment are supported.
+Here's the provider's investment menu. We're checking that it permits the investment we intend to buy, along with the account's fees, contribution eligibility and remaining room. An HSA, education account or self-employed plan belongs in the comparison when it fits the actual commitment and we're eligible to use it.
 
-**Overlay:** Cue “Start with the date” → Access date; cue “Then check” → Eligibility / room / menu / fees.
+If an existing account meets those needs, we can use it. If we need to open another one, that becomes an outside action with a person and a date attached. Once the account and investment are supported, we can compare the tax election where that choice applies.
+
+**Overlay:** Cue “the date we'll need to use it” → Access date; cue “fees, contribution eligibility and remaining room” → Eligibility / room / menu / fees.
 
 **Verify:** Receiving account supports the actual purpose, allowed investment and timing; missing eligibility/provider facts are explicit.
 
@@ -114,13 +126,15 @@ Keep the account you already have when it meets those conditions. If a new accou
 
 **Narration:**
 
-Compare Traditional and Roth using the same household cost. In this hypothetical example, $1,000 of pretax earnings puts $1,000 into deductible Traditional or $800 into Roth after 20% tax. If both double and the Traditional withdrawal also costs 20%, both leave $1,600 available under the stated rules.
+Let's work through Traditional and Roth at the same household cost. This separate example starts with $1,000 of pretax earnings. At a hypothetical 20% tax rate, that puts $1,000 into deductible Traditional or $800 into Roth.
 
-Now read the actual payroll effect of the election you're considering. Keeping the same contribution amount while switching to Roth can reduce take-home pay. Put that cost beside the Reserve and debt payments before saving.
+If both investments double and the Traditional withdrawal is also taxed at 20%, both leave $1,600 available under the stated rules. The Roth withdrawal has to qualify for tax-free treatment. The example helps us compare tax timing without quietly giving one choice a larger starting contribution.
 
-Select Traditional, Roth or the intended mix only after the full contribution remains affordable. This election concerns new money; it doesn't convert the balance already invested.
+Now I'm looking at the payroll effect of the actual election being considered. If we keep the contribution amount the same while switching to Roth, take-home pay can fall. That extra cost needs to fit beside the Reserve and debt payments we already chose.
 
-**Overlay:** Cue “same household cost” → Equal-cost comparison; cue “new money” → Contribution election ≠ conversion.
+Once we've compared that cost, we can select Traditional, Roth or a mix and save the intended contribution choice. This applies to new money. An existing Traditional balance stays where it is unless we arrange a separate conversion, which we'll cover in Tax.
+
+**Overlay:** Cue “same household cost” → Equal-cost comparison; cue “This applies to new money.” → Contribution election ≠ conversion.
 
 **Verify:** Comparison basis is clear, required qualification assumptions are present, and updated payroll cash reconciles with the same plan.
 
@@ -132,13 +146,17 @@ Select Traditional, Roth or the intended mix only after the full contribution re
 
 **Narration:**
 
-Read the target gap, then return to the money you can actually contribute. The Reeds' 60% Bitcoin comparison is $784,200 against $728,000 currently held. The $56,200 difference helps direct purchases; it isn't cash available to invest today.
+We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
 
-For the future card-payoff example, $1,000 goes to personally held Bitcoin and $605 to a taxable stock fund. Keep the $500 Reserve contribution separate and the new investment route inactive until payoff.
+First, here's the target gap. In the Reeds' 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
 
-For each contribution, choose the receiving account and the investment it will buy. Check the product’s holdings, fees and strategy. Changing the future purchase instruction doesn't rebalance existing holdings. Review a taxable sale separately if one is needed.
+For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
 
-**Overlay:** Cue “isn’t cash available” → Target gap ≠ available contribution; cue “inactive until payoff” → Conditional $1,000 + $605.
+For each contribution, I'm connecting the amount to the receiving account and the investment it will buy. We still need to know the product's holdings, fees and strategy. A name that sounds like the investment we want isn't enough to establish what it owns.
+
+Changing future purchases doesn't rebalance the investments already held. A taxable sale would need its own review. Next, we'll take these planned instructions to the provider so the money actually arrives and buys what we intended.
+
+**Overlay:** Cue “isn't cash available” → Target gap ≠ available contribution; cue “inactive until payoff” → Conditional $1,000 + $605.
 
 **Verify:** Amount/account/investment/start condition agree; target-to-trade automation is not invented and currently unavailable cash is not routed.
 
@@ -150,13 +168,17 @@ For each contribution, choose the receiving account and the investment it will b
 
 **Narration:**
 
-Finish the provider instructions for each chosen contribution. For payroll, set the amount and tax election, then confirm what new contributions buy. For a bank transfer, choose a date that fits the bills. If the brokerage requires a separate purchase after cash arrives, complete that instruction too.
+The plan now tells us where each contribution is supposed to go. The remaining work happens with the employer, bank or investment provider.
 
-Record who will do each action and when. After the first contribution, compare the provider confirmation with your plan: amount, receiving account and holding purchased.
+For payroll, that means the amount, tax election and investment instructions for new contributions. A bank transfer also needs a date that fits the bills. Some brokerages receive the cash first and require another instruction to buy the investment, so a successful transfer alone may leave the money sitting in cash.
 
-If the money arrived but stayed in cash, finish the purchase instruction unless cash was the intended holding. Mark the action complete only when that evidence exists. Keep future changes tied to the condition that funds them.
+I'm putting those actions beside the person who will do them and the date. After the first contribution, the provider confirmation lets us check the amount, receiving account and holding purchased against this plan.
 
-**Overlay:** Cue “amount, receiving account and holding purchased” → Deposit ✓ Purchase ✓; cue “evidence exists” → Planned / confirmed.
+If the money arrived but stayed in cash, we still have a purchase instruction to finish unless cash was the intended holding. Until we have that evidence, the action stays pending. Future changes stay tied to the condition that funds them.
+
+That finishes the contribution setup for this stage. Next, we'll work on the purchase records we need when money eventually comes out, so we can understand what a sale would realize for tax.
+
+**Overlay:** Cue “amount, receiving account and holding purchased” → Deposit ✓ Purchase ✓; cue “Until we have that evidence” → Planned / confirmed.
 
 **Verify:** Every current provider action has confirmation or a specific owner/date. Future conditions remain future and a saved app choice is not presented as an executed investment.
 

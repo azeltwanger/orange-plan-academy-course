@@ -1,5 +1,5 @@
-Open the receive process for this test wallet. Verify the destination through the trusted device, rather than relying only on the computer display. Check the network and the small amount before authorizing the transfer.
+Now we're giving this test wallet a small, known amount that we can look for after recovery. In the receive process, we'll verify the destination through the trusted device, rather than relying only on the computer display. The network and amount also need to match the transfer authorized for this test.
 
-Wait for the required confirmation. Keep the actual test receipt and a non-secret way to identify the intended wallet for the recovery check.
+After the transfer, we need the required actual confirmation before continuing. We'll keep that receipt and a non-secret way to recognize the intended wallet for the recovery comparison.
 
-Stop if the destination or received amount is unexpected. Don't add meaningful funds while the test is unresolved.
+If the destination or received amount is unexpected, this is where we stop and investigate. Adding meaningful funds wouldn't resolve that uncertainty. The test stays limited to the small amount set aside for it.

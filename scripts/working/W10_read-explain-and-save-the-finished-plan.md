@@ -17,13 +17,13 @@ Only Narration blocks are spoken. All actions use authorized fictional or test d
 
 **Narration:**
 
-Open Plan Overview and check that you're reading the saved plan you intend to follow. Read the result date and status, then open Your Plan report.
+We're going to read the plan as one connected set of decisions. In Plan Overview, let's first check that this is the saved plan you intend to follow, along with its result date and status. Then we'll open the matching Your Plan report.
 
-Start with the retirement date, spending and planning horizon. Keep the assumptions beside the result. The displayed chance of success depends on those inputs and the spending policy; it doesn't settle every household risk.
+The retirement date, spending and planning horizon tell us what we're asking this plan to do. The assumptions and spending policy explain the conditions behind its chance of success. That result is useful, but it doesn't settle every household risk.
 
-Read the report's accuracy issue or missing information before considering a modeled improvement. Correct a wrong fact first. If the plan is weaker than you need, identify the unfunded period or assumption driving it and choose one response to compare.
+Before comparing an improvement, let's read any accuracy issue or missing information. A wrong fact needs correcting first. If the facts are sound and the plan is weaker than you need, we can identify the unfunded period or assumption driving that weakness and choose one response to compare.
 
-Keep the same saved plan open as you move into the funding details. Don't borrow a more attractive result from a different scenario.
+We'll keep this same saved plan open as we follow the funding. That way, the attractive result and the details we're relying on belong to the same set of choices.
 
 **Overlay:** One saved plan / date / spending / horizon / assumptions / limits
 
@@ -37,11 +37,13 @@ Keep the same saved plan open as you move into the funding details. Don't borrow
 
 **Narration:**
 
-Open the first retirement year and follow how the bills are funded. Read the income that arrives, the full spending need and the amount drawn from assets. Check the source accounts and the taxes or debt payments attached to that year.
+This is where we turn the retirement plan into a picture of where the money to live on comes from. Let's start with the first retirement year and follow the money that pays the bills. We're looking at the income arriving, the complete spending need and the amount that has to come from assets. The source accounts, taxes and debt payments help explain that year's full requirement.
 
-Move to the next funding change, such as the start of a benefit or a major planned expense. Check that the account paying it is accessible at that time and that the same money isn't assigned to another need.
+Then we'll move to the next important change, perhaps a benefit starting or a major planned expense. The account paying for it needs to be accessible at that time. We also need to check that we've left enough for the other jobs assigned to those assets.
 
-Then read the Reserve and spending-response rules. Identify what changes if the plan weakens, and which resources remain available afterward. If a source or access rule is unresolved, keep that gap visible. The headline result doesn't fill in missing funding evidence.
+The Reserve and spending-response rules tell us how the plan responds if things weaken. As we read them, we're looking at what would change and what resources would remain afterward.
+
+If an account's access rule or a funding source is unresolved, we'll leave that gap visible and identify the next step to resolve it. The headline result can't supply evidence that we don't yet have.
 
 **Overlay:** Critical year: income / complete spending / taxes / source / remaining resources
 
@@ -55,13 +57,13 @@ Then read the Reserve and spending-response rules. Identify what changes if the 
 
 **Narration:**
 
-Check where the next contribution goes and what it buys. Confirm that the Reserve transfer, extra debt payment and investments all fit the same current cash flow.
+Now let's connect the long-term plan to the next month of implementation. We need to see where the contribution goes, what it buys, and how it fits alongside the Reserve transfer and any extra debt payment in the same cash flow.
 
-The Reeds' $500 current amount and $1,700 spending-reduction comparison belong to different spending choices. The extra $1,605 from ending card payments belongs in the future. Check your plan for that same timing issue before assigning money.
+The Reeds show why the timing matters. Their $500 current amount and $1,700 spending-reduction comparison come from different spending choices. The extra $1,605 from ending card payments is future money. We need the same consistency in your plan before assigning a dollar to its next job.
 
-Read the next action and the evidence needed to finish it. If you share household decisions, use the summary to explain the spending, investment mix and first retirement funding period. Keep the calculations in the app and share only what the other person needs.
+From here, we'll read the next real action and what would show that it's complete. If you share household decisions, the summary can help you explain the spending, investment mix and first retirement funding period. The calculations can stay in the app; share what's useful for that conversation.
 
-There's no separate presentation to prepare. Finish the actual unresolved decision in the relevant part of your plan.
+You don't need to prepare a separate presentation to finish this. Any unresolved decision takes us back to the part of the plan where it can actually be addressed.
 
 **Overlay:** Use one spending state / future payoff money stays future / next real action
 
@@ -75,11 +77,13 @@ There's no separate presentation to prepare. Finish the actual unresolved decisi
 
 **Narration:**
 
-Open the action that needs outside help. State the decision you're considering and the specific question that blocks it. Add the relevant records and the deadline.
+If one of your open decisions needs outside help, we can make that conversation more useful now. We're starting with the decision you're considering and the specific question that blocks it, then adding the relevant records and deadline.
 
-For a tax question, that may be the income, account and purchase details behind a proposed transaction. For estate access, it may be ownership, authority and the provider's requirements. Keep recovery secrets out of either packet.
+For a tax question, those records might be the income, account and purchase details behind the proposed transaction. For estate access, they might be ownership, authority and the provider's requirements. Neither packet needs recovery secrets.
 
-Review what the export actually includes and remove unrelated information before sharing. Record the handoff as prepared until it's sent, and the answer as outstanding until you receive it. Preparing a packet doesn't complete the transaction or supply professional advice.
+Before sharing an export, let's read what it includes and remove information unrelated to the question. The status also needs to reflect where we are: prepared until it's sent, and awaiting an answer until the answer arrives. The packet helps someone review the question; preparing it doesn't complete the transaction or give us the professional answer.
+
+If there's no decision that needs that help, there's no extra packet to create here. We can continue to saving the plan and its actual next steps.
 
 **Overlay:** Decision / relevant evidence / exact question / deadline / actual status
 
@@ -93,13 +97,13 @@ Review what the export actually includes and remove unrelated information before
 
 **Narration:**
 
-Save the dated plan and the action record that goes with it. Mark what has actually completed: a provider confirmation, an investment purchase or a signed and effective document. Keep planned work separate.
+The dated plan and its action record belong together. As we save them, we'll distinguish a choice you've made from an action that's happened. A provider confirmation, an investment purchase or a signed and effective document gives us evidence of completion. Planned work keeps its own status.
 
-Tie future actions to their condition. A transfer funded by a loan payoff begins after that payment ends. Record who will make the change and how you'll confirm it happened.
+Future actions need their conditions too. If a transfer depends on a loan payment ending, it starts after that payment ends. Recording who will change the instruction and how they'll confirm it makes that future step easier to follow.
 
-Keep the next monthly and annual reminders, with urgent monitoring on its own schedule. Save an appropriate protected backup if the product supports it, and keep its restoration status explicit. A report isn't automatically a restorable backup.
+We'll keep the monthly and annual reminders, with urgent monitoring on its own schedule. If the product supports an appropriate restoration backup, it needs protected storage and an explicit restoration status. A report isn't automatically that backup.
 
-Finish with the next real action and any question still blocking a major decision. This dated record is where your next review begins.
+The last thing to leave visible is your next real action and any question still blocking a major decision. When you come back for a review, this dated record lets you pick up from the plan you're actually following.
 
 **Overlay:** Saved choices / completed actions / open blockers / future triggers / next review
 

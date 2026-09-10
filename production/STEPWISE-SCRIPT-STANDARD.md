@@ -2,11 +2,13 @@
 
 Austin's September 10 direction: use the slide steps; each lesson says what to do, explains how to think about the decision, and implements it in a separately filmed walkthrough. Text overlays and editing cues belong outside the spoken script. This supersedes the earlier narration-only / voice-only restriction for this revision.
 
+**Current delivery correction:** Austin subsequently said the draft sounded like instruction manuals and asked for conversational lesson introductions, transitions and handoffs. [CONVERSATIONAL-VOICE-PASS.md](CONVERSATIONAL-VOICE-PASS.md) supersedes any rule below that would make the spoken text read as a checklist or remove a useful introduction/handoff. The steps still organize the work.
+
 ## Teaching file
 
 - Keep the existing ID, filename, source references and situational route. The 25 main recordings remain lesson families with short action steps inside them; eight situational recordings remain conditional.
 - `### Do this`: one concrete task and the result the member will have. This is lesson-page copy, not a second introduction to read.
-- `### Read aloud`: complete spoken script. Open with the action. Explain the judgment needed to perform it, use the relevant existing example, then move to the next action. Plain speech, contractions, specific nouns. Define a term where it becomes useful. End at the result, not a recap of what the video covered.
+- `### Read aloud`: complete conversational script. Introduce the lesson and why its decision matters. Explain the judgment through connected examples and transitions. Define terms where useful. Finish with a natural handoff to implementation and the actual next lesson.
 - `### Text overlays — not spoken`: a table with an exact spoken cue, concise overlay copy, and editor treatment. Show the useful numbers or decision criteria. Do not reproduce paragraphs on screen or add decorative slogans. Keep hypothetical examples labeled.
 - `### Walkthrough handoff — not spoken`: name and link the separate working-script chapters that implement these steps. Never speak a filename or production hold.
 - `### Member checkpoint`: observable saved decision or completed action, including a clearly identified unresolved item when appropriate. No quiz, upload, practice portfolio or required community post.

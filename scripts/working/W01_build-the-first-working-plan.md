@@ -1,6 +1,6 @@
 # W01 — Build the first working plan
 
-Status: FUTURE_DESIGN_CAPTURE_SCRIPT — complete prepared narration; actual app/device capture remains pending.
+Status: CONVERSATIONAL_CAPTURE_REVIEW — revised demonstration narration; actual app/device capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: FOUNDATION, DICTATION, APP
@@ -15,7 +15,11 @@ Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e
 
 **Narration:**
 
-Start on Home and open your plan. Build & improve takes us to the information needed for the next step. We'll begin with the facts you have today. The Reeds' mortgage already exists, so it belongs with their debts. College support is a future commitment to include with its dates. The renovation is still a possibility, so we'll compare it separately. Open the first account that needs attention and have its latest statement beside you. We'll complete that record before opening another.
+We're going to start building the plan from the information you have today. Here on Home, I'll open the plan and use Build & improve to get to the next piece we need.
+
+Before we add anything, notice the difference between these three examples. The Reeds' mortgage already exists, so it's a debt. College support is a future commitment with dates attached. The renovation is still an idea, so we'll compare it separately.
+
+Let's begin with the first account that needs attention, with the latest statement beside it. We'll work through that record before moving on, so we can see where each number comes from.
 
 **Overlay:** Current fact · Expected change · Possible choice
 
@@ -29,7 +33,11 @@ Start on Home and open your plan. Build & improve takes us to the information ne
 
 **Narration:**
 
-Open the account from the money category on Home. Match its name, owner and account type to the statement first. Then read the balance and the investments inside it. A Roth IRA is the account type; it doesn't tell us what Alex owns in it. For a cash account, verify the cash balance. For the Bitcoin location, verify the quantity and where the coins are held, using a plain name without recovery information. Review an existing account here instead of adding it again. After saving a correction, return to the account and compare it with the same statement.
+Here we're looking at one account from the money category on Home. Before getting into what it owns, I'm matching its name, owner and account type to the statement. If it's already entered, this is the record we're reviewing. Adding another would count the same money twice.
+
+Alex's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
+
+After a correction is saved, I'll reopen the account beside the same statement. That lets us see whether the record now describes what the household actually owns.
 
 **Overlay:** One account · Correct owner/type · Holdings explain the balance
 
@@ -43,7 +51,11 @@ Open the account from the money category on Home. Match its name, owner and acco
 
 **Narration:**
 
-Read what this connection supplies before treating the account as complete. A reported balance tells us the total at that source. The holdings explain what makes up that total. Activity and purchase details answer different questions about how it got there. If the balance arrived without the investments, open the statement and fill in the missing composition. If purchase history is incomplete, keep that question for the tax work. Also read when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+This account is connected, but let's look at what that connection actually supplies. The balance tells us the total. Holdings explain what's inside it. Activity and purchase details answer different questions about how it got there.
+
+If the total arrived without the investments, the statement can help us fill in that composition. Missing purchase history can stay with the tax question it needs to answer. We're also looking at when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+
+That tells us what's ready to use and which part still needs our input. Next we'll look at an account where we know the total but need to explain the investments.
 
 **Overlay:** Balance · Holdings · Activity · Purchase details
 
@@ -57,7 +69,11 @@ Read what this connection supplies before treating the account as complete. A re
 
 **Narration:**
 
-We know this account's total. Now explain what is inside it. Use the actual investment name and quantity when the statement supplies them. If you only know an approximate mix, keep it labeled as an estimate rather than naming securities you haven't verified. The Reeds' teaching example assigns $116,000 to spot Bitcoin-fund exposure and $29,000 to stocks inside one $145,000 Roth. Those amounts explain the total; they don't increase it. Identify any cash separately from the statement. Leave an unexplained remainder unresolved. Save the composition, then reopen the account and check that the same total is counted once.
+We know this Roth account is worth $145,000. What we're doing here is explaining that balance, so the plan knows how the money is invested.
+
+When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. The Reeds' teaching example has $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
+
+Any cash needs to come from the statement too. We won't make an unexplained remainder into cash just to finish the record. After saving, let's reopen the account and make sure the composition explains the same total once. Any remaining difference stays visible until we can explain it.
 
 **Overlay:** Fictional categories: $116,000 + $29,000 = one $145,000 account
 
@@ -71,7 +87,11 @@ We know this account's total. Now explain what is inside it. Use the actual inve
 
 **Narration:**
 
-Use this chapter when you have purchase or transfer records relevant to holdings already in your plan. If those records don't apply or aren't available yet, note the missing information and continue to chapter six for the monthly picture. When they do apply, open the account where the history belongs and inspect the records before accepting them. This purchase explains Bitcoin already included in today's holdings. It isn't a new purchase today. Follow the movement from the exchange to the wallet as a transfer, keeping its original history attached. If the same purchase is already recorded, don't accept a second copy. After the history is attached, compare the household quantity before and after. It should change only when a previously missing real position has been identified. Unknown purchase details stay unknown until a source supports them.
+This part is useful when you have purchase or transfer records for holdings already in your plan. If those records don't apply, or you don't have them yet, note what's missing and continue to chapter six for the monthly picture. You don't need to repair an unrelated old purchase before you do that.
+
+Here, the purchase explains Bitcoin already included in today's holdings. It isn't a new purchase today. As we follow it from the exchange to the wallet, the transfer keeps the original history attached. If the same purchase is already here, accepting it again would give us a duplicate.
+
+I'll compare the household quantity before and after the history is attached. It only changes if we've identified a real position that was missing. Otherwise, we've learned more about the same Bitcoin. Unsupported purchase details stay unknown, and we can move on to the monthly starting picture.
 
 **Overlay:** Existing holding + supporting history = the same Bitcoin counted once
 
@@ -85,7 +105,11 @@ Use this chapter when you have purchase or transfer records relevant to holdings
 
 **Narration:**
 
-Start with what each income amount includes. Alex's gross pay is before deductions. Morgan's example income is after ordinary business costs, with the equipment-loan payment still counted separately. Follow those meanings into the fields. In our teaching calculation, gross income is about $19,417 a month. The $4,000 tax allowance, $10,800 living costs and about $3,342 required debt leave $1,275. Alex's $775 employee contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving and isn't available for bills. Now trace the app's actual result from its income and tax inputs. Resolve any difference in those inputs before assigning another transfer.
+Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. Alex's gross pay is before deductions. Morgan's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
+
+In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. Alex's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
+
+Let's follow the app's actual result from its income and tax inputs. If it differs from the illustration, we need to understand those inputs before assigning another transfer. That's the monthly picture we'll use when we record the retirement question next.
 
 **Overlay:** Fictional bridge: $1,275 before employee − $775 = $500; employer $387.50 separate
 
@@ -99,7 +123,11 @@ Start with what each income amount includes. Alex's gross pay is before deductio
 
 **Narration:**
 
-Set when each person intends to change work. Alex wants work to become optional at 52. That records his intention; the calculation will test whether the plan funds it. Keep Morgan's income on its own timeline. Then review retirement spending in the dollar units shown here. Start with current costs, remove the ones that really end and add healthcare or other costs that begin. Attach any Social Security or pension estimate to the right person and start date. Save the question you're testing and keep a missing benefit estimate visible until you have its source.
+With the starting facts in place, we can enter the work-change question you wrote down at the beginning. Alex wants work to become optional at 52. That records his intention; the calculation will test whether it can be funded. Morgan's income stays on its own timeline.
+
+For retirement spending, we'll begin with current costs, remove the ones that really end and add healthcare or other costs that begin. The dollar units shown here matter, so we don't apply inflation twice. Any Social Security or pension estimate belongs to the right person and start date.
+
+Once this is saved, we have a question to test. A missing benefit estimate stays visible until there's a source for it. Next we'll read the assumptions the plan uses to look beyond today's facts.
 
 **Overlay:** Work date · Spending basis · Each person’s income · Horizon
 
@@ -113,7 +141,11 @@ Set when each person intends to change work. Alex wants work to become optional 
 
 **Narration:**
 
-Start with the app's standard preset for a new plan and read what it assumes. You can keep it while you learn what the numbers mean; a change needs a reason beyond producing a better result. Read the return path in an early year and a later year. A declining growth assumption can look very different from one fixed annual rate. Check inflation and the planning horizon too. Now make a separate comparison with a weaker growth path. Keep retirement timing, spending and contributions unchanged so we can see what this assumption does. Open the first year where funding differs and trace the need to its income and account sources. The useful finding is which household decision becomes harder. Return to the current plan when you're done; looking at a weaker path doesn't mean you've chosen it as the new assumption.
+These are the assumptions behind the plan we just built. We'll start with the app's standard preset for a new plan and read what it means. You can keep it while you learn; changing it needs a reason beyond making the result look better.
+
+I'm looking at the return path in an early year and a later year, then inflation and the planning horizon. A declining growth path can be quite different from one fixed annual rate. Now we'll make a separate weaker-growth comparison with retirement timing, spending and contributions unchanged.
+
+Let's follow the first year where the funding differs and see which income or account has to do more. That tells us which household decision becomes harder under this assumption. Then we'll return to the current plan. Testing a weaker path doesn't choose it as the new starting assumption, and we can read the main result with that distinction clear.
 
 **Overlay:** One changed assumption · Same household choices
 
@@ -127,7 +159,11 @@ Start with the app's standard preset for a new plan and read what it assumes. Yo
 
 **Narration:**
 
-Read the date and spending being tested before reading the percentage. The successful-path count tells us how many modeled futures funded the plan through its horizon under these rules. It doesn't promise the outcome for this household. Open the first year after work changes. Follow income, costs and taxes, then the amount supplied by investments. If that withdrawal is surprising, find the event or obligation behind it. Choose one fact to correct or one realistic change to compare. When the starting plan already fits, keep it and record the limitation that still matters.
+Here we're ready to read the first complete result. I'll start with the work date, spending and horizon, because the percentage describes that question. The successful-path count tells us how many modeled futures funded it under these rules; it doesn't promise what happens to this family.
+
+Let's open the first year after work changes and follow the income, costs and taxes, then what investments have to supply. If that withdrawal is surprising, the event or obligation behind it is what we need to understand.
+
+From there, we can choose a fact to correct or a realistic change to compare. If the starting plan fits, keeping it is a valid result too, with its important limitation still visible. In the next take, we'll use Ask to help trace one of these numbers back to its source.
 
 **Overlay:** Question tested → successful paths → funding year → next action
 
@@ -141,7 +177,11 @@ Read the date and spending being tested before reading the percentage. The succe
 
 **Narration:**
 
-Ask about one number you can already see. I'm asking it to walk from income to the remaining monthly amount and show what has been deducted. Read the response beside the cash-flow rows. The date, income, taxes and existing contribution need to match. If they don't, keep the question open and find the difference before changing the plan. You can use the same approach for a retirement withdrawal or a missing tax input. For an outside AI review, inspect the actual summary before sharing it. A restore backup serves a different purpose, and removing a name doesn't remove every private detail.
+Let's use Ask for a question we can check against the plan. I'm asking it to walk from income to the monthly amount remaining and explain what's already been deducted. That gives us something concrete to compare with the cash-flow rows.
+
+The date, income, taxes and existing contribution all need to match. If they don't, we keep that question open and find the difference before changing the plan. We can use the same approach for a retirement withdrawal or a missing tax input.
+
+If you use an outside AI review, read the actual summary before sharing it. A restore backup has a different purpose, and removing a name doesn't remove every private detail. What we're taking forward is the fact or choice we need to work on. Next we'll go into Cash Flow and check how the monthly amount matches your records.
 
 **Overlay:** Ask for the source · Match the date and inputs · Choose the action yourself
 

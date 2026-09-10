@@ -1,5 +1,7 @@
-Compare Traditional and Roth using the same household cost. In this hypothetical example, $1,000 of pretax earnings puts $1,000 into deductible Traditional or $800 into Roth after 20% tax. If both double and the Traditional withdrawal also costs 20%, both leave $1,600 available under the stated rules.
+Let's work through Traditional and Roth at the same household cost. This separate example starts with $1,000 of pretax earnings. At a hypothetical 20% tax rate, that puts $1,000 into deductible Traditional or $800 into Roth.
 
-Now read the actual payroll effect of the election you're considering. Keeping the same contribution amount while switching to Roth can reduce take-home pay. Put that cost beside the Reserve and debt payments before saving.
+If both investments double and the Traditional withdrawal is also taxed at 20%, both leave $1,600 available under the stated rules. The Roth withdrawal has to qualify for tax-free treatment. The example helps us compare tax timing without quietly giving one choice a larger starting contribution.
 
-Select Traditional, Roth or the intended mix only after the full contribution remains affordable. This election concerns new money; it doesn't convert the balance already invested.
+Now I'm looking at the payroll effect of the actual election being considered. If we keep the contribution amount the same while switching to Roth, take-home pay can fall. That extra cost needs to fit beside the Reserve and debt payments we already chose.
+
+Once we've compared that cost, we can select Traditional, Roth or a mix and save the intended contribution choice. This applies to new money. An existing Traditional balance stays where it is unless we arrange a separate conversion, which we'll cover in Tax.

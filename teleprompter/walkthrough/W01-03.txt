@@ -1,1 +1,5 @@
-Read what this connection supplies before treating the account as complete. A reported balance tells us the total at that source. The holdings explain what makes up that total. Activity and purchase details answer different questions about how it got there. If the balance arrived without the investments, open the statement and fill in the missing composition. If purchase history is incomplete, keep that question for the tax work. Also read when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+This account is connected, but let's look at what that connection actually supplies. The balance tells us the total. Holdings explain what's inside it. Activity and purchase details answer different questions about how it got there.
+
+If the total arrived without the investments, the statement can help us fill in that composition. Missing purchase history can stay with the tax question it needs to answer. We're also looking at when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+
+That tells us what's ready to use and which part still needs our input. Next we'll look at an account where we know the total but need to explain the investments.

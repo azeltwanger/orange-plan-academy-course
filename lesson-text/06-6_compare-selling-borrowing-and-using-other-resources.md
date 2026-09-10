@@ -11,38 +11,40 @@ Choose how to fund one retirement spending need by comparing a sale, another ava
 
 ### Read aloud
 
-Set the amount you need for spending and the date you need it. Compare a Bitcoin sale, another available source and a loan using the same cash left after taxes and fees.
+We now have the retirement spending need, including healthcare, and the income that covers part of it. This lesson is about the remaining money: whether to sell Bitcoin, use another asset or consider borrowing. If you'd prefer to keep more Bitcoin, we can test what that preference costs and what responsibility comes with it.
 
-For a sale, identify the units, supported basis and tax. Calculate how much has to be sold to leave the spending amount. Read the Bitcoin remaining and the investments available for later years.
+The comparison needs the same amount for spending on the same date. A sale has to leave that cash after tax and fees. A loan has to leave the same usable amount after its costs. Otherwise, two different starting points can make one option look better than it is.
 
-For another asset, identify the job you're taking money away from. Using a stock fund or Roth money to preserve Bitcoin may reduce diversification or later funding. Keep that effect in the comparison. Holding Bitcoin works when another source pays the bill or the expense can change.
+With a Bitcoin sale, the quantity, supported basis and tax determine how much has to be sold. We can then see the Bitcoin remaining and the resources left for later. There isn't a new loan to service from that sale.
 
-For borrowing, bring forward the loan size and response plan from Debt. Check the actual rate, fees, collateral requirements and repayment date. Retirement income must cover the payment; the same Reserve dollars can't cover living expenses and a collateral response simultaneously.
+Using another asset may preserve Bitcoin, but that money was doing something too. A stock fund might provide diversification, or Roth money might support a later period. Holding Bitcoin works when another source pays the bill or the expense can change. The effect on that other source belongs in the comparison.
 
-Use a simple $20,000 loan illustration. At a hypothetical 10% simple annual rate with unchanged principal, interest is $2,000. Paying it from cash uses another $2,000. Adding it to the loan leaves $22,000 owed after that simplified year. Read which treatment the proposed agreement uses and fund it.
+Borrowing brings forward the work from Debt: the loan size, rate, fees, collateral requirements and repayment date. I can see why someone would consider it to keep more Bitcoin invested. The payment still needs funding when employment income has stopped, and Reserve dollars already paying for life can't also be assigned to a collateral response.
 
-Then test a weak period. If Bitcoin is flat or falling while interest accrues, identify the cash for payments, the Bitcoin available for a top-up and the time required to deliver it. Cold-storage Bitcoin affects lender LTV only when the lender credits it. The lender's own collateral threshold matters even when household net worth looks strong.
+Let's use a simple $20,000 loan at a hypothetical 10% annual rate. With unchanged principal and simple annual interest, that's $2,000. Paying it from cash uses another $2,000. Adding it to the loan leaves $22,000 owed after the simplified year. The agreement tells us which treatment applies and whether other costs accrue.
 
-Use the full debt balance, including accruing costs, when sizing against the severe decline from the Debt lesson. Opening with 50% posted-collateral LTV can leave more Bitcoin under personal control, but it requires the pre-sized supporting reserves and timely response. It isn't a safe borrowing limit. A stricter cure or maturity requirement can bind before liquidation.
+Now imagine Bitcoin stays flat or falls while that interest continues. We need the payment source, the Bitcoin available for a top-up and the time it takes to deliver it. Cold-storage Bitcoin affects lender LTV only when the lender credits it. Strong household net worth doesn't stop a lender acting on its own collateral threshold.
 
-Read the exit. Identify what repays principal, the tax on any repayment sale and the resources left afterward. A higher ending balance doesn't fix a forced sale or unfunded payment along the way. Avoiding today's sale doesn't guarantee avoiding a later one.
+That's why the Debt lesson sizes the full obligation, including accruing costs, against a severe decline before deciding what to post initially. Opening a pre-sized loan at 50% posted-collateral LTV can leave more Bitcoin under personal control. It also requires the supporting reserves and timely response; it isn't a safe borrowing limit. A stricter cure or maturity requirement may bind before liquidation.
 
-In the app comparison, read plan effect and risk added together. Keep the same spending, dates and market assumptions. Look at the first year, the difficult period and repayment. Compare tax, Bitcoin sold and retained, loan balance, collateral and remaining accessible money. Handle any contract term the model doesn't represent separately before relying on the borrowing version.
+We also need to follow the loan through its exit. That includes what repays principal, tax on a repayment sale and the resources left afterward. A larger balance at the end of a projection doesn't fix a forced sale or missed payment along the way. Avoiding today's sale doesn't guarantee avoiding a later one.
 
-Alex and Morgan have no Bitcoin-backed loan in their saved baseline. Test a possible loan separately. If repeated borrowing is part of your retirement strategy, complete the Bitcoin-loan lesson and carry the balance into each next draw.
+In the comparison, we'll read the plan effect and added risk together. The spending, dates and market assumptions stay the same while we look at the first year, a difficult period and repayment. Tax, Bitcoin retained, loan balance, collateral and accessible cash all help explain the trade-off. A contract term the model doesn't represent still needs its own analysis before we rely on the borrowing result.
 
-Choose the funding method whose costs and responsibilities you're willing to carry. Save a retirement borrowing strategy only when that is the decision; keep a possible one-time loan in its comparison until you choose it. The spending need is finished when it has a funded source and a workable repayment plan for any debt used.
+The Reeds don't have a Bitcoin-backed loan in their saved baseline. A possible one-time loan stays a separate comparison. Borrowing across retirement is a different strategy, and if it includes repeated draws, the Bitcoin-loan lesson follows each draw and accrued cost into the combined balance.
+
+The walkthrough will put those funding routes beside the same spending need. You'll take forward the method you prefer and any repayment or response it requires. If borrowing is part of it, complete the conditional loan lesson before relying on that choice. Next, we'll work through how spending and the Reserve are reviewed as the retirement years unfold.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| Set the amount you need for spending | 1 · Same cash need, same date | Compare net cash after taxes and fees. |
-| For borrowing, bring forward the loan size | 2 · Terms / payment / collateral / repayment | Use actual contract inputs. |
-| Use a simple $20,000 loan illustration. | Illustration: $2,000 paid OR $22,000 owed | Label 10% simple annual rate; not an offer. |
-| Then test a weak period. | 3 · Fund the response before the lender's boundary | Keep household Reserve and collateral response distinct. |
-| Read the exit. | 4 · Follow the debt through repayment | Include sale tax and resources remaining. |
-| In the app comparison, read plan effect and risk added together. | 5 · Plan effect + risk added | No fabricated risk frequency or provider safety score. |
+| The comparison needs the same amount for spending on the same date. | 1 · Same cash need, same date | Compare net cash after taxes and fees. |
+| Borrowing brings forward the work from Debt: | 2 · Terms / payment / collateral / repayment | Use actual contract inputs. |
+| Let's use a simple $20,000 loan | Illustration: $2,000 paid OR $22,000 owed | Label 10% simple annual rate; not an offer. |
+| Now imagine Bitcoin stays flat or falls | 3 · Fund the response before the lender's boundary | Keep household Reserve and collateral response distinct. |
+| We also need to follow the loan through its exit. | 4 · Follow the debt through repayment | Include sale tax and resources remaining. |
+| we'll read the plan effect and added risk together. | 5 · Plan effect + risk added | No fabricated risk frequency or provider safety score. |
 
 ### Walkthrough handoff — not spoken
 

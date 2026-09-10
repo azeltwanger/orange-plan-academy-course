@@ -1,7 +1,7 @@
-Choose one decision to test: the spending amount, work date or funding choice that addresses the gap you found. Keep the other assumptions unchanged.
+We've found the part of the plan that needs work. Let's test one decision that could address it: spending less, changing the work date or using a different funding source. I'll keep the other assumptions unchanged so we can see what this decision does.
 
-Read the chance of success with the matching count and horizon, then open the year that explains the difference. Check the actual cost of the change: less spending, more work or a different funding obligation.
+Here's the chance of success, with the matching simulation count and the years it covers. Now I'm opening the year that explains the difference. The percentage matters, but so does what we would actually have to do: live on less, work longer or take on a different funding obligation.
 
-If you correct a missing fact, let the result change honestly. Don't raise return assumptions to recover the previous percentage. Keep an uncomfortable result visible until a realistic decision addresses it.
+If we find a missing fact, correcting it may make the result less comfortable. We need to use that corrected picture. Raising return assumptions to recover the old percentage would hide the problem we're trying to solve.
 
-Adopt the change only if the household would follow it. Save that choice and confirm the updated result uses it. If you prefer Current, leave the comparison unapplied.
+Once the household is willing to follow a change, we can save it and confirm that the updated result uses it. If we prefer Current, we leave the comparison unapplied. The next step is to turn that chosen plan into this year's spending and Reserve decision.

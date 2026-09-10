@@ -1,6 +1,6 @@
 # 2.4 — Plan for the changes coming in your life
 
-Status: STEPWISE_SCRIPT_REVIEW — complete teaching manuscript; final voice approval and capture remain separate.
+Status: CONVERSATIONAL_VOICE_REVIEW — revised spoken manuscript; Austin voice approval and capture remain separate.
 Kind: teach
 Gate: APP_CAPTURE
 Sources: APP, CASHFLOW, CLIENT_THEMES, DICTATION, FOUNDATION
@@ -11,13 +11,13 @@ Add one expected change with its amount, timing and funding. Keep an unchosen po
 
 ### Read aloud
 
-List the changes you already expect: a vehicle purchase, college payments, a move, or one person's work changing. Pick the next material change and record what happens, when it happens, and how it will be paid for.
+So far we've been working with what your household looks like today. But retirement planning also needs room for things you already expect to change. In this lesson, we'll bring those changes into the timeline and look at how they'll be funded. That could be a vehicle, college, a move or one person's work changing. The useful part is seeing the cost before it arrives.
 
 Alex and Morgan expect to replace a vehicle in about three years. They're also considering a renovation in two years. The vehicle is something they intend to prepare for. The renovation is still a decision. They want to see what it would mean before committing to it.
 
 That's the distinction between an expected Life Event and a scenario. Include the vehicle in the plan they're building toward. Compare the renovation separately until they decide to do it. A real cost stays in the plan even when it makes the projection look worse. And running the numbers on an idea doesn't mean you've committed to it.
 
-First, give the change the right shape. A purchase happens once. A recurring expense continues. A change in income starts at a particular point and may stop again later. Those need different treatment.
+To put either one into a comparison, we need more than the price. We need to know how the change happens. A purchase happens once; a recurring expense continues. Income may change on a particular date and change again later. Those describe different needs even when the dollar amount looks similar.
 
 For a simple illustration, paying $30,000 in cash for a car is a one-time cost. It doesn't mean you spend an extra $30,000 every year. Financing a car is different: some money may leave now as a down payment, and the loan payments continue afterward. This isn't a vehicle quote for Alex and Morgan. It's a way to see why the amount alone doesn't explain the event.
 
@@ -25,9 +25,9 @@ The same applies when a cost ends. A recurring expense stopping next year should
 
 For income, think through both people in the household. One person might reduce their hours while the other keeps working. Or you might expect a temporary break followed by different work. Describe the income change you actually intend instead of using one retirement date to stand in for everything.
 
-Next, check whether the amount is in today's dollars or already estimated for the future. If Orange Plan will increase today's amount for inflation, don't increase it yourself first. Keep the source of a rough estimate so you can update it when better information becomes available.
+The price estimate has a timing question too. If it's in today's dollars and Orange Plan applies inflation, increasing it yourself first could count the increase twice. A quote for a future date is different. Keeping the estimate's source lets you update it when you have better information.
 
-Then identify its funding. Adding an expense to the timeline tells the plan that money will be needed. It doesn't, by itself, mean you've started saving for it. It also doesn't establish that a particular account has enough money available on that date.
+Once the cost and date are clear, we can look at where the money comes from. Putting the expense on the timeline tells the plan it needs paying. It doesn't mean you've started saving for it or that the account you have in mind will have enough money available then.
 
 You might pay it from income when the time comes. That can work when the amount fits alongside the other bills and commitments in that period. Look at what will still be left, instead of assuming future income can cover both the event and all the contributions you're making now.
 
@@ -39,19 +39,19 @@ Borrowing is another comparison. It can reduce how much cash you need up front, 
 
 If you're selling a house, its market value isn't all money you can spend. The mortgage still needs to be paid off, and there can be selling costs and taxes to consider. What remains may help fund the next home, but it isn't automatically available for another goal too.
 
-For the new home, look at the cash needed to buy it, any new mortgage, and the ongoing cost of living there. The mortgage payment is only part of that cost. Insurance, property taxes, utilities, and maintenance may change as well. If the move is meant to improve cash flow, those are part of checking whether it really does.
+And when you're buying the next home, the new mortgage is only one part of the change. There may be cash needed upfront, and insurance, property taxes, utilities and maintenance can change too. Those costs help tell you whether the move actually improves cash flow in the way you hoped.
 
-Choose the flexibility you actually have: a later date, a lower cost or a different funding source. A cost with a fixed deadline and very little flexibility creates a different decision from something you could move back a year without much harm.
+How flexible you are makes a difference here. A cost you could move back a year gives you more choices than a fixed deadline you really need to meet. That's why I'd think about a later date, a lower cost and another funding source while you're making the plan, before any of them becomes urgent.
 
 That matters when Bitcoin is part of the funding plan. You may be comfortable keeping money invested for an expense several years away. But say Bitcoin is down when the bill arrives. Would you still make the purchase, sell something else, use income, or delay it?
 
 The more important it is that the full amount be there on a particular date, the less I'd want that payment to depend on a favorable market at exactly the right time. That doesn't mean every future goal has to sit in cash today. It means you need a funding choice that fits the commitment, and a time to review it as the date gets closer.
 
-Add the expected expense and income change, then inspect their period. The expense needs to appear once, at the intended time, with the right income still available. Follow the account funding and the money remaining afterward.
+In the walkthrough, we'll follow the event into the year it affects. We want to see it happen once, at the intended time, with the right income still arriving. Then we can look at the account funding it and what remains afterward. That's how we check the event's meaning instead of just checking that a row was added.
 
-Let's say you planned for a recurring bill to end, and it has now ended. Today's spending now includes it. Check the old future entry as well, so the projection doesn't reduce spending again for a change already included in today's numbers. The same idea applies to a purchase that's now an owned asset or a proposed loan that's now a real debt.
+There's one update to remember when that future date becomes today. Let's say a recurring bill was expected to end, and it has now ended. Your current spending should reflect its absence. The old future event needs reconciling too, or the projection could reduce spending a second time. The same idea applies when a planned purchase becomes an owned asset or a proposed loan becomes a real debt.
 
-Save the expected event with its funding explanation and next review date. Leave the renovation or other unchosen purchase in its separate comparison. If education support is part of your plan, use the college lesson to work through its several years of payments.
+Let's add the next expected change and work through that funding in the walkthrough. We'll keep an unchosen renovation in its separate comparison and leave any funding question visible. If you're helping with college, the next situation lesson works through that commitment over several years. Otherwise, you're ready for Debt, where we'll decide what the existing payments and any new financing need to do for the plan.
 
 ### Text overlays — not spoken
 
@@ -59,10 +59,10 @@ Save the expected event with its funding explanation and next review date. Leave
 |---|---|---|
 | The vehicle is something they intend to prepare for. | Expected vehicle → Life event · Possible renovation → Scenario | Fictional household; preserve relative timing only. |
 | paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the Reed vehicle. |
-| check whether the amount is in today's dollars | Amount · Date · Frequency · Dollar basis | Reveal alongside entry explanation. |
+| If it's in today's dollars and Orange Plan applies inflation | Amount · Date · Frequency · Dollar basis | Reveal alongside entry explanation. |
 | there are two connected parts | Save before the event → Spend the balance when due | Show one pot of money changing over time. |
 | its market value isn't all money you can spend. | Home sale: value − debt − costs − any tax | No invented tax figure. |
-| Today's spending now includes it. | When a change happens: update current facts; reconcile the old event. | Show one effect, not a duplicate reduction. |
+| Your current spending should reflect its absence. | When a change happens: update current facts; reconcile the old event. | Show one effect, not a duplicate reduction. |
 
 ### Walkthrough handoff — not spoken
 

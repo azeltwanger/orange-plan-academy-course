@@ -1,39 +1,41 @@
-Start on Home and read the dates behind the current balances. If an account needs attention, open that account and read what updates automatically and what still needs your input. A provider name alone doesn't tell you whether purchase history arrived.
+For an ordinary monthly check, Home is our starting point. Before interpreting a balance, let's look at its date. If an account needs attention, How this account updates tells us what's automatic and what still needs input. Seeing a provider's name doesn't tell us that its purchase history came through.
 
-Check the changes you expected this month. Confirm a contribution arrived and was invested as intended. Look at Cash Flow's spending source, the cash Reserve and the next confirmed life event.
+Then we're comparing this month's records with what we expected to happen. Did the contribution arrive, and was it invested as intended? In Cash Flow, we'll check the spending source, the cash Reserve and the next confirmed life event so the upcoming cash needs are still represented.
 
-Then read the saved Plan's status and date. Account prices can be current while the Plan still reflects an earlier calculation. Don't change assumptions just because a price moved.
+The saved Plan has its own date and status. Prices can be current while its calculation is older, so we need to read the result that belongs to the current inputs. A price move by itself isn't a reason to rewrite the assumptions.
 
-If the records are current and there's no new decision, the monthly check is complete. Keep the next reminder and close the plan.
+If those records are current and there's no new decision, we're finished with this month's check. We can keep the next reminder and close the plan.
 
-Open the account where the contribution should have arrived. Compare the contribution date and amount with the provider record. Then check whether the intended investment was purchased or the money is still cash.
+Let's follow the contribution that needs attention. In this account, we're comparing the date and amount with the provider's record, then looking for the investment that was supposed to be purchased. The money arriving and the investment being bought are two different things.
 
-If the purchase instruction wasn't completed, fix that instruction with the provider. Don't add a fictional purchase in Orange Plan. If the purchase did happen but the record is missing, use the account's supported update or activity-import path and review the result.
+If the purchase instruction never completed, that's something to resolve with the provider. Entering a purchase in Orange Plan wouldn't make it happen. If the purchase did happen and the activity is missing here, we can use the account's supported update or import process instead.
 
-Read the receipt before adding another entry. Existing balances and imported activity may describe the same money. Don't count them twice.
+Before adding anything, let's read the receipt. The balance and imported activity may already describe the same money, and we don't want a duplicate. After the supported correction, we'll check the affected total.
 
-Save the supported correction and check the affected total. If evidence is missing, record exactly what's needed and leave the issue open. Remind me later postpones the question; it doesn't resolve it.
+If we still don't have the evidence, the issue stays open with the missing information identified. Remind me later can give us time to get that answer; it doesn't mean the question has been resolved.
 
-Open last year's dated plan if you have it. For a first annual review, date the current plan and use it as the starting record. Then work through the six annual areas. Start with spending and the Reserve. If you're retired, open the spending-review process and compare the next year's spending and refill together. If you're working, check whether the target and funding pace still fit.
+The annual review gives us room to revisit the decisions behind the plan. Last year's dated plan is a useful comparison if you have it. For a first annual review, we'll date the current plan and start the record from here.
 
-Open Portfolio and allocation and review any changed purpose or timeframe. Then check debt statements, tax windows and approaching deadlines. In Protect, check custody changes, family contacts, beneficiaries, documents and insurance.
+There are six areas to work through, starting with spending and the Reserve. If you're retired, the next year's spending and refill need to be considered together in the spending review. If you're working, we're checking whether the target and funding pace still fit.
 
-For a debt that ended, confirm the payoff first. The former payment doesn't automatically become an investment contribution. Check the current cash needs, choose the new destination and save the contribution choice through Saving and investing. Complete the provider instruction separately.
+From there, Portfolio and allocation let us review any changed purpose or timeframe. Debt statements show what remains owed, and the tax review brings up available windows and approaching deadlines. In Protect, we're checking custody, family contacts, beneficiaries, documents and insurance.
 
-Record only adopted changes and the outside actions still needed. Keep existing choices when they continue to fit.
+Here's how that becomes a real action: if a debt has ended, we'll confirm the payoff before assigning the old payment. Then we can check today's cash needs and choose its destination in Saving and investing. The provider instruction is still a separate step.
 
-This example starts with an income change that has happened. Open Income in Cash Flow and update the actual source and timing. Keep the other facts unchanged so you can see what the income change does.
+We'll record the changes you actually adopt and the outside work still needed. Choices that continue to fit can stay as they are.
 
-Read the bills, required debt payments and Reserve against the new cash flow. Then open Saving and investing to compare an affordable contribution response. The income change is a fact; the contribution amount is a choice. Review Current and Preview before saving the choice you intend to follow.
+This example is for an income change that's already happened. We're updating the actual source and timing in Income under Cash Flow. Leaving the other facts alone lets us see what this change does.
 
-If the change was already listed as a future event, reconcile that event so the projection doesn't apply it again. Wait for the saved result to include the change before interpreting it.
+Now we can compare the new cash flow with the bills, required debt payments and Reserve needs. That gives us the context for a possible contribution change in Saving and investing. The income change is a fact; the new contribution amount is still a choice. Current and Preview let us compare that choice before saving the one you intend to follow.
 
-A possible career break stays in Scenarios. An unexplained number needs a source correction or a focused support question, not several compensating edits to recover an old percentage.
+If we'd already modeled this change as a future event, we also need to reconcile the event so it isn't applied twice. Then we'll wait for the saved result to include the change before reading its effect.
 
-Save the date, changes you adopted and the reason for each one. Give any remaining outside action a responsible person and due date. Keep future actions tied to the event that makes them possible.
+A career break you're only considering stays in Scenarios. And if a number is unexplained, we'll trace its source or ask a focused support question. Changing several other inputs to get the old percentage back would leave the original problem unresolved.
 
-Open the export options and read what the file contains before saving or sharing it. A readable summary and a restoration backup serve different purposes. If the export is a supported restoration backup, keep it protected and record its actual restoration status separately. If it's only a report or data export, keep that scope clear; it doesn't establish that the plan can be restored.
+We're leaving a short record for the next time you open the plan: the date, what you adopted and why. Any outside action still needed gets a responsible person and a due date. If it depends on something happening first, that condition goes with it.
 
-Put the monthly check and annual review on your calendar. Include separate triggers for loan thresholds, tax deadlines and important life changes. A note saying to create a reminder isn't the reminder itself.
+The export options tell us what we can save. Let's read that scope before saving or sharing the file. A readable summary helps someone understand the plan; a supported restoration backup has a different job. If this export supports restoration, we'll keep it protected and record its actual restoration status separately. A report or data export on its own doesn't establish that the plan can be restored.
 
-At the next review, start with this dated record and update what changed.
+We'll also put the monthly and annual reviews on the calendar, with loan thresholds, tax deadlines and important life changes on their own timing. Writing down an intention to create a reminder doesn't create it.
+
+At the next review, this dated record gives us somewhere to start. We can see what changed without rebuilding the reasoning from memory.

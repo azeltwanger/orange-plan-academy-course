@@ -2,11 +2,13 @@
 
 Film the teaching and walkthroughs separately. The lesson page pairs them so a member learns the decision, then implements it.
 
+**[Open all scripts in one file](ALL-FILMING-SCRIPTS.md).** It contains every teaching and walkthrough script, with spoken sections first and production directions clearly labeled.
+
 ## Teaching session
 
 1. Open [the recording order](DICTATION-ORDER.md).
 2. Open a lesson's source script to see its task and overlay cues. Read only **Read aloud**, or use its linked clean teleprompter file.
-3. Record the explanation as written. The task comes first, followed by the decisions and worked example needed to complete it.
+3. Record the conversational explanation: the lesson introduction, connected examples and transitions, then the spoken handoff. The detailed task and edit directions are not read aloud.
 4. Give the editor [the overlay list](TEACHING-OVERLAYS.md). Each cue matches words in the recording; the overlays are not extra narration.
 
 The scripts include an editorial slop-removal and voice pass using Austin's source dictation. Austin's spoken read-through is the final check of phrasing. Any wording change belongs in the canonical script before regenerating its teleprompter copy.

@@ -1,5 +1,7 @@
-Choose the sale candidate and state its purpose: spending, realizing a gain or realizing a loss. Read the estimated total cost beside the rest of the year’s income.
+We have a sale candidate with records we can support. Before doing anything with it, let's come back to its purpose: providing spending money, realizing a gain or realizing a loss. That tells us which costs and benefits to compare with the rest of the year's income.
 
-Confirm the units and complete identification through the method required for this account and transaction date. Keep its acknowledgment or contemporaneous record. Check replacement exposure and automatic purchases before a securities loss sale, including relevant spouse and IRA activity.
+The units we're planning to sell need to be identified through the process required for this account and transaction date. I'm keeping the acknowledgment or contemporaneous record with the proposal. Choosing units in a planning screen doesn't complete that process with the provider.
 
-For a gain harvest, confirm the income room after other gains and conversions. Include state and healthcare effects. If the benefit is too small or the records remain unsupported, retain the investment and record why. A completed Preview is a proposed transaction until the actual instruction is executed.
+For a securities loss sale, replacement investments and automatic purchases matter, including relevant spouse and IRA activity. For a gain harvest, we need to see the income room remaining after other gains and conversions, including state and healthcare effects.
+
+If the expected benefit is too small, or the records still don't support the transaction, keeping the investment is a valid result. We can record that reason and stop there. If we decide to proceed, this remains a proposed transaction until the actual instruction is executed. Then we'll reconcile the confirmation and remaining holdings.

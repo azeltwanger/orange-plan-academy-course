@@ -191,6 +191,8 @@ def outputs(root: Path, rows: list[dict], core: list[str], advanced: list[str], 
     original_extra = sum(rev['baseline_spoken_words'][by[x]['path']] for x in advanced)
     main = sum(by[x]['words'] for x in core); extra = sum(by[x]['words'] for x in advanced)
     stats = validate(rows, practical)
+    change = abs(1-main/original_main)*100
+    direction = 'shorter' if main <= original_main else 'longer'
     result['COURSE-METRICS.md'] = f'''# Filming manuscript lengths
 
 25 main teaching scripts, eight conditional teaching scripts, ten separate app walkthroughs and one device walkthrough.
@@ -201,7 +203,7 @@ def outputs(root: Path, rows: list[dict], core: list[str], advanced: list[str], 
 | Conditional teaching | {original_extra:,} words | {extra:,} words |
 | All teaching | {original_main+original_extra:,} words | {main+extra:,} words |
 
-Main teaching is {(1-main/original_main)*100:.1f}% shorter than the September 10 starting manuscript. At an illustrative 140 words/minute it is about {main/140:.0f} minutes; conditional teaching adds about {extra/140:.0f} minutes when all branches apply. Separate walkthrough speech is {walk_words:,} words across {stats['walkthrough_chapters']} chapter takes. Editing directions and {stats['teaching_overlays']} teaching overlays are excluded from spoken counts.
+Main teaching is {change:.1f}% {direction} than the September 10 starting manuscript. At an illustrative 140 words/minute it is about {main/140:.0f} minutes; conditional teaching adds about {extra/140:.0f} minutes when all branches apply. Separate walkthrough speech is {walk_words:,} words across {stats['walkthrough_chapters']} chapter takes. Editing directions and {stats['teaching_overlays']} teaching overlays are excluded from spoken counts.
 
 These are manuscript estimates, not a published runtime promise. App use, pauses, recording delivery and outside implementation add time. Completion is the member's usable plan and decisions, not the lesson count or a particular simulation percentage.
 '''

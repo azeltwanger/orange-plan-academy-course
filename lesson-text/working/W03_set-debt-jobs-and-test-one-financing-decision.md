@@ -1,6 +1,6 @@
 # W03 — Set debt jobs and test one financing decision
 
-Status: FUTURE_DESIGN_CAPTURE_SCRIPT — complete prepared narration; actual app/device capture remains pending.
+Status: CONVERSATIONAL_CAPTURE_REVIEW — revised demonstration narration; actual app/device capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: DEBT, OWNER, APP
@@ -15,7 +15,11 @@ Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e
 
 **Narration:**
 
-Open the existing debt and match its balance, rate and required payment to the lender record. The card's $405 minimum isn't all principal. Our rough first-month calculation uses about $235 for interest and about $170 for principal, before purchases or fees. The actual statement has its own billing rules. The home-equity line is different: interest-only payments leave principal to repay later. Find its payment-change date and exit. Then read required debt beside Cash Flow. The teaching payments are about 17% of gross income, but the original example leaves only $500 after its other costs and Alex's contribution. The ratio doesn't supply extra payment money.
+We're going to look at what the existing debts require before deciding about extra payments. Here I'll match the balance, rate and required payment to the lender record. The card's $405 minimum isn't all principal: the rough first-month illustration has about $235 of interest and $170 of principal before purchases or fees. The actual statement has its own billing rules.
+
+The home-equity line has a different issue. Its interest-only payment leaves principal to repay later, so the payment-change date and exit matter. Let's keep those beside the cash-flow picture.
+
+The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and Alex's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
 
 **Overlay:** Required payment → interest + principal; DTI does not equal surplus
 
@@ -29,7 +33,11 @@ Open the existing debt and match its balance, rate and required payment to the l
 
 **Narration:**
 
-Start with assets before subtracting debt. The Reeds' included $1,996,000 of assets and $444,500 debt give about 22% debt-to-assets. Their home and restricted or dedicated accounts aren't all cash for repayment. In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same, moving the ratio to about 37%. Now separate that from one lender's collateral test. With fixed debt and an assumed 80% liquidation line, 50% initial LTV reaches the line after a 37.5% price fall. Posting enough for 25% initial LTV gives a 68.75% decline to the same line. These compare upfront collateral; the actual agreement's call, cure and liquidation rules govern the loan.
+Here we're separating the household's overall debt from one loan's collateral requirements. The Reeds' included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
+
+In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same. The ratio moves to about 37%. That shows what a fall in asset values does to the household measure.
+
+Now consider the separate lender test. With fixed debt and an assumed 80% liquidation line, 50% initial LTV reaches it after a 37.5% price fall. Posting enough for 25% initial LTV gives a 68.75% decline to that same line. Those numbers compare upfront collateral. The actual agreement's call, cure and liquidation terms are what go into the response rules, alongside the household's ability to fund them.
 
 **Overlay:** Household DTA: 22.27% → 36.52% · One loan’s LTV uses pledged collateral
 
@@ -43,7 +51,11 @@ Start with assets before subtracting debt. The Reeds' included $1,996,000 of ass
 
 **Narration:**
 
-We're continuing the reduced-spending test. Your actual surplus stays unchanged until the spending changes happen. Compare the card using the extra amount the cash flow can support. In this illustration, $500 goes toward the Reserve and $1,200 toward extra card principal. The $405 required payment was already counted, so the card payment totals $1,605. Read the payoff date and interest under the comparison, then check that required payments and the Reserve remain funded. For the mortgage, compare interest avoided with cash becoming home equity. Extra principal may shorten the term without lowering next month's payment, and property costs continue after payoff. Save the action you choose in Debt, reopen it and check the terms. Record any lender-payment change as a separate outside action.
+We're continuing the reduced-spending test. Your actual surplus stays unchanged until the spending changes happen. Here we're comparing the card with $500 going to the Reserve and $1,200 of extra card principal. The required $405 was already counted, so the total card payment is $1,605.
+
+Let's read the payoff date and interest under that comparison, then see whether required payments and the Reserve still fit. With the mortgage, we're weighing interest avoided against cash becoming home equity. Extra principal may shorten the term without reducing next month's payment, and property costs continue after payoff.
+
+Once you've chosen an affordable action, we'll save it in Debt and reopen it to check the terms. Changing the lender payment is a separate outside step. The saved choice is what we carry back into Cash Flow, so it only uses the money once.
 
 **Overlay:** Reduced example: $405 required + $1,200 extra = $1,605 card total
 
@@ -57,7 +69,11 @@ We're continuing the reduced-spending test. Your actual surplus stays unchanged 
 
 **Narration:**
 
-Keep the purchase and date the same across the alternatives. Using $30,000 from the $32,000 Reserve leaves $2,000 for that job. A taxable sale needs enough proceeds after its actual tax cost. A loan keeps cash initially, but its payment must fit beside the Reserve and card. Read the ending principal with the monthly payment. In the separate $20,000 example, about $406 a month pays down the loan over five years; about $133 interest-only leaves the $20,000 owed. For a refinance, price the whole replacement mortgage. For unusual terms, use the actual settlement formula, guarantees and use restrictions. Keep any unmodeled contract term beside this comparison and resolve it before choosing. A smaller or delayed project may be the affordable result.
+Let's compare one purchase using the same amount and date in each version. Paying $30,000 from the $32,000 Reserve leaves $2,000 for that job. A taxable sale needs enough proceeds after its actual tax cost. Financing keeps cash initially, but the payment has to fit beside the Reserve and card.
+
+The final balance is part of that comparison. In our separate $20,000 example, about $406 a month pays the loan down over five years; about $133 interest-only leaves the $20,000 owed. A refinance needs the full replacement mortgage priced, while unusual terms need their actual settlement formula, guarantees and use restrictions.
+
+We'll keep any contract term the app doesn't represent beside the comparison and resolve it before choosing. A smaller or delayed project may be the affordable answer. Whichever direction you choose, the payment and principal exit go into the debt rules next.
 
 **Overlay:** Same need/date → cash left → payment → final balance → repayment source
 
@@ -71,15 +87,17 @@ Keep the purchase and date the same across the alternatives. Using $30,000 from 
 
 **Narration:**
 
-Write where regular payments come from and how the principal gets repaid. If repayment uses a sale, name the amount, date and response if proceeds are late or smaller. If it uses refinancing, include what you'll do if approval isn't available. Then record the point that triggers a review, the resource you can use and the person responsible. Someone trusted needs a way to recognize a time-sensitive issue and find the safe instructions when you're unavailable. Keep wallet secrets out of this record.
+This is where the borrowing decision becomes something the household can follow. We're writing where the regular payments come from and how the principal gets repaid. If that uses a sale, the amount, date and response to smaller or late proceeds matter. If it uses refinancing, we need an answer for approval not being available.
 
-For a Bitcoin-backed loan, size the full obligation before choosing posted collateral. This separate example dedicates 3.5 BTC to $50,000 debt when Bitcoin is $100,000. After an 80% decline, those coins are worth $70,000. If posted in time, that is about 71.4% LTV. At the assumed 80% liquidation line, 3.125 BTC merely reaches the boundary. The 3.5 BTC provides some room, but any stricter call-cure or maturity term must also be met.
+Then we can connect a review trigger to the resource and person who will respond. Someone trusted needs a way to recognize a time-sensitive problem and find the safe instructions while you're unavailable. Wallet secrets stay out of this record.
 
-The $50,000 opening amount assumes separately funded interest and fees. One hypothetical year of 12% capitalized interest makes the balance $56,000, exactly 80% of the stressed $70,000 collateral. Reduce the initial principal or dedicate more Bitcoin before borrowing when costs accrue.
+If you're using the Bitcoin-loan lesson, there's a separate sizing example to work through here. We start with the full obligation before deciding how much collateral to post. This example dedicates 3.5 BTC to $50,000 of debt when Bitcoin is $100,000. After an 80% decline, those coins are worth $70,000. If posted in time, that's about 71.4% LTV. At the assumed 80% liquidation line, 3.125 BTC only reaches the boundary. The 3.5 BTC provides some room, but any stricter call-cure or maturity term still has to be met.
 
-After sizing the debt, posting 1 BTC starts this loan at 50% LTV and leaves 2.5 BTC reserved in cold storage. Posting all 3.5 starts the same loan at about 14.3%. The smaller initial deposit reduces lender exposure, but requires a faster response. Reserve coins count for lender LTV only after they arrive and are credited. Write the top-up trigger, amount, access time and maximum collateral you're willing to expose. An automatic feature can't reach into your cold wallet. Use the actual lender's funding and confirmation requirements.
+The $50,000 opening amount assumes separately funded interest and fees. One hypothetical year of 12% capitalized interest makes it $56,000, exactly 80% of the stressed $70,000. So if costs accrue, the initial principal needs reducing or more Bitcoin needs dedicating before borrowing.
 
-For repeat borrowing, add every draw and accrued cost to the same obligation. In the separate recurring example, $25,000 becomes $28,000 after 12% interest. A second $25,000 draw makes $53,000; the next 12% makes $59,360. Don't reuse the same spare collateral for each draw. Keep the proposal unchosen if the payment, timed response or final repayment still lacks a resource.
+After sizing the debt, posting 1 BTC starts it at 50% LTV and leaves 2.5 BTC reserved in cold storage. Posting all 3.5 starts the same loan at about 14.3%. The smaller initial deposit reduces lender exposure but needs a faster response. Reserved coins only count for lender LTV after they arrive and are credited. That's why the top-up trigger, amount, access time and maximum collateral exposure belong here. An automatic feature can't reach into your cold wallet; the actual funding and confirmation requirements still apply.
+
+Repeat borrowing uses the same supporting resources too. In the recurring illustration, $25,000 becomes $28,000 after 12% interest. The next $25,000 draw makes $53,000, and another 12% makes $59,360. We can't reuse the same spare collateral for each draw. If the payment, timed response or final repayment still lacks a resource, the proposal stays unchosen. Once the rules are supported, we can carry the chosen obligation back into the household cash flow.
 
 **Overlay:** Debt first → collateral placement second · Posted BTC and dedicated BTC have different jobs
 
@@ -93,7 +111,11 @@ For repeat borrowing, add every draw and accrued cost to the same obligation. In
 
 **Narration:**
 
-Read the same payment choice back in Cash Flow. The reduced-spending illustration has $2,475 before Alex's $775 employee contribution and $1,700 after it. The $500 Reserve and $1,200 extra-card plan use that money once. There isn't another amount to invest now. When the card is actually paid off, verify the payments that ended and any remaining charge. The example's $405 required plus $1,200 extra would release $1,605 if those were still being paid. That future money needs a new decision; payoff doesn't automatically send it to investments. Carry today's claims and that future review condition into the contribution plan.
+Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before Alex's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
+
+When the card is actually paid off, we'll verify which payments ended and whether any charge remains. The example's $405 required plus $1,200 extra would release $1,605 if those were still being paid. That future money needs a new decision; payoff doesn't automatically send it into investments.
+
+What we take into Allocation is today's chosen claims and that future review condition. Then we can decide where contributions go and what they buy, using the money actually available at the time.
 
 **Overlay:** Today: $1,700 assigned once · After payoff: verify the released $1,605 before routing
 

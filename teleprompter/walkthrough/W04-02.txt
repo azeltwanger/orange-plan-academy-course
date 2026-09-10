@@ -1,3 +1,7 @@
-Choose the role you want Bitcoin to have before entering a target. Use the four descriptions as orientation: Foundation, Integration, Optimization and Sovereign. The ranges describe different roles; they aren't levels you need to progress through.
+Now that we know the current mix, let's talk about what we want it to become. Before entering a percentage, I'd come back to the role you chose for Bitcoin in the teaching lesson.
 
-Keep your spending dates and the other household member in this decision. Choose a starting amount to test, then leave room to fund the Reserve and approaching expenses. We’ll test that amount against those jobs before saving the target.
+These four descriptions can help with that conversation: Foundation, Integration, Optimization and Sovereign. They describe different intentions. Someone with a smaller position isn't behind someone with a larger one.
+
+The amount we test needs to fit the people who share this money and the dates when they'll need it. A position can feel comfortable while markets are rising and very different when a bill arrives during a decline.
+
+For now, we're choosing a starting amount to test. The next step is to put the Reserve and approaching expenses beside it. If those jobs don't have enough funding, we can adjust the proposal before saving a target.

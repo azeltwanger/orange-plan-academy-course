@@ -1,6 +1,6 @@
 # Orange Plan Academy — filming scripts
 
-[Start filming](START-FILMING.md)
+[All scripts in one file](ALL-FILMING-SCRIPTS.md) · [Start filming](START-FILMING.md)
 
 The course follows the steps in Austin's slide decks. Each lesson tells the member what to do, explains how to think about the decision, then implements it in a separately recorded walkthrough.
 
@@ -8,6 +8,7 @@ There are 25 main teaching recordings and eight **For your situation** recording
 
 | For this job | Open |
 |---|---|
+| Read or film everything from one file | [All teaching and walkthrough scripts, with overlays](ALL-FILMING-SCRIPTS.md) |
 | Record the teaching | [Recording order](DICTATION-ORDER.md) or [all clean teaching text](ALL-SCRIPTS.md) |
 | Add text and graphics | [Teaching overlay cues](TEACHING-OVERLAYS.md); each source script has its own cue table |
 | Record app/device footage | [Walkthrough scripts](WALKTHROUGH-SCRIPTS.md) and clean takes in `teleprompter/walkthrough/` |

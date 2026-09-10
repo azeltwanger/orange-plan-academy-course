@@ -15,41 +15,43 @@ Prepare documented units, timely identification, replacement instructions and a 
 
 ### Read aloud
 
-Choose the sale you're preparing: account or wallet, investment, quantity and intended date. Record the exposure you want to own afterward. Start the evidence work with those units.
+This lesson is for a sale you're actually preparing, or for purchase records that are holding that decision up. We've seen how different lots can change the gain. Now we're going to connect the calculation to documented units, the identification required before the trade and the records left afterward.
 
-Gather the original exchange exports, trade confirmations, statements and wallet activity. Keep untouched copies. Sort the events into purchases, sales, transfers and ownership changes.
+I would work backward from the investment and quantity being considered in the actual account or wallet. Its intended sale date and the exposure you want afterward tell us which records and transaction rules matter. That keeps the work focused instead of turning every tax decision into a reconstruction of every financial record you own.
 
-For a simple no-fee example, buying 0.1 Bitcoin on an exchange and moving it to your own wallet leaves the same 0.1 Bitcoin. The wallet receipt isn't another purchase, and the exchange withdrawal isn't automatically a sale. Link the two sides and preserve the original purchase history.
+Original exchange exports, confirmations, statements and wallet activity can help explain that history. Keeping untouched copies gives you something to return to when an import disagrees. The events then need separating into purchases, sales, transfers and ownership changes.
 
-Reconcile the history to the quantity currently held. Investigate missing transactions, fees, duplicates and records belonging to another account. Don't add a balancing purchase to force the quantities to match. A bank payment may establish cash sent to an exchange without proving the Bitcoin quantity, price or time.
+Let's say you buy 0.1 Bitcoin on an exchange and move it to your own wallet, with fees left out for this illustration. You still own the same 0.1 Bitcoin. The wallet receipt isn't a new purchase, and the exchange withdrawal isn't automatically a sale. Connecting the two sides preserves the original purchase history.
 
-Handle gifts and inheritance according to their own basis rules and source evidence. They aren't ordinary purchases just because units arrived. Record actual transfer fees under their applicable treatment; the no-fee illustration doesn't settle that cost.
+If the history doesn't reconcile to what you hold now, the difference may be a fee, missing activity, a duplicate or a record from another account. Adding a balancing purchase could make the total look right while inventing its cost. A bank payment to an exchange can support cash sent without proving the Bitcoin quantity, price or time. We need the evidence for the detail being used.
 
-Check past sales against the filed record. Previously sold units must leave the available history. Verify any capital-loss carryforward, an unused realized tax loss carried into a later year, from returns and subsequent activity. A past portfolio loss isn't evidence of an available tax carryforward.
+Gifts and inheritance bring their own basis rules and records. They aren't ordinary purchases just because units arrive. Real transfer fees also need their applicable treatment; the no-fee example doesn't settle that part of a real transaction.
 
-Then select the units you can document and legally identify. The course's $20,000 sale has gains of $8,400, $16,800 or $9,600 depending on the available lot. If the preferred lot lacks evidence, obtain it or compare a supported lot. An unknown cost doesn't become usable because it produces a smaller tax estimate.
+Past sales and filed returns help establish what's still available. Units sold earlier can't remain in the list for another sale. A capital-loss carryforward is an unused realized tax loss carried into a later year. Its remaining amount comes from the returns and subsequent activity, not a screenshot of an investment that once fell in value.
 
-Complete identification before the applicable deadline. Rules depend on the asset, custodian or wallet and transaction year. A selection in Orange Plan doesn't itself notify a broker. Keep the actual instruction acknowledgment or required contemporaneous identification record. Temporary relief doesn't authorize an after-the-fact lot choice for every transaction.
+With that history in place, the lot comparison becomes usable. The course's $20,000 sale can produce $8,400, $16,800 or $9,600 of gain, depending on the available lot. If the preferred lot lacks evidence, the choices are to obtain it or compare a supported lot. An unknown cost doesn't become reliable because it creates the smallest gain.
 
-For a loss harvest, check the intended replacement and automatic purchases before placing the sale. Securities wash-sale analysis can involve another account or a spouse's activity. A replacement in your IRA or Roth IRA can cause a securities loss to be lost permanently because the usual replacement-basis adjustment doesn't apply. Direct Bitcoin and Bitcoin funds require their own current-rule review.
+The identification has to happen through the process and deadline that apply to the asset, custodian or wallet and transaction year. A choice in Orange Plan doesn't itself notify a broker. The actual instruction acknowledgment or required contemporaneous identification record is what supports the transaction. Temporary relief isn't permanent permission to pick any lot after the fact.
 
-For a gain harvest, update other gains, income and conversions using the same tax year. Check state tax and healthcare costs along with federal gain treatment. Include fees and the risk of price movement between the sale and replacement.
+For a loss harvest, the replacement is part of that preparation. Automatic purchases, another account and relevant spouse activity can affect a securities wash-sale analysis. A replacement in your IRA or Roth IRA can make the securities loss permanent because the usual replacement-basis adjustment doesn't apply. Direct Bitcoin and Bitcoin funds need their own current-rule review.
 
-After execution, match the trade confirmation to the identified units, time, proceeds and fees. Verify the remaining lots and current quantity. Record the new purchase separately if you replace the exposure.
+For a gain harvest, the same-year income picture matters. Other gains, business income or a conversion can use room that looked available earlier. State tax, healthcare costs, fees and price movement between sale and replacement also affect what the transaction gives the household.
 
-Keep the source files, identification evidence, confirmation and year-income context together. Inspect FORM 8949 TAX DATA before using it with the tax professional; it supports the return rather than filing it. Resolve differences between the records, provider reporting and the filed return.
+After execution, the trade confirmation lets us check what actually happened: the identified units, time, proceeds and fees. The remaining lots need to agree with the current holding, and any replacement purchase gets its own record. That continuity matters next time you sell.
 
-Finish with supported instructions ready for the transaction, or a specific reason to wait. A complete planning comparison still needs the actual provider action and its confirmation.
+The source files, identification evidence and confirmation can stay together with the year-income context. FORM 8949 TAX DATA helps your tax professional prepare the return; it doesn't file it. Differences between your records, provider reporting and the filed return need resolving before carrying the values forward.
+
+In the walkthrough, we'll prepare that packet and follow the transaction back to the holdings left over. If an essential record or rule is still unresolved, you'll know exactly what the sale is waiting for. Then we'll return to tax timing and Roth conversions, where the same income picture helps decide which action belongs in which year.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| Choose the sale you're preparing: | 1 · Specify the actual transaction | Account / quantity / date / replacement. |
-| Gather the original exchange exports | 2 · Rebuild and reconcile evidence | Untouched sources; current quantity counted once. |
-| Complete identification before the applicable deadline. | 3 · Identify the units on time | App selection ≠ broker acknowledgment. |
-| For a loss harvest, check the intended replacement | 4 · Review replacements and the whole tax year | Include automatic buying and IRA consequences. |
-| After execution, match the trade confirmation | 5 · Confirm used and remaining lots | Inspect tax-data export; not a filed form. |
+| I would work backward from the investment and quantity | 1 · Specify the actual transaction | Account / quantity / date / replacement. |
+| Original exchange exports, confirmations, statements and wallet activity | 2 · Rebuild and reconcile evidence | Untouched sources; current quantity counted once. |
+| The identification has to happen through the process and deadline | 3 · Identify the units on time | App selection ≠ broker acknowledgment. |
+| For a loss harvest, the replacement is part of that preparation. | 4 · Review replacements and the whole tax year | Include automatic buying and IRA consequences. |
+| After execution, the trade confirmation lets us check | 5 · Confirm used and remaining lots | Inspect tax-data export; not a filed form. |
 
 ### Walkthrough handoff — not spoken
 

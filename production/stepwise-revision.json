@@ -29,9 +29,9 @@
     }
   ],
   "active_protected": {
-    "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md": "9d93cca93bf324711b1e796144b9e0b6831d27242c66ec20451dff7a051e47f1",
-    "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md": "0d17a6a34f1e207ab2799d0b2f26ef5a66c05e6e757acdf9420527460d2503a0",
-    "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md": "dfb249bd18b6a2ccdb4abf7bf99ccbd9c134bf41a86f914e1d5bee3d7c47ca59"
+    "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md": "57a69f0594bc8163ace085f7b71e571ad70a1074de02e44d9f8d62fb8e0ed166",
+    "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md": "12e7c4c67995e7e5fdcaf831e4873afca35c852df926d79b821f3a48d3332d38",
+    "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md": "a7ecbaf63dbf7dba97ca8e33bad80669fccc3ecd16e545a058b8c5eb076e6440"
   },
   "baseline_spoken_words": {
     "scripts/00-1_build-a-plan-you-can-use.md": 520,

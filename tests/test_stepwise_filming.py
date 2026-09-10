@@ -54,6 +54,29 @@ class FilmingPack(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Overlay cue'):
             film.validate(rows, course.PRACTICAL_IDS)
 
+    def test_single_file_contains_every_spoken_script_once_with_its_edit_cues(self):
+        bundle = self.generated['ALL-FILMING-SCRIPTS.md']
+        positions = []
+        for lid in course.member_order(self.rows):
+            row = self.by[lid]
+            self.assertEqual(bundle.count(row['read']), 1, lid)
+            positions.append(bundle.index(row['read']))
+            self.assertIn(film.section(row['text'], 'Text overlays — not spoken'), bundle)
+            self.assertIn(row['checkpoint'], bundle)
+        self.assertEqual(positions, sorted(positions))
+        takes = []
+        for lid in course.PRACTICAL_IDS:
+            for scene in film.chapters(self.by[lid]['text']):
+                take = f"### Take {lid}-{scene['number']:02d} —"
+                self.assertEqual(bundle.count(take), 1)
+                self.assertEqual(bundle.count(scene['Narration']), 1, take)
+                takes.append(bundle.index(take))
+                for field in ['Show', 'Overlay', 'Verify', 'Capture dependency']:
+                    self.assertIn(course.render_links(scene[field], self.by[lid]['path'], 'ALL-FILMING-SCRIPTS.md'), bundle)
+        self.assertEqual(len(takes), 72)
+        self.assertGreater(min(takes), max(positions))
+        self.assertIn('No funded household wallet is reset.', bundle)
+
     def test_missing_or_repeated_chapter_is_rejected(self):
         for replacement in ['#### Removed chapter 2', '#### Chapter 1']:
             rows = copy.deepcopy(self.rows)

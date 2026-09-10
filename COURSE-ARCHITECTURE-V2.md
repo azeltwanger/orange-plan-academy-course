@@ -6,7 +6,7 @@ The main path builds a first working plan early, then improves cash flow and Res
 
 ## Teaching
 
-Open with the task. Explain only the reasoning needed to perform it. Use a source example where it makes the choice understandable. Name the information to gather, the decision criterion, and what the member will have at the end. A conceptual slide such as debt's purpose belongs inside the relevant decision; it is not automatically a separate lecture.
+Open with a conversational introduction to the lesson: where it fits in the plan, what we will work through and why it matters. Explain the choice through connected examples, with transitions that help a listener follow the reasoning. End with a natural handoff to implementation and the next lesson. The steps still organize the work, but the narration does not read the task/checkpoint fields aloud. Austin's [delivery correction](production/CONVERSATIONAL-VOICE-PASS.md) governs the spoken style.
 
 Text overlays reinforce the useful number, choice or step. Their cues are exact spoken phrases, allowing the editor to place them after Austin records. Speech and production notes remain separate.
 

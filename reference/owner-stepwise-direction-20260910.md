@@ -21,3 +21,11 @@ Austin then authorized completing the course and walkthrough scripts, confirmed 
 - The editorial voice pass can be completed here. Only Austin can confirm that the final wording sounds right in his own read-through. App and device captures require the actual workflow; a finished manuscript does not establish that footage exists.
 
 See [the script format](../production/STEPWISE-SCRIPT-STANDARD.md) and [the future-app reference](../V1-COURSE-ALIGNMENT.md).
+
+## Later delivery correction in the same conversation
+
+Austin requested “give me all scripts in one file,” then said “these read like instruction manuals not me conversationally talking” and specified “like intro to that lesson at beggining, handoffs, transitions.” He replied “yes” to the conversational Reserve opening and proposed delivery direction shown in the conversation.
+
+This authorizes a full conversational speech pass and the combined recording file. Keep the step sequence useful, while letting the spoken teaching explain decisions in his conversational voice. His approval of that example and direction is not approval of every subsequently revised line. [The conversational standard](../production/CONVERSATIONAL-VOICE-PASS.md) governs this correction.
+
+Austin then supplied private coaching-call transcripts as “one clients journey” for this work. They may inform his delivery and the sequence of explanations. They are not new course household facts, current app verification or operational instructions. Raw transcripts and identifying client material remain outside this public repository.

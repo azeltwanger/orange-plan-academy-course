@@ -1,5 +1,7 @@
-Open the tax roadmap and select the first year when income materially changes. Read each person’s work income and benefits. Then include distributions, gains, conversions and any supported loss carryforward for that same year.
+Here's the tax roadmap. We're looking for a year when the household's income changes enough that a withdrawal or conversion might be worth comparing.
 
-Compare it with the next important income year. A lower-income interval may make a withdrawal or conversion worth examining. Use the household’s actual dates rather than treating retirement itself as a low-tax period.
+I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. Alex stopping work doesn't automatically make the household's income low if other income continues.
 
-Identify one amount to compare and the source that pays its tax. Keep the existing plan as the baseline. If a filing or income record is missing, obtain that fact before relying on the proposed window.
+Now we can compare that year with the next important income change. If there's a lower-income interval, we have a reason to examine it. We still need the total cost of adding income, including effects beyond the tax bracket.
+
+We'll start with one amount and identify the money that would pay its tax. The existing plan stays as our baseline. If a missing filing or income record could change this window, that's the fact to obtain before relying on it. Once the year's inputs are supported, we're ready to compare a conversion, a spending withdrawal and leaving the plan as it is.

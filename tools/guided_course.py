@@ -141,7 +141,7 @@ def situation_card(row: dict) -> str:
             f"> {r['when']}\n>\n> {r['before']}\n>\n> **Return to:** {r['return']}.\n\n")
 
 def review_state(row: dict) -> str:
-    if section(row['text'], 'Do this'):return 'Step-by-step manuscript and overlays prepared'
+    if section(row['text'], 'Do this'):return 'Conversational teaching manuscript and overlays prepared'
     if row['id'] in PRACTICAL_IDS:return 'Separate walkthrough manuscript; capture pending'
     if 'Status: RECORDING_DRAFT_REVIEW' in row['text']:return 'Consolidated recording draft; owner review pending'
     if 'Status: SPOKEN_EDIT_REVIEW' in row['text']:return 'Spoken-language edit; owner review pending'
@@ -186,6 +186,49 @@ def render_links(text: str, source: str, target: str) -> str:
         relative=posixpath.relpath(destination,posixpath.dirname(target) or '.')
         return ']('+relative+(sep+anchor if sep else '')+')'
     return re.sub(r'\]\(([^)]+)\)',relocate,text)
+
+def combined_scripts(rows: list[dict], order: list[str]) -> str:
+    """One recording file, with spoken teaching first and edit directions labeled."""
+    by={r['id']:r for r in rows}
+    titles={lid:(f'Teaching {CORE_IDS.index(lid)+1:02d}' if lid in CORE_IDS else
+                 f'Situation {lid}' if lid in ADV_IDS else f'Walkthrough {lid}')
+            for lid in order+PRACTICAL_IDS}
+    anchor=lambda title:title.lower().replace(' ','-').replace('.','')
+    target='ALL-FILMING-SCRIPTS.md'
+    text='# Orange Plan Academy — all recording scripts\n\n'
+    text+='All 25 main lessons, eight situational lessons and eleven separate app/device walkthroughs in one file. The situational lessons sit beside the decision they support. Walkthroughs follow the teaching section for a separate filming session.\n\n'
+    text+='**Read the Spoken script and Narration sections aloud.** Overlays, screen actions, completion checks and source notes are for production. Teaching now includes conversational introductions, transitions and handoffs. The walkthroughs target PR #227’s future app and require the stated flow checks before capture.\n\n'
+    text+='## Contents\n\n| Recording | Lesson |\n|---|---|\n'
+    for lid in order+PRACTICAL_IDS:
+        text+=f"| [{titles[lid]}](#{anchor(titles[lid])}) | {by[lid]['title']} |\n"
+    for lid in order+PRACTICAL_IDS:
+        row=by[lid]
+        text+=f"\n---\n\n## {titles[lid]}\n\n**{row['title']}**\n\n"
+        if lid in ADV_IDS:
+            route=situation_route(row)
+            text+=f"*Use when: {route['when']} Return to: {route['return']}.*\n\n"
+        if lid not in PRACTICAL_IDS:
+            text+='### Spoken script\n\n'+row['read']+'\n\n'
+            text+='### Overlays and editor cues — not spoken\n\n'+section(row['text'],'Text overlays — not spoken')+'\n\n'
+            text+='### Handoff and completion — not spoken\n\n'
+            text+=render_links(section(row['text'],'Walkthrough handoff — not spoken'),row['path'],target)+'\n\n'
+            text+='**Lesson-page task:** '+section(row['text'],'Do this')+'\n\n'
+            text+='**Member checkpoint:** '+row['checkpoint']+'\n\n'
+        else:
+            setup=row['text'].split('#### Chapter',1)[0].split('\n',1)[1].strip()
+            text+='### Recording setup — not spoken\n\n'+render_links(setup,row['path'],target)+'\n\n'
+            for scene in filming_chapters(row['text']):
+                text+=f"### Take {lid}-{scene['number']:02d} — {scene['title']}\n\n"
+                text+='**Narration:**\n\n'+scene['Narration']+'\n\n'
+                for field in ['Show','Overlay','Verify','Capture dependency']:
+                    text+=f"**{field} — not spoken:**\n\n"+render_links(scene[field],row['path'],target)+'\n\n'
+            text+='### Session finish — not spoken\n\n'+row['checkpoint']+'\n\n'
+        notes=[(h,b.strip()) for h,b in re.findall(r'^### ([^\n]+)\n(.*?)(?=^### |\Z)',row['text'],re.M|re.S) if h.startswith('Source')]
+        if notes:
+            text+='### Source notes — not spoken\n\n'+'\n\n'.join(render_links(b,row['path'],target) for _,b in notes)+'\n\n'
+        text+=f"[Canonical script]({row['path']}) · [Contents](#contents)\n"
+    return text
+
 
 def outputs(root: Path) -> dict[str,str]:
     c=consolidation(root);rows=catalog(root);by={r['id']:r for r in rows};result={}
@@ -254,6 +297,7 @@ def outputs(root: Path) -> dict[str,str]:
     main=sum(by[x]['words'] for x in CORE_IDS);extra_words=sum(by[x]['words'] for x in ADV_IDS);before=c['baseline_words']['main'];before_all=sum(c['baseline_words'].values())
     result['COURSE-METRICS.md']=f'# Consolidated course\n\n25 main teaching scripts, eight For your situation scripts. Ten app working-session files and one device demonstration remain separate production work.\n\nMain narration: {main:,} words, compared with {before:,} in the prior owner-delivered 50-script main path: {(1-main/before)*100:.1f}% shorter. Situational narration: {extra_words:,} words. Total: {main+extra_words:,}, compared with {before_all:,} across the prior 65 scripts.\n\nAt an illustrative 140 words/minute, the main text is about {main/140:.0f} minutes; situational text adds about {extra_words/140:.0f} minutes if every extra were used. These are estimates from written words, not measured runtime, including no pauses or app footage. Do not publish a runtime promise before recording.\n\nThe earlier planning target was approximately 22,000–25,000 main words. This draft is longer because some combined decisions retain their technical conditions; it still reduces total narration rather than only renaming files. Lesson count alone is not a comprehension or value claim.\n'
     result.update(filming_outputs(root,rows,CORE_IDS,ADV_IDS,PRACTICAL_IDS,CHAPTERS))
+    result['ALL-FILMING-SCRIPTS.md']=combined_scripts(rows,order)
     return {p:s.replace('\\n','\n').rstrip()+'\n' for p,s in result.items()}
 
 

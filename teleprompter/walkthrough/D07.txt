@@ -1,47 +1,47 @@
-Start with a device set aside for this test. Keep the wallet holding your savings out of the procedure. Open the official instructions for this exact model, software and backup format.
+In this demonstration, we're checking recovery with a new, isolated test wallet. The device and small amount are set aside for this purpose. The wallet holding the family's savings stays out of the procedure.
 
-Check the equipment against those instructions before beginning. Unexpected or prewritten recovery words are a reason to stop. Use a fresh wallet created through the verified process.
+Before we begin, let's match the equipment to the official instructions for this exact model, software and backup format. A process for another device may have different requirements. Unexpected or prewritten recovery words are a reason to stop; we need a fresh wallet created through the verified process.
 
-This test uses only the small amount set aside for it. Its result will apply to this wallet and this procedure. It won't verify a different wallet holding the family's Bitcoin.
+The question this test can answer is whether we can recover and use this wallet through this procedure. It won't verify a different wallet holding the family's Bitcoin. Keeping that scope clear now will help us record an accurate result at the end.
 
-Create the new test wallet using the official procedure. Before recovery information appears, stop the camera and screen recording. Keep the recovery words, private keys and any passphrase in the private offline process.
+We're at the point where the new wallet creates private recovery information. Before any of that appears, the camera and screen recording need to stop. The recovery words, private keys and any passphrase belong in the private offline process, including while they're being recorded or entered.
 
-Don't copy a secret from a tutorial or use prewritten recovery material. Generate the wallet through the trusted device process.
+The wallet is generated through the trusted device process in the official instructions. A secret from a tutorial or prewritten recovery material would give someone else a way to control it, so neither belongs in this setup.
 
-Resume recording only after the secret screens are closed. The next visible screen can show that setup is ready, but none of the material that would let someone control the wallet belongs in the footage.
+Once the secret screens are closed, we can resume on a non-secret screen. That lets us continue explaining the test without putting the material that controls the wallet into the footage. A later blur wouldn't remove it from the original recording.
 
-Identify the pieces this wallet needs for recovery. The PIN unlocks the device. The backup recreates the corresponding keys. If a passphrase is used, the exact passphrase selects the intended wallet.
+Before the recovery check, let's be clear about what each piece does. The PIN unlocks the device. The backup recreates the corresponding keys. If this wallet uses a passphrase, the exact passphrase selects the intended wallet.
 
-Keep those jobs separate. Knowing the PIN doesn't replace a missing backup, and a correct word list doesn't prove a passphrase wallet.
+Those different jobs explain why one piece can't simply replace another. Knowing the PIN doesn't replace a missing backup. And a correct word list doesn't prove that we've recovered a passphrase wallet; we still need the exact passphrase and the intended-wallet check.
 
-A multisig setup has additional independent-key and configuration requirements. Use the complete reviewed procedure for that arrangement. This demonstration only covers the requirements recorded for this test wallet.
+Multisig has additional independent-key and configuration requirements, which need the complete reviewed procedure for that arrangement. Here we're covering only the requirements recorded for this test wallet. These labels explain the pieces without showing their private values.
 
-Open the receive process for this test wallet. Verify the destination through the trusted device, rather than relying only on the computer display. Check the network and the small amount before authorizing the transfer.
+Now we're giving this test wallet a small, known amount that we can look for after recovery. In the receive process, we'll verify the destination through the trusted device, rather than relying only on the computer display. The network and amount also need to match the transfer authorized for this test.
 
-Wait for the required confirmation. Keep the actual test receipt and a non-secret way to identify the intended wallet for the recovery check.
+After the transfer, we need the required actual confirmation before continuing. We'll keep that receipt and a non-secret way to recognize the intended wallet for the recovery comparison.
 
-Stop if the destination or received amount is unexpected. Don't add meaningful funds while the test is unresolved.
+If the destination or received amount is unexpected, this is where we stop and investigate. Adding meaningful funds wouldn't resolve that uncertainty. The test stays limited to the small amount set aside for it.
 
-Keep the working device intact and use the official backup-check process. If the reviewed procedure uses a compatible spare, keep the original available while you check the spare.
+Before any destructive step, we need to know that the backup can support the recovery. We're keeping the working device intact while we use its official backup-check process. If the reviewed procedure uses a compatible spare, the original remains available while we check it.
 
-Include the passphrase or configuration requirements that apply to this wallet. Stop recording before entering anything private.
+The check includes any passphrase or configuration requirements for this wallet. Recording stops before private information is entered, just as it did during setup.
 
-If the check fails, stop here. Keep the working access and investigate through verified official instructions or support without disclosing the secret. Don't reset the device or send more funds to try to make the mismatch disappear.
+If the check fails, we stop here and preserve the working access. Verified official instructions or support may help us investigate, but support doesn't need the secret. Resetting the device or sending more funds would add risk while the mismatch is still unresolved. A successful, supported check is what lets us consider the next part of this isolated test.
 
-Use the recovery method specified for this isolated test. Keep all private entry off camera. Once the wallet opens, compare its known identifier or address with the test record, then check the expected test funds.
+We're now using the recovery method specified for this isolated test. All private entry stays off camera. When the wallet opens, we'll compare its known identifier or address with our test record, then check for the expected test funds.
 
-A valid empty wallet isn't enough. A passphrase mistake can produce another valid wallet. If the identity or funds don't match, stop and leave the result unresolved.
+Both parts matter. A valid empty wallet isn't enough, because a passphrase mistake can open another valid wallet. If the identity or funds don't match, we'll stop and leave the result unresolved.
 
-Record successful recovery only when the evidence matches this intended test wallet. The family's funded wallet stays outside this test.
+Successful recovery means the evidence matches this intended test wallet. It doesn't tell us that another wallet is recoverable. The family's funded wallet stays outside the test, and we never wipe it as part of this demonstration.
 
-Prepare the small outbound transaction authorized for this test. Check its destination, amount and fee through the trusted device before confirming. Stop if any detail differs from the intended transaction.
+Seeing the expected balance is useful, but we also want to know whether the recovered setup can authorize a payment. That's the purpose of the small outbound transaction separately authorized for this test.
 
-This step checks whether the recovered setup can authorize a payment. Seeing the balance alone doesn't demonstrate that.
+Before confirming, we'll check the destination, amount and fee through the trusted device. If any detail differs from the intended transaction, we stop. The fee we use is the actual fee shown for this transaction; there's no universal fee or minimum-output amount to copy from a video.
 
-Keep the actual confirmation with the test record. Use the fee the wallet shows for this transaction; there's no universal fee or minimum-output amount to copy from the video.
+Once the payment has the required confirmation, we'll keep that evidence with the test record. That lets us distinguish seeing funds from demonstrating controlled spending through the recovered setup.
 
-Record the wallet tested, the recovery method, the date and the actual outcome. Include the receive, recovery and spending checks that really completed. Mark anything that didn't complete as unresolved.
+Let's finish by recording exactly what this test showed. The receipt identifies the wallet, the recovery method, the date and the actual outcome. We'll include the receive, recovery and spending checks that completed, with anything unfinished left unresolved.
 
-Keep this receipt separate from the status of a different funded wallet. That wallet needs its own appropriate safe verification.
+That receipt stays separate from the status of a different funded wallet. The funded wallet needs its own appropriate safe verification, even when this practice test succeeds.
 
-In the planning record, store the result and next action, never the recovery material. An Orange Plan data backup restores plan information; it doesn't recover signing keys. Carry the scoped result into Bitcoin access so the family knows exactly what has been checked.
+In Bitcoin access, we can now record the scoped result and the next action without storing the recovery material. An Orange Plan data backup concerns plan information; it doesn't recover Bitcoin signing keys. We'll take this receipt into the custody walkthrough so the family can see what's been checked and what still needs attention.

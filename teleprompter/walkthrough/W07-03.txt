@@ -1,5 +1,5 @@
-Start with the shared dependency you identified. These accounts use the same recovery email, so securing another account won't remove that dependence. Open the email provider's verified security settings and review the sign-in and recovery methods.
+Let's work on one dependency from the custody map. In this example, several accounts rely on the same recovery email. That gives us a useful place to start: protecting that email affects the access route for more than one account.
 
-Choose a supported security key or passkey when available. Set up the backup access method and test it before removing the working one. Keep passwords, recovery codes and any private setup screens out of the recording.
+We're using the provider's verified security settings to see which sign-in and recovery methods it supports. Where a security key or passkey is available, that's the option we're looking at first. Before removing working access, we need the backup method set up and tested. Passwords, recovery codes and private setup screens stay out of the recording.
 
-Return to the custody map and record the change that actually completed. If you're still waiting for a provider answer or a backup person to agree, leave that task open. Account hardening doesn't change the company's custody risk, so retain that dependency in the map.
+Back in the map, we'll record the change only once it's actually completed. A provider question or an agreement we're still waiting for stays open. This improves account access, but the company's custody risk is still there, so that dependency remains in the map.

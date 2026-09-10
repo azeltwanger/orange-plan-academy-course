@@ -11,43 +11,45 @@ Build the retirement paycheck for the first year and every year when work, benef
 
 ### Read aloud
 
-Start with the spending you want retirement to support. Use your verified current spending, then change the costs that change when work ends: commuting, travel, hobbies and healthcare. Keep essentials and flexible amounts separate so you know what could change during a difficult period.
+Up to this point, we've been building the accounts, cash flow and choices behind your plan. Now we're going to put them together as a retirement paycheck. When work stops, the bills still arrive. This lesson connects what you want to spend with the income and accounts that can pay for it in each part of retirement.
 
-Add irregular expenses on their actual dates. A car, roof or family commitment can change one year's funding need. If it's already in living spending, don't add it again as an event.
+Your current spending gives us somewhere to start. We're using what it costs to live, rather than copying your salary and assuming you need to replace it. Money you're currently saving for retirement doesn't also become retirement living spending. Some costs may fall when work ends, such as commuting. Travel, hobbies or healthcare may rise. I want the budget to describe the life you're actually planning, with essentials and flexible spending visible so we know what could change during a difficult period.
 
-Next, total the income that continues. Use each person's Social Security estimate, pension statement and work or rental income after its operating costs. Record the amount, start date and reliability. A pension benefit and hoped-for part-time work don't offer the same certainty. Include a way to replace variable income when testing a weaker period.
+A retirement year can also include a car, a roof or a family commitment. Those belong on their dates rather than disappearing into an average month. If the cost is already included in living spending, we don't add it again as an event.
 
-Calculate the gap after all costs. In a separate illustration, $96,000 of living costs and $12,000 of healthcare total $108,000. Subtract $40,000 of gross income and the rough gap is $68,000. Now add $12,000 of hypothetical total tax and $6,000 of debt payments that weren't already included. Costs become $126,000 and the gap becomes $86,000.
+Then there's the income that continues. Each person's Social Security estimate, pension statement, work income or rent after operating costs can contribute. The amount and start date matter, but so does reliability. A pension benefit and hoped-for part-time work don't give the household the same certainty. We need to know what replaces variable income if it stops.
 
-Use that example to check your categories. The withdrawal itself can raise tax, so let the full calculation account for that interaction. Start with gross income and complete tax outflow, or reconcile net deposits with tax already withheld. Don't subtract the same tax twice. Dividends already included in portfolio returns and cash can't also become another source of growth and income.
+Let's use a separate household to see how the gap is calculated. They have $96,000 of living costs, which means $8,000 a month for that part of their life. Another $12,000 of healthcare brings the total to $108,000. Subtract $40,000 of gross income and the rough gap is $68,000. Now add $12,000 of hypothetical tax and $6,000 of debt payments that weren't already included. Costs become $126,000 and the gap becomes $86,000. Keeping debt separate also lets those payments end when the loan is paid off, without removing money from ordinary living expenses.
 
-Now identify the dates when funding changes. Alex's intended retirement at 52 comes seven and a half years before 59½. Morgan is two years younger and has her own access and benefit dates. Read the first retirement year, then the years when another income begins, healthcare changes or an account becomes usable.
+Nothing about their lifestyle changed between those two calculations. We included costs that were missing. And the withdrawal itself can raise tax, so the complete calculation has to account for that interaction. Gross income and total tax can work, or net deposits with withholding reconciled can work. Subtracting the same tax twice doesn't. Dividends already included in returns and cash can't become another source of growth and income either.
 
-For each interval, identify the accounts that can actually fund it. Bring forward accessible cash and taxable investments, after the Reserve and other commitments. A total retirement balance doesn't show that those dollars are usable in the early years.
+Once that first year makes sense, the timeline shows us where the source may need to change. Alex wants work to be optional at 52, seven and a half years before 59½. Morgan is two years younger and has her own account-access and benefit dates. The year another income begins, healthcare changes or an account becomes usable deserves another look.
 
-If your plan relies on a retirement account before 59½, verify the particular route before counting it. Roth IRA contributions, qualifying workplace separation rules, governmental 457(b) distributions and structured periodic payments have different conditions. Permission to withdraw, ordinary income tax and an additional-tax exception are separate questions. Complete the early-access lesson before a dependent rollover or withdrawal.
+For each interval, we need money that's available then. Cash and taxable investments may fund the early years, but some of those balances already belong to the Reserve or another commitment. A large retirement-account balance doesn't automatically fill an accessible-money gap.
 
-Compare benefit timing with the same spending. Claiming Social Security earlier can reduce the portfolio gap sooner; waiting can increase a later benefit while requiring more money in the meantime. Use actual estimates, earnings and both spouses' circumstances, including survivor benefits. Your own retirement benefit stops earning delayed retirement credits at 70; spousal and survivor rules differ. Match the estimate's dollar convention so inflation isn't applied twice.
+There are legitimate retirement-account routes before 59½, with specific conditions. Roth IRA contributions, qualifying workplace separation rules, governmental 457(b) distributions and structured periodic payments have different treatment. Provider permission, ordinary income tax and an additional-tax exception are separate questions. If your plan depends on one of those routes, the early-access lesson comes before a rollover or withdrawal that could change it.
 
-Then choose which account supplies each withdrawal and which investment is sold inside it. Those are two decisions. A Traditional withdrawal can come from selling a stock fund in that account. Personally held Bitcoin has a taxable sale and its own purchase records. Both can pay a bill, with different tax consequences.
+Benefit timing creates another trade-off. Claiming Social Security earlier can reduce the portfolio gap sooner. Waiting can provide a larger later benefit, but the household funds more of the meantime. The actual estimates, earnings, spouse and survivor circumstances all belong in that comparison. Your own retirement benefit stops earning delayed retirement credits at 70; spousal and survivor rules differ. We also need the estimate's dollar convention so it doesn't receive inflation twice.
 
-Meet required distributions under the actual rules, then compare the remaining account order with a blend when useful. An early Traditional withdrawal can use part of a lower-income period while taxable assets fund the rest. A conversion can use that income window too, but it needs separate spending and tax funding.
+Now we can follow the withdrawal itself. There are two choices inside 'take it from investments': which account supplies the cash, and which investment is sold inside it. A Traditional withdrawal might come from selling a stock fund. Personally held Bitcoin has a taxable sale with its purchase records. Each can pay the bill, with different tax consequences.
 
-Read the cash left for bills, current tax, balances remaining and a later funding year. Keeping Roth or Bitcoin untouched is a preference to test. If the other assets run out before their job ends, change the funding source, spending or work transition.
+Required distributions are handled under their actual rules before the discretionary account order. For the remaining gap, a simple order may work, or a blend may fit the tax and access needs better. Some early spending might come from Traditional and the rest from taxable assets. A conversion can use part of the same income window, but still needs separate spending and tax sources.
 
-If an early interval is short, direct the next comparison at that interval. More accessible saving, a gradual work change, a different purchase date or a verified access route can address it. Adding money only to a later account may leave it unchanged.
+What I want to see is cash available for the bills, tax paid, balances left and what happens in a later funding year. Keeping Roth or Bitcoin untouched is a preference we can test. If the other assets run out before their job ends, that preference needs another source, a spending change or a different work transition.
 
-In the walkthrough, open the first retirement year and follow the money all the way through: income, costs, gap, account and investment sold. Repeat that readback at each important date. Finish with a source for every interval, or a clearly identified gap that needs a decision.
+An early shortfall also tells us where to focus the next improvement. More accessible saving, a gradual work change, moving a purchase or verifying an access route can address it. More money in an account usable much later may leave the immediate gap unchanged.
+
+In the walkthrough, we'll open the first retirement year and follow income, costs, the remaining gap, the account and the investment sold. Then we'll repeat that where the dates change. If early account access is part of your funding, complete that conditional lesson before relying on it. Next, we'll give healthcare its own cost and enrollment review, so the paycheck includes the coverage you'll actually have.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| Start with the spending you want retirement to support. | 1 · Retirement spending | Essentials / flexible / dated events. |
-| Next, total the income that continues. | 2 · Income by person and start date | Identify variable income separately. |
-| Calculate the gap after all costs. | 3 · All costs − income = funding gap | Illustration: $126,000 − $40,000 = $86,000. |
-| Now identify the dates when funding changes. | 4 · Trace the important years | Alex: 52 → 59½ = 7½ years; Morgan has separate dates. |
-| Then choose which account supplies each withdrawal | 5 · Account → investment sold → cash for bills | Distinguish account order and asset sale order. |
+| Your current spending gives us somewhere to start. | 1 · Retirement spending | Essentials / flexible / dated events. |
+| Then there's the income that continues. | 2 · Income by person and start date | Identify variable income separately. |
+| Let's use a separate household to see how the gap is calculated. | 3 · All costs − income = funding gap | Illustration: $126,000 − $40,000 = $86,000. |
+| the timeline shows us where the source may need to change. | 4 · Trace the important years | Alex: 52 → 59½ = 7½ years; Morgan has separate dates. |
+| Now we can follow the withdrawal itself. | 5 · Account → investment sold → cash for bills | Distinguish account order and asset sale order. |
 
 ### Walkthrough handoff — not spoken
 

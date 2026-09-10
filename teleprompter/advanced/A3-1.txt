@@ -1,4 +1,6 @@
-Start with the loan agreement and the Bitcoin you can genuinely dedicate to this debt. Record the full balance you'll need to support, the lender's liquidation and cure requirements, and where the payments come from. Size the debt for a severe decline before deciding how much collateral to post.
+This lesson is for you if you're considering a Bitcoin-backed loan. There are two decisions that can get mixed together: how much debt the household can support through a severe decline, and how much Bitcoin to put with the lender at the start. I want to work through them in that order, because a low-looking starting payment or an available loan limit doesn't tell us whether the whole arrangement will hold up.
+
+We'll use the actual agreement and the Bitcoin you can dedicate to the debt. That includes the full balance we'll need to support, the liquidation and cure requirements and where the payments come from. Then we'll decide what the initial collateral placement means.
 
 I can see a place for borrowing against Bitcoin when the household can afford the debt and accepts the lender risk. The size starts with what that household can carry through a severe decline.
 
@@ -10,7 +12,7 @@ An 80% price decline takes Bitcoin to $20,000. At that price, the 3.5 BTC would 
 
 Calculate the exact boundary so you can leave room below it. Divide $50,000 by 80%. You need $62,500 of collateral. At $20,000 per Bitcoin, that's 3.125 BTC. Exactly 3.125 isn't enough to stay below liquidation. It only reaches the boundary. Our 3.5 BTC gives some room beyond it.
 
-You can also work backward from the Bitcoin you have. An 80% decline leaves 20% of its starting value. Multiply that remaining value by the 80% liquidation threshold. That makes the boundary 16% of the Bitcoin's value today. With $350,000 of supporting Bitcoin, the boundary is $56,000 of debt.
+We can also work backward from the Bitcoin available. An 80% decline leaves 20% of its starting value. Multiplying that remaining value by the 80% liquidation threshold makes the boundary 16% of the Bitcoin's value today. With $350,000 supporting the debt, that boundary is $56,000. It gives us a way to see the limit under these assumptions before deciding what room to leave.
 
 I wouldn't borrow right up to that number. I'd choose a smaller balance based on the room I want and the agreement's other requirements. Our $50,000 example assumes interest and fees are paid from cash flow we've already allowed for. If they'll be added to the balance, I'd reduce the starting loan or set aside more Bitcoin before borrowing. The 16% is specific to this example. It's a boundary calculation, not a recommended borrowing rate.
 
@@ -24,7 +26,7 @@ Next, check every contract condition that could force a sale. The headline liqui
 
 Having enough Bitcoin elsewhere also doesn't mean it will arrive in time. In the earlier lesson, 50% starting LTV reached an 80% liquidation line after a 37.5% decline without a top-up. You need to respond during the decline, well before that point. You can't wait for an 80% drop and then start moving coins.
 
-Then write the operating response. Decide what triggers a top-up and how much you'll add. Allow time for access, transfer and the lender's confirmation requirements. Have a response when you're asleep, traveling or unable to act. Closely watching the price doesn't remove a transfer delay.
+That timing is what the operating instructions need to address. We need a trigger for the top-up, an amount and enough time for access, transfer and the lender's confirmation requirements. There also needs to be a response when you're asleep, traveling or unable to act. Watching the price closely doesn't remove a transfer delay.
 
 An automatic top-up feature may require coins in an account with the provider. It can't simply take Bitcoin from your cold wallet. Check how it works and include that extra provider exposure when choosing where the reserve sits.
 
@@ -32,13 +34,13 @@ Use the balance you'll actually need to support. One year of hypothetical 12% in
 
 Adding collateral keeps the debt in place. Repaying some of the loan reduces it. Set a limit on what you're willing to pledge, then identify the repayment or controlled-sale option if that limit is reached. An 80% stress test isn't a maximum possible loss or a guarantee against liquidation.
 
-Finally, follow the loan through repayment. Borrowing once for a temporary need is different from adding new debt every year to fund retirement.
+There's one more part to follow before calling the loan workable: how it ends. Borrowing once for a temporary need is different from adding new debt every year to fund retirement. The second version can use up the same collateral capacity much faster than the first.
 
-Use the course's smaller recurring-loan example. You borrow $25,000 and add a hypothetical 12% interest at year-end. You owe $28,000. Borrow another $25,000 at the beginning of year two and the balance is $53,000 before interest. Another 12% brings it to $59,360. You received $50,000 and added $9,360 in interest. Actual rates, fees and accrual can differ.
+You can see that in the course's smaller recurring-loan example. You borrow $25,000 and add a hypothetical 12% interest at year-end, leaving $28,000 owed. A second $25,000 draw at the beginning of year two makes the balance $53,000 before interest. Another 12% brings it to $59,360. You've received $50,000 and added $9,360 in interest. Actual rates, fees and accrual can differ.
 
-Each new draw uses some of the same collateral capacity. Recalculate the combined obligation instead of protecting each year's loan with the same supposedly spare Bitcoin.
+Those draws all rely on the same supporting resources. Each new one means recalculating the combined obligation; we can't protect each year's loan with the same supposedly spare Bitcoin.
 
-Compare borrowing with selling for the same after-tax spending need and market path. Include a flat period, an early decline and higher borrowing costs. Name the repayment source at maturity. Refinancing needs a lender and terms available then. Selling later needs enough proceeds after tax. Neither is guaranteed by today's approval.
+That's also why the comparison with selling needs the same after-tax spending need and market path. A flat period, early decline or higher borrowing cost can change what remains. At maturity, refinancing still needs a lender and terms available then, while selling needs enough proceeds after tax. Today's loan approval doesn't guarantee either future answer.
 
 A mix of sales and borrowing may fit better than using either alone. Compare the cash delivered, debt remaining and what stays invested. A larger Bitcoin balance doesn't automatically mean a stronger net position.
 
@@ -46,4 +48,4 @@ Debt also remains an estate obligation. The family needs access to the repayment
 
 The model's confidence result doesn't measure whether the provider will remain solvent or whether a transfer will clear in time. Keep those risks alongside the financial comparison.
 
-Alex and Morgan haven't taken out a Bitcoin-backed loan. These are illustrations to help you examine your own situation. Record the actual terms, total supporting Bitcoin and funded response in your debt plan, without wallet secrets. Choose the debt and posted exposure only when that record shows an affordable payment, timely response and workable exit. Keep the proposal unchosen if one of those is missing.
+Alex and Morgan haven't taken out a Bitcoin-backed loan; these separate illustrations are here to help you examine your own situation. In the walkthrough, we'll bring the actual terms, total supporting Bitcoin and funded response into the debt instructions, without wallet secrets. The proposal stays unchosen if the payment, timely response or principal exit is missing. Once you've worked through those, return to the debt rules and carry the chosen obligation into the rest of your plan.

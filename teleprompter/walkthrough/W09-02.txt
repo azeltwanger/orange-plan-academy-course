@@ -1,7 +1,7 @@
-Open the account where the contribution should have arrived. Compare the contribution date and amount with the provider record. Then check whether the intended investment was purchased or the money is still cash.
+Let's follow the contribution that needs attention. In this account, we're comparing the date and amount with the provider's record, then looking for the investment that was supposed to be purchased. The money arriving and the investment being bought are two different things.
 
-If the purchase instruction wasn't completed, fix that instruction with the provider. Don't add a fictional purchase in Orange Plan. If the purchase did happen but the record is missing, use the account's supported update or activity-import path and review the result.
+If the purchase instruction never completed, that's something to resolve with the provider. Entering a purchase in Orange Plan wouldn't make it happen. If the purchase did happen and the activity is missing here, we can use the account's supported update or import process instead.
 
-Read the receipt before adding another entry. Existing balances and imported activity may describe the same money. Don't count them twice.
+Before adding anything, let's read the receipt. The balance and imported activity may already describe the same money, and we don't want a duplicate. After the supported correction, we'll check the affected total.
 
-Save the supported correction and check the affected total. If evidence is missing, record exactly what's needed and leave the issue open. Remind me later postpones the question; it doesn't resolve it.
+If we still don't have the evidence, the issue stays open with the missing information identified. Remind me later can give us time to get that answer; it doesn't mean the question has been resolved.

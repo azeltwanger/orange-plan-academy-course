@@ -1,5 +1,9 @@
-Read the target gap, then return to the money you can actually contribute. The Reeds' 60% Bitcoin comparison is $784,200 against $728,000 currently held. The $56,200 difference helps direct purchases; it isn't cash available to invest today.
+We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
 
-For the future card-payoff example, $1,000 goes to personally held Bitcoin and $605 to a taxable stock fund. Keep the $500 Reserve contribution separate and the new investment route inactive until payoff.
+First, here's the target gap. In the Reeds' 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
 
-For each contribution, choose the receiving account and the investment it will buy. Check the product’s holdings, fees and strategy. Changing the future purchase instruction doesn't rebalance existing holdings. Review a taxable sale separately if one is needed.
+For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
+
+For each contribution, I'm connecting the amount to the receiving account and the investment it will buy. We still need to know the product's holdings, fees and strategy. A name that sounds like the investment we want isn't enough to establish what it owns.
+
+Changing future purchases doesn't rebalance the investments already held. A taxable sale would need its own review. Next, we'll take these planned instructions to the provider so the money actually arrives and buys what we intended.

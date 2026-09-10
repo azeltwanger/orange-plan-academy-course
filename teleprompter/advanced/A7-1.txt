@@ -1,25 +1,25 @@
-Name the failure you want to fix before choosing a passphrase, multisig or professional support. Write it beside the holding it affects. It might be theft of a backup, loss of one key or a family that needs help operating the setup.
+If you're considering a passphrase, multisig or professional support, there's probably something about the current arrangement you'd like to improve. In this lesson, we'll work through what each option changes, because adding complexity helps only when it addresses the problem you're trying to solve.
 
-First, compare a passphrase with that failure. A passphrase changes the wallet derived from the backup material. It can add protection when the backup alone is exposed, provided the passphrase remains separate and secure under a well-designed process. It also adds an exact secret you must preserve.
+The useful starting point is the holding and the failure you're concerned about. Maybe someone finding one backup could reach too much of the family's Bitcoin. Maybe one missing key would interrupt access. Or maybe the family would need help operating the setup if you weren't available. Those problems can lead to different choices.
 
-A wrong passphrase can open a different valid wallet. That's why checking a word list alone isn't full proof that the intended passphrase wallet can be recovered. The backup, passphrase and verification of the intended wallet need to work together. A passphrase isn't a second cryptographic signer or a legal approval step.
+A passphrase changes the wallet derived from the backup material. It can add protection if the backup alone is exposed, provided the passphrase stays separate and secure under a workable process. You're also taking on another exact secret that must be preserved.
 
-Next, compare multisig. It requires a specified combination of independent keys. A two-of-three policy can authorize a transaction with two of the three keys. If one is unavailable, the remaining two may provide a recovery path, when the configuration, compatible tools and required information are also available.
+A wrong passphrase can open a different valid wallet. That's why checking the word list isn't the whole recovery check. We need the backup, the exact passphrase and a way to verify the intended wallet. A passphrase isn't another independent signer, and it doesn't create legal authority.
 
-Buying three devices doesn't automatically create that arrangement. Loading the same key onto three devices provides copies of one key, not three independent signers. The distinction matters to the failure you're trying to survive.
+Multisig changes who can authorize a transaction. A two-of-three policy can authorize a transaction with two of the three keys. If one is unavailable, the other two may provide access when the configuration, compatible tools and required information are also available.
 
-Now read the support arrangement. Collaborative support can help operate a multisig arrangement while the provider holds only one key. Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. A claimed provider-independent path should be demonstrated safely before you depend on it.
+The independence is what matters. Putting the same key on three devices gives you copies of one key. It doesn't give you three independent signers. That may help with a broken device, but it doesn't provide the same protection as a threshold requiring different keys.
 
-Institutional custody assigns more of the operational work to a provider. It may simplify administration or the family's starting process. In exchange, you depend on the contract, legal ownership, withdrawal procedures and the provider itself. Read those terms instead of assuming an institution supplies unlimited recourse or insurance.
+Collaborative support can help with a multisig process while the provider holds one key. Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. If the arrangement is supposed to remain usable without the provider, that path needs a safe demonstration before you depend on it.
 
-Match each option to the problem you wrote down. If theft of one backup is the concern, a correctly maintained passphrase or threshold arrangement may address it differently. If the concern is that the family can't operate an elaborate process, adding another secret may make the situation worse. Support or simplification may solve the actual problem more directly.
+Institutional custody can move more of the operating work to a provider. The family may have a simpler place to start, but its rights depend on the contract, legal ownership and withdrawal procedures. Support doesn't mean unlimited recourse or insurance.
 
-A split can keep direct control over one portion and professional support for another. Choose the portions by what they're for and the consequence of a problem with either method. Each additional arrangement needs maintaining.
+So let's bring those options back to the original concern. If exposure of one backup is the problem, a carefully maintained passphrase or threshold can address it in different ways. If the family is already struggling with the process, another secret might add more difficulty. Support or a simpler arrangement may be the more useful change.
 
-Before moving meaningful funds, test the proposed improvement against the named failure. Can the intended wallet be recovered when one key, device or provider is missing? Is the configuration available through the protected process? Does the person responsible know how to start?
+You might also choose direct control for one portion and support for another. The amounts depend on what they're for and the consequence of losing access to either route. Each extra arrangement still needs maintaining.
 
-Use current official instructions and a separate small-value setup for learning. Its successful recovery proves that setup, not a different funded wallet. Actual arrangements need their own appropriate safe verification.
+Before moving meaningful funds, we need to see whether the proposed improvement survives the failure you named. That includes the keys, configuration, tools and the person who would start the process. A safe test of a separate small-value wallet teaches that procedure; it doesn't certify a different funded arrangement.
 
-Keep secret material and sensitive configurations out of ordinary course notes. Use the comparison to record the protection gained, the added responsibilities and costs, the risks that remain, and the family's access process. Keep the recovery kit private.
+Keep the recovery kit private. Ordinary planning notes can describe the protection gained, responsibilities added, costs and risks remaining without containing secrets, sensitive descriptors or extended keys.
 
-Record the chosen direction, the failure it addresses, the responsibilities it adds and the test still required. Keep the move planned until that test covers the actual intended arrangement. If no option improves the problem enough to justify its complexity, keep the simpler setup.
+In the custody walkthrough, we'll record the direction you're considering and the test still needed. Keep the move planned until that test covers the actual intended arrangement. Then return to the recovery lesson, where we'll connect the setup to the evidence and account security. If the extra complexity doesn't improve a meaningful problem, keeping the simpler arrangement can be the decision.

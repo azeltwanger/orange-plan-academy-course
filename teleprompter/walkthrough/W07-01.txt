@@ -1,5 +1,5 @@
-Open Bitcoin access and start with the holding you want to review. Match it to the account that owns it. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Keep those access processes separate.
+We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
 
-Record what this portion is for and who controls it today. Then record the change you're considering, if there is one. A planned move stays separate from the current arrangement.
+For this holding, we're recording what the money is for and who controls it today. If you're considering a move, that belongs beside the current arrangement as a planned change. We don't want the family reading a future intention as something that's already happened.
 
-Add the person who handles the ordinary tasks and the backup who has agreed to help. Include the first unfinished action, such as confirming a provider's recovery process. Save the non-secret record, reopen it and check that it still points to the correct holding. Leave recovery words and precise secret locations out.
+The next part is who handles the ordinary work and who has agreed to help if that person is unavailable. An unanswered provider question can stay as the next action here. Once we save and reopen the record, we can check that it still points to the right holding. This is a map of the process, so recovery words and precise secret locations stay in their protected records.

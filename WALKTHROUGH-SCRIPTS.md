@@ -14,7 +14,11 @@ Open the intended Home → Your Plan entry, then Plan → Build & improve. Point
 
 **Narration:**
 
-Start on Home and open your plan. Build & improve takes us to the information needed for the next step. We'll begin with the facts you have today. The Reeds' mortgage already exists, so it belongs with their debts. College support is a future commitment to include with its dates. The renovation is still a possibility, so we'll compare it separately. Open the first account that needs attention and have its latest statement beside you. We'll complete that record before opening another.
+We're going to start building the plan from the information you have today. Here on Home, I'll open the plan and use Build & improve to get to the next piece we need.
+
+Before we add anything, notice the difference between these three examples. The Reeds' mortgage already exists, so it's a debt. College support is a future commitment with dates attached. The renovation is still an idea, so we'll compare it separately.
+
+Let's begin with the first account that needs attention, with the latest statement beside it. We'll work through that record before moving on, so we can see where each number comes from.
 
 **Overlay:**
 
@@ -38,7 +42,11 @@ Use Home → Your Money to open the category-filtered Accounts view and one acco
 
 **Narration:**
 
-Open the account from the money category on Home. Match its name, owner and account type to the statement first. Then read the balance and the investments inside it. A Roth IRA is the account type; it doesn't tell us what Alex owns in it. For a cash account, verify the cash balance. For the Bitcoin location, verify the quantity and where the coins are held, using a plain name without recovery information. Review an existing account here instead of adding it again. After saving a correction, return to the account and compare it with the same statement.
+Here we're looking at one account from the money category on Home. Before getting into what it owns, I'm matching its name, owner and account type to the statement. If it's already entered, this is the record we're reviewing. Adding another would count the same money twice.
+
+Alex's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
+
+After a correction is saved, I'll reopen the account beside the same statement. That lets us see whether the record now describes what the household actually owns.
 
 **Overlay:**
 
@@ -62,7 +70,11 @@ Open account detail → How this account updates in an authorized synthetic conn
 
 **Narration:**
 
-Read what this connection supplies before treating the account as complete. A reported balance tells us the total at that source. The holdings explain what makes up that total. Activity and purchase details answer different questions about how it got there. If the balance arrived without the investments, open the statement and fill in the missing composition. If purchase history is incomplete, keep that question for the tax work. Also read when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+This account is connected, but let's look at what that connection actually supplies. The balance tells us the total. Holdings explain what's inside it. Activity and purchase details answer different questions about how it got there.
+
+If the total arrived without the investments, the statement can help us fill in that composition. Missing purchase history can stay with the tax question it needs to answer. We're also looking at when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+
+That tells us what's ready to use and which part still needs our input. Next we'll look at an account where we know the total but need to explain the investments.
 
 **Overlay:**
 
@@ -86,7 +98,11 @@ At the same $145,000 Roth account, use Holdings needed → Add investments. Ente
 
 **Narration:**
 
-We know this account's total. Now explain what is inside it. Use the actual investment name and quantity when the statement supplies them. If you only know an approximate mix, keep it labeled as an estimate rather than naming securities you haven't verified. The Reeds' teaching example assigns $116,000 to spot Bitcoin-fund exposure and $29,000 to stocks inside one $145,000 Roth. Those amounts explain the total; they don't increase it. Identify any cash separately from the statement. Leave an unexplained remainder unresolved. Save the composition, then reopen the account and check that the same total is counted once.
+We know this Roth account is worth $145,000. What we're doing here is explaining that balance, so the plan knows how the money is invested.
+
+When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. The Reeds' teaching example has $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
+
+Any cash needs to come from the statement too. We won't make an unexplained remainder into cash just to finish the record. After saving, let's reopen the account and make sure the composition explains the same total once. Any remaining difference stays visible until we can explain it.
 
 **Overlay:**
 
@@ -110,7 +126,11 @@ In one account detail, use Upload account activity or the supported purchase-det
 
 **Narration:**
 
-Use this chapter when you have purchase or transfer records relevant to holdings already in your plan. If those records don't apply or aren't available yet, note the missing information and continue to chapter six for the monthly picture. When they do apply, open the account where the history belongs and inspect the records before accepting them. This purchase explains Bitcoin already included in today's holdings. It isn't a new purchase today. Follow the movement from the exchange to the wallet as a transfer, keeping its original history attached. If the same purchase is already recorded, don't accept a second copy. After the history is attached, compare the household quantity before and after. It should change only when a previously missing real position has been identified. Unknown purchase details stay unknown until a source supports them.
+This part is useful when you have purchase or transfer records for holdings already in your plan. If those records don't apply, or you don't have them yet, note what's missing and continue to chapter six for the monthly picture. You don't need to repair an unrelated old purchase before you do that.
+
+Here, the purchase explains Bitcoin already included in today's holdings. It isn't a new purchase today. As we follow it from the exchange to the wallet, the transfer keeps the original history attached. If the same purchase is already here, accepting it again would give us a duplicate.
+
+I'll compare the household quantity before and after the history is attached. It only changes if we've identified a real position that was missing. Otherwise, we've learned more about the same Bitcoin. Unsupported purchase details stay unknown, and we can move on to the monthly starting picture.
 
 **Overlay:**
 
@@ -134,7 +154,11 @@ Open Cash Flow → Income, Taxes and withholding, Everyday spending, Debt paymen
 
 **Narration:**
 
-Start with what each income amount includes. Alex's gross pay is before deductions. Morgan's example income is after ordinary business costs, with the equipment-loan payment still counted separately. Follow those meanings into the fields. In our teaching calculation, gross income is about $19,417 a month. The $4,000 tax allowance, $10,800 living costs and about $3,342 required debt leave $1,275. Alex's $775 employee contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving and isn't available for bills. Now trace the app's actual result from its income and tax inputs. Resolve any difference in those inputs before assigning another transfer.
+Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. Alex's gross pay is before deductions. Morgan's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
+
+In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. Alex's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
+
+Let's follow the app's actual result from its income and tax inputs. If it differs from the illustration, we need to understand those inputs before assigning another transfer. That's the monthly picture we'll use when we record the retirement question next.
 
 **Overlay:**
 
@@ -158,7 +182,11 @@ Use Plan → Build & improve to reach the accepted retirement timing and spendin
 
 **Narration:**
 
-Set when each person intends to change work. Alex wants work to become optional at 52. That records his intention; the calculation will test whether the plan funds it. Keep Morgan's income on its own timeline. Then review retirement spending in the dollar units shown here. Start with current costs, remove the ones that really end and add healthcare or other costs that begin. Attach any Social Security or pension estimate to the right person and start date. Save the question you're testing and keep a missing benefit estimate visible until you have its source.
+With the starting facts in place, we can enter the work-change question you wrote down at the beginning. Alex wants work to become optional at 52. That records his intention; the calculation will test whether it can be funded. Morgan's income stays on its own timeline.
+
+For retirement spending, we'll begin with current costs, remove the ones that really end and add healthcare or other costs that begin. The dollar units shown here matter, so we don't apply inflation twice. Any Social Security or pension estimate belongs to the right person and start date.
+
+Once this is saved, we have a question to test. A missing benefit estimate stays visible until there's a source for it. Next we'll read the assumptions the plan uses to look beyond today's facts.
 
 **Overlay:**
 
@@ -182,7 +210,11 @@ Open Plan → Overview → Assumptions to identify the approved build's actual n
 
 **Narration:**
 
-Start with the app's standard preset for a new plan and read what it assumes. You can keep it while you learn what the numbers mean; a change needs a reason beyond producing a better result. Read the return path in an early year and a later year. A declining growth assumption can look very different from one fixed annual rate. Check inflation and the planning horizon too. Now make a separate comparison with a weaker growth path. Keep retirement timing, spending and contributions unchanged so we can see what this assumption does. Open the first year where funding differs and trace the need to its income and account sources. The useful finding is which household decision becomes harder. Return to the current plan when you're done; looking at a weaker path doesn't mean you've chosen it as the new assumption.
+These are the assumptions behind the plan we just built. We'll start with the app's standard preset for a new plan and read what it means. You can keep it while you learn; changing it needs a reason beyond making the result look better.
+
+I'm looking at the return path in an early year and a later year, then inflation and the planning horizon. A declining growth path can be quite different from one fixed annual rate. Now we'll make a separate weaker-growth comparison with retirement timing, spending and contributions unchanged.
+
+Let's follow the first year where the funding differs and see which income or account has to do more. That tells us which household decision becomes harder under this assumption. Then we'll return to the current plan. Testing a weaker path doesn't choose it as the new starting assumption, and we can read the main result with that distinction clear.
 
 **Overlay:**
 
@@ -206,7 +238,11 @@ Read Plan → Overview’s full-Plan receipt: chosen timing/spending/horizon, di
 
 **Narration:**
 
-Read the date and spending being tested before reading the percentage. The successful-path count tells us how many modeled futures funded the plan through its horizon under these rules. It doesn't promise the outcome for this household. Open the first year after work changes. Follow income, costs and taxes, then the amount supplied by investments. If that withdrawal is surprising, find the event or obligation behind it. Choose one fact to correct or one realistic change to compare. When the starting plan already fits, keep it and record the limitation that still matters.
+Here we're ready to read the first complete result. I'll start with the work date, spending and horizon, because the percentage describes that question. The successful-path count tells us how many modeled futures funded it under these rules; it doesn't promise what happens to this family.
+
+Let's open the first year after work changes and follow the income, costs and taxes, then what investments have to supply. If that withdrawal is surprising, the event or obligation behind it is what we need to understand.
+
+From there, we can choose a fact to correct or a realistic change to compare. If the starting plan fits, keeping it is a valid result too, with its important limitation still visible. In the next take, we'll use Ask to help trace one of these numbers back to its source.
 
 **Overlay:**
 
@@ -230,7 +266,11 @@ Open Ask with the populated plan and ask a specific question about a visible res
 
 **Narration:**
 
-Ask about one number you can already see. I'm asking it to walk from income to the remaining monthly amount and show what has been deducted. Read the response beside the cash-flow rows. The date, income, taxes and existing contribution need to match. If they don't, keep the question open and find the difference before changing the plan. You can use the same approach for a retirement withdrawal or a missing tax input. For an outside AI review, inspect the actual summary before sharing it. A restore backup serves a different purpose, and removing a name doesn't remove every private detail.
+Let's use Ask for a question we can check against the plan. I'm asking it to walk from income to the monthly amount remaining and explain what's already been deducted. That gives us something concrete to compare with the cash-flow rows.
+
+The date, income, taxes and existing contribution all need to match. If they don't, we keep that question open and find the difference before changing the plan. We can use the same approach for a retirement withdrawal or a missing tax input.
+
+If you use an outside AI review, read the actual summary before sharing it. A restore backup has a different purpose, and removing a name doesn't remove every private detail. What we're taking forward is the fact or choice we need to work on. Next we'll go into Cash Flow and check how the monthly amount matches your records.
 
 **Overlay:**
 
@@ -256,7 +296,11 @@ Open Cash Flow → Income and Taxes and withholding, then the summary’s debt a
 
 **Narration:**
 
-Open the income source and match its meaning to the records. Gross pay still has deductions to account for; the bank deposit already has them taken out. For Morgan, ordinary business costs are already deducted, but the equipment payment remains separate. In our original teaching calculation, costs leave $1,275 before Alex's $775 contribution and $500 after it. The employer adds $387.50 to retirement money. Now follow where the remaining cash actually went over the period: checking, saving, or a cost missing from the plan. Resolve that difference at its source. Withholding changes cash available and the amount still due; it doesn't by itself change the calculated tax obligation.
+We've entered a starting monthly picture. Here we're checking whether it agrees with the records before using the amount left over. I'll begin with the income source, because gross pay still has deductions to account for while a bank deposit already has them taken out. Morgan's ordinary business costs are deducted, but the equipment payment remains separate.
+
+In our original teaching calculation, $1,275 before Alex's $775 contribution becomes $500 afterward. The employer adds $387.50 to retirement money. Let's follow where the remaining household cash actually went: checking, saving or a cost we haven't included.
+
+Any difference needs resolving at its source. A withholding change affects cash available and the amount still due; it doesn't by itself change the calculated tax obligation. Once the income side makes sense, we can look more closely at the spending period.
 
 **Overlay:**
 
@@ -280,7 +324,11 @@ Open Cash Flow → Your Plan uses and Everyday spending → Verify Spending. Com
 
 **Narration:**
 
-Read the spending method and the months behind it. Use the records to decide whether that period describes the costs continuing now. A permanent change may make the recent period more useful, but annual bills still need coverage. Here, the grocery purchase is spending and the card payment settles it; counting both would repeat the cost. Keep repayment of an older balance separate. For a generic $1,200 annual premium, allow $100 a month rather than treating eleven months as free. Save the supported spending estimate, then look at payment timing. Keep enough in checking for bills that leave before the next paycheck, and arrange saving after that need is covered.
+Here we're checking the method and months behind the spending number. A recent permanent change may make newer records more useful, but the annual bills still need a place in that amount.
+
+This grocery purchase is spending. The card payment settles it, so counting both would repeat the cost. Repayment of an older balance is a separate debt need. And a generic $1,200 annual premium represents $100 a month, even if eleven monthly statements don't show the bill.
+
+Once the supported estimate is saved, let's look at when the money leaves. Checking needs enough for the bills before the next paycheck, with saving arranged around that need. That gives us a current amount we can trust before comparing a spending change.
 
 **Overlay:**
 
@@ -304,7 +352,11 @@ Use a Keep/Cut/Reduce teaching card beside the original spending. In Plan → Sc
 
 **Narration:**
 
-Start with a cost you would actually change. Keep it when the value is worth the price. Cut an expense you no longer choose. Reduce the price or amount of something you still want, after checking fees and any lost coverage. The Reeds' proposal reduces living costs by $1,200 a month. In the teaching example that changes remaining money from $500 to $1,700. They still need to identify the bills that make the reduction possible. Compare the proposal first. Record when the real change begins, then update current spending when it has happened. Saving a lower figure doesn't cancel a service or make the saving appear in the bank. In the Reserve and Debt examples that follow, we're testing this reduced-spending version. Your actual surplus stays unchanged until the spending changes happen.
+Now we can use the spending records to compare a change you'd actually make. With Keep, Cut and Reduce, we're asking which costs are worth their price, which you no longer choose and which could cost less without giving up something you need. Fees and lost coverage belong in that last decision.
+
+The Reeds' proposal cuts living costs by $1,200 a month. In the teaching example, that changes the amount available from $500 to $1,700. They still need to identify the bills that make it possible. We'll compare the proposal first, then record when the real change begins and update current spending once it has happened. Saving a lower figure doesn't cancel a service.
+
+For the Reserve and Debt examples that follow, we're testing this reduced-spending version. Your actual surplus stays unchanged until those spending changes happen. Keep that distinction with the number as we move on.
 
 **Overlay:**
 
@@ -328,7 +380,11 @@ Open Cash Flow → Cash reserve, inspect essential spending and select months. U
 
 **Narration:**
 
-Start with essential spending. The Reeds' $7,200 includes required household debt payments, so we don't add them again. We're testing six months, which gives a $43,200 target. Now choose what existing money counts. Leave checking money for near-term bills, tax money and other committed amounts out of this assignment. Check access as well as value; pledged Bitcoin or money you can't readily use isn't equivalent to available cash. The example assigns $32,000, leaving $11,200 still to fund. This is a job for existing money, not another asset. Save the assignment and reopen it to check the same sources and gap.
+Let's give the Reserve a target using the essential costs from the lesson. The Reeds' $7,200 includes required household debt, so we're not adding those payments again. Testing six months gives a $43,200 target.
+
+Now we're looking at the existing money available for that job. Checking money for near-term bills, tax money and other committed amounts stay out of this assignment. Access matters too: pledged Bitcoin or money you can't readily use isn't the same as available cash.
+
+The example assigns $32,000, leaving $11,200 to fund. We haven't added an asset; we've given existing money a job. After saving, I'll reopen the assignment so we can see the same sources and gap. Then we'll compare how quickly to close it beside the debt.
 
 **Overlay:**
 
@@ -352,7 +408,11 @@ Carry the same gap into the approved Reserve funding/contribution owner. Show pr
 
 **Narration:**
 
-We're testing the reduced-spending version with $1,700 available. Your actual surplus stays unchanged until those spending changes happen. At $500 a month, the $11,200 gap takes 22.4 months, reaching the target with part of the twenty-third monthly deposit, before interest or withdrawals. Decide whether the household can carry that gap while income is interrupted. I'd give accessible cash more weight when dependents rely on one income and the bills otherwise need more borrowing. Building cash faster may be worth slower extra-debt repayment, with required payments still covered. The Reeds have a stable paycheck and variable business income; they aren't a single-income example. Their proposed $500 Reserve pace leaves $1,200 of the same $1,700 for the card. Keep that split visible when you move to Debt. Arrange the bank transfer only after the combined choice is settled.
+We're still testing the reduced-spending version with $1,700 available. Your actual surplus stays unchanged until those spending changes happen. At $500 a month, the $11,200 Reserve gap takes 22.4 months, reaching the target with part of the twenty-third deposit before interest or withdrawals. That's almost two years to consider alongside the risk we're covering.
+
+I'd give accessible cash more weight when dependents rely on one income and an interruption would otherwise require more borrowing. Building it faster may be worth slower extra-debt repayment, with required payments still covered. The Reeds have a stable paycheck and variable business income; they aren't a single-income example.
+
+Their proposed $500 Reserve pace leaves $1,200 of the same $1,700 for the card. We'll carry that split into Debt before settling it. The bank transfer comes after the combined decision, when we know the two choices fit together.
 
 **Overlay:**
 
@@ -376,7 +436,11 @@ Open Plan → Overview → Life events. Add the reviewed expected vehicle need a
 
 **Narration:**
 
-Enter the expected event with its amount, date and frequency. A vehicle purchase happens once; an income change belongs to the person and period it affects. Check whether the amount is today's estimate or a future quote before applying inflation. Now open the affected year and trace what funds the need. Income, existing savings and an investment withdrawal have different consequences for what remains. The event records an expense; it doesn't start a separate saving transfer. Keep the renovation in its own comparison until chosen. When a planned change later becomes today's fact, reconcile the old event too so the plan doesn't apply it twice.
+Here we're adding an expected change to the plan. The amount, date and frequency describe what happens: a vehicle purchase happens once, while an income change belongs to the person and period it affects. The dollar basis tells us whether we're using today's estimate or a future quote before applying inflation.
+
+Let's follow it into the affected year and see how it's funded. Income, existing savings and an investment withdrawal leave different resources afterward. Adding the event tells the plan an expense is coming; it doesn't start a separate saving transfer.
+
+We'll keep the possible renovation in its own comparison until it's chosen. And when a planned change becomes today's fact, the old event needs reconciling so it doesn't happen twice. If college is part of your plan, the next take applies this to its several years of payments. Otherwise, you're ready to carry the expected costs into Debt.
 
 **Overlay:**
 
@@ -400,7 +464,11 @@ Use Plan → Life events for the annual commitment and the existing education re
 
 **Narration:**
 
-Record the help the parents intend to provide: $20,000 a year for four years in this example. Assign $29,000 of the education money to the older child and keep the other $29,000 for the younger child. That leaves $51,000 for the older child's commitment. Having it all ready in five years, with flat costs and no growth, takes $850 a month. Now put that claim beside the proposed $500 Reserve and $1,200 extra card payments. They already use the $1,700. Choose what changes or keep the college funding decision open. If saving starts after the card ends, recalculate with fewer months remaining. Then inspect the tuition years and the income and accounts actually funding them.
+Let's place the college commitment beside the money we've already assigned. In this example the parents intend to help with $20,000 a year for four years. Of the existing education money, $29,000 goes toward the older child's commitment, with the other $29,000 kept for the younger child. That leaves $51,000 to fund.
+
+Having all of it ready in five years, with flat costs and no growth, takes $850 a month. But the proposed $500 Reserve and $1,200 extra card already use the $1,700 available. So the useful decision is what changes, or what still needs answering before the college commitment is funded.
+
+If saving begins after the card ends, we'll recalculate with fewer months remaining. Then we can inspect the tuition years and the income and accounts actually paying them. That commitment goes with us into Debt, so the next choice doesn't use the same money again.
 
 **Overlay:**
 
@@ -426,7 +494,11 @@ Use Home → Your Money → Debt and open one existing debt detail at a time. Re
 
 **Narration:**
 
-Open the existing debt and match its balance, rate and required payment to the lender record. The card's $405 minimum isn't all principal. Our rough first-month calculation uses about $235 for interest and about $170 for principal, before purchases or fees. The actual statement has its own billing rules. The home-equity line is different: interest-only payments leave principal to repay later. Find its payment-change date and exit. Then read required debt beside Cash Flow. The teaching payments are about 17% of gross income, but the original example leaves only $500 after its other costs and Alex's contribution. The ratio doesn't supply extra payment money.
+We're going to look at what the existing debts require before deciding about extra payments. Here I'll match the balance, rate and required payment to the lender record. The card's $405 minimum isn't all principal: the rough first-month illustration has about $235 of interest and $170 of principal before purchases or fees. The actual statement has its own billing rules.
+
+The home-equity line has a different issue. Its interest-only payment leaves principal to repay later, so the payment-change date and exit matter. Let's keep those beside the cash-flow picture.
+
+The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and Alex's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
 
 **Overlay:**
 
@@ -450,7 +522,11 @@ Read included household assets and debt, with net worth separately. Use the unch
 
 **Narration:**
 
-Start with assets before subtracting debt. The Reeds' included $1,996,000 of assets and $444,500 debt give about 22% debt-to-assets. Their home and restricted or dedicated accounts aren't all cash for repayment. In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same, moving the ratio to about 37%. Now separate that from one lender's collateral test. With fixed debt and an assumed 80% liquidation line, 50% initial LTV reaches the line after a 37.5% price fall. Posting enough for 25% initial LTV gives a 68.75% decline to the same line. These compare upfront collateral; the actual agreement's call, cure and liquidation rules govern the loan.
+Here we're separating the household's overall debt from one loan's collateral requirements. The Reeds' included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
+
+In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same. The ratio moves to about 37%. That shows what a fall in asset values does to the household measure.
+
+Now consider the separate lender test. With fixed debt and an assumed 80% liquidation line, 50% initial LTV reaches it after a 37.5% price fall. Posting enough for 25% initial LTV gives a 68.75% decline to that same line. Those numbers compare upfront collateral. The actual agreement's call, cure and liquidation terms are what go into the response rules, alongside the household's ability to fund them.
 
 **Overlay:**
 
@@ -474,7 +550,11 @@ In Plan → Scenarios, compare extra card payments against the same current inpu
 
 **Narration:**
 
-We're continuing the reduced-spending test. Your actual surplus stays unchanged until the spending changes happen. Compare the card using the extra amount the cash flow can support. In this illustration, $500 goes toward the Reserve and $1,200 toward extra card principal. The $405 required payment was already counted, so the card payment totals $1,605. Read the payoff date and interest under the comparison, then check that required payments and the Reserve remain funded. For the mortgage, compare interest avoided with cash becoming home equity. Extra principal may shorten the term without lowering next month's payment, and property costs continue after payoff. Save the action you choose in Debt, reopen it and check the terms. Record any lender-payment change as a separate outside action.
+We're continuing the reduced-spending test. Your actual surplus stays unchanged until the spending changes happen. Here we're comparing the card with $500 going to the Reserve and $1,200 of extra card principal. The required $405 was already counted, so the total card payment is $1,605.
+
+Let's read the payoff date and interest under that comparison, then see whether required payments and the Reserve still fit. With the mortgage, we're weighing interest avoided against cash becoming home equity. Extra principal may shorten the term without reducing next month's payment, and property costs continue after payoff.
+
+Once you've chosen an affordable action, we'll save it in Debt and reopen it to check the terms. Changing the lender payment is a separate outside step. The saved choice is what we carry back into Cash Flow, so it only uses the money once.
 
 **Overlay:**
 
@@ -498,7 +578,11 @@ Use Plan → Scenarios for one hypothetical $30,000 project at the reviewed date
 
 **Narration:**
 
-Keep the purchase and date the same across the alternatives. Using $30,000 from the $32,000 Reserve leaves $2,000 for that job. A taxable sale needs enough proceeds after its actual tax cost. A loan keeps cash initially, but its payment must fit beside the Reserve and card. Read the ending principal with the monthly payment. In the separate $20,000 example, about $406 a month pays down the loan over five years; about $133 interest-only leaves the $20,000 owed. For a refinance, price the whole replacement mortgage. For unusual terms, use the actual settlement formula, guarantees and use restrictions. Keep any unmodeled contract term beside this comparison and resolve it before choosing. A smaller or delayed project may be the affordable result.
+Let's compare one purchase using the same amount and date in each version. Paying $30,000 from the $32,000 Reserve leaves $2,000 for that job. A taxable sale needs enough proceeds after its actual tax cost. Financing keeps cash initially, but the payment has to fit beside the Reserve and card.
+
+The final balance is part of that comparison. In our separate $20,000 example, about $406 a month pays the loan down over five years; about $133 interest-only leaves the $20,000 owed. A refinance needs the full replacement mortgage priced, while unusual terms need their actual settlement formula, guarantees and use restrictions.
+
+We'll keep any contract term the app doesn't represent beside the comparison and resolve it before choosing. A smaller or delayed project may be the affordable answer. Whichever direction you choose, the payment and principal exit go into the debt rules next.
 
 **Overlay:**
 
@@ -522,15 +606,17 @@ Use the existing debt instructions/worksheet alongside Debt for actual loans or 
 
 **Narration:**
 
-Write where regular payments come from and how the principal gets repaid. If repayment uses a sale, name the amount, date and response if proceeds are late or smaller. If it uses refinancing, include what you'll do if approval isn't available. Then record the point that triggers a review, the resource you can use and the person responsible. Someone trusted needs a way to recognize a time-sensitive issue and find the safe instructions when you're unavailable. Keep wallet secrets out of this record.
+This is where the borrowing decision becomes something the household can follow. We're writing where the regular payments come from and how the principal gets repaid. If that uses a sale, the amount, date and response to smaller or late proceeds matter. If it uses refinancing, we need an answer for approval not being available.
 
-For a Bitcoin-backed loan, size the full obligation before choosing posted collateral. This separate example dedicates 3.5 BTC to $50,000 debt when Bitcoin is $100,000. After an 80% decline, those coins are worth $70,000. If posted in time, that is about 71.4% LTV. At the assumed 80% liquidation line, 3.125 BTC merely reaches the boundary. The 3.5 BTC provides some room, but any stricter call-cure or maturity term must also be met.
+Then we can connect a review trigger to the resource and person who will respond. Someone trusted needs a way to recognize a time-sensitive problem and find the safe instructions while you're unavailable. Wallet secrets stay out of this record.
 
-The $50,000 opening amount assumes separately funded interest and fees. One hypothetical year of 12% capitalized interest makes the balance $56,000, exactly 80% of the stressed $70,000 collateral. Reduce the initial principal or dedicate more Bitcoin before borrowing when costs accrue.
+If you're using the Bitcoin-loan lesson, there's a separate sizing example to work through here. We start with the full obligation before deciding how much collateral to post. This example dedicates 3.5 BTC to $50,000 of debt when Bitcoin is $100,000. After an 80% decline, those coins are worth $70,000. If posted in time, that's about 71.4% LTV. At the assumed 80% liquidation line, 3.125 BTC only reaches the boundary. The 3.5 BTC provides some room, but any stricter call-cure or maturity term still has to be met.
 
-After sizing the debt, posting 1 BTC starts this loan at 50% LTV and leaves 2.5 BTC reserved in cold storage. Posting all 3.5 starts the same loan at about 14.3%. The smaller initial deposit reduces lender exposure, but requires a faster response. Reserve coins count for lender LTV only after they arrive and are credited. Write the top-up trigger, amount, access time and maximum collateral you're willing to expose. An automatic feature can't reach into your cold wallet. Use the actual lender's funding and confirmation requirements.
+The $50,000 opening amount assumes separately funded interest and fees. One hypothetical year of 12% capitalized interest makes it $56,000, exactly 80% of the stressed $70,000. So if costs accrue, the initial principal needs reducing or more Bitcoin needs dedicating before borrowing.
 
-For repeat borrowing, add every draw and accrued cost to the same obligation. In the separate recurring example, $25,000 becomes $28,000 after 12% interest. A second $25,000 draw makes $53,000; the next 12% makes $59,360. Don't reuse the same spare collateral for each draw. Keep the proposal unchosen if the payment, timed response or final repayment still lacks a resource.
+After sizing the debt, posting 1 BTC starts it at 50% LTV and leaves 2.5 BTC reserved in cold storage. Posting all 3.5 starts the same loan at about 14.3%. The smaller initial deposit reduces lender exposure but needs a faster response. Reserved coins only count for lender LTV after they arrive and are credited. That's why the top-up trigger, amount, access time and maximum collateral exposure belong here. An automatic feature can't reach into your cold wallet; the actual funding and confirmation requirements still apply.
+
+Repeat borrowing uses the same supporting resources too. In the recurring illustration, $25,000 becomes $28,000 after 12% interest. The next $25,000 draw makes $53,000, and another 12% makes $59,360. We can't reuse the same spare collateral for each draw. If the payment, timed response or final repayment still lacks a resource, the proposal stays unchosen. Once the rules are supported, we can carry the chosen obligation back into the household cash flow.
 
 **Overlay:**
 
@@ -554,7 +640,11 @@ Return to Cash Flow → Debt payments and Saving and investing. Read the saved e
 
 **Narration:**
 
-Read the same payment choice back in Cash Flow. The reduced-spending illustration has $2,475 before Alex's $775 employee contribution and $1,700 after it. The $500 Reserve and $1,200 extra-card plan use that money once. There isn't another amount to invest now. When the card is actually paid off, verify the payments that ended and any remaining charge. The example's $405 required plus $1,200 extra would release $1,605 if those were still being paid. That future money needs a new decision; payoff doesn't automatically send it to investments. Carry today's claims and that future review condition into the contribution plan.
+Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before Alex's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
+
+When the card is actually paid off, we'll verify which payments ended and whether any charge remains. The example's $405 required plus $1,200 extra would release $1,605 if those were still being paid. That future money needs a new decision; payoff doesn't automatically send it into investments.
+
+What we take into Allocation is today's chosen claims and that future review condition. Then we can decide where contributions go and what they buy, using the money actually available at the time.
 
 **Overlay:**
 
@@ -580,15 +670,17 @@ Open Plan → Portfolio and allocation. Expand the included-assets explanation a
 
 **Narration:**
 
-Open Plan, then Portfolio and allocation. Start with Current. Open the assets included in this percentage and check that every holding is counted once.
+Here's the portfolio we put together earlier. I'm starting in Plan, under Portfolio and allocation, with Current. Before we decide what to change, I want to make sure this percentage describes everything we intended to include.
 
-In our Reed example, direct Bitcoin is worth $410,000 and the spot Bitcoin funds are worth $318,000. Add those for $728,000 of exposure. The funds remain investments inside their accounts; the direct quantity is 4.1 Bitcoin.
+In the Reed example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
 
-Read the dollar totals before comparing percentages. Check the cash and stock holdings as well. Keep dedicated education and healthcare money attached to their jobs. Use the same included portfolio when you move from Current to Target.
+I'm opening the included assets so we can see where those dollars came from, along with the stock and cash holdings. If an account contains several investments, we count those holdings once. We don't add the account balance again on top.
+
+Dedicated education and healthcare money still have their own jobs. Once the included holdings agree with our records, we can compare Current with a target using that same group of assets. That gives us a useful starting point for the role we want Bitcoin to have.
 
 **Overlay:**
 
-Cue “Start with Current.” → Current holdings; cue “Add those” → $410,000 + $318,000 = $728,000, labeled Reed illustration.
+Cue “with Current.” → Current holdings; cue “Together, that's $728,000” → $410,000 + $318,000 = $728,000, labeled Reed illustration.
 
 **Verify:**
 
@@ -608,13 +700,17 @@ Display a separate four-path orientation graphic, then the existing target choic
 
 **Narration:**
 
-Choose the role you want Bitcoin to have before entering a target. Use the four descriptions as orientation: Foundation, Integration, Optimization and Sovereign. The ranges describe different roles; they aren't levels you need to progress through.
+Now that we know the current mix, let's talk about what we want it to become. Before entering a percentage, I'd come back to the role you chose for Bitcoin in the teaching lesson.
 
-Keep your spending dates and the other household member in this decision. Choose a starting amount to test, then leave room to fund the Reserve and approaching expenses. We’ll test that amount against those jobs before saving the target.
+These four descriptions can help with that conversation: Foundation, Integration, Optimization and Sovereign. They describe different intentions. Someone with a smaller position isn't behind someone with a larger one.
+
+The amount we test needs to fit the people who share this money and the dates when they'll need it. A position can feel comfortable while markets are rising and very different when a bill arrives during a decline.
+
+For now, we're choosing a starting amount to test. The next step is to put the Reserve and approaching expenses beside it. If those jobs don't have enough funding, we can adjust the proposal before saving a target.
 
 **Overlay:**
 
-Cue “Use the four descriptions” → Four illustrative paths; cue “before saving the target” → Starting choice → funding check → target.
+Cue “These four descriptions” → Four illustrative paths; cue “before saving a target” → Starting choice → funding check → target.
 
 **Verify:**
 
@@ -634,15 +730,17 @@ Show separate $1 million arithmetic graphic, then the approved funding rows and 
 
 **Narration:**
 
-Bring forward the Reserve you already chose, then add committed expenses with separate funding needs. In this separate $1 million illustration, $500,000 goes to the proposed Bitcoin position. The $60,000 Reserve and $40,000 purchase use $100,000. That leaves $400,000 for long-term stock exposure: 50% Bitcoin, 40% stocks and 10% cash.
+Let's put some dollars behind that proposed mix. We've already chosen the Reserve, so we're bringing that amount forward and adding any committed expenses that need separate funding.
 
-Add two unfunded $50,000 retirement payments that this household wants in cash. Cash becomes $200,000 and stocks become $300,000. Read what the additional cash protects and what it takes out of long-term growth.
+This is a separate $1 million illustration. The household wants to test $500,000 in Bitcoin. Its $60,000 Reserve and $40,000 purchase use $100,000. That leaves $400,000 for long-term stock exposure: 50% Bitcoin, 40% stocks and 10% cash.
 
-Return to your target comparison. Confirm the first important payment still has a source through a difficult market. Save only the target you intend to follow, then read it back beside the same Current holdings.
+Now suppose two $50,000 retirement payments still need funding, and the household wants that money in cash too. Cash becomes $200,000 and stocks become $300,000. They've given themselves more cash for those first payments, with less remaining in long-term growth investments.
+
+Back in the target comparison, I'm looking at the first important payment and the money that can supply it through a difficult market. If that source is missing, the target still needs work. Once we choose a mix we intend to follow, we can save it and read it beside Current. That saves the target; it doesn't trade the holdings.
 
 **Overlay:**
 
-Cue “In this separate” → Hypothetical household, not Reeds; cue “Cash becomes” → 50/30/20 versus 50/40/10.
+Cue “a separate $1 million illustration” → Hypothetical household, not Reeds; cue “Cash becomes” → 50/30/20 versus 50/40/10.
 
 **Verify:**
 
@@ -662,15 +760,17 @@ Open Cash Flow → Saving and investing with the reviewed reduced-spending state
 
 **Narration:**
 
-Open Cash Flow, then Saving and investing. Use the reduced-spending version from our earlier comparison. The $2,475 before Alex’s contribution becomes $1,700 after his $775. The $500 Reserve contribution and $1,200 extra card payment use that entire amount.
+We're back in Cash Flow, under Saving and investing, to connect the plan to this month's money. I'm using the reduced-spending version from our earlier comparison, so we need to keep that version consistent here.
 
-Keep the employer’s $387.50 separate from spendable cash. There’s no additional investment transfer to assign today.
+The $2,475 before Alex's contribution becomes $1,700 after his $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. Alex is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
 
-Mark the card-payoff condition for a later review. The illustrated $1,605 becomes available only after those payments stop. At that point, verify the actual released amount and the other bills before starting a new transfer. Keep Reserve-completion routing tied to its own condition too.
+His employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
+
+The card payoff gives us a future decision to prepare for. The illustrated $1,605 becomes available only after those payments stop. When that happens, we'll check what was actually released and whether the other bills have changed before starting a new transfer. Reserve completion has its own condition as well. We can prepare those later choices now while keeping today's contribution instructions affordable.
 
 **Overlay:**
 
-Cue “use that entire amount” → $500 + $1,200 = $1,700; cue “only after” → Future condition, not today’s cash.
+Cue “use that entire amount” → $500 + $1,200 = $1,700; cue “only after those payments stop” → Future condition, not today’s cash.
 
 **Verify:**
 
@@ -690,15 +790,17 @@ Start with the funding job, then open the appropriate existing account and relev
 
 **Narration:**
 
-Select the account that will receive this contribution. Start with the date you need the money. For an early-retirement gap, confirm access before choosing a tax benefit that leaves the dollars unavailable.
+We know what this money needs to do. Now let's find the account that can hold it. I'm starting with the date we'll need to use it, because that can change which account makes sense.
 
-Open the provider’s investment menu and check the holding you intend to buy. Then check contribution eligibility, remaining room and fees. Include the HSA, education or self-employed account only when it serves your actual commitment and you qualify.
+For an early-retirement gap, we need a supported way to get the money out at that time. A tax benefit doesn't help fund the gap if the money is unavailable when the bills arrive.
 
-Keep the account you already have when it meets those conditions. If a new account is needed, record opening it as an outside action. The contribution destination is ready when both the account rules and intended investment are supported.
+Here's the provider's investment menu. We're checking that it permits the investment we intend to buy, along with the account's fees, contribution eligibility and remaining room. An HSA, education account or self-employed plan belongs in the comparison when it fits the actual commitment and we're eligible to use it.
+
+If an existing account meets those needs, we can use it. If we need to open another one, that becomes an outside action with a person and a date attached. Once the account and investment are supported, we can compare the tax election where that choice applies.
 
 **Overlay:**
 
-Cue “Start with the date” → Access date; cue “Then check” → Eligibility / room / menu / fees.
+Cue “the date we'll need to use it” → Access date; cue “fees, contribution eligibility and remaining room” → Eligibility / room / menu / fees.
 
 **Verify:**
 
@@ -718,15 +820,17 @@ Use separate $1,000 pretax teaching graphic, followed by a reviewed contribution
 
 **Narration:**
 
-Compare Traditional and Roth using the same household cost. In this hypothetical example, $1,000 of pretax earnings puts $1,000 into deductible Traditional or $800 into Roth after 20% tax. If both double and the Traditional withdrawal also costs 20%, both leave $1,600 available under the stated rules.
+Let's work through Traditional and Roth at the same household cost. This separate example starts with $1,000 of pretax earnings. At a hypothetical 20% tax rate, that puts $1,000 into deductible Traditional or $800 into Roth.
 
-Now read the actual payroll effect of the election you're considering. Keeping the same contribution amount while switching to Roth can reduce take-home pay. Put that cost beside the Reserve and debt payments before saving.
+If both investments double and the Traditional withdrawal is also taxed at 20%, both leave $1,600 available under the stated rules. The Roth withdrawal has to qualify for tax-free treatment. The example helps us compare tax timing without quietly giving one choice a larger starting contribution.
 
-Select Traditional, Roth or the intended mix only after the full contribution remains affordable. This election concerns new money; it doesn't convert the balance already invested.
+Now I'm looking at the payroll effect of the actual election being considered. If we keep the contribution amount the same while switching to Roth, take-home pay can fall. That extra cost needs to fit beside the Reserve and debt payments we already chose.
+
+Once we've compared that cost, we can select Traditional, Roth or a mix and save the intended contribution choice. This applies to new money. An existing Traditional balance stays where it is unless we arrange a separate conversion, which we'll cover in Tax.
 
 **Overlay:**
 
-Cue “same household cost” → Equal-cost comparison; cue “new money” → Contribution election ≠ conversion.
+Cue “same household cost” → Equal-cost comparison; cue “This applies to new money.” → Contribution election ≠ conversion.
 
 **Verify:**
 
@@ -746,15 +850,19 @@ Read target/Current in Portfolio and allocation, then receiving amount/investmen
 
 **Narration:**
 
-Read the target gap, then return to the money you can actually contribute. The Reeds' 60% Bitcoin comparison is $784,200 against $728,000 currently held. The $56,200 difference helps direct purchases; it isn't cash available to invest today.
+We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
 
-For the future card-payoff example, $1,000 goes to personally held Bitcoin and $605 to a taxable stock fund. Keep the $500 Reserve contribution separate and the new investment route inactive until payoff.
+First, here's the target gap. In the Reeds' 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
 
-For each contribution, choose the receiving account and the investment it will buy. Check the product’s holdings, fees and strategy. Changing the future purchase instruction doesn't rebalance existing holdings. Review a taxable sale separately if one is needed.
+For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
+
+For each contribution, I'm connecting the amount to the receiving account and the investment it will buy. We still need to know the product's holdings, fees and strategy. A name that sounds like the investment we want isn't enough to establish what it owns.
+
+Changing future purchases doesn't rebalance the investments already held. A taxable sale would need its own review. Next, we'll take these planned instructions to the provider so the money actually arrives and buys what we intended.
 
 **Overlay:**
 
-Cue “isn’t cash available” → Target gap ≠ available contribution; cue “inactive until payoff” → Conditional $1,000 + $605.
+Cue “isn't cash available” → Target gap ≠ available contribution; cue “inactive until payoff” → Conditional $1,000 + $605.
 
 **Verify:**
 
@@ -774,15 +882,19 @@ Use existing action list with payroll election, account opening, transfer and re
 
 **Narration:**
 
-Finish the provider instructions for each chosen contribution. For payroll, set the amount and tax election, then confirm what new contributions buy. For a bank transfer, choose a date that fits the bills. If the brokerage requires a separate purchase after cash arrives, complete that instruction too.
+The plan now tells us where each contribution is supposed to go. The remaining work happens with the employer, bank or investment provider.
 
-Record who will do each action and when. After the first contribution, compare the provider confirmation with your plan: amount, receiving account and holding purchased.
+For payroll, that means the amount, tax election and investment instructions for new contributions. A bank transfer also needs a date that fits the bills. Some brokerages receive the cash first and require another instruction to buy the investment, so a successful transfer alone may leave the money sitting in cash.
 
-If the money arrived but stayed in cash, finish the purchase instruction unless cash was the intended holding. Mark the action complete only when that evidence exists. Keep future changes tied to the condition that funds them.
+I'm putting those actions beside the person who will do them and the date. After the first contribution, the provider confirmation lets us check the amount, receiving account and holding purchased against this plan.
+
+If the money arrived but stayed in cash, we still have a purchase instruction to finish unless cash was the intended holding. Until we have that evidence, the action stays pending. Future changes stay tied to the condition that funds them.
+
+That finishes the contribution setup for this stage. Next, we'll work on the purchase records we need when money eventually comes out, so we can understand what a sale would realize for tax.
 
 **Overlay:**
 
-Cue “amount, receiving account and holding purchased” → Deposit ✓ Purchase ✓; cue “evidence exists” → Planned / confirmed.
+Cue “amount, receiving account and holding purchased” → Deposit ✓ Purchase ✓; cue “Until we have that evidence” → Planned / confirmed.
 
 **Verify:**
 
@@ -804,15 +916,17 @@ Open the applicable taxable holding’s Purchase details from its account or the
 
 **Narration:**
 
-Open the holding you intend to sell, then its purchase details. Confirm the units, date and source cost before using a lot in the comparison.
+Let's look at a sale before placing it. I'm opening the taxable holding and its purchase details so we can see which units we own, when we acquired them and what they cost.
 
-Our illustrative 0.2 Bitcoin sale produces $20,000 before fees. The three supported purchase-price examples give $11,600, $3,200 or $10,400 of basis. The corresponding gains are $8,400, $16,800 and $9,600.
+In our separate illustration, selling 0.2 Bitcoin produces $20,000 before fees. The three purchase-price examples give $11,600, $3,200 or $10,400 of basis. That changes the gain to $8,400, $16,800 or $9,600 even though the sale proceeds are the same.
 
-Keep proceeds and gain separate from estimated tax. Confirm which units are actually available and which identification process applies. If a cost is missing, leave it unknown and find the source record before relying on that sale. Previewing a lot here doesn't execute the trade or notify the custodian.
+The gain still isn't the tax bill. We need the rest of the tax year's information to estimate that, and we need tax and costs accounted for before treating the proceeds as spending money.
+
+Here, I'm checking which units are actually available and how they must be identified for this transaction. If a cost is missing, we leave it unknown and find its source record before relying on the comparison. Previewing the lot doesn't place a trade or notify the custodian. Once the records support it, we can compare the sale in the context of the year's income.
 
 **Overlay:**
 
-Cue “Keep proceeds and gain separate” → Proceeds → basis → gain → tax → usable cash; cue “doesn’t execute” → Preview only.
+Cue “The gain still isn't the tax bill.” → Proceeds → basis → gain → tax → usable cash; cue “doesn't place a trade” → Preview only.
 
 **Verify:**
 
@@ -832,15 +946,19 @@ Use one reviewed synthetic source import, overlapping import, same-owner transfe
 
 **Narration:**
 
-Import the purchase records for this holding and review the events before accepting them. Keep the original file. Check whether an overlapping upload has already supplied the same purchases.
+We're going to repair the part of the purchase history this decision depends on. I have the source records for this holding, and I'm keeping the original file while we review the imported events.
 
-Follow a transfer across both accounts. In our no-fee illustration, 0.1 Bitcoin leaves the exchange and reaches the same owner’s wallet. Preserve its purchase history; it doesn't become a second purchase or an automatic sale.
+An overlapping upload may contain purchases we've already entered. Those need to be recognized as the same events, or the history will say we bought more than we did.
 
-Reconcile the remaining units against the current holding. Investigate fees, missing activity or duplicates when they differ. Keep the precise missing detail visible rather than creating a balancing purchase. Completing the history must not add the current position a second time.
+A transfer needs the same care. In this no-fee illustration, 0.1 Bitcoin leaves the exchange and reaches the same owner's wallet. Its purchase history follows it. The move doesn't create a second purchase or automatically become a sale.
+
+Now we can compare the remaining units with the current holding. If they don't agree, we'll look for fees, missing activity or duplicates. We keep a missing detail visible while finding the evidence, instead of inventing a purchase to make the numbers match.
+
+When the history agrees, we have a supported basis for the sale comparison. We've improved the records behind the holding without adding that holding to the portfolio a second time.
 
 **Overlay:**
 
-Cue “Follow a transfer” → Same owner, same units, original basis; cue “must not add” → History improves; assets counted once.
+Cue “Its purchase history follows it.” → Same owner, same units, original basis; cue “without adding that holding” → History improves; assets counted once.
 
 **Verify:**
 
@@ -860,15 +978,17 @@ From Plan open the contextual Tax strategy/roadmap and a relevant year. Show eac
 
 **Narration:**
 
-Open the tax roadmap and select the first year when income materially changes. Read each person’s work income and benefits. Then include distributions, gains, conversions and any supported loss carryforward for that same year.
+Here's the tax roadmap. We're looking for a year when the household's income changes enough that a withdrawal or conversion might be worth comparing.
 
-Compare it with the next important income year. A lower-income interval may make a withdrawal or conversion worth examining. Use the household’s actual dates rather than treating retirement itself as a low-tax period.
+I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. Alex stopping work doesn't automatically make the household's income low if other income continues.
 
-Identify one amount to compare and the source that pays its tax. Keep the existing plan as the baseline. If a filing or income record is missing, obtain that fact before relying on the proposed window.
+Now we can compare that year with the next important income change. If there's a lower-income interval, we have a reason to examine it. We still need the total cost of adding income, including effects beyond the tax bracket.
+
+We'll start with one amount and identify the money that would pay its tax. The existing plan stays as our baseline. If a missing filing or income record could change this window, that's the fact to obtain before relying on it. Once the year's inputs are supported, we're ready to compare a conversion, a spending withdrawal and leaving the plan as it is.
 
 **Overlay:**
 
-Cue “for that same year” → One tax-year picture; cue “one amount to compare” → Bounded comparison.
+Cue “that same year's picture” → One tax-year picture; cue “start with one amount” → Bounded comparison.
 
 **Verify:**
 
@@ -888,17 +1008,17 @@ Show separately labeled opportunity-cost graphic, then Current versus a reviewed
 
 **Narration:**
 
-Keep the same spending and return assumptions. Start with no added conversion, then preview the amount you're considering and a smaller amount.
+We've found a year worth examining. Now let's see whether moving existing Traditional money into Roth actually helps this plan. I'm keeping spending and return assumptions the same and starting with no added conversion, then comparing the proposed amount and a smaller one.
 
-Read three separate amounts: the conversion, the spending withdrawal and the money paying tax. In the teaching example, $30,000 moves to Roth and $6,000 is spent from outside assets. Count the growth that outside money would have earned if it stayed invested.
+There are three amounts to follow: what moves to Roth, what pays the bills and what pays tax. In our separate teaching example, $30,000 moves to Roth and $6,000 comes out of outside assets for tax. That $6,000 would have remained available and could have grown if we hadn't spent it, so it belongs in the comparison.
 
-Read the first affected year’s tax and accessible cash, then the later after-tax resources. Compare an accessible Traditional withdrawal for spending when that serves the income window. It supplies cash for bills; the conversion does not.
+I'm reading the first affected year's tax and accessible cash, then the later after-tax resources. An accessible Traditional withdrawal for spending is another choice when it serves this income window. It provides cash for bills; moving money into Roth doesn't do that.
 
-For several years, repeat that cash check at every income change. Save the intended strategy only after its tax source and early-year funding fit. Record actual completed conversions separately.
+For a multiyear schedule, we'll repeat that check whenever income materially changes. If a conversion leaves the early years short, the amount or timing needs work. Once the tax source and spending fit, we can save the strategy we intend to follow. The actual conversion remains a separate provider transaction.
 
 **Overlay:**
 
-Cue “three separate amounts” → Conversion / spending / tax; cue “later after-tax resources” → Include tax-payment opportunity cost.
+Cue “There are three amounts to follow” → Conversion / spending / tax; cue “later after-tax resources” → Include tax-payment opportunity cost.
 
 **Verify:**
 
@@ -918,15 +1038,17 @@ Select a supported fictional candidate with documented lots. Show transaction-pu
 
 **Narration:**
 
-Choose the sale candidate and state its purpose: spending, realizing a gain or realizing a loss. Read the estimated total cost beside the rest of the year’s income.
+We have a sale candidate with records we can support. Before doing anything with it, let's come back to its purpose: providing spending money, realizing a gain or realizing a loss. That tells us which costs and benefits to compare with the rest of the year's income.
 
-Confirm the units and complete identification through the method required for this account and transaction date. Keep its acknowledgment or contemporaneous record. Check replacement exposure and automatic purchases before a securities loss sale, including relevant spouse and IRA activity.
+The units we're planning to sell need to be identified through the process required for this account and transaction date. I'm keeping the acknowledgment or contemporaneous record with the proposal. Choosing units in a planning screen doesn't complete that process with the provider.
 
-For a gain harvest, confirm the income room after other gains and conversions. Include state and healthcare effects. If the benefit is too small or the records remain unsupported, retain the investment and record why. A completed Preview is a proposed transaction until the actual instruction is executed.
+For a securities loss sale, replacement investments and automatic purchases matter, including relevant spouse and IRA activity. For a gain harvest, we need to see the income room remaining after other gains and conversions, including state and healthcare effects.
+
+If the expected benefit is too small, or the records still don't support the transaction, keeping the investment is a valid result. We can record that reason and stop there. If we decide to proceed, this remains a proposed transaction until the actual instruction is executed. Then we'll reconcile the confirmation and remaining holdings.
 
 **Overlay:**
 
-Cue “complete identification” → Identify before required deadline; cue “proposed transaction” → Preview → execute → record.
+Cue “identified through the process required” → Identify before required deadline; cue “a proposed transaction” → Preview → execute → record.
 
 **Verify:**
 
@@ -946,15 +1068,17 @@ Download supported FORM 8949 TAX DATA CSV when relevant and inspect actual colum
 
 **Narration:**
 
-Open the export before sharing it. Confirm its dates, units, proceeds, fees and available purchase details. FORM 8949 TAX DATA supports your tax professional’s work; it isn't a filed form.
+Let's finish with the records another person would need to review this decision. I'm opening the export first so we can see its dates, units, proceeds, fees and available purchase details. FORM 8949 TAX DATA supports the tax professional's work; it isn't a filed form.
 
-Add the source records relevant to the decision, the proposed transaction, this year’s income context and the unresolved question. Leave unrelated private files out of the packet.
+Alongside it, we're including the relevant source records, the proposed transaction, this year's income context and the specific question still unresolved. That might be a missing basis record or how an account rule applies. The packet doesn't need unrelated private files to answer that question.
 
-After an actual transaction, match the confirmation to the recorded units and remaining holdings. Reconcile provider reporting and the filed return before carrying values into another year. Keep the transaction pending until the confirmation exists. The packet is ready when another person can identify the decision and the evidence needed to resolve it.
+After an actual transaction, the confirmation lets us compare the recorded units and remaining holdings with what happened. Provider reporting and the filed return also need to agree before we carry those figures into another year. Until confirmation exists, the transaction remains pending.
+
+The useful result here is a decision someone can understand and evidence they can review. Once that is resolved, we can return to the tax-timing comparison or carry the chosen funding approach into the retirement paycheck.
 
 **Overlay:**
 
-Cue “isn’t a filed form” → Tax data for review; cue “remaining holdings” → Confirmation → remaining lots → filed record.
+Cue “isn't a filed form” → Tax data for review; cue “remaining holdings” → Confirmation → remaining lots → filed record.
 
 **Verify:**
 
@@ -976,15 +1100,17 @@ Open the first retirement-year detail and drill into canonical spending/income r
 
 **Narration:**
 
-Open the first year after work stops. Read living costs, healthcare, required debt, tax and dated events. Check that each cost appears once, then read the income that arrives in that year.
+Here's the first year after work stops. We're going to see how much money the household needs and where it comes from. The starting spending number is the cost of living that life, so we don't simply replace today's salary or carry retirement contributions into it.
 
-The teaching illustration starts with $108,000 of living and healthcare costs minus $40,000 of gross income: a rough $68,000 gap. Adding $12,000 of hypothetical tax and $6,000 of debt changes the gap to $86,000. Use that distinction to check what your own calculation includes.
+I'm opening living costs, healthcare, required debt, tax and dated events to see that each appears once. Debt stays separate from ordinary living costs so its payments can end when the loan is paid off. Then we'll look at the income that actually arrives during this year.
 
-Correct any source record that is missing or duplicated. After saving it, wait for the updated result before reading the funding need again. Gross income and withholding need to reconcile with the complete tax cost.
+In the separate teaching illustration, $108,000 of living and healthcare costs minus $40,000 of gross income gives a rough $68,000 gap. Adding $12,000 of hypothetical tax and $6,000 of debt changes it to $86,000. That's why we need to know what a displayed amount includes before treating it as the withdrawal needed.
+
+If a source record is missing or duplicated, we correct it there. After saving, I'll wait for the updated result and read the funding need again. Gross income, withholding and the complete tax cost need to agree. Then we can look at which money is available during these first retirement years.
 
 **Overlay:**
 
-Cue “each cost appears once” → Spending + healthcare + debt + tax + events; cue “rough $68,000 gap” → Illustration, not final withdrawal.
+Cue “each appears once” → Spending + healthcare + debt + tax + events; cue “rough $68,000 gap” → Illustration, not final withdrawal.
 
 **Verify:**
 
@@ -1004,17 +1130,17 @@ Show both adults’ timelines and every material funding interval. Open underlyi
 
 **Narration:**
 
-Read Alex’s intended work-optional date at 52, then Morgan’s separate dates. Alex has seven and a half years to 59½; that doesn't determine access to Morgan’s accounts.
+Let's put the early retirement years on the timeline. Alex wants work to become optional at 52. That leaves seven and a half years to 59½, but Morgan has separate dates and account rules. We need both people's timing for the household plan.
 
-Open each interval before another benefit or access route begins. Identify the income that continues and the accessible money assigned to the remaining gap. Exclude the Reserve and committed expenses from money available for a second job.
+I'm opening each period before a new benefit or access route begins. We can see the income that continues and the accessible money assigned to the remaining gap. The Reserve and other committed expenses already have jobs, so we can't spend those same dollars a second time.
 
-If an interval relies on early retirement-account access, verify the account, owner, amount, dates and provider permission before counting it. Keep a dependent rollover pending until that review is complete.
+If an account needs an early-access exception, we need the owner, amount, dates and provider permission to support it. A rollover that could change that route stays pending while we work through the early-access lesson.
 
-Compare benefit timing using the same spending and the actual estimates. Read the extra funding needed while waiting and the later income it buys. Finish each interval with a source or a specific gap to address.
+Here's the benefit-timing comparison using the same spending and actual estimates. Waiting may provide more later income, but the intervening years need funding too. We're reading both sides. By the end of each period, we want to see the money supplying it or the specific gap still to solve. Healthcare is the next dated cost we'll add to that picture.
 
 **Overlay:**
 
-Cue “Morgan’s separate dates” → Two people, two timelines; cue “source or a specific gap” → Funding interval readback.
+Cue “Morgan has separate dates” → Two people, two timelines; cue “specific gap still to solve” → Funding interval readback.
 
 **Verify:**
 
@@ -1034,17 +1160,17 @@ Show synthetic/private coverage quote inputs and existing expense/life-event own
 
 **Narration:**
 
-Enter the healthcare cost for the period after employer coverage ends. Use the complete annual amount from the coverage comparison, including premiums and expected additional costs. Keep the difficult-year exposure and its funding visible.
+We're adding the coverage that replaces employer insurance. I have the coverage comparison beside the plan so we're using the complete annual cost, including premiums and the additional costs we expect to pay.
 
-In the teaching example, $12,000 of premiums plus $3,000 of other costs totals $15,000; $8,000 plus $8,000 totals $16,000. Replace those illustrative amounts with the costs for the actual coverage choice.
+In our separate example, $12,000 of premiums plus $3,000 of other costs totals $15,000. The other choice is $8,000 plus $8,000, or $16,000. A smaller premium didn't make it the cheaper year. Here, we'll use the actual quote and keep the difficult-year exposure and its funding visible as well.
 
-Check any income change from the withdrawal or conversion against the same coverage year. Include a verified assistance repayment or premium effect when it applies.
+A withdrawal or conversion can change the income used for coverage costs. I'm checking that against the same coverage year and including a verified assistance repayment or premium effect where it applies.
 
-Set each person’s transition date. Confirm Part B timing and the Part A effective date before relying on ongoing HSA contributions. Keep enrollment as a separate outside action until coverage is confirmed.
+Each person also needs the correct transition date. Part B enrollment timing and the Part A effective date matter, especially when HSA contributions continue. Entering the expense doesn't enroll anyone, so that outside action stays pending until coverage is confirmed. Once the dates and costs agree, we can use them in the retirement funding comparison.
 
 **Overlay:**
 
-Cue “complete annual amount” → Premium + ordinary costs; cue “same coverage year” → Income and coverage use one estimate.
+Cue “complete annual cost” → Premium + ordinary costs; cue “same coverage year” → Income and coverage use one estimate.
 
 **Verify:**
 
@@ -1064,17 +1190,19 @@ Open Plan → Retirement strategy → How retirement is funded. Compare supporte
 
 **Narration:**
 
-Open how retirement is funded. Read the current account order, then follow the first year’s withdrawal into the account that supplies it. Identify the investment sold inside that account and the tax created.
+We know the year's cash need. Now let's follow the money that supplies it. I'm opening How retirement is funded in Retirement strategy and tracing the first year's withdrawal to its account.
 
-Keep required distributions funded under their rules. For the remaining spending, preview a different account order or blend only when it addresses a tax or access need.
+Inside that account, we also need to see the investment being sold and the tax created. Choosing an account order doesn't, by itself, tell us which investment supplies the cash.
 
-Hold the lifestyle and return assumptions steady. Read the cash available for bills, tax paid and balances remaining, then open a later year to see what changed. A separate conversion still needs separate spending and tax sources.
+Required distributions have their own rules, so those remain accounted for. For the remaining spending, we can preview another account order or blend when it addresses an actual tax or access need.
 
-Save the funding choice you intend to use. If the preferred order runs out of accessible money, revise that source or the spending before treating the paycheck as funded.
+I'm keeping the lifestyle and return assumptions steady while reading cash available for bills, tax paid and balances remaining. Then we'll open a later year to see the effect of that choice over time. If there's also a conversion, it still needs separate spending and tax sources.
+
+If the preferred order runs out of accessible money, we have a source or spending decision left to resolve. Once the funding works and we intend to use it, we can save the choice and read the same year again to confirm the plan reflects it.
 
 **Overlay:**
 
-Cue “investment sold inside” → Account order ≠ asset sale order; cue “cash available for bills” → After-tax spending cash.
+Cue “the investment being sold” → Account order ≠ asset sale order; cue “cash available for bills” → After-tax spending cash.
 
 **Verify:**
 
@@ -1094,15 +1222,17 @@ Use separate sequence arithmetic graphic, then actual retirement Reserve assignm
 
 **Narration:**
 
-Read the Reserve basis and the income already covering retirement spending. Use the remaining gap and any separate bills to set the cash job.
+Let's see how the Reserve helps when returns arrive in an unpleasant order. We're starting with the income already covering retirement spending, then looking at the remaining gap and any separate bills assigned to cash.
 
-The return order matters while spending. In the separate illustration, $1 million with $50,000 beginning-year withdrawals ends at $887,500 after a 20% loss and 25% gain. Reversing those returns ends at $910,000. A later recovery doesn't restore assets already sold for bills.
+In the separate illustration, $1 million with $50,000 beginning-year withdrawals ends at $887,500 after a 20% loss and a 25% gain. Reverse those returns and it ends at $910,000. The same returns leave different amounts because assets were sold for spending along the way. A later recovery can't grow the units we've already sold.
 
-Now open a weak year in the actual plan. Follow cash used, the remaining Reserve and the next refill. Identify the source before cash reaches the chosen floor. Count sale tax and fees, and confirm that the same money isn't also committed to another payment. Keep the refill response funded even if recovery takes longer.
+Now I'm opening a weak year in the actual plan. We'll follow the cash used, the Reserve left and the proposed refill. Before it reaches the chosen floor, we need to know where that refill comes from, including sale tax and fees.
+
+If the same money is promised to another payment, it isn't available here too. And if recovery takes longer, the response still needs a funding source. Once we can follow that sequence, the Reserve amount has a practical meaning: we know what it pays and what we'll do as it runs down.
 
 **Overlay:**
 
-Cue “return order matters” → Same returns, different spending path; cue “source before cash reaches” → Floor → funded response.
+Cue “The same returns leave different amounts” → Same returns, different spending path; cue “Before it reaches the chosen floor” → Floor → funded response.
 
 **Verify:**
 
@@ -1122,17 +1252,19 @@ Open relevant Current/Preview retirement funding policy; a one-off possible loan
 
 **Narration:**
 
-Keep the spending amount and date unchanged. Start with the sale route and read tax, cash available and Bitcoin remaining. Then compare another available asset and identify what it would otherwise fund.
+We're comparing ways to fund the same spending on the same date. I'll start with selling, so we can see the tax, cash available and Bitcoin remaining. Then we'll look at another available asset and what that money would otherwise have funded.
 
-For borrowing, open the terms and funding rules. Read interest treatment, collateral requirements, response resources and repayment. The simple $20,000 loan at 10% uses $2,000 of cash interest or becomes $22,000 of debt after the illustrative year. Use the actual modeled terms for this comparison.
+Borrowing adds another set of obligations. Here are the terms and funding rules: how interest is handled, what collateral is required, what resources could respond to a problem and how the loan ends.
 
-Open a weak period and the repayment year. Check the payment source, lender-specific collateral exposure, top-up and any sale used to repay. Read those risks beside the effect on the plan result.
+In the simple illustration, a $20,000 loan at 10% uses $2,000 of cash interest or becomes $22,000 of debt after one year. The actual comparison needs its own modeled terms. A small annual payment doesn't tell us whether the eventual repayment is affordable.
 
-The Reeds have no current Bitcoin-backed loan. Save a retirement borrowing policy only if that's the chosen strategy; keep an unchosen one-time loan in its scenario.
+I'm opening a weak period and the repayment year to follow the payment source, lender-specific collateral exposure, any top-up and any sale used to repay. Those risks belong beside the change in the plan result.
+
+The Reeds have no current Bitcoin-backed loan. If we choose ongoing borrowing as part of retirement funding, we save that policy in Retirement strategy. An unchosen one-time loan stays in its scenario. Before relying on a real loan, the separate loan lesson takes us through the actual contract and response resources.
 
 **Overlay:**
 
-Cue “Keep the spending amount” → Equal net spending; cue “beside the effect” → Plan effect + risk added.
+Cue “the same spending on the same date” → Equal net spending; cue “beside the change in the plan result” → Plan effect + risk added.
 
 **Verify:**
 
@@ -1152,17 +1284,17 @@ Show Current versus one supported spending/work-date/funding change. Read actual
 
 **Narration:**
 
-Choose one decision to test: the spending amount, work date or funding choice that addresses the gap you found. Keep the other assumptions unchanged.
+We've found the part of the plan that needs work. Let's test one decision that could address it: spending less, changing the work date or using a different funding source. I'll keep the other assumptions unchanged so we can see what this decision does.
 
-Read the chance of success with the matching count and horizon, then open the year that explains the difference. Check the actual cost of the change: less spending, more work or a different funding obligation.
+Here's the chance of success, with the matching simulation count and the years it covers. Now I'm opening the year that explains the difference. The percentage matters, but so does what we would actually have to do: live on less, work longer or take on a different funding obligation.
 
-If you correct a missing fact, let the result change honestly. Don't raise return assumptions to recover the previous percentage. Keep an uncomfortable result visible until a realistic decision addresses it.
+If we find a missing fact, correcting it may make the result less comfortable. We need to use that corrected picture. Raising return assumptions to recover the old percentage would hide the problem we're trying to solve.
 
-Adopt the change only if the household would follow it. Save that choice and confirm the updated result uses it. If you prefer Current, leave the comparison unapplied.
+Once the household is willing to follow a change, we can save it and confirm that the updated result uses it. If we prefer Current, we leave the comparison unapplied. The next step is to turn that chosen plan into this year's spending and Reserve decision.
 
 **Overlay:**
 
-Cue “one decision” → One changed input; cue “year that explains” → Result → funding year → household trade-off.
+Cue “test one decision” → One changed input; cue “the year that explains the difference” → Result → funding year → household trade-off.
 
 **Verify:**
 
@@ -1182,17 +1314,17 @@ Open standing Spending guardrails and then separate annual review. Use approved 
 
 **Narration:**
 
-Read the standing guardrail status, then open the annual spending review. A portfolio threshold tells you when to review; the proposed budget tells you what spending you're comparing.
+Let's bring the review back to the amount the household will spend. I'm looking at the standing guardrail status first, then the annual spending review. The portfolio threshold tells us when to review. The budget proposal tells us what spending we're considering.
 
-Start with the saved budget and apply inflation once. In our separate illustration, $100,000 becomes $103,000. A made-up 55% result crosses the lower trigger, while the made-up target amount is $86,000. The 10% correction cap produces $92,700. The cap hasn't restored 80% confidence, so read the remaining difficult years before adopting it.
+We start with the saved budget and apply inflation once. In this separate illustration, $100,000 becomes $103,000. A made-up 55% result crosses the lower trigger, and the made-up amount that would reach the target is $86,000. The 10% correction cap gives us $92,700 for this review. The cap hasn't restored 80% confidence, so we still need to read the difficult years before adopting that amount.
 
-Choose the expenses that would actually change. Then update the Reserve from the same budget. With $40,000 of spendable income and separately funded withdrawal tax, the example’s gap is $52,700. Its chosen twelve-month target is $52,700, six-month floor $26,350 and gap against $45,000 cash is $7,700.
+The household then has to identify the expenses that would actually change. Those choices also change the Reserve calculation. With $40,000 of spendable income and withdrawal tax funded separately, the example's remaining gap is $52,700. Its chosen twelve-month target is $52,700, its six-month floor is $26,350, and $45,000 of cash leaves a $7,700 refill gap.
 
-Read the actual refill source and its tax beside your proposed budget. Save the spending you choose, verify the saved amount and set the next review. Urgent income or loan changes need attention sooner.
+I'm putting the actual refill source and its tax beside the proposed budget. Once those agree, we can save the spending we choose, read the saved amount and set the next review. An urgent income or loan change needs attention sooner. This gives us a decision we can follow for the coming year, and next we'll work on keeping the assets and access behind that plan secure.
 
 **Overlay:**
 
-Cue “separate illustration” → Hypothetical, not app output; cue “cap hasn’t restored” → $92,700 suggestion ≠ 80% restored; cue “same budget” → Spend / income / Reserve / refill agree.
+Cue “this separate illustration” → Hypothetical, not app output; cue “The cap hasn't restored” → $92,700 suggestion ≠ 80% restored; cue “Those choices also change the Reserve calculation.” → Spend / income / Reserve / refill agree.
 
 **Verify:**
 
@@ -1214,11 +1346,11 @@ After 7.1, open Protect → Bitcoin access beside the existing Family Custody Ma
 
 **Narration:**
 
-Open Bitcoin access and start with the holding you want to review. Match it to the account that owns it. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Keep those access processes separate.
+We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
 
-Record what this portion is for and who controls it today. Then record the change you're considering, if there is one. A planned move stays separate from the current arrangement.
+For this holding, we're recording what the money is for and who controls it today. If you're considering a move, that belongs beside the current arrangement as a planned change. We don't want the family reading a future intention as something that's already happened.
 
-Add the person who handles the ordinary tasks and the backup who has agreed to help. Include the first unfinished action, such as confirming a provider's recovery process. Save the non-secret record, reopen it and check that it still points to the correct holding. Leave recovery words and precise secret locations out.
+The next part is who handles the ordinary work and who has agreed to help if that person is unavailable. An unanswered provider question can stay as the next action here. Once we save and reopen the record, we can check that it still points to the right holding. This is a map of the process, so recovery words and precise secret locations stay in their protected records.
 
 **Overlay:**
 
@@ -1242,11 +1374,11 @@ After 7.2 and the applicable D07 test, open the actual non-secret test receipt. 
 
 **Narration:**
 
-Read the receipt before changing recovery status. Identify which wallet was checked, the method used, the date and the outcome.
+Before we update recovery status, let's look at the evidence we're using. The receipt needs to tell us which wallet was checked, how it was checked, when it happened and what the result was.
 
-If this was the separate test wallet, record the result for that wallet only. Leave the family's funded wallet unverified until its own safe check is complete. A new device or a valid backup word list doesn't establish the whole recovery result.
+That scope matters here. If the receipt is from the separate test wallet, we're recording a result for that wallet. The family's funded wallet keeps its own status until its appropriate safe check is complete. Buying a new device or checking that a word list is valid wouldn't establish the full recovery result.
 
-For a funded setup that has been safely checked, enter only the proof that actually exists. Keep any passphrase or multisig requirements in that scope. Save the status and read it back. The next person needs to see what was tested and what remains to do, without seeing any recovery material.
+Where a funded setup has been safely checked, we can record the evidence that actually exists, including any passphrase or multisig requirements covered by the check. When we read the saved entry back, someone else needs to understand both what's been tested and what's left to do. They don't need any recovery material to understand that.
 
 **Overlay:**
 
@@ -1270,11 +1402,11 @@ After 7.1 and 7.2, use the existing map to identify one shared recovery email, p
 
 **Narration:**
 
-Start with the shared dependency you identified. These accounts use the same recovery email, so securing another account won't remove that dependence. Open the email provider's verified security settings and review the sign-in and recovery methods.
+Let's work on one dependency from the custody map. In this example, several accounts rely on the same recovery email. That gives us a useful place to start: protecting that email affects the access route for more than one account.
 
-Choose a supported security key or passkey when available. Set up the backup access method and test it before removing the working one. Keep passwords, recovery codes and any private setup screens out of the recording.
+We're using the provider's verified security settings to see which sign-in and recovery methods it supports. Where a security key or passkey is available, that's the option we're looking at first. Before removing working access, we need the backup method set up and tested. Passwords, recovery codes and private setup screens stay out of the recording.
 
-Return to the custody map and record the change that actually completed. If you're still waiting for a provider answer or a backup person to agree, leave that task open. Account hardening doesn't change the company's custody risk, so retain that dependency in the map.
+Back in the map, we'll record the change only once it's actually completed. A provider question or an agreement we're still waiting for stays open. This improves account access, but the company's custody risk is still there, so that dependency remains in the map.
 
 **Overlay:**
 
@@ -1298,11 +1430,11 @@ Prepare the non-secret custody entries for W08. With an agreed helper, rehearse 
 
 **Narration:**
 
-Open the family custody map and read the starting instruction for this holding. It needs to identify the legitimate contact and which process applies if the usual operator is unavailable.
+The last thing we need from this map is a usable starting point for the family. Let's read the instruction for this holding: who would they contact, and which legitimate process applies if the usual operator is unavailable?
 
-Have the person who agreed to help find the first contact without asking the operator. Then have them find the backup contact. Keep this rehearsal to the safe first steps; don't enter credentials or move money.
+The person who agreed to help can try those first steps while the operator stays quiet. We're looking for whether they can find the first contact and the backup. This rehearsal doesn't involve entering credentials or moving money.
 
-Record the instruction they couldn't follow, correct it and repeat that part. If the rehearsal hasn't happened, keep it pending. Carry this same map into the family handoff so the authority and account instructions stay connected. A backup of Orange Plan data does not restore a Bitcoin wallet.
+If an instruction stops them, that's the part to correct and try again. If we haven't rehearsed it yet, we'll leave that status pending. We'll take this same map into the family handoff, where the access process connects to the person's authority. And just to keep the two kinds of backup clear: an Orange Plan data backup doesn't restore a Bitcoin wallet.
 
 **Overlay:**
 
@@ -1328,11 +1460,11 @@ After 7.2, show only the non-secret equipment and the exact official procedure. 
 
 **Narration:**
 
-Start with a device set aside for this test. Keep the wallet holding your savings out of the procedure. Open the official instructions for this exact model, software and backup format.
+In this demonstration, we're checking recovery with a new, isolated test wallet. The device and small amount are set aside for this purpose. The wallet holding the family's savings stays out of the procedure.
 
-Check the equipment against those instructions before beginning. Unexpected or prewritten recovery words are a reason to stop. Use a fresh wallet created through the verified process.
+Before we begin, let's match the equipment to the official instructions for this exact model, software and backup format. A process for another device may have different requirements. Unexpected or prewritten recovery words are a reason to stop; we need a fresh wallet created through the verified process.
 
-This test uses only the small amount set aside for it. Its result will apply to this wallet and this procedure. It won't verify a different wallet holding the family's Bitcoin.
+The question this test can answer is whether we can recover and use this wallet through this procedure. It won't verify a different wallet holding the family's Bitcoin. Keeping that scope clear now will help us record an accurate result at the end.
 
 **Overlay:**
 
@@ -1356,11 +1488,11 @@ Follow the verified new-wallet procedure. Stop every camera, screen recorder and
 
 **Narration:**
 
-Create the new test wallet using the official procedure. Before recovery information appears, stop the camera and screen recording. Keep the recovery words, private keys and any passphrase in the private offline process.
+We're at the point where the new wallet creates private recovery information. Before any of that appears, the camera and screen recording need to stop. The recovery words, private keys and any passphrase belong in the private offline process, including while they're being recorded or entered.
 
-Don't copy a secret from a tutorial or use prewritten recovery material. Generate the wallet through the trusted device process.
+The wallet is generated through the trusted device process in the official instructions. A secret from a tutorial or prewritten recovery material would give someone else a way to control it, so neither belongs in this setup.
 
-Resume recording only after the secret screens are closed. The next visible screen can show that setup is ready, but none of the material that would let someone control the wallet belongs in the footage.
+Once the secret screens are closed, we can resume on a non-secret screen. That lets us continue explaining the test without putting the material that controls the wallet into the footage. A later blur wouldn't remove it from the original recording.
 
 **Overlay:**
 
@@ -1384,11 +1516,11 @@ Use generic labels beside the exact reviewed backup format. Distinguish device P
 
 **Narration:**
 
-Identify the pieces this wallet needs for recovery. The PIN unlocks the device. The backup recreates the corresponding keys. If a passphrase is used, the exact passphrase selects the intended wallet.
+Before the recovery check, let's be clear about what each piece does. The PIN unlocks the device. The backup recreates the corresponding keys. If this wallet uses a passphrase, the exact passphrase selects the intended wallet.
 
-Keep those jobs separate. Knowing the PIN doesn't replace a missing backup, and a correct word list doesn't prove a passphrase wallet.
+Those different jobs explain why one piece can't simply replace another. Knowing the PIN doesn't replace a missing backup. And a correct word list doesn't prove that we've recovered a passphrase wallet; we still need the exact passphrase and the intended-wallet check.
 
-A multisig setup has additional independent-key and configuration requirements. Use the complete reviewed procedure for that arrangement. This demonstration only covers the requirements recorded for this test wallet.
+Multisig has additional independent-key and configuration requirements, which need the complete reviewed procedure for that arrangement. Here we're covering only the requirements recorded for this test wallet. These labels explain the pieces without showing their private values.
 
 **Overlay:**
 
@@ -1412,11 +1544,11 @@ Verify the receive destination using the actual trusted-device process. Perform 
 
 **Narration:**
 
-Open the receive process for this test wallet. Verify the destination through the trusted device, rather than relying only on the computer display. Check the network and the small amount before authorizing the transfer.
+Now we're giving this test wallet a small, known amount that we can look for after recovery. In the receive process, we'll verify the destination through the trusted device, rather than relying only on the computer display. The network and amount also need to match the transfer authorized for this test.
 
-Wait for the required confirmation. Keep the actual test receipt and a non-secret way to identify the intended wallet for the recovery check.
+After the transfer, we need the required actual confirmation before continuing. We'll keep that receipt and a non-secret way to recognize the intended wallet for the recovery comparison.
 
-Stop if the destination or received amount is unexpected. Don't add meaningful funds while the test is unresolved.
+If the destination or received amount is unexpected, this is where we stop and investigate. Adding meaningful funds wouldn't resolve that uncertainty. The test stays limited to the small amount set aside for it.
 
 **Overlay:**
 
@@ -1440,11 +1572,11 @@ Use the supported non-destructive backup check, or a safely prepared compatible 
 
 **Narration:**
 
-Keep the working device intact and use the official backup-check process. If the reviewed procedure uses a compatible spare, keep the original available while you check the spare.
+Before any destructive step, we need to know that the backup can support the recovery. We're keeping the working device intact while we use its official backup-check process. If the reviewed procedure uses a compatible spare, the original remains available while we check it.
 
-Include the passphrase or configuration requirements that apply to this wallet. Stop recording before entering anything private.
+The check includes any passphrase or configuration requirements for this wallet. Recording stops before private information is entered, just as it did during setup.
 
-If the check fails, stop here. Keep the working access and investigate through verified official instructions or support without disclosing the secret. Don't reset the device or send more funds to try to make the mismatch disappear.
+If the check fails, we stop here and preserve the working access. Verified official instructions or support may help us investigate, but support doesn't need the secret. Resetting the device or sending more funds would add risk while the mismatch is still unresolved. A successful, supported check is what lets us consider the next part of this isolated test.
 
 **Overlay:**
 
@@ -1468,11 +1600,11 @@ Perform the reviewed recovery on a compatible spare or, only if expressly part o
 
 **Narration:**
 
-Use the recovery method specified for this isolated test. Keep all private entry off camera. Once the wallet opens, compare its known identifier or address with the test record, then check the expected test funds.
+We're now using the recovery method specified for this isolated test. All private entry stays off camera. When the wallet opens, we'll compare its known identifier or address with our test record, then check for the expected test funds.
 
-A valid empty wallet isn't enough. A passphrase mistake can produce another valid wallet. If the identity or funds don't match, stop and leave the result unresolved.
+Both parts matter. A valid empty wallet isn't enough, because a passphrase mistake can open another valid wallet. If the identity or funds don't match, we'll stop and leave the result unresolved.
 
-Record successful recovery only when the evidence matches this intended test wallet. The family's funded wallet stays outside this test.
+Successful recovery means the evidence matches this intended test wallet. It doesn't tell us that another wallet is recoverable. The family's funded wallet stays outside the test, and we never wipe it as part of this demonstration.
 
 **Overlay:**
 
@@ -1496,11 +1628,11 @@ Review a separately authorized trivial outbound transaction using the recovered 
 
 **Narration:**
 
-Prepare the small outbound transaction authorized for this test. Check its destination, amount and fee through the trusted device before confirming. Stop if any detail differs from the intended transaction.
+Seeing the expected balance is useful, but we also want to know whether the recovered setup can authorize a payment. That's the purpose of the small outbound transaction separately authorized for this test.
 
-This step checks whether the recovered setup can authorize a payment. Seeing the balance alone doesn't demonstrate that.
+Before confirming, we'll check the destination, amount and fee through the trusted device. If any detail differs from the intended transaction, we stop. The fee we use is the actual fee shown for this transaction; there's no universal fee or minimum-output amount to copy from a video.
 
-Keep the actual confirmation with the test record. Use the fee the wallet shows for this transaction; there's no universal fee or minimum-output amount to copy from the video.
+Once the payment has the required confirmation, we'll keep that evidence with the test record. That lets us distinguish seeing funds from demonstrating controlled spending through the recovered setup.
 
 **Overlay:**
 
@@ -1524,11 +1656,11 @@ Complete the non-secret test receipt with setup, exact method, date, actual outc
 
 **Narration:**
 
-Record the wallet tested, the recovery method, the date and the actual outcome. Include the receive, recovery and spending checks that really completed. Mark anything that didn't complete as unresolved.
+Let's finish by recording exactly what this test showed. The receipt identifies the wallet, the recovery method, the date and the actual outcome. We'll include the receive, recovery and spending checks that completed, with anything unfinished left unresolved.
 
-Keep this receipt separate from the status of a different funded wallet. That wallet needs its own appropriate safe verification.
+That receipt stays separate from the status of a different funded wallet. The funded wallet needs its own appropriate safe verification, even when this practice test succeeds.
 
-In the planning record, store the result and next action, never the recovery material. An Orange Plan data backup restores plan information; it doesn't recover signing keys. Carry the scoped result into Bitcoin access so the family knows exactly what has been checked.
+In Bitcoin access, we can now record the scoped result and the next action without storing the recovery material. An Orange Plan data backup concerns plan information; it doesn't recover Bitcoin signing keys. We'll take this receipt into the custody walkthrough so the family can see what's been checked and what still needs attention.
 
 **Overlay:**
 
@@ -1554,11 +1686,11 @@ After 8.1, open Protect → Trusted people, Estate documents and Who receives wh
 
 **Narration:**
 
-Open Trusted people and identify the person for financial matters, the person for healthcare and the intended estate representative. Record whether each person has agreed and who can serve as backup.
+We're starting with the people because the documents need to support the jobs those people may have to do. In Trusted people, we'll identify the person for financial matters, the person for healthcare and the intended estate representative, along with who has agreed and who can be the backup.
 
-Now open Estate documents. Match each role to the actual document or process that gives authority. For a financial power of attorney, check that it's durable, meaning its authority can continue if you're incapacitated. Also confirm when it takes effect and the powers granted. A name in this record isn't a legal appointment.
+Now we can connect each role to Estate documents. A name in this record isn't a legal appointment. For a financial power of attorney, we're checking that it's durable, meaning its authority can continue if you're incapacitated. We also need to know when it takes effect and which powers it actually grants.
 
-Open Who receives what and compare it with the institution's beneficiary record. Check the primary beneficiary and the contingent beneficiary, the backup who receives if the primary can't under the account's rules. If the record differs from your wishes, assign the provider or legal-document update and leave it open. Save the statuses that the evidence supports.
+Who receives what gives us another comparison to make with the institution's own beneficiary record. The primary beneficiary is the first person designated. The contingent beneficiary is the backup who receives if the primary can't under the account's rules. If that record differs from what you intend, the provider or document update remains an open action. We'll save the status the evidence supports.
 
 **Overlay:**
 
@@ -1582,11 +1714,11 @@ After 8.1 or relevant A8.1 work, open Bitcoin access and the existing ownership 
 
 **Narration:**
 
-Select an asset and connect its owner to the person authorized for this situation. Then identify the provider or technical process that person would use.
+Now that we have the people and authority, let's follow one asset through the access process. The owner, the person authorized for this situation and the process that person uses all need to connect.
 
-For direct Bitcoin, the authorized person needs a lawful route to the protected recovery process. For professionally held Bitcoin, use the provider's family-access requirements. For the retirement account, check the beneficiary and distribution process. Don't use the owner's login as the instruction.
+Direct Bitcoin requires a lawful route to the protected recovery process. Professionally held Bitcoin has the provider's family-access requirements. A retirement account has its beneficiary and distribution process. Telling someone to use the owner's login doesn't establish the authority or give them the proper route.
 
-Repeat the check for incapacity and for death because the authority can change. Then identify how essential bills are paid while a longer process is underway. Record any missing authority, access requirement or cash arrangement as the specific next action.
+We'll look at incapacity and death separately because the authorized person and process can change. While that longer process is underway, the household still needs to pay essential bills. So we're also identifying cash that's legally available at that time. If authority, access or immediate cash is missing, that's the specific next action we'll carry forward.
 
 **Overlay:**
 
@@ -1610,11 +1742,11 @@ Open Instructions for your family and the existing Heir Letter. Connect the safe
 
 **Narration:**
 
-Open Instructions for your family. Begin with the first person to contact, how to verify that contact and where the household payment list begins. Keep supporting account and document references in the packet.
+This is the page someone may read when they're already under a lot of stress. In Instructions for your family, we're keeping the opening straightforward: the first person to contact, how to verify that contact and where to start with household payments. The supporting account and document references can sit in the packet.
 
-Read the first paragraph in ordinary language. Remove any wallet secret, password or exact secret-storage location. Date the instructions and identify who keeps them current.
+Let's read that first paragraph as the family would read it. Any wallet secret, password or exact secret-storage location belongs in its protected process. We'll date these instructions and identify who keeps them current so the family can tell what they're looking at.
 
-Now have the intended person find the letter and the first contact without your help. Have them find the backup if the first person is unavailable. Correct any instruction that stops them, then repeat that step. Record the actual rehearsal result; writing the letter alone doesn't show it can be found and used.
+Then we'll try the first steps with the person who agreed to help. Can they find the letter, reach the first contact information and find the backup without asking the usual operator? If something stops them, we'll correct that instruction and repeat that part. The actual rehearsal result tells us more than the fact that we've written a letter.
 
 **Overlay:**
 
@@ -1638,11 +1770,13 @@ If no check-in service is used, show the findable family instructions and backup
 
 **Narration:**
 
-If you don't use a check-in service, keep the family instructions and backup contact available and continue to the insurance review. If you use one, open the arrangement and read the timing it actually uses. Confirm who receives the message, what the message contains and how to cancel or correct a false alarm.
+A check-in service is optional. If you don't use one, the family still needs findable instructions and a backup contact; you can continue to the insurance review from there.
 
-Agree on a harmless test with the recipient. Use a message that says it's a test and contains no recovery secrets. Check that the message arrives and that the recipient can open the safe instructions.
+If you do use a service, let's look at the arrangement you actually have. Its timing, recipient, message and false-alarm process determine how useful it will be. We're checking how to cancel or correct a message as well as how it's triggered.
 
-Keep another way for the family to reach those instructions if this service is unavailable. Record delivery only after it happens. If you haven't tested this route, leave delivery unverified and assign the test.
+The way to check delivery is a harmless test agreed with the recipient beforehand. The message needs to say it's a test and contain no recovery secrets. Then we can see whether it arrives and whether the recipient can open the safe instructions.
+
+Until that happens, delivery stays unverified and the test remains an action. Even after it works, we'll keep another way for the family to reach the instructions if the service is unavailable.
 
 **Overlay:**
 
@@ -1666,11 +1800,11 @@ After 8.4, use the existing insurance audit beside redacted policy evidence. Wor
 
 **Narration:**
 
-Open the insurance audit and name the event you're testing. Record the spending or loss the household would need to cover, then the accessible resources and policy benefits available for it.
+For the insurance review, we'll take one event at a time. In the audit, we're comparing what the household would need to cover with the resources and policy benefits actually available for that event.
 
-In the life-coverage example, the ten-year shortfall is $400,000 in today's dollars. The separately available $100,000 and $200,000 of coverage leave $100,000 to investigate. Keep the zero real-return assumption and separately funded later needs beside that calculation.
+The life-coverage illustration gives us a simple example. A ten-year shortfall of $400,000 in today's dollars, less $100,000 that's separately available and $200,000 of coverage, leaves $100,000 to investigate. That calculation assumes zero return after inflation, taxes and fees, with later needs funded separately. Those assumptions stay beside the number.
 
-For your own policy, read the benefit, term, waiting period and exclusions. Record what remains uncovered and whether you intend to carry it or investigate a change. Update related spending assumptions in Cash Flow, or an expected future cost in Life events. Complete any policy change with the provider and record its effective date separately.
+Your own policy gives us the benefit, term, waiting period and exclusions to work from. Once we see the uncovered amount, we can record whether you intend to carry that risk or investigate a change. Related premiums belong in Cash Flow, and an expected future cost belongs in Life events where applicable. The policy change itself happens with the provider; we'll record its effective date once it's real, keeping needed protection until any replacement is approved and active.
 
 **Overlay:**
 
@@ -1696,13 +1830,13 @@ From 9.1's monthly route, open Home. Read material issues, source dates, Your Mo
 
 **Narration:**
 
-Start on Home and read the dates behind the current balances. If an account needs attention, open that account and read what updates automatically and what still needs your input. A provider name alone doesn't tell you whether purchase history arrived.
+For an ordinary monthly check, Home is our starting point. Before interpreting a balance, let's look at its date. If an account needs attention, How this account updates tells us what's automatic and what still needs input. Seeing a provider's name doesn't tell us that its purchase history came through.
 
-Check the changes you expected this month. Confirm a contribution arrived and was invested as intended. Look at Cash Flow's spending source, the cash Reserve and the next confirmed life event.
+Then we're comparing this month's records with what we expected to happen. Did the contribution arrive, and was it invested as intended? In Cash Flow, we'll check the spending source, the cash Reserve and the next confirmed life event so the upcoming cash needs are still represented.
 
-Then read the saved Plan's status and date. Account prices can be current while the Plan still reflects an earlier calculation. Don't change assumptions just because a price moved.
+The saved Plan has its own date and status. Prices can be current while its calculation is older, so we need to read the result that belongs to the current inputs. A price move by itself isn't a reason to rewrite the assumptions.
 
-If the records are current and there's no new decision, the monthly check is complete. Keep the next reminder and close the plan.
+If those records are current and there's no new decision, we're finished with this month's check. We can keep the next reminder and close the plan.
 
 **Overlay:**
 
@@ -1726,13 +1860,13 @@ Use the existing contribution-left-in-cash example. Trace the actual account rec
 
 **Narration:**
 
-Open the account where the contribution should have arrived. Compare the contribution date and amount with the provider record. Then check whether the intended investment was purchased or the money is still cash.
+Let's follow the contribution that needs attention. In this account, we're comparing the date and amount with the provider's record, then looking for the investment that was supposed to be purchased. The money arriving and the investment being bought are two different things.
 
-If the purchase instruction wasn't completed, fix that instruction with the provider. Don't add a fictional purchase in Orange Plan. If the purchase did happen but the record is missing, use the account's supported update or activity-import path and review the result.
+If the purchase instruction never completed, that's something to resolve with the provider. Entering a purchase in Orange Plan wouldn't make it happen. If the purchase did happen and the activity is missing here, we can use the account's supported update or import process instead.
 
-Read the receipt before adding another entry. Existing balances and imported activity may describe the same money. Don't count them twice.
+Before adding anything, let's read the receipt. The balance and imported activity may already describe the same money, and we don't want a duplicate. After the supported correction, we'll check the affected total.
 
-Save the supported correction and check the affected total. If evidence is missing, record exactly what's needed and leave the issue open. Remind me later postpones the question; it doesn't resolve it.
+If we still don't have the evidence, the issue stays open with the missing information identified. Remind me later can give us time to get that answer; it doesn't mean the question has been resolved.
 
 **Overlay:**
 
@@ -1756,13 +1890,15 @@ From 9.1's annual route, open the previous dated plan and Annual Plan Refresh. O
 
 **Narration:**
 
-Open last year's dated plan if you have it. For a first annual review, date the current plan and use it as the starting record. Then work through the six annual areas. Start with spending and the Reserve. If you're retired, open the spending-review process and compare the next year's spending and refill together. If you're working, check whether the target and funding pace still fit.
+The annual review gives us room to revisit the decisions behind the plan. Last year's dated plan is a useful comparison if you have it. For a first annual review, we'll date the current plan and start the record from here.
 
-Open Portfolio and allocation and review any changed purpose or timeframe. Then check debt statements, tax windows and approaching deadlines. In Protect, check custody changes, family contacts, beneficiaries, documents and insurance.
+There are six areas to work through, starting with spending and the Reserve. If you're retired, the next year's spending and refill need to be considered together in the spending review. If you're working, we're checking whether the target and funding pace still fit.
 
-For a debt that ended, confirm the payoff first. The former payment doesn't automatically become an investment contribution. Check the current cash needs, choose the new destination and save the contribution choice through Saving and investing. Complete the provider instruction separately.
+From there, Portfolio and allocation let us review any changed purpose or timeframe. Debt statements show what remains owed, and the tax review brings up available windows and approaching deadlines. In Protect, we're checking custody, family contacts, beneficiaries, documents and insurance.
 
-Record only adopted changes and the outside actions still needed. Keep existing choices when they continue to fit.
+Here's how that becomes a real action: if a debt has ended, we'll confirm the payoff before assigning the old payment. Then we can check today's cash needs and choose its destination in Saving and investing. The provider instruction is still a separate step.
+
+We'll record the changes you actually adopt and the outside work still needed. Choices that continue to fit can stay as they are.
 
 **Overlay:**
 
@@ -1786,13 +1922,13 @@ From 9.1's immediate-change route, use a labeled fictional income change. Save t
 
 **Narration:**
 
-This example starts with an income change that has happened. Open Income in Cash Flow and update the actual source and timing. Keep the other facts unchanged so you can see what the income change does.
+This example is for an income change that's already happened. We're updating the actual source and timing in Income under Cash Flow. Leaving the other facts alone lets us see what this change does.
 
-Read the bills, required debt payments and Reserve against the new cash flow. Then open Saving and investing to compare an affordable contribution response. The income change is a fact; the contribution amount is a choice. Review Current and Preview before saving the choice you intend to follow.
+Now we can compare the new cash flow with the bills, required debt payments and Reserve needs. That gives us the context for a possible contribution change in Saving and investing. The income change is a fact; the new contribution amount is still a choice. Current and Preview let us compare that choice before saving the one you intend to follow.
 
-If the change was already listed as a future event, reconcile that event so the projection doesn't apply it again. Wait for the saved result to include the change before interpreting it.
+If we'd already modeled this change as a future event, we also need to reconcile the event so it isn't applied twice. Then we'll wait for the saved result to include the change before reading its effect.
 
-A possible career break stays in Scenarios. An unexplained number needs a source correction or a focused support question, not several compensating edits to recover an old percentage.
+A career break you're only considering stays in Scenarios. And if a number is unexplained, we'll trace its source or ask a focused support question. Changing several other inputs to get the old percentage back would leave the original problem unresolved.
 
 **Overlay:**
 
@@ -1816,13 +1952,13 @@ Save a dated summary/action record through actual supported views. Open Profile 
 
 **Narration:**
 
-Save the date, changes you adopted and the reason for each one. Give any remaining outside action a responsible person and due date. Keep future actions tied to the event that makes them possible.
+We're leaving a short record for the next time you open the plan: the date, what you adopted and why. Any outside action still needed gets a responsible person and a due date. If it depends on something happening first, that condition goes with it.
 
-Open the export options and read what the file contains before saving or sharing it. A readable summary and a restoration backup serve different purposes. If the export is a supported restoration backup, keep it protected and record its actual restoration status separately. If it's only a report or data export, keep that scope clear; it doesn't establish that the plan can be restored.
+The export options tell us what we can save. Let's read that scope before saving or sharing the file. A readable summary helps someone understand the plan; a supported restoration backup has a different job. If this export supports restoration, we'll keep it protected and record its actual restoration status separately. A report or data export on its own doesn't establish that the plan can be restored.
 
-Put the monthly check and annual review on your calendar. Include separate triggers for loan thresholds, tax deadlines and important life changes. A note saying to create a reminder isn't the reminder itself.
+We'll also put the monthly and annual reviews on the calendar, with loan thresholds, tax deadlines and important life changes on their own timing. Writing down an intention to create a reminder doesn't create it.
 
-At the next review, start with this dated record and update what changed.
+At the next review, this dated record gives us somewhere to start. We can see what changed without rebuilding the reasoning from memory.
 
 **Overlay:**
 
@@ -1848,13 +1984,13 @@ Open Plan → Overview, then Your Plan report. Check the active saved-plan ident
 
 **Narration:**
 
-Open Plan Overview and check that you're reading the saved plan you intend to follow. Read the result date and status, then open Your Plan report.
+We're going to read the plan as one connected set of decisions. In Plan Overview, let's first check that this is the saved plan you intend to follow, along with its result date and status. Then we'll open the matching Your Plan report.
 
-Start with the retirement date, spending and planning horizon. Keep the assumptions beside the result. The displayed chance of success depends on those inputs and the spending policy; it doesn't settle every household risk.
+The retirement date, spending and planning horizon tell us what we're asking this plan to do. The assumptions and spending policy explain the conditions behind its chance of success. That result is useful, but it doesn't settle every household risk.
 
-Read the report's accuracy issue or missing information before considering a modeled improvement. Correct a wrong fact first. If the plan is weaker than you need, identify the unfunded period or assumption driving it and choose one response to compare.
+Before comparing an improvement, let's read any accuracy issue or missing information. A wrong fact needs correcting first. If the facts are sound and the plan is weaker than you need, we can identify the unfunded period or assumption driving that weakness and choose one response to compare.
 
-Keep the same saved plan open as you move into the funding details. Don't borrow a more attractive result from a different scenario.
+We'll keep this same saved plan open as we follow the funding. That way, the attractive result and the details we're relying on belong to the same set of choices.
 
 **Overlay:**
 
@@ -1878,11 +2014,13 @@ From the same result, open How retirement is funded/Retirement strategy and supp
 
 **Narration:**
 
-Open the first retirement year and follow how the bills are funded. Read the income that arrives, the full spending need and the amount drawn from assets. Check the source accounts and the taxes or debt payments attached to that year.
+This is where we turn the retirement plan into a picture of where the money to live on comes from. Let's start with the first retirement year and follow the money that pays the bills. We're looking at the income arriving, the complete spending need and the amount that has to come from assets. The source accounts, taxes and debt payments help explain that year's full requirement.
 
-Move to the next funding change, such as the start of a benefit or a major planned expense. Check that the account paying it is accessible at that time and that the same money isn't assigned to another need.
+Then we'll move to the next important change, perhaps a benefit starting or a major planned expense. The account paying for it needs to be accessible at that time. We also need to check that we've left enough for the other jobs assigned to those assets.
 
-Then read the Reserve and spending-response rules. Identify what changes if the plan weakens, and which resources remain available afterward. If a source or access rule is unresolved, keep that gap visible. The headline result doesn't fill in missing funding evidence.
+The Reserve and spending-response rules tell us how the plan responds if things weaken. As we read them, we're looking at what would change and what resources would remain afterward.
+
+If an account's access rule or a funding source is unresolved, we'll leave that gap visible and identify the next step to resolve it. The headline result can't supply evidence that we don't yet have.
 
 **Overlay:**
 
@@ -1906,13 +2044,13 @@ Review current cash flow/contributions, the selected spending state and the next
 
 **Narration:**
 
-Check where the next contribution goes and what it buys. Confirm that the Reserve transfer, extra debt payment and investments all fit the same current cash flow.
+Now let's connect the long-term plan to the next month of implementation. We need to see where the contribution goes, what it buys, and how it fits alongside the Reserve transfer and any extra debt payment in the same cash flow.
 
-The Reeds' $500 current amount and $1,700 spending-reduction comparison belong to different spending choices. The extra $1,605 from ending card payments belongs in the future. Check your plan for that same timing issue before assigning money.
+The Reeds show why the timing matters. Their $500 current amount and $1,700 spending-reduction comparison come from different spending choices. The extra $1,605 from ending card payments is future money. We need the same consistency in your plan before assigning a dollar to its next job.
 
-Read the next action and the evidence needed to finish it. If you share household decisions, use the summary to explain the spending, investment mix and first retirement funding period. Keep the calculations in the app and share only what the other person needs.
+From here, we'll read the next real action and what would show that it's complete. If you share household decisions, the summary can help you explain the spending, investment mix and first retirement funding period. The calculations can stay in the app; share what's useful for that conversation.
 
-There's no separate presentation to prepare. Finish the actual unresolved decision in the relevant part of your plan.
+You don't need to prepare a separate presentation to finish this. Any unresolved decision takes us back to the part of the plan where it can actually be addressed.
 
 **Overlay:**
 
@@ -1936,11 +2074,13 @@ For an actual open issue only, prepare the existing focused CPA, estate, coverag
 
 **Narration:**
 
-Open the action that needs outside help. State the decision you're considering and the specific question that blocks it. Add the relevant records and the deadline.
+If one of your open decisions needs outside help, we can make that conversation more useful now. We're starting with the decision you're considering and the specific question that blocks it, then adding the relevant records and deadline.
 
-For a tax question, that may be the income, account and purchase details behind a proposed transaction. For estate access, it may be ownership, authority and the provider's requirements. Keep recovery secrets out of either packet.
+For a tax question, those records might be the income, account and purchase details behind the proposed transaction. For estate access, they might be ownership, authority and the provider's requirements. Neither packet needs recovery secrets.
 
-Review what the export actually includes and remove unrelated information before sharing. Record the handoff as prepared until it's sent, and the answer as outstanding until you receive it. Preparing a packet doesn't complete the transaction or supply professional advice.
+Before sharing an export, let's read what it includes and remove information unrelated to the question. The status also needs to reflect where we are: prepared until it's sent, and awaiting an answer until the answer arrives. The packet helps someone review the question; preparing it doesn't complete the transaction or give us the professional answer.
+
+If there's no decision that needs that help, there's no extra packet to create here. We can continue to saving the plan and its actual next steps.
 
 **Overlay:**
 
@@ -1964,13 +2104,13 @@ Save/reopen the dated report and existing Household Plan Summary/action list thr
 
 **Narration:**
 
-Save the dated plan and the action record that goes with it. Mark what has actually completed: a provider confirmation, an investment purchase or a signed and effective document. Keep planned work separate.
+The dated plan and its action record belong together. As we save them, we'll distinguish a choice you've made from an action that's happened. A provider confirmation, an investment purchase or a signed and effective document gives us evidence of completion. Planned work keeps its own status.
 
-Tie future actions to their condition. A transfer funded by a loan payoff begins after that payment ends. Record who will make the change and how you'll confirm it happened.
+Future actions need their conditions too. If a transfer depends on a loan payment ending, it starts after that payment ends. Recording who will change the instruction and how they'll confirm it makes that future step easier to follow.
 
-Keep the next monthly and annual reminders, with urgent monitoring on its own schedule. Save an appropriate protected backup if the product supports it, and keep its restoration status explicit. A report isn't automatically a restorable backup.
+We'll keep the monthly and annual reminders, with urgent monitoring on its own schedule. If the product supports an appropriate restoration backup, it needs protected storage and an explicit restoration status. A report isn't automatically that backup.
 
-Finish with the next real action and any question still blocking a major decision. This dated record is where your next review begins.
+The last thing to leave visible is your next real action and any question still blocking a major decision. When you come back for a review, this dated record lets you pick up from the plan you're actually following.
 
 **Overlay:**
 

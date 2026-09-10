@@ -1,5 +1,5 @@
-Identify the pieces this wallet needs for recovery. The PIN unlocks the device. The backup recreates the corresponding keys. If a passphrase is used, the exact passphrase selects the intended wallet.
+Before the recovery check, let's be clear about what each piece does. The PIN unlocks the device. The backup recreates the corresponding keys. If this wallet uses a passphrase, the exact passphrase selects the intended wallet.
 
-Keep those jobs separate. Knowing the PIN doesn't replace a missing backup, and a correct word list doesn't prove a passphrase wallet.
+Those different jobs explain why one piece can't simply replace another. Knowing the PIN doesn't replace a missing backup. And a correct word list doesn't prove that we've recovered a passphrase wallet; we still need the exact passphrase and the intended-wallet check.
 
-A multisig setup has additional independent-key and configuration requirements. Use the complete reviewed procedure for that arrangement. This demonstration only covers the requirements recorded for this test wallet.
+Multisig has additional independent-key and configuration requirements, which need the complete reviewed procedure for that arrangement. Here we're covering only the requirements recorded for this test wallet. These labels explain the pieces without showing their private values.

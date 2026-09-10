@@ -25,13 +25,15 @@ Only each **Narration:** block is spoken. Record the chapter as a separate take;
 
 **Narration:**
 
-Open the holding you intend to sell, then its purchase details. Confirm the units, date and source cost before using a lot in the comparison.
+Let's look at a sale before placing it. I'm opening the taxable holding and its purchase details so we can see which units we own, when we acquired them and what they cost.
 
-Our illustrative 0.2 Bitcoin sale produces $20,000 before fees. The three supported purchase-price examples give $11,600, $3,200 or $10,400 of basis. The corresponding gains are $8,400, $16,800 and $9,600.
+In our separate illustration, selling 0.2 Bitcoin produces $20,000 before fees. The three purchase-price examples give $11,600, $3,200 or $10,400 of basis. That changes the gain to $8,400, $16,800 or $9,600 even though the sale proceeds are the same.
 
-Keep proceeds and gain separate from estimated tax. Confirm which units are actually available and which identification process applies. If a cost is missing, leave it unknown and find the source record before relying on that sale. Previewing a lot here doesn't execute the trade or notify the custodian.
+The gain still isn't the tax bill. We need the rest of the tax year's information to estimate that, and we need tax and costs accounted for before treating the proceeds as spending money.
 
-**Overlay:** Cue “Keep proceeds and gain separate” → Proceeds → basis → gain → tax → usable cash; cue “doesn’t execute” → Preview only.
+Here, I'm checking which units are actually available and how they must be identified for this transaction. If a cost is missing, we leave it unknown and find its source record before relying on the comparison. Previewing the lot doesn't place a trade or notify the custodian. Once the records support it, we can compare the sale in the context of the year's income.
+
+**Overlay:** Cue “The gain still isn't the tax bill.” → Proceeds → basis → gain → tax → usable cash; cue “doesn't place a trade” → Preview only.
 
 **Verify:** The quantity and available lots match source records; missing slices are not silently consumed and gross proceeds are not labeled tax or spending cash.
 
@@ -43,13 +45,17 @@ Keep proceeds and gain separate from estimated tax. Confirm which units are actu
 
 **Narration:**
 
-Import the purchase records for this holding and review the events before accepting them. Keep the original file. Check whether an overlapping upload has already supplied the same purchases.
+We're going to repair the part of the purchase history this decision depends on. I have the source records for this holding, and I'm keeping the original file while we review the imported events.
 
-Follow a transfer across both accounts. In our no-fee illustration, 0.1 Bitcoin leaves the exchange and reaches the same owner’s wallet. Preserve its purchase history; it doesn't become a second purchase or an automatic sale.
+An overlapping upload may contain purchases we've already entered. Those need to be recognized as the same events, or the history will say we bought more than we did.
 
-Reconcile the remaining units against the current holding. Investigate fees, missing activity or duplicates when they differ. Keep the precise missing detail visible rather than creating a balancing purchase. Completing the history must not add the current position a second time.
+A transfer needs the same care. In this no-fee illustration, 0.1 Bitcoin leaves the exchange and reaches the same owner's wallet. Its purchase history follows it. The move doesn't create a second purchase or automatically become a sale.
 
-**Overlay:** Cue “Follow a transfer” → Same owner, same units, original basis; cue “must not add” → History improves; assets counted once.
+Now we can compare the remaining units with the current holding. If they don't agree, we'll look for fees, missing activity or duplicates. We keep a missing detail visible while finding the evidence, instead of inventing a purchase to make the numbers match.
+
+When the history agrees, we have a supported basis for the sale comparison. We've improved the records behind the holding without adding that holding to the portfolio a second time.
+
+**Overlay:** Cue “Its purchase history follows it.” → Same owner, same units, original basis; cue “without adding that holding” → History improves; assets counted once.
 
 **Verify:** Overlaps deduplicate, same-owner transfer retains quantity/history, and any unresolved evidence stays explicit. No invented historical transaction makes balances agree.
 
@@ -61,13 +67,15 @@ Reconcile the remaining units against the current holding. Investigate fees, mis
 
 **Narration:**
 
-Open the tax roadmap and select the first year when income materially changes. Read each person’s work income and benefits. Then include distributions, gains, conversions and any supported loss carryforward for that same year.
+Here's the tax roadmap. We're looking for a year when the household's income changes enough that a withdrawal or conversion might be worth comparing.
 
-Compare it with the next important income year. A lower-income interval may make a withdrawal or conversion worth examining. Use the household’s actual dates rather than treating retirement itself as a low-tax period.
+I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. Alex stopping work doesn't automatically make the household's income low if other income continues.
 
-Identify one amount to compare and the source that pays its tax. Keep the existing plan as the baseline. If a filing or income record is missing, obtain that fact before relying on the proposed window.
+Now we can compare that year with the next important income change. If there's a lower-income interval, we have a reason to examine it. We still need the total cost of adding income, including effects beyond the tax bracket.
 
-**Overlay:** Cue “for that same year” → One tax-year picture; cue “one amount to compare” → Bounded comparison.
+We'll start with one amount and identify the money that would pay its tax. The existing plan stays as our baseline. If a missing filing or income record could change this window, that's the fact to obtain before relying on it. Once the year's inputs are supported, we're ready to compare a conversion, a spending withdrawal and leaving the plan as it is.
+
+**Overlay:** Cue “that same year's picture” → One tax-year picture; cue “start with one amount” → Bounded comparison.
 
 **Verify:** Year, owner, income sources, RMD dates and transaction state are consistent. No fixed-age RMD assumption or fabricated tax window.
 
@@ -79,15 +87,15 @@ Identify one amount to compare and the source that pays its tax. Keep the existi
 
 **Narration:**
 
-Keep the same spending and return assumptions. Start with no added conversion, then preview the amount you're considering and a smaller amount.
+We've found a year worth examining. Now let's see whether moving existing Traditional money into Roth actually helps this plan. I'm keeping spending and return assumptions the same and starting with no added conversion, then comparing the proposed amount and a smaller one.
 
-Read three separate amounts: the conversion, the spending withdrawal and the money paying tax. In the teaching example, $30,000 moves to Roth and $6,000 is spent from outside assets. Count the growth that outside money would have earned if it stayed invested.
+There are three amounts to follow: what moves to Roth, what pays the bills and what pays tax. In our separate teaching example, $30,000 moves to Roth and $6,000 comes out of outside assets for tax. That $6,000 would have remained available and could have grown if we hadn't spent it, so it belongs in the comparison.
 
-Read the first affected year’s tax and accessible cash, then the later after-tax resources. Compare an accessible Traditional withdrawal for spending when that serves the income window. It supplies cash for bills; the conversion does not.
+I'm reading the first affected year's tax and accessible cash, then the later after-tax resources. An accessible Traditional withdrawal for spending is another choice when it serves this income window. It provides cash for bills; moving money into Roth doesn't do that.
 
-For several years, repeat that cash check at every income change. Save the intended strategy only after its tax source and early-year funding fit. Record actual completed conversions separately.
+For a multiyear schedule, we'll repeat that check whenever income materially changes. If a conversion leaves the early years short, the amount or timing needs work. Once the tax source and spending fit, we can save the strategy we intend to follow. The actual conversion remains a separate provider transaction.
 
-**Overlay:** Cue “three separate amounts” → Conversion / spending / tax; cue “later after-tax resources” → Include tax-payment opportunity cost.
+**Overlay:** Cue “There are three amounts to follow” → Conversion / spending / tax; cue “later after-tax resources” → Include tax-payment opportunity cost.
 
 **Verify:** After-tax and liquidity comparison includes outside assets, same lifestyle and assumptions. RMD exclusion, basis, healthcare and access prerequisites are recorded; saving does not fabricate execution.
 
@@ -99,13 +107,15 @@ For several years, repeat that cash check at every income change. Save the inten
 
 **Narration:**
 
-Choose the sale candidate and state its purpose: spending, realizing a gain or realizing a loss. Read the estimated total cost beside the rest of the year’s income.
+We have a sale candidate with records we can support. Before doing anything with it, let's come back to its purpose: providing spending money, realizing a gain or realizing a loss. That tells us which costs and benefits to compare with the rest of the year's income.
 
-Confirm the units and complete identification through the method required for this account and transaction date. Keep its acknowledgment or contemporaneous record. Check replacement exposure and automatic purchases before a securities loss sale, including relevant spouse and IRA activity.
+The units we're planning to sell need to be identified through the process required for this account and transaction date. I'm keeping the acknowledgment or contemporaneous record with the proposal. Choosing units in a planning screen doesn't complete that process with the provider.
 
-For a gain harvest, confirm the income room after other gains and conversions. Include state and healthcare effects. If the benefit is too small or the records remain unsupported, retain the investment and record why. A completed Preview is a proposed transaction until the actual instruction is executed.
+For a securities loss sale, replacement investments and automatic purchases matter, including relevant spouse and IRA activity. For a gain harvest, we need to see the income room remaining after other gains and conversions, including state and healthcare effects.
 
-**Overlay:** Cue “complete identification” → Identify before required deadline; cue “proposed transaction” → Preview → execute → record.
+If the expected benefit is too small, or the records still don't support the transaction, keeping the investment is a valid result. We can record that reason and stop there. If we decide to proceed, this remains a proposed transaction until the actual instruction is executed. Then we'll reconcile the confirmation and remaining holdings.
+
+**Overlay:** Cue “identified through the process required” → Identify before required deadline; cue “a proposed transaction” → Preview → execute → record.
 
 **Verify:** Candidate has supported basis/units, current identification process, replacement review, income context and intended exposure. No app selection is presented as legal execution.
 
@@ -117,13 +127,15 @@ For a gain harvest, confirm the income room after other gains and conversions. I
 
 **Narration:**
 
-Open the export before sharing it. Confirm its dates, units, proceeds, fees and available purchase details. FORM 8949 TAX DATA supports your tax professional’s work; it isn't a filed form.
+Let's finish with the records another person would need to review this decision. I'm opening the export first so we can see its dates, units, proceeds, fees and available purchase details. FORM 8949 TAX DATA supports the tax professional's work; it isn't a filed form.
 
-Add the source records relevant to the decision, the proposed transaction, this year’s income context and the unresolved question. Leave unrelated private files out of the packet.
+Alongside it, we're including the relevant source records, the proposed transaction, this year's income context and the specific question still unresolved. That might be a missing basis record or how an account rule applies. The packet doesn't need unrelated private files to answer that question.
 
-After an actual transaction, match the confirmation to the recorded units and remaining holdings. Reconcile provider reporting and the filed return before carrying values into another year. Keep the transaction pending until the confirmation exists. The packet is ready when another person can identify the decision and the evidence needed to resolve it.
+After an actual transaction, the confirmation lets us compare the recorded units and remaining holdings with what happened. Provider reporting and the filed return also need to agree before we carry those figures into another year. Until confirmation exists, the transaction remains pending.
 
-**Overlay:** Cue “isn’t a filed form” → Tax data for review; cue “remaining holdings” → Confirmation → remaining lots → filed record.
+The useful result here is a decision someone can understand and evidence they can review. Once that is resolved, we can return to the tax-timing comparison or carry the chosen funding approach into the retirement paycheck.
+
+**Overlay:** Cue “isn't a filed form” → Tax data for review; cue “remaining holdings” → Confirmation → remaining lots → filed record.
 
 **Verify:** Export scope and omissions are visible; proposed/completed states remain separate; no full sensitive backup, filing claim or invented confirmation.
 

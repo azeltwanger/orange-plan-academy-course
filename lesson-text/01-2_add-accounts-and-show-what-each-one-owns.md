@@ -1,6 +1,6 @@
 # 1.2 — Put your starting numbers in one place
 
-Status: STEPWISE_SCRIPT_REVIEW — complete teaching manuscript; final voice approval and capture remain separate.
+Status: CONVERSATIONAL_VOICE_REVIEW — revised spoken manuscript; Austin voice approval and capture remain separate.
 Kind: teach
 Gate: APP_CAPTURE, OWNER_REVIEW
 Sources: ALLOCATION, APP, CASHFLOW, DICTATION, FOUNDATION, MASTER
@@ -11,19 +11,21 @@ Enter or verify the accounts, holdings, debts, income and existing saving that d
 
 ### Read aloud
 
-Gather your recent account and debt statements, pay records and employer benefits. We're going to enter what you own, what you owe, and the money already coming in and going out. Keep the records in one private folder so you can find the source of a number as we work.
+In this lesson, we're going to get the starting picture of your finances into one place. Before we ask when you can retire or how much Bitcoin to hold, we need to know what you already own, what you owe and what your household has coming in and going out. If those numbers are wrong, every comparison we make later starts from the wrong place.
+
+Your recent account and debt statements, pay records and employer benefits are what we'll use. I find it easier to gather them in one private folder first, but you can also bring them up as we go. Let's start with an account, because there's one distinction here that can otherwise make the whole plan confusing.
 
 Let's look at Alex's Roth IRA. The example account is worth $145,000. It contains $116,000 of spot Bitcoin-fund exposure and $29,000 in stocks.
 
 Those amounts add up to the $145,000. They aren't extra assets sitting on top of the balance. Think of the account as the container and the investments as its contents.
 
-Before we add the accounts, separate what is true today from what you're testing. The Reeds' existing mortgage is a fact. College support they intend to provide is an expected expense. The renovation they're debating is a scenario. Keep that comparison separate until they choose it.
+There's another distinction we'll keep throughout the course: what is true today, what you expect to change, and what you're only considering. The Reeds' existing mortgage is a fact. College support they intend to provide is an expected expense. The renovation they're debating is a scenario. We can compare that renovation without making it part of the plan they've chosen.
 
 An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
 
-First, build the account list. Include bank accounts, taxable investments, retirement plans, and any health or education accounts that apply. Keep each person's ownership clear, even when several accounts are at the same institution. If an account is already entered, review it instead of creating another copy.
+So as we go through your accounts, we're including the bank accounts, taxable investments, retirement plans and any health or education accounts that apply. The owner still matters when two accounts are at the same institution. And if an account is already in Orange Plan, we're reviewing that record; adding it again would give us money you don't actually have.
 
-Next, explain what each account owns. Open its statement and identify the investments. Use the actual name, quantity when known, and current value. Don't choose a familiar ticker just because it seems close to an unfamiliar investment. The plan needs to describe what you own, not the nearest thing on a menu.
+Once we know which account we're looking at, the next question is what's inside it. Your statement is the place to find the actual investment name, quantity when known, and current value. If an investment name is unfamiliar, choosing a ticker that looks close won't solve that. We want the plan to describe what you actually own.
 
 Sometimes you only know the total and a rough investment mix. Start there, with the mix clearly marked as an estimate. Don't turn a rough percentage into a list of specific investments you haven't checked.
 
@@ -35,23 +37,23 @@ Let's say you already own Bitcoin that was purchased years ago. Entering the cur
 
 A transfer needs the same care. Buying Bitcoin on an exchange and moving it to your wallet doesn't leave you owning it in both places. The transfer moves the position and its history. It doesn't create a second investment or reset what you originally paid.
 
-Collect the old exchange and brokerage records you already have, but don't make this lesson an attempt to repair your entire tax history. Tax will give that work its own sequence. For a Roth account, you don't have to reconstruct every internal trade just to identify today's holdings. Contribution, conversion, and distribution records have separate jobs when access or tax treatment matters.
+This is why I'd gather the old exchange and brokerage records you already have now. We can use them as they become relevant without turning this first lesson into a complete tax-history project. For a Roth account, you don't have to reconstruct every internal trade just to identify today's holdings. Contribution, conversion and distribution records have separate jobs when access or tax treatment matters.
 
-Use the history and transfer part of the walkthrough only when those records apply to your holdings and you have the supporting records available. Otherwise, mark what is missing and skip to chapter six for the monthly starting picture. You can build that picture without repairing an unrelated old purchase first.
+The history and transfer part of the walkthrough is there for records that apply to your holdings and are available now. If that isn't your situation, leave a note about what's missing and go straight to chapter six, where we build the monthly picture. An unrelated old purchase doesn't have to stop that work.
 
-Before leaving an account, compare its balance with the statement. The investments must explain that total once, under the right owner and account type. Leave an unexplained difference visible until you find its source.
+What I want to see before we leave an account is that its investments explain the statement balance once, under the right owner and account type. If there's a difference we can't explain, we leave that question visible until we find its source.
 
-Now build the monthly starting picture from income, living costs, debt and existing contributions.
+That gives us the money you already have. Now we need to see how the household changes from month to month, starting with income and the bills and saving already coming out of it.
 
-Start with each person's income. Identify the source, amount, and timing. Gross pay means pay before taxes and other deductions. Take-home pay is what remains after those amounts come out. Match the number to the field being filled. Your bank deposit is already take-home money; subtracting its payroll deductions again would count them twice.
+The income source, amount and timing belong to each person. Gross pay means pay before taxes and other deductions; take-home pay is what remains afterward. That distinction matters when you're entering the number. If you're starting with the bank deposit, the payroll deductions have already happened. Subtracting them again would count them twice.
 
 For business income, identify the operating costs already deducted from the amount you're using. Sales, profit, and cash available to the household are different. Morgan's example income is after ordinary operating costs but before the equipment-loan payment shown separately. Your records may use a different convention. Follow what your number includes.
 
-Next, enter a starting living-spending amount from actual records. Don't use the amount you wish you spent. Note annual bills or a recent change that could make a single month misleading. In Cash Flow we'll work out how those belong in the estimate.
+On the spending side, we're using what your life actually costs now. You may want to spend less, and we'll work on that, but putting the amount you wish you spent into the starting plan would skip the decision. Annual bills and recent changes can make one month misleading. We'll spend more time on that in Cash Flow.
 
-Keep required debt payments in their own debt records when the plan counts them there. Verify the current balance, rate, and payment from the lender. The mortgage you already have belongs in this picture. A loan you're considering doesn't become current debt because you want to compare it.
+The debt statements fill in another part of that monthly picture. We're checking the current balance, rate and required payment with the lender, and keeping required payments in their debt records when the plan counts them there. The mortgage already exists. A possible new loan stays in a comparison until you've chosen it.
 
-Then look at money already going into investments. A payroll retirement contribution uses household pay before the remainder reaches checking. An employer match adds retirement money, but it isn't cash the family can spend.
+There's one more amount we need before calling anything left over: money you're already investing. A payroll retirement contribution uses household pay before the remainder reaches checking. The employer match adds retirement money, but it isn't cash the family can spend.
 
 Alex earns $155,000 a year and puts 6% into his workplace plan. That's $9,300 a year, or $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
 
@@ -61,13 +63,13 @@ That's the figure we're starting from. It doesn't mean they're only saving $500;
 
 The tax amount in that example is an assumption, not a calculated tax bill. For your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
 
-Finally, record the work change you're testing. Alex would like work to be optional at 52. Entering that age records the intention. It doesn't establish that the plan can fund it. Morgan has a separate work timeline; one person's retirement date shouldn't silently end both incomes.
+Now we can bring back the work-change question from the introduction. Alex would like work to be optional at 52. Entering that age records the intention; it doesn't establish that the plan can fund it. Morgan has a separate work timeline, so Alex's date doesn't silently end both incomes.
 
 You don't have to know your final retirement budget yet. Start with what your life costs now. Subtract costs you expect to stop and add costs you expect to begin. Some work costs may disappear; travel, healthcare, or family support may increase. Keep an uncertain amount marked as an estimate instead of using zero. We'll check and improve this first budget as we go.
 
-Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. If you can't verify the income, keep it as a question to answer before you count on it.
+Social Security or pension income belongs here when you have an actual estimate, tied to the right person and start date. If you don't have the source yet, that's a question we need to answer. Inserting a benefit because the plan needs more income would make the result look better without making it more reliable.
 
-Save the starting facts and leave each missing source attached to the question it needs to answer. You can continue building while a nonessential history question remains open; a missing income or spending amount needs resolving before you rely on the result.
+In the walkthrough, we'll put these pieces together and check them against the same records. You can keep going with a nonessential history question still open; missing income or spending needs resolving before you rely on the result. Once the starting facts are in place, we'll look at the assumptions behind the future numbers. That's how we move from what you have today to the retirement question you want to test.
 
 ### Text overlays — not spoken
 

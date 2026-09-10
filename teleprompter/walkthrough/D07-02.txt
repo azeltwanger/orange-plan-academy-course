@@ -1,5 +1,5 @@
-Create the new test wallet using the official procedure. Before recovery information appears, stop the camera and screen recording. Keep the recovery words, private keys and any passphrase in the private offline process.
+We're at the point where the new wallet creates private recovery information. Before any of that appears, the camera and screen recording need to stop. The recovery words, private keys and any passphrase belong in the private offline process, including while they're being recorded or entered.
 
-Don't copy a secret from a tutorial or use prewritten recovery material. Generate the wallet through the trusted device process.
+The wallet is generated through the trusted device process in the official instructions. A secret from a tutorial or prewritten recovery material would give someone else a way to control it, so neither belongs in this setup.
 
-Resume recording only after the secret screens are closed. The next visible screen can show that setup is ready, but none of the material that would let someone control the wallet belongs in the footage.
+Once the secret screens are closed, we can resume on a non-secret screen. That lets us continue explaining the test without putting the material that controls the wallet into the footage. A later blur wouldn't remove it from the original recording.

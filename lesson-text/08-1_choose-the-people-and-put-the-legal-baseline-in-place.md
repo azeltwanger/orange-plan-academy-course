@@ -11,49 +11,53 @@ Connect the people, documents and account processes your family would use if you
 
 ### Read aloud
 
-Choose the people who would handle your finances and healthcare if you couldn't. Then choose who would carry out the estate process after your death. Ask them before treating the arrangement as settled, and name a backup for each important role.
+Up to this point, you've been the person putting the plan together. Now we're going to make it usable for someone else if you're unable to manage it. That means connecting the people, the legal documents and the access process, so your family has a clear place to begin.
 
-Choose for willingness and ability to follow the process. The person can get technical or professional help. They don't have to be the household's best investor. For children, discuss guardianship and the management of their money as separate responsibilities.
+The custody work gives us part of that picture. We know how the Bitcoin is held and what recovery has actually been checked. But someone can know how a wallet works without having authority to use the assets. And a person can have legal authority without knowing how to reach them. Both parts need to connect.
 
-Now open the documents you already have. Find the current will, financial power of attorney, healthcare documents and any trust. Check the date, signed version and whether each document reflects your wishes. List the missing or outdated item and who will complete it.
+I'd start with the people you want involved. You may need someone for financial decisions while you're alive, someone for healthcare and someone to handle the estate process after death. One person can have several roles, but each role needs its own authority.
+
+Choose someone who's willing and able to follow the process, and ask them before treating it as settled. They can use technical or professional help; they don't have to be the family's best investor. A backup matters too, because the first person may also be unavailable. If you have children, caring for them and managing their money are separate responsibilities to discuss in the estate plan.
+
+From there, look at the documents you already have. We're looking for the current will, financial power of attorney, healthcare documents and any trust. Check the signed versions, their dates and whether they still reflect your wishes. A draft in a folder tells us work has started, but it doesn't tell us the arrangement is in effect.
 
 A financial power of attorney gives someone authority under its terms while you're alive. For incapacity, check that the authority can continue if you're unable to manage your affairs. That's what durable means here. Also confirm when it takes effect and which powers it grants. Healthcare authority is separate. After death, estate, trust and beneficiary processes apply instead.
 
-A nominated executor may need a formal appointment before acting. A trust depends on its terms and which assets it actually holds. Recording a name in Orange Plan doesn't create either kind of authority.
+A nominated executor may still need a formal appointment before acting. A trust depends on its terms and which assets it actually holds. So when we put those arrangements into Orange Plan, we're describing the authority that exists; the app isn't creating it.
 
-Check account beneficiaries next. Open the institution's current beneficiary record and compare it with what you intend. Check the primary beneficiary and the contingent beneficiary, the backup who receives the asset if the primary can't under the account's rules. Some accounts and policies transfer under their own ownership or beneficiary rules. A will may not change that result. Take a discrepancy to the provider or the person preparing your estate documents.
+Check account beneficiaries next. This is worth doing separately because some accounts and policies pass under their own beneficiary or ownership rules. A will may not change that result.
 
-A trusted contact is also different from an authorized account user. The institution may contact that person if it can't reach you or suspects exploitation. That doesn't automatically let the person trade or withdraw money.
+Open the institution's current record and compare it with your intention. The primary beneficiary is the first recipient you've named. The contingent beneficiary is the backup who receives if the primary can't under the account's rules. If something doesn't match, that's the specific update to take to the provider or the person preparing your estate documents.
 
-Next, connect each important asset to its access process. Use the custody map you started in the last section. Record the owner, custody method, relevant contact and where the legitimate process begins.
+You may also see a trusted contact on an account. That person can be useful if the institution can't reach you or is concerned about exploitation. It doesn't automatically give them permission to trade or withdraw money. The role needs to be clear before the family relies on it.
 
-The Reeds' personally controlled Bitcoin needs both legal authority and a usable recovery process. Their professionally custodied Bitcoin uses that provider's family-access process. The Bitcoin ETF in the Roth IRA follows the account's beneficiary and distribution rules. Writing “Bitcoin” beside all three would leave the family without the instructions it needs.
+Now we can connect the people to the assets. The Reeds' personally controlled Bitcoin needs a lawful route to the protected recovery process. Their professionally custodied Bitcoin uses the provider's family-access process. The ETF in the Roth IRA follows that account's beneficiary and distribution rules. The word “Bitcoin” on an account list wouldn't explain which kind of help applies.
 
-Don't tell someone to impersonate you with your login. Identify the provider's authorized process. A person who knows how to use a wallet isn't automatically entitled to use the assets.
+The instruction shouldn't be to impersonate the owner with their login. It should point to the legitimate provider or recovery process for the person authorized in that situation. Recovery words, private keys, passphrases, passwords, PINs and exact secret locations stay out of the family map. Sensitive wallet configurations belong in the protected recovery process too.
 
-Keep recovery words, private keys, passphrases, passwords, PINs and precise secret locations out of this map. Sensitive wallet configurations belong in the protected recovery process. The family map can name the legitimate contact without exposing the material used to sign.
+There can also be time between somebody needing to help and the full process being completed. So include how the household's immediate bills would be paid. Confirm which cash and payment arrangements are legally available, rather than assuming every account can be used immediately.
 
-Check what pays the immediate household bills while an estate or recovery process is underway. Confirm which cash and payment arrangements are legally available. Don't assume every account becomes available the moment someone needs it.
-
-Now write the first page your family would read. Use the Heir Letter if you don't already have clear instructions. Keep the supporting account inventory, document locations, obligations and professional contacts in the Executor Packet.
+Once those pieces connect, we can write the first page your family would read. You can use the Heir Letter if you don't already have clear instructions, with the supporting inventory, document references and obligations in the Executor Packet.
 
 Here's an example of the first paragraph:
 
 “If I'm unavailable, contact the person named for financial matters in our family contact list. Confirm who has authority for this situation. Use the custody map to find the correct provider or technical helper for each account. Check the household payment list for bills that need attention. Don't share wallet recovery words or follow urgent transfer instructions from an unexpected message.”
 
-Adapt that paragraph to your actual arrangements. It explains where to begin; it doesn't grant authority. Include a safe path for an heir who wants help selling Bitcoin. The process needs to work even if they don't share your investment preferences.
+You'd adapt that to your actual arrangements. It gives someone a starting point; it doesn't grant authority. The process also needs to work for an heir who wants help selling Bitcoin. We can help them avoid a rushed mistake without requiring them to share your investment preferences.
 
-Date the letter and identify who maintains it. Show the intended person where it begins. Let them find the first contact and the backup without coaching every step. Correct the instruction they couldn't follow, then repeat that part. No money needs to move during this rehearsal.
+The useful check is whether the intended person can find and follow that first page. Date it, show them where it begins and let them find the first contact and backup without coaching every step. Correct the instruction they couldn't follow, then repeat that part. No money needs to move during the rehearsal.
 
-If you use a check-in or delayed-message service, confirm the actual timing, recipient, cancellation process and what happens after a missed check-in. Agree on a harmless test message with the recipient and verify delivery. Never send secrets or a false emergency. Keep another way for the family to find the instructions if the service is unavailable.
+If you use a check-in or delayed-message service, treat it as another way to deliver those safe instructions. Confirm the actual timing, recipient, cancellation and false-alarm process. Agree on a harmless test with the recipient and check that it arrives. Never send secrets or a false emergency, and keep another way for the family to find the instructions if the service is unavailable.
 
-Save the non-secret arrangements in Protect. Keep a document draft, an executed document, a confirmed provider process and a completed rehearsal under their actual statuses. Give each unfinished item a person and a date.
+In the walkthrough, we'll connect these records in Protect and keep their actual statuses clear. A draft, a signed document, a confirmed provider process and a completed rehearsal tell us different things. Give each unfinished item a person and a date.
+
+If a trust might solve a specific family or legal problem, the related lesson will help you prepare that decision. Otherwise, you can take this handoff forward to insurance, where we'll look at the financial losses your household can carry and the ones you may want to transfer.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Ask them before treating the arrangement as settled, and name a backup for each important role. | Primary person / agreed role / backup | Show role fields without invented Reed selections. |
+| A backup matters too, because the first person may also be unavailable. | Primary person / agreed role / backup | Show role fields without invented Reed selections. |
 | After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document list. |
 | Check account beneficiaries next. | Provider record: primary + contingent beneficiaries | Highlight the provider record. |
 | Here's an example of the first paragraph: | Illustrative family letter | Keep the example label while the paragraph is spoken. |

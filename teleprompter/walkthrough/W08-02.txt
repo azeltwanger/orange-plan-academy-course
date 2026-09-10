@@ -1,5 +1,5 @@
-Select an asset and connect its owner to the person authorized for this situation. Then identify the provider or technical process that person would use.
+Now that we have the people and authority, let's follow one asset through the access process. The owner, the person authorized for this situation and the process that person uses all need to connect.
 
-For direct Bitcoin, the authorized person needs a lawful route to the protected recovery process. For professionally held Bitcoin, use the provider's family-access requirements. For the retirement account, check the beneficiary and distribution process. Don't use the owner's login as the instruction.
+Direct Bitcoin requires a lawful route to the protected recovery process. Professionally held Bitcoin has the provider's family-access requirements. A retirement account has its beneficiary and distribution process. Telling someone to use the owner's login doesn't establish the authority or give them the proper route.
 
-Repeat the check for incapacity and for death because the authority can change. Then identify how essential bills are paid while a longer process is underway. Record any missing authority, access requirement or cash arrangement as the specific next action.
+We'll look at incapacity and death separately because the authorized person and process can change. While that longer process is underway, the household still needs to pay essential bills. So we're also identifying cash that's legally available at that time. If authority, access or immediate cash is missing, that's the specific next action we'll carry forward.

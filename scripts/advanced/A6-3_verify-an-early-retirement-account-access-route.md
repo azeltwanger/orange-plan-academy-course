@@ -15,35 +15,37 @@ Verify one account-specific early-retirement funding route before relying on a w
 
 ### Read aloud
 
-Start with the early-retirement year that needs money. Identify the person, account and amount intended to fund it. Verify three things separately: the provider permits the withdrawal, the ordinary income tax is understood and the additional early-distribution tax is avoided under an applicable rule.
+If your retirement plan needs money from a retirement account before 59½, this is the lesson for that access question. There are routes that can work, but they belong to a particular account, person and set of dates. We want to understand that before a withdrawal or rollover changes the arrangement.
 
-For a Roth IRA, gather contribution and conversion records and subtract prior distributions. Regular contributions generally come out first under the ordering rules. Conversions and earnings have different treatment. The conversion's separate five-year additional-tax rule isn't the qualified-distribution rule. A workplace Roth account doesn't use every Roth IRA rule.
+I'd begin with the early year we're trying to fund and the account intended to supply it. There are three separate answers we need: whether the provider permits the withdrawal, what ordinary income tax applies and whether an exception avoids the additional early-distribution tax. One answer doesn't settle the other two.
 
-If you're using the workplace separation exception commonly called the Rule of 55, confirm the separation year and the employer plan paying the distribution. The general rule depends on separation during or after the calendar year the relevant age is reached. Certain public-safety workers have different provisions. It isn't an IRA exception just because you're 55.
+A Roth IRA shows why those distinctions matter. Regular contributions generally come out first under the ordering rules, while conversions and earnings have different treatment. Contribution and conversion records, reduced by prior distributions, show what's actually there. A conversion's separate five-year additional-tax rule isn't the qualified-distribution rule, and a workplace Roth doesn't follow every Roth IRA rule.
 
-Check access before rolling that workplace balance into an IRA. The rollover may change the route the plan needs. Obtain the plan's distribution options and the tax treatment before submitting it.
+With the workplace separation exception commonly called the Rule of 55, the separation year and employer plan matter. The general rule depends on separation during or after the calendar year the relevant age is reached. Certain public-safety workers have different provisions. It isn't an IRA exception merely because the person is 55.
 
-For a governmental 457(b), confirm the actual plan type and identify money rolled in from other retirement arrangements. Those rolled-in amounts can have different additional-tax treatment. Don't apply the account's general rule to every dollar without checking its source.
+That makes a rollover worth checking before it's submitted. Moving the workplace balance to an IRA can change the route the retirement plan was about to use. The plan's distribution options and tax treatment need to support the withdrawal, not just the decision to consolidate accounts.
 
-For substantially equal periodic payments, often called SEPP or 72(t), verify the method, account, amount, first payment date and permitted changes before starting. An employer-plan series must begin after separation from that employer; an IRA series doesn't have that employment-separation requirement.
+A governmental 457(b) can have different additional-tax treatment too. The actual plan type and the source of the money matter because amounts rolled in from other arrangements may follow different rules. We can't apply the general account treatment to every dollar without checking that history.
 
-The required period generally continues until the later of five years from the first payment or age 59½, subject to applicable exceptions. Starting exactly on your 54th birthday illustrates five and a half years to 59½. Starting exactly at 58 illustrates five years to 63. These examples show duration, not an eligible payment amount.
+Another possible route is substantially equal periodic payments, often called SEPP or 72(t). This is a schedule with a permitted method, account, amount and first-payment date. It isn't flexible spending you can change casually. An employer-plan series begins after separation from that employer; an IRA series doesn't have that employment-separation requirement.
 
-Check whether the household can maintain that schedule through a weak market and changing spending. An improper modification can create retroactive additional tax and interest. Get the calculation and setup reviewed before relying on the income.
+The required period generally runs until the later of five years from the first payment or age 59½, subject to applicable exceptions. Starting exactly on a 54th birthday illustrates five and a half years to 59½. Starting exactly at 58 illustrates five years to 63. Those examples show duration; they don't calculate an eligible payment.
 
-For Alex and Morgan, use separate ages and accounts. Alex's date doesn't unlock Morgan's money. Compare a special route only for the gap it actually helps fund; accessible savings may preserve more flexibility.
+The household also needs to be able to maintain that schedule through a weak market or changing spending. An improper modification can lead to retroactive additional tax and interest. That's why the calculation and setup need review before the income becomes part of the retirement funding we're relying on.
 
-Record the route in the plan: person, account, amount, dates, ordinary tax, exception, supporting evidence and actions that would invalidate it. Have the provider and tax professional confirm their respective parts before the rollover or withdrawal. Then return to the retirement timeline and verify the years that this money funds.
+For Alex and Morgan, we're doing this separately for each person's account and dates. Alex's age doesn't make Morgan's money available. A special route earns its place when it helps fund the actual gap; accessible savings may preserve more flexibility when they can do the job.
+
+In the walkthrough, we'll connect the route to its person, account, amount and dates, with the tax treatment, evidence and actions that could invalidate it. The provider and tax professional confirm their respective parts before a dependent transaction. Then we'll put that source back on the retirement timeline and continue to healthcare, knowing which early years it can support.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| Start with the early-retirement year that needs money. | 1 · Person / account / amount / date | Three checks: permission, ordinary tax, additional tax. |
-| For a Roth IRA, gather contribution and conversion records | 2 · Verify the applicable route | Contributions / conversions / earnings. |
-| Check access before rolling that workplace balance into an IRA. | Before rollover: confirm access | Show source-plan permission and separation date. |
-| The required period generally continues | SEPP illustration: 54 → 59½; 58 → 63 | Exact-birthday duration only; no payment calculation. |
-| Record the route in the plan: | 3 · Keep evidence and invalidating actions | Return to actual funding years. |
+| the early year we're trying to fund and the account intended to supply it. | 1 · Person / account / amount / date | Three checks: permission, ordinary tax, additional tax. |
+| A Roth IRA shows why those distinctions matter. | 2 · Verify the applicable route | Contributions / conversions / earnings. |
+| a rollover worth checking before it's submitted. | Before rollover: confirm access | Show source-plan permission and separation date. |
+| The required period generally runs until | SEPP illustration: 54 → 59½; 58 → 63 | Exact-birthday duration only; no payment calculation. |
+| In the walkthrough, we'll connect the route | 3 · Keep evidence and invalidating actions | Return to actual funding years. |
 
 ### Walkthrough handoff — not spoken
 

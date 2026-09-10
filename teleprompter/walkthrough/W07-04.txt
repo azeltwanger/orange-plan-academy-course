@@ -1,5 +1,5 @@
-Open the family custody map and read the starting instruction for this holding. It needs to identify the legitimate contact and which process applies if the usual operator is unavailable.
+The last thing we need from this map is a usable starting point for the family. Let's read the instruction for this holding: who would they contact, and which legitimate process applies if the usual operator is unavailable?
 
-Have the person who agreed to help find the first contact without asking the operator. Then have them find the backup contact. Keep this rehearsal to the safe first steps; don't enter credentials or move money.
+The person who agreed to help can try those first steps while the operator stays quiet. We're looking for whether they can find the first contact and the backup. This rehearsal doesn't involve entering credentials or moving money.
 
-Record the instruction they couldn't follow, correct it and repeat that part. If the rehearsal hasn't happened, keep it pending. Carry this same map into the family handoff so the authority and account instructions stay connected. A backup of Orange Plan data does not restore a Bitcoin wallet.
+If an instruction stops them, that's the part to correct and try again. If we haven't rehearsed it yet, we'll leave that status pending. We'll take this same map into the family handoff, where the access process connects to the person's authority. And just to keep the two kinds of backup clear: an Orange Plan data backup doesn't restore a Bitcoin wallet.

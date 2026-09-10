@@ -11,48 +11,50 @@ Set a portfolio target that funds your near-term commitments and gives the remai
 
 ### Read aloud
 
-Start with your current allocation. Add the dollar value of each holding across your accounts, then group those values by investment type. Include Bitcoin funds when measuring Bitcoin exposure.
+We've worked out what your household can save, how much cash you want available, and what you're doing with debt. In this lesson, we're going to bring those choices into your investment mix. That includes how much Bitcoin you want to hold, but also what the rest of the money needs to do for you.
 
-The Reeds have $410,000 of Bitcoin and $318,000 of spot Bitcoin-fund exposure. Together, that's $728,000 out of the $1,307,000 portfolio used in this example, or about 56%. They own 4.1 Bitcoin outside the funds: 3.4 in self-custody and 0.7 with a professional custodian. The funds remain securities in their retirement accounts.
+I'd start by looking at what you already own across all of your accounts. It's easy to look at the Bitcoin in your wallet and forget that a retirement account also holds a Bitcoin fund. Those amounts belong together when we're talking about exposure to Bitcoin's price.
 
-Keep the same group of assets when comparing current and target percentages. This example excludes the home and dedicated HSA and education accounts. Those assets still exist; they have other jobs. Add account dollars before calculating the percentage. Averaging two account percentages gives the wrong answer when the accounts are different sizes.
+For the Reeds, that's $410,000 of Bitcoin and $318,000 of spot Bitcoin-fund exposure. Together, that's $728,000 out of the $1,307,000 portfolio we're using here, or about 56%. They own 4.1 Bitcoin outside the funds: 3.4 in self-custody and 0.7 with a professional custodian. The funds are still securities in retirement accounts. Adding their dollar exposure doesn't give the Reeds more coins in their own wallets.
 
-Next, choose the role you want Bitcoin to have. These four paths give you a starting point. Foundation describes a small learning position, illustrated at 1% to 5%. Integration puts Bitcoin alongside other long-term investments, illustrated at 10% to 20%. Optimization gives it a larger role, illustrated at 25% to 50%. Sovereign describes using it as the main long-term store of purchasing power, illustrated at 50% or more.
+That percentage only makes sense when we know what went into it. This example leaves out the home and dedicated HSA and education money because those have other jobs. When we compare their current mix with a target, we're going to use that same group of assets. And we're adding the dollars first. Averaging the percentages from a small account and a large account would give us the wrong household mix.
 
-Use those ranges to describe your intention. You don't have to move up through them. Your income, spending needs, other assets and ability to hold through a decline determine whether that intention fits your life. Talk through the consequences with anyone sharing the money.
+From there, we can talk about the role you want Bitcoin to have. The four paths are a way to describe that intention. Foundation is a smaller learning position, illustrated at 1% to 5%. Integration puts Bitcoin alongside other long-term investments, illustrated at 10% to 20%. Optimization gives Bitcoin a larger role, illustrated at 25% to 50%. Sovereign describes using it as the main long-term store of purchasing power, illustrated at 50% or more.
 
-Now assign the money you'll need soon. Bring forward your Reserve target. Add committed expenses that aren't already covered, with their dates and funding sources. A purchase funded from future pay doesn't also need its full price deducted from today's portfolio. Money committed to college can't fund retirement at the same time.
+These are discussion ranges. You don't have to keep moving up through them. Someone can understand Bitcoin well and still choose a smaller position because of the bills, income and responsibilities in their life. The useful conversation is whether you and anyone sharing this money understand the role and could live with the consequences of a large decline.
 
-Use Reserve, Bridge and Forever as reminders of when money is needed. The rough ranges are zero to three years, four to ten years, and ten years or more. They don't require three years of cash or put every retirement account in the same category. One brokerage account can hold next year's spending and investments for twenty years from now.
+The spending commitments help us put an amount around that. You've already chosen a Reserve target. There may also be a car purchase, a tax payment or college support that needs money on a particular date. We're going to account for those commitments before treating the rest as long-term investments. If future pay will fund the purchase, we don't also take its full price out of today's portfolio. And money already committed to college can't cover retirement at the same time.
 
-For each approaching payment, choose assets you can use on that date without depending on a favorable market. Savings, a Treasury bill maturing in time, and a money market fund have different access and protection. A money market fund isn't an FDIC-insured deposit. Read the terms and costs before treating them as equivalent.
+That's what Reserve, Bridge and Forever are helping us think about: when the money is needed. The rough ranges are zero to three years, four to ten years, and ten years or more. They don't mean everyone needs three years in cash, or that each account belongs to one category forever. A brokerage account can hold next year's spending and investments you won't use for twenty years.
 
-Then choose what the longer-term money provides. Stocks give you ownership of businesses alongside Bitcoin. A broad fund can spread that ownership across many companies. Compare its holdings, concentration, geographic coverage and fees. Several overlapping technology funds can leave you concentrated even with several account lines.
+For an approaching bill, access and stability matter more than getting the highest possible return. Savings, a Treasury bill that matures in time and a money market fund can all come up in that conversation, but their access and protection differ. A money market fund isn't an FDIC-insured deposit. Its terms and costs still need to fit the payment you're assigning it.
 
-Bonds can provide interest and another source of investment returns. Check their sensitivity to interest rates and the borrower's ability to repay principal, the amount originally lent. An individual bond has a maturity; a bond fund doesn't give your whole investment one repayment date. A long-term bond fund can fall substantially, so don't assign it an approaching bill merely because it isn't a stock.
+Once those near-term jobs are covered, the remaining investments can have a longer runway. Stocks give you ownership of businesses alongside Bitcoin. A broad fund spreads that ownership across many companies, which can be useful when you don't want to pick individual winners. The holdings, geographic coverage, concentration and fees tell you what you're actually getting. Several technology funds may own much of the same thing.
 
-For property or a business, use the cash available after operating costs, debt and interruptions. The home's value becomes retirement funding only when you have a workable plan to use it. You don't need every asset type. Keep the investments that serve a purpose you can explain.
+Bonds give you another set of trade-offs. You're lending money, so the borrower's ability to repay principal, the amount originally lent, matters. So does sensitivity to interest rates. An individual bond has a maturity; a bond fund doesn't give the whole investment one repayment date. A long-term bond fund can fall substantially, which is why I wouldn't treat every bond holding as cash for an approaching bill.
 
-Here's the allocation process with a separate $1 million household. They want to test $500,000 in Bitcoin. Their Reserve target is $60,000, and a purchase next year needs another $40,000 from existing savings. That assigns $100,000 to cash. The remaining $400,000 has a long runway; this household chooses broad stock funds after reviewing coverage and costs. The proposed mix is 50% Bitcoin, 40% stocks and 10% cash.
+Property or a business needs the same connection to spending. The value on a balance sheet is different from cash available after costs, debt and interruptions. Your home funds retirement only when there's a workable plan to use its value. You don't need every investment type. Each one needs a job worth its cost and the work it adds.
 
-Now put two unfunded retirement payments on the timeline: $50,000 in each of the first two years. This household wants those payments in cash too. Cash rises to $200,000. Holding Bitcoin at $500,000 leaves $300,000 for stocks: 50%, 30% and 20%. More near-term cash means less money invested for growth. Test the later years before adopting that change.
+Let's put this together with a separate household that has $1 million. They want to test $500,000 in Bitcoin. Their Reserve is $60,000, and a purchase next year needs another $40,000 from existing savings. That gives cash a $100,000 job. The remaining $400,000 has a long runway, and this household chooses broad stock funds after reviewing coverage and costs. Now we have 50% Bitcoin, 40% stocks and 10% cash, with a reason for each amount.
 
-Finally, test the proposed allocation through a severe decline. In a simplified 75% Bitcoin decline with everything else unchanged, a 50% Bitcoin position reduces the portfolio by 37.5%. Other investments can fall at the same time. Read the dollar loss and identify which assets still pay your bills. Include income loss when that would make the same period harder.
+Now let's say they're about to retire, and two $50,000 payments still need funding in the first two years. They want those in cash as well. Cash rises to $200,000. Keeping Bitcoin at $500,000 leaves $300,000 for stocks: 50%, 30% and 20%. They have more spending available through a difficult period, but less invested for growth. We still need to see what that does to the later years.
 
-If that leaves a payment unfunded or creates a position you couldn't maintain, reduce the exposed amount, change the commitment or identify another real source. Raising the assumed future return doesn't solve that immediate funding problem.
+Before settling on the mix, I'd look at a severe decline in dollars. If Bitcoin falls 75% and everything else stays unchanged, a 50% Bitcoin position reduces the portfolio by 37.5%. Other investments could fall too, and income could stop at the same time. The question is which assets still pay the bills and whether this is a position the household could maintain.
 
-Set the target you can explain by amount, purpose and downside. The walkthrough will put that choice beside your current holdings and show which funding needs still need attention.
+If an important payment is left without funding, we can change the exposed amount, the commitment or the source. A higher assumed future return won't put cash in the account when that bill is due.
+
+In the walkthrough, we'll put your proposed mix beside what you already own and check those funding needs. You don't need to copy the example's percentages. You're taking forward an amount and a reason for each part. Then we'll work through the accounts that can hold those investments and give you access when you need it.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| Start with your current allocation. | 1 · Add holdings across accounts | Step title; show account dollars before percentages. |
+| looking at what you already own across all of your accounts. | 1 · Add holdings across accounts | Step title; show account dollars before percentages. |
 | Together, that's $728,000 | Reed illustration: $728,000 ÷ $1,307,000 ≈ 56% | Keep direct Bitcoin / funds separate in two rows. |
-| Next, choose the role you want Bitcoin to have. | 2 · Choose Bitcoin's role | Show four named discussion ranges, labeled illustrative. |
-| Now assign the money you'll need soon. | 3 · Fund dated commitments | Show Reserve + distinct expenses; avoid duplicate totals. |
-| Then choose what the longer-term money provides. | 4 · Choose the remaining investments | Show purpose / access / risk / cost. |
-| Finally, test the proposed allocation through a severe decline. | 5 · Test the loss and the bills | Illustration: 50% × 75% = 37.5%; other assets unchanged. |
+| the role you want Bitcoin to have. | 2 · Choose Bitcoin's role | Show four named discussion ranges, labeled illustrative. |
+| The spending commitments help us put an amount around that. | 3 · Fund dated commitments | Show Reserve + distinct expenses; avoid duplicate totals. |
+| the remaining investments can have a longer runway. | 4 · Choose the remaining investments | Show purpose / access / risk / cost. |
+| Before settling on the mix, I'd look at a severe decline in dollars. | 5 · Test the loss and the bills | Illustration: 50% × 75% = 37.5%; other assets unchanged. |
 
 ### Walkthrough handoff — not spoken
 

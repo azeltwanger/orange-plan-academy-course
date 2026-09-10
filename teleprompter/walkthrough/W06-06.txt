@@ -1,7 +1,9 @@
-Keep the spending amount and date unchanged. Start with the sale route and read tax, cash available and Bitcoin remaining. Then compare another available asset and identify what it would otherwise fund.
+We're comparing ways to fund the same spending on the same date. I'll start with selling, so we can see the tax, cash available and Bitcoin remaining. Then we'll look at another available asset and what that money would otherwise have funded.
 
-For borrowing, open the terms and funding rules. Read interest treatment, collateral requirements, response resources and repayment. The simple $20,000 loan at 10% uses $2,000 of cash interest or becomes $22,000 of debt after the illustrative year. Use the actual modeled terms for this comparison.
+Borrowing adds another set of obligations. Here are the terms and funding rules: how interest is handled, what collateral is required, what resources could respond to a problem and how the loan ends.
 
-Open a weak period and the repayment year. Check the payment source, lender-specific collateral exposure, top-up and any sale used to repay. Read those risks beside the effect on the plan result.
+In the simple illustration, a $20,000 loan at 10% uses $2,000 of cash interest or becomes $22,000 of debt after one year. The actual comparison needs its own modeled terms. A small annual payment doesn't tell us whether the eventual repayment is affordable.
 
-The Reeds have no current Bitcoin-backed loan. Save a retirement borrowing policy only if that's the chosen strategy; keep an unchosen one-time loan in its scenario.
+I'm opening a weak period and the repayment year to follow the payment source, lender-specific collateral exposure, any top-up and any sale used to repay. Those risks belong beside the change in the plan result.
+
+The Reeds have no current Bitcoin-backed loan. If we choose ongoing borrowing as part of retirement funding, we save that policy in Retirement strategy. An unchosen one-time loan stays in its scenario. Before relying on a real loan, the separate loan lesson takes us through the actual contract and response resources.

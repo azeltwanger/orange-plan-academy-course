@@ -11,41 +11,43 @@ Read one saved plan from household goal through the years that need funding. Con
 
 ### Read aloud
 
-Open your saved Plan and the matching Your Plan report. Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. Work optional means paid work no longer has to cover the planned spending. If you expect some earnings to continue, keep them visible.
+We've worked through the individual decisions in the plan. In this final lesson, we're going to read them together, because retirement depends on how the pieces fit: the money available today, the years it needs to fund and the choices you'd make if things turn out differently.
 
-Check the result's status and date before interpreting it. The chance-of-success result describes the modeled paths under the saved inputs and spending policy. Keep the assumptions beside it. Identify what supports your chosen date and which assumption or unfunded period could change it.
+You don't need to explain every calculation. You do need to understand what the plan is showing and why you're comfortable using it. The saved Plan and Your Plan report give us a place to have that conversation.
 
-If the result is weaker than you need, first correct any missing or wrong input. Then compare a specific response, such as a later date, different spending or more saving. Keep the shortfall visible while you compare. Raising a return assumption doesn't supply the missing money.
+Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. Work optional means paid work no longer has to cover the planned spending. If you intend to keep earning something, that income should remain visible rather than disappear just because we call the date retirement.
 
-Next, follow the money available today. Add the employee contribution, Reserve funding, extra debt and investment instructions and check they fit the same cash flow. Keep employer money separate. Start a future debt-payoff contribution only when that payment actually ends.
+Before reading the result, check its date and status. We want the result that belongs to the decisions you've saved. The chance-of-success result describes the modeled paths under the saved inputs and spending policy. Keeping the assumptions beside it helps you see what supports the date and where the answer could change.
 
-The Reeds started with $500 available. Their spending-reduction comparison leaves $1,700. The plan needs to use the spending that goes with the amount they've chosen. And the future $1,605 from ending the card payments isn't available today. Check your own plan for that same timing issue.
+If the result is weaker than you need, that gives us a place to work. First correct a missing or wrong input. Then compare a response such as a later date, different spending or more saving. Raising the return assumption doesn't provide the missing money. The shortfall can stay visible while you decide what you'd actually change.
 
-Now read Portfolio and allocation. Identify what is available soon, what funds the years before retirement-account access, and what can remain invested longer. Explain the Bitcoin position and the job the other holdings do. Check that account access matches when the money is needed.
+From there, follow the money available today. The employee contribution, Reserve funding, extra debt payment and other investment instructions need to fit the same cash flow. Employer money belongs in retirement saving, but it isn't available for another household transfer.
 
-Then open the first retirement year. Identify income, complete spending, taxes, withdrawals and the source accounts. Move to the next meaningful change: a benefit begins, a major expense arrives, or an account-access rule changes. Trace that year too.
+The Reeds started with $500 available. Their spending-reduction comparison leaves $1,700. The plan needs to use the spending that goes with the amount they've chosen. And the future $1,605 from ending the card payments isn't available today. Those are different points in the plan, and mixing them would assign money before it exists.
 
-Focus on the years where the funding changes. You don't need to recite every calculation, but you do need to know where the money for those years comes from and what could disrupt it.
+Now look at the portfolio by the job each amount does. Some money is available soon, some supports the years before retirement-account access, and some can stay invested much longer. The Bitcoin position and the other holdings need to make sense together, with account access that matches those dates.
 
-Review the operating choices next. Find the Reserve target and refill rule, the spending-review rule and any loan repayment or reduction triggers. Identify the circumstance that would require action before the next scheduled review.
+The next part is seeing how those accounts become money you can live on. In the first retirement year, we'll follow the income, full spending, taxes, withdrawals and source accounts. Then move to the next important change: a benefit starts, a major cost arrives or an account-access rule changes.
 
-Check that the custody map matches the holdings and that recovery records describe the setup actually tested. Confirm that the legal documents, beneficiaries, and family contacts still reflect the intended ownership and roles.
+Focus on the years where the funding changes. You don't need to recite every year, but you do need to know which account pays during those transitions and what could interrupt it. A large balance in an account that's unavailable at the needed time doesn't finish the job.
 
-Finally, read the outstanding actions. Some may be ordinary implementation: change payroll, open an account, confirm a purchase, or arrange a review. Others may block a major decision, such as an unresolved access route or missing basis for an intended sale. Don't call the plan done while a question that blocks an important decision is still open.
+The operating rules tell us what happens after the initial plan. Look at the Reserve target and refill source, the spending-review rule and any loan repayment or reduction trigger. We want a response that can be funded, including the circumstance that would make you act before the next scheduled review.
 
-When you share finances with someone, use the Household Plan Summary to discuss the decisions that affect both of you. Show what funds the early years, why you chose the investment mix, and which spending could change during a difficult period. You don't have to walk through every calculation.
+The protection records need to describe these same assets. The custody map should match the holdings, and recovery evidence should apply to the setup actually tested. The legal documents, beneficiaries and agreed family roles need to reflect the intended ownership and access.
 
-Keep the details in Orange Plan and use the existing family handoff for anyone who needs to help manage the household. Share the relevant summary when it helps them understand a decision.
+There will often still be an action list. Some items are ordinary implementation, such as changing payroll, opening an account or confirming a purchase. Others can block an important decision, such as an unresolved access route or missing basis for a sale you're relying on. Those questions stay visible until the evidence is there.
 
-Share selectively. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Neither normally needs wallet recovery secrets in an ordinary planning document. Review an export before sending it, and distinguish a summary from a restoration backup.
+If you share finances with someone, the Household Plan Summary can help you talk through the decisions that affect both of you. Show what pays the early years, why you chose the investment mix and which spending could change during a difficult period. Keep the detailed calculations in Orange Plan and reuse the family handoff for someone who may need to help manage things.
 
-Now finish the action list. For each current action, name the person, date and evidence that will show it happened. A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned.
+Sharing works best when it has a purpose. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Review an export before sending it, and keep wallet secrets out of ordinary planning records. A readable report and a restoration backup have different jobs.
 
-Keep future actions tied to their condition. “Redirect this payment after payoff” isn't an instruction to spend money early. Put the review where you'll find it when the condition occurs.
+For each outside action, include the person responsible, timing and evidence that will show it happened. A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned.
 
-Set the next monthly and annual reviews, with any urgent loan or other monitoring handled separately. Return to the relevant lesson or walkthrough when that decision changes.
+Future actions can stay tied to their condition. Redirecting a payment after payoff doesn't mean increasing transfers early. The condition tells you when to return to that decision and check the available cash.
 
-Before putting the plan away, identify the next real action and its completion evidence. Keep any question that blocks a retirement, sale or borrowing decision visibly open until the answer is available.
+In the walkthrough, we'll follow one saved plan through those important years, finish the next actions and keep a dated record for the next review. The monthly and annual reminders carry it forward, while urgent monitoring stays on its own schedule.
+
+What I want you to take away is an understanding of how your plan pays for the life you're planning, which assumptions matter and where you'd respond if the situation changes. Keep the next real action in front of you, along with anything still blocking a major decision. When a new question comes up about spending, saving or changing work, you have this plan to compare it with.
 
 ### Text overlays — not spoken
 

@@ -11,41 +11,41 @@ Establish the gain or loss a proposed sale would realize, then select the tax ac
 
 ### Read aloud
 
-Start with the investment you're considering selling. Record the account or wallet, quantity, purchase date and documented purchase cost. Keep the source confirmation or export with that record.
+We've worked through where new money is going. In this lesson, we're going to look at what happens when money comes out of an investment, especially when that means selling Bitcoin. The amount you sell, the gain you realize and the tax you owe can be very different numbers. Your purchase records are what let us separate them.
 
-Cost basis is the supported cost used to calculate gain or loss. A sale's proceeds, its gain and its tax are three different amounts. In a simple example, selling for $20,000 with $16,000 of basis produces $4,000 of gain before adjustments. The tax calculation starts with that gain and the rest of your tax situation.
+I'd begin with the account or wallet holding the investment and the units you might sell. The purchase date and documented cost tell us what happened when you acquired them. An exchange export or trade confirmation is useful here because we're working from the transaction rather than a price we remember.
 
-Use the purchase history to compare the units available for sale. In the course's three-lot illustration, selling 0.2 Bitcoin at $100,000 produces $20,000 before fees. Units purchased at $58,000 per Bitcoin contribute $11,600 of basis and $8,400 of gain. Units purchased at $16,000 contribute $3,200 of basis and $16,800 of gain. Units purchased at $52,000 contribute $10,400 of basis and $9,600 of gain.
+Cost basis is the supported cost used to calculate gain or loss. Let's say an investment is sold for $20,000 and its basis is $16,000. That's $4,000 of gain before adjustments. It isn't $4,000 of tax. The tax also depends on the holding period, other income and the rules that apply to the household.
 
-The same sale amount can produce different gains. You can use a lot only when you own those units and can meet the identification rules for the actual transaction. Choosing a preferred row in a planning app doesn't send an instruction to your broker.
+The course's three-lot example shows why that history can change a decision. We're selling 0.2 Bitcoin at a hypothetical $100,000 per Bitcoin, so the proceeds are $20,000 before fees. If those units were purchased at $58,000 per Bitcoin, they have $11,600 of basis and $8,400 of gain. At a $16,000 purchase price, basis is $3,200 and gain is $16,800. At a $52,000 purchase price, basis is $10,400 and gain is $9,600.
 
-Mark missing purchase details before relying on them. Keep the current quantity even when the purchase cost is unknown. If you can't substantiate claimed basis, the IRS may disallow it, leaving net proceeds treated as gain. Recover the evidence or use another supported option. Don't enter a guessed purchase merely to clear the warning.
+The same amount is sold at the same price. What changed was the purchase history attached to it. Those are only usable choices when you own the units and can meet the identification rules for the transaction. Selecting a preferred row in Orange Plan doesn't send an instruction to the broker.
 
-Check the account's tax treatment. A taxable Bitcoin sale generally realizes gain or loss. Selling inside a retirement account is generally different; the withdrawal has its own tax rules. The holding period and your other income also change the cost of a taxable sale.
+Missing records are worth dealing with before the sale. You may know how much Bitcoin you own without knowing the cost of every purchase. We can keep those facts separate in the plan, but we can't rely on an unsupported cost to reduce a gain. If you can't substantiate claimed basis, the IRS may disallow it and treat the net proceeds as gain. The useful next step is finding the evidence or using another supported option, rather than entering a guess to clear the blank field.
 
-Next, choose whether a tax action serves your plan this year. A gain harvest deliberately realizes gain when its current cost may be favorable. If the $4,000 gain receives favorable treatment and you repurchase the exposure, the new purchase has its own basis and holding period. Include federal and state tax, fees, market movement and healthcare effects. A 0% federal rate doesn't establish a zero total cost.
+The account matters too. A taxable Bitcoin sale generally realizes gain or loss. A sale inside a retirement account is generally different; the withdrawal follows that account's rules. That's another reason to keep the actual account beside the tax comparison.
 
-A loss harvest deliberately realizes a loss. If an investment bought for $20,000 is sold for $16,000, the loss is $4,000 before adjustments. It isn't a $4,000 refund. Its value depends on gains and other amounts it can offset, with unused losses carried under the rules. If replacement property with $16,000 of basis later rises to $20,000, that replacement has a gain.
+Once the records are usable, we can look at whether a sale serves a tax purpose. A gain harvest deliberately realizes gain when paying its current cost may be worthwhile. If the $4,000 gain receives favorable treatment and the exposure is repurchased, that new purchase has its own basis and holding period. The potential benefit needs to exceed tax, fees, market movement and any healthcare effect. A 0% federal rate doesn't mean the entire transaction costs nothing.
 
-Before a loss sale, review replacement purchases. Securities wash-sale rules can disallow or defer a loss when substantially identical investments are acquired in the relevant window. Automatic buying, other accounts and a spouse's activity can matter. Direct Bitcoin and Bitcoin funds need their own current-rule review. Use the transaction lesson before placing a tax-sensitive sale.
+A loss harvest goes the other direction. An investment bought for $20,000 and sold for $16,000 has a $4,000 loss before adjustments. That isn't a $4,000 refund. Its value depends on what it can offset and the rules for using a loss later. And if a replacement with $16,000 of basis grows back to $20,000, that replacement now has a gain. Harvesting can change timing without eliminating every future tax.
 
-Now put the proposed action beside the rest of this year's income: wages, business income, distributions, conversions, realized gains and losses, and supported loss carryforwards. A conversion can use the same favorable income room as a gain harvest. Compare them together.
+The replacement is part of the decision before the sale. Securities wash-sale rules can disallow or defer a loss when substantially identical investments are acquired in the relevant window. Automatic purchases, another account or a spouse's activity can matter. Direct Bitcoin and Bitcoin funds need their own current-rule review. We'll work through that preparation in the transaction lesson when it applies.
 
-Choose the action whose after-tax benefit is worth its cost and work. Keeping the investment can be the decision when the opportunity is small or the records don't support a sale. For a useful transaction, identify the record or review needed and its deadline.
+These choices also share the same tax year. Wages, business income, distributions, conversions, realized gains and losses, and supported loss carryforwards belong in one picture. A conversion can use income room that looked available for a gain harvest. Looking at both together gives us a more useful answer than treating each as the only transaction happening.
 
-After execution, reconcile the confirmation: units, proceeds, fees, selected purchase history and holdings left. Keep those records for the return. FORM 8949 TAX DATA is a supporting export to inspect and share with your tax professional; it isn't a filed form.
+You may find a sale worth preparing, or you may keep the investment because the benefit is small or the records don't support it yet. Either way, we're taking forward a decision with a reason. After an actual trade, its confirmation tells us the units, proceeds and fees, and lets us reconcile the holdings left over. FORM 8949 TAX DATA is supporting information to inspect with your tax professional; it isn't a filed form.
 
-Finish with the proposed sale amount, supported gain or loss, estimated tax and cash left for its purpose. If a missing record blocks the decision, name that record and obtain it before relying on the result.
+In the walkthrough, we'll follow one sale from proceeds through basis, gain, estimated tax and cash left for its purpose. If you're preparing a real tax-sensitive sale or missing its records, use the transaction lesson before execution. Otherwise, we'll move into tax timing and see how different income years can change the withdrawal or conversion worth considering.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| Start with the investment you're considering selling. | 1 · Account / units / date / supported cost | Reveal source fields. |
-| A sale's proceeds, its gain and its tax are three different amounts. | Proceeds − basis = gain or loss | Tax and usable cash shown as subsequent rows. |
-| Use the purchase history to compare the units available for sale. | Illustrative $20,000 sale: gains $8,400 / $16,800 / $9,600 | Three-lot table; omit fees only in labeled example. |
-| Next, choose whether a tax action serves your plan this year. | 2 · Gain harvest / loss harvest / keep holding | Add actual-year income and replacement checks. |
-| After execution, reconcile the confirmation: | 3 · Reconcile the actual trade | Proceeds, fees, used lots, remaining holdings. |
+| I'd begin with the account or wallet holding the investment | 1 · Account / units / date / supported cost | Reveal source fields. |
+| The amount you sell, the gain you realize and the tax you owe | Proceeds − basis = gain or loss | Tax and usable cash shown as subsequent rows. |
+| The course's three-lot example shows why that history can change a decision. | Illustrative $20,000 sale: gains $8,400 / $16,800 / $9,600 | Three-lot table; omit fees only in labeled example. |
+| we can look at whether a sale serves a tax purpose. | 2 · Gain harvest / loss harvest / keep holding | Add actual-year income and replacement checks. |
+| After an actual trade, its confirmation tells us | 3 · Reconcile the actual trade | Proceeds, fees, used lots, remaining holdings. |
 
 ### Walkthrough handoff — not spoken
 

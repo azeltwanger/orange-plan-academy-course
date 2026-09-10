@@ -1,5 +1,7 @@
-Open the action that needs outside help. State the decision you're considering and the specific question that blocks it. Add the relevant records and the deadline.
+If one of your open decisions needs outside help, we can make that conversation more useful now. We're starting with the decision you're considering and the specific question that blocks it, then adding the relevant records and deadline.
 
-For a tax question, that may be the income, account and purchase details behind a proposed transaction. For estate access, it may be ownership, authority and the provider's requirements. Keep recovery secrets out of either packet.
+For a tax question, those records might be the income, account and purchase details behind the proposed transaction. For estate access, they might be ownership, authority and the provider's requirements. Neither packet needs recovery secrets.
 
-Review what the export actually includes and remove unrelated information before sharing. Record the handoff as prepared until it's sent, and the answer as outstanding until you receive it. Preparing a packet doesn't complete the transaction or supply professional advice.
+Before sharing an export, let's read what it includes and remove information unrelated to the question. The status also needs to reflect where we are: prepared until it's sent, and awaiting an answer until the answer arrives. The packet helps someone review the question; preparing it doesn't complete the transaction or give us the professional answer.
+
+If there's no decision that needs that help, there's no extra packet to create here. We can continue to saving the plan and its actual next steps.

@@ -1,29 +1,31 @@
-Open Trusted people and identify the person for financial matters, the person for healthcare and the intended estate representative. Record whether each person has agreed and who can serve as backup.
+We're starting with the people because the documents need to support the jobs those people may have to do. In Trusted people, we'll identify the person for financial matters, the person for healthcare and the intended estate representative, along with who has agreed and who can be the backup.
 
-Now open Estate documents. Match each role to the actual document or process that gives authority. For a financial power of attorney, check that it's durable, meaning its authority can continue if you're incapacitated. Also confirm when it takes effect and the powers granted. A name in this record isn't a legal appointment.
+Now we can connect each role to Estate documents. A name in this record isn't a legal appointment. For a financial power of attorney, we're checking that it's durable, meaning its authority can continue if you're incapacitated. We also need to know when it takes effect and which powers it actually grants.
 
-Open Who receives what and compare it with the institution's beneficiary record. Check the primary beneficiary and the contingent beneficiary, the backup who receives if the primary can't under the account's rules. If the record differs from your wishes, assign the provider or legal-document update and leave it open. Save the statuses that the evidence supports.
+Who receives what gives us another comparison to make with the institution's own beneficiary record. The primary beneficiary is the first person designated. The contingent beneficiary is the backup who receives if the primary can't under the account's rules. If that record differs from what you intend, the provider or document update remains an open action. We'll save the status the evidence supports.
 
-Select an asset and connect its owner to the person authorized for this situation. Then identify the provider or technical process that person would use.
+Now that we have the people and authority, let's follow one asset through the access process. The owner, the person authorized for this situation and the process that person uses all need to connect.
 
-For direct Bitcoin, the authorized person needs a lawful route to the protected recovery process. For professionally held Bitcoin, use the provider's family-access requirements. For the retirement account, check the beneficiary and distribution process. Don't use the owner's login as the instruction.
+Direct Bitcoin requires a lawful route to the protected recovery process. Professionally held Bitcoin has the provider's family-access requirements. A retirement account has its beneficiary and distribution process. Telling someone to use the owner's login doesn't establish the authority or give them the proper route.
 
-Repeat the check for incapacity and for death because the authority can change. Then identify how essential bills are paid while a longer process is underway. Record any missing authority, access requirement or cash arrangement as the specific next action.
+We'll look at incapacity and death separately because the authorized person and process can change. While that longer process is underway, the household still needs to pay essential bills. So we're also identifying cash that's legally available at that time. If authority, access or immediate cash is missing, that's the specific next action we'll carry forward.
 
-Open Instructions for your family. Begin with the first person to contact, how to verify that contact and where the household payment list begins. Keep supporting account and document references in the packet.
+This is the page someone may read when they're already under a lot of stress. In Instructions for your family, we're keeping the opening straightforward: the first person to contact, how to verify that contact and where to start with household payments. The supporting account and document references can sit in the packet.
 
-Read the first paragraph in ordinary language. Remove any wallet secret, password or exact secret-storage location. Date the instructions and identify who keeps them current.
+Let's read that first paragraph as the family would read it. Any wallet secret, password or exact secret-storage location belongs in its protected process. We'll date these instructions and identify who keeps them current so the family can tell what they're looking at.
 
-Now have the intended person find the letter and the first contact without your help. Have them find the backup if the first person is unavailable. Correct any instruction that stops them, then repeat that step. Record the actual rehearsal result; writing the letter alone doesn't show it can be found and used.
+Then we'll try the first steps with the person who agreed to help. Can they find the letter, reach the first contact information and find the backup without asking the usual operator? If something stops them, we'll correct that instruction and repeat that part. The actual rehearsal result tells us more than the fact that we've written a letter.
 
-If you don't use a check-in service, keep the family instructions and backup contact available and continue to the insurance review. If you use one, open the arrangement and read the timing it actually uses. Confirm who receives the message, what the message contains and how to cancel or correct a false alarm.
+A check-in service is optional. If you don't use one, the family still needs findable instructions and a backup contact; you can continue to the insurance review from there.
 
-Agree on a harmless test with the recipient. Use a message that says it's a test and contains no recovery secrets. Check that the message arrives and that the recipient can open the safe instructions.
+If you do use a service, let's look at the arrangement you actually have. Its timing, recipient, message and false-alarm process determine how useful it will be. We're checking how to cancel or correct a message as well as how it's triggered.
 
-Keep another way for the family to reach those instructions if this service is unavailable. Record delivery only after it happens. If you haven't tested this route, leave delivery unverified and assign the test.
+The way to check delivery is a harmless test agreed with the recipient beforehand. The message needs to say it's a test and contain no recovery secrets. Then we can see whether it arrives and whether the recipient can open the safe instructions.
 
-Open the insurance audit and name the event you're testing. Record the spending or loss the household would need to cover, then the accessible resources and policy benefits available for it.
+Until that happens, delivery stays unverified and the test remains an action. Even after it works, we'll keep another way for the family to reach the instructions if the service is unavailable.
 
-In the life-coverage example, the ten-year shortfall is $400,000 in today's dollars. The separately available $100,000 and $200,000 of coverage leave $100,000 to investigate. Keep the zero real-return assumption and separately funded later needs beside that calculation.
+For the insurance review, we'll take one event at a time. In the audit, we're comparing what the household would need to cover with the resources and policy benefits actually available for that event.
 
-For your own policy, read the benefit, term, waiting period and exclusions. Record what remains uncovered and whether you intend to carry it or investigate a change. Update related spending assumptions in Cash Flow, or an expected future cost in Life events. Complete any policy change with the provider and record its effective date separately.
+The life-coverage illustration gives us a simple example. A ten-year shortfall of $400,000 in today's dollars, less $100,000 that's separately available and $200,000 of coverage, leaves $100,000 to investigate. That calculation assumes zero return after inflation, taxes and fees, with later needs funded separately. Those assumptions stay beside the number.
+
+Your own policy gives us the benefit, term, waiting period and exclusions to work from. Once we see the uncovered amount, we can record whether you intend to carry that risk or investigate a change. Related premiums belong in Cash Flow, and an expected future cost belongs in Life events where applicable. The policy change itself happens with the provider; we'll record its effective date once it's real, keeping needed protection until any replacement is approved and active.
