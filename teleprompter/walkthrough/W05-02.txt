@@ -1,9 +1,5 @@
-We're going to repair the part of the purchase history this decision depends on. I have the source records for this holding, and I'm keeping the original file while we review the imported events.
+I have the original source file beside this holding. Let's review what the import adds before accepting it.
 
-An overlapping upload may contain purchases we've already entered. Those need to be recognized as the same events, or the history will say we bought more than we did.
+These overlapping entries need to match the events already present. I'm also checking that the exchange withdrawal and same-owner wallet receipt stay connected to the original purchase history.
 
-A transfer needs the same care. In this no-fee illustration, 0.1 Bitcoin leaves the exchange and reaches the same owner's wallet. Its purchase history follows it. The move doesn't create a second purchase or automatically become a sale.
-
-Now we can compare the remaining units with the current holding. If they don't agree, we'll look for fees, missing activity or duplicates. We keep a missing detail visible while finding the evidence, instead of inventing a purchase to make the numbers match.
-
-When the history agrees, we have a supported basis for the sale comparison. We've improved the records behind the holding without adding that holding to the portfolio a second time.
+Now let's compare the remaining units with the holding. If they disagree, we'll trace fees, missing activity or duplicates. We leave an unresolved detail visible while obtaining the evidence. Once these agree, we can use the supported history for the sale without adding the holding a second time.

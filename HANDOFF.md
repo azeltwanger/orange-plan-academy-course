@@ -1,5 +1,7 @@
 # Current handoff — step-by-step filming package
 
+Current editorial direction: Austin approved the [focused-script pass](production/FOCUSED-SCRIPT-PASS.md), including selective examples, one home for each explanation, shorter application-focused walkthroughs, conditional borrowing detail, one family rehearsal and a focused finished-plan read-through. Keep the conversational delivery and existing financial/source boundaries. Current results are recorded in [the tightening review](delivery/tightening-review.md).
+
 Latest manuscript corrections: Austin requested generic placeholders in place of the named fictional household. Active speech now uses “our example household,” “the client” and “their partner”; filming labels use [Client] / [Partner]. The source data, amounts and separate account ownership remain unchanged. Austin also moved AI-question guidance out of Teaching 4 (source 1.5) into the walkthrough; keep the teaching focused on understanding the result and choosing the next comparison. W01 chapter 10 retains the Ask demonstration.
 
 Austin asked to replace indirect narration with “do this, how to think about it, how to implement in walkthrough video,” using the slide steps. Teaching and walkthroughs are separate recordings. The current authority is [the September 10 direction](reference/owner-stepwise-direction-20260910.md).

@@ -1,7 +1,5 @@
-We're leaving a short record for the next time you open the plan: the date, what you adopted and why. Any outside action still needed gets a responsible person and a due date. If it depends on something happening first, that condition goes with it.
+Leave a short note of this review's date, what changed and why. The existing action list holds anything still needed, including a responsible person, due date and any condition it depends on.
 
-The export options tell us what we can save. Let's read that scope before saving or sharing the file. A readable summary helps someone understand the plan; a supported restoration backup has a different job. If this export supports restoration, we'll keep it protected and record its actual restoration status separately. A report or data export on its own doesn't establish that the plan can be restored.
+Now set the monthly and annual reminders and check their dates. Keep collateral thresholds, tax deadlines, security issues and important life changes on their own timing.
 
-We'll also put the monthly and annual reviews on the calendar, with loan thresholds, tax deadlines and important life changes on their own timing. Writing down an intention to create a reminder doesn't create it.
-
-At the next review, this dated record gives us somewhere to start. We can see what changed without rebuilding the reasoning from memory.
+When you come back, this record gives you a starting point. The final walkthrough will save the completed report alongside it.

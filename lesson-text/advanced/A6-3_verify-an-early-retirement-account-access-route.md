@@ -29,7 +29,7 @@ A governmental 457(b) can have different additional-tax treatment too. The actua
 
 Another possible route is substantially equal periodic payments, often called SEPP or 72(t). This is a schedule with a permitted method, account, amount and first-payment date. It isn't flexible spending you can change casually. An employer-plan series begins after separation from that employer; an IRA series doesn't have that employment-separation requirement.
 
-The required period generally runs until the later of five years from the first payment or age 59½, subject to applicable exceptions. Starting exactly on a 54th birthday illustrates five and a half years to 59½. Starting exactly at 58 illustrates five years to 63. Those examples show duration; they don't calculate an eligible payment.
+The required period generally runs until the later of five years from the first payment or age 59½, subject to applicable exceptions. Starting exactly at 58 illustrates why that matters: the five-year period continues to 63. Reaching 59½ doesn't end it. That example shows duration; it doesn't calculate an eligible payment.
 
 The household also needs to be able to maintain that schedule through a weak market or changing spending. An improper modification can lead to retroactive additional tax and interest. That's why the calculation and setup need review before the income becomes part of the retirement funding we're relying on.
 
@@ -44,7 +44,7 @@ In the walkthrough, we'll connect the route to its person, account, amount and d
 | the early year we're trying to fund and the account intended to supply it. | 1 · Person / account / amount / date | Three checks: permission, ordinary tax, additional tax. |
 | A Roth IRA shows why those distinctions matter. | 2 · Verify the applicable route | Contributions / conversions / earnings. |
 | a rollover worth checking before it's submitted. | Before rollover: confirm access | Show source-plan permission and separation date. |
-| The required period generally runs until | SEPP illustration: 54 → 59½; 58 → 63 | Exact-birthday duration only; no payment calculation. |
+| The required period generally runs until | SEPP illustration: 58 → 63 | Exact-birthday duration only; no payment calculation. |
 | In the walkthrough, we'll connect the route | 3 · Keep evidence and invalidating actions | Return to actual funding years. |
 
 ### Walkthrough handoff — not spoken

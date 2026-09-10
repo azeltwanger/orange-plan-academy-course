@@ -23,9 +23,7 @@ State the education support you intend to provide, allocate existing resources o
 
 If helping your kids with college is part of your plan, I want to work through what that promise actually means before we pick an account. It's easy to say we're saving for college and have two very different expectations in mind. In this lesson, we'll put an amount and timing around the help you intend to provide, then see how it fits beside your own retirement and other commitments.
 
-Saying you want to help with college could mean very different things. You might intend to pay tuition at an in-state public school, cover a fixed amount each year, or contribute what you can while expecting your child to cover the rest. Housing, meals, fees, travel, and extra years of study can change what that promise costs.
-
-What matters is that you and your child understand the same promise. Tuition alone is different from every expense, and a fixed dollar contribution is different from covering whatever a chosen school charges. Getting that clear makes the saving decision much easier to evaluate.
+You might mean tuition at an in-state public school, a fixed amount each year or whatever you can contribute. Housing, meals, fees and extra years can change that cost. What matters is that you and your child understand the same promise before either of you depends on it.
 
 You can start with an estimate while your child is young. Use actual school cost information and net-price estimates where available, then update it as the choices become clearer. Don't assume published tuition is the entire bill, or that estimated aid is already guaranteed.
 
@@ -33,19 +31,17 @@ Let's give that promise a number. For our example household, we'll compare $20,0
 
 They aren't starting from zero. Our example household has $58,000 in education savings for two children. In this illustration, we're assigning $29,000 to the older child's plan and preserving $29,000 for the younger child. We're deciding what existing money we're counting for each child; we haven't created money or changed an actual account's beneficiary.
 
-That distinction matters. If they compare the older child's $80,000 commitment with the entire $58,000 balance, the gap looks smaller. But then the same money isn't still there for the younger child. Start with the actual account ownership and beneficiaries, then make sure the family totals only count the money once.
+The whole $58,000 can't cover each child's commitment separately. Check actual ownership and beneficiaries while assigning the money once across the family.
 
 For the older child, $80,000 minus the $29,000 assigned leaves $51,000 to fund.
 
 Let's say they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to $850 a month.
 
-That's a useful first number. It tells them the size of the commitment they're considering. That number doesn't tell them what tuition will cost, what Bitcoin will return, or which account to use.
-
 It also depends on wanting the whole amount available at the start. The college bills arrive over four years, so the household could choose to fund some of them from income during those years instead. That changes the saving required now, but it also commits future income that may have had another job.
 
 That brings us back to the whole retirement plan. During those tuition years, will both parents still be working? Will the other child also be in college? If the costs overlap with the years you wanted to reduce work or start withdrawals, that future income may already have another job.
 
-In the reduced-spending example, they have $1,700 available after the costs and the client's existing employee contribution. The later funding example puts $500 toward the reserve and $1,200 toward extra card payments. That uses the full amount.
+The proposed Reserve and extra-card funding already use the $1,700 in the reduced-spending example.
 
 There isn't another $850 available just because we've calculated a college gap.
 
@@ -65,9 +61,7 @@ The response to that lower price has to be something you could really do: use an
 
 As enrollment gets closer, separate the payments that must be available soon from money intended for later years. You don't have to move every family investment at once. You do need to know how the first bill will be paid, then come back to the next year's need before it becomes urgent.
 
-We'll trace that in Orange Plan by following the money paying for college. Is it coming from education savings, another account or income during those years? The future expense tells the plan what needs paying; it doesn't set aside the money or start the contributions for you.
-
-Once you've worked through it, you'll have something concrete to discuss with your child: the help you intend to provide, what's already set aside and how the rest could be funded. That conversation can change as costs and school choices become clearer, so it helps to have a time to come back to it.
+That gives you something concrete to discuss with your child: the help you intend to provide, what's set aside and how you'll fund the rest. Choose a time to revisit it as costs and school choices become clearer.
 
 In the walkthrough, we'll place those payments beside the same Reserve and debt claims we've already considered. If the money is still promised elsewhere, the college choice stays open until you decide what changes. Then we'll return to Debt with that education commitment visible, so we aren't making the next decision with money you've already assigned.
 
@@ -115,13 +109,13 @@ Size a possible Bitcoin-backed loan against a severe decline and full debt growt
 
 ### Read aloud
 
-This lesson is for you if you're considering a Bitcoin-backed loan. There are two decisions that can get mixed together: how much debt the household can support through a severe decline, and how much Bitcoin to put with the lender at the start. I want to work through them in that order, because a low-looking starting payment or an available loan limit doesn't tell us whether the whole arrangement will hold up.
+This lesson is for you if you have or are considering a Bitcoin-backed loan. There are two decisions that can get mixed together: how much debt the household can support through a severe decline, and how much Bitcoin to put with the lender at the start. I want to work through them in that order, because a low-looking starting payment or an available loan limit doesn't tell us whether the whole arrangement will hold up.
 
 We'll use the actual agreement and the Bitcoin you can dedicate to the debt. That includes the full balance we'll need to support, the liquidation and cure requirements and where the payments come from. Then we'll decide what the initial collateral placement means.
 
 I can see a place for borrowing against Bitcoin when the household can afford the debt and accepts the lender risk. The size starts with what that household can carry through a severe decline.
 
-Only then would I decide how much collateral to post. Starting at 50% LTV can keep more Bitcoin under my control, but it also means I may need to act sooner. Those are two separate decisions: the size of the debt and where the supporting Bitcoin sits.
+Then I might start the chosen loan at 50% LTV to keep more Bitcoin under my control, accepting that I may need to act sooner. Loan-to-value compares the loan with the collateral actually pledged for it. It doesn't include other household assets or Bitcoin still in my wallet.
 
 Let's use a separate example with Bitcoin at $100,000. You have 3.5 BTC available to support one loan. That includes whatever you initially pledge and the Bitcoin you keep for top-ups. Assume liquidation happens at 80% LTV and the debt stays at $50,000 for now.
 
@@ -141,7 +135,13 @@ The cold-storage coins still have a job. I can't count them as protection for tw
 
 Next, check every contract condition that could force a sale. The headline liquidation percentage isn't the whole agreement. A margin call may require a lower LTV by a deadline. That's the cure requirement: the change needed to bring the loan back within the lender's terms. Maturity or renewal can have another limit. Size the reserve for those requirements too. Remaining below 80% doesn't help if another contract provision allows a sale sooner.
 
-Having enough Bitcoin elsewhere also doesn't mean it will arrive in time. In the earlier lesson, 50% starting LTV reached an 80% liquidation line after a 37.5% decline without a top-up. You need to respond during the decline, well before that point. You can't wait for an 80% drop and then start moving coins.
+Having enough Bitcoin elsewhere doesn't mean it will arrive in time. Let's follow the $50,000 loan with $100,000 posted, assuming the debt stays fixed. At $62,500 of collateral value, the loan reaches the assumed 80% liquidation line. That's a 37.5% price decline, even though we've set aside enough Bitcoin for a much larger decline. The extra coins don't count until they arrive and the lender credits them.
+
+For comparison, posting more collateral to start the same loan at 25% LTV gives a 68.75% price decline to that same assumed 80% line. Here, 25% shows the effect of more upfront collateral, not a recommended starting point. These are hypothetical contract terms. The percentages describe price declines, not percentage-point gaps between LTV readings or a lender's warning threshold.
+
+Putting 20% of your Bitcoin with a lender doesn't mean you have 20% LTV either. One measures the share of your total Bitcoin exposed to the arrangement; the other measures debt against the portion pledged. A strong household balance sheet doesn't override that lender calculation.
+
+You need to respond during the decline, well before the contract requires a sale. You can't wait for an 80% drop and then start moving coins.
 
 That timing is what the operating instructions need to address. We need a trigger for the top-up, an amount and enough time for access, transfer and the lender's confirmation requirements. There also needs to be a response when you're asleep, traveling or unable to act. Watching the price closely doesn't remove a transfer delay.
 
@@ -176,13 +176,16 @@ Our example household hasn't taken out a Bitcoin-backed loan; these separate ill
 | that boundary is $56,000. | $350,000 × 20% × 80% = $56,000 boundary | Specific assumptions; not a recommended borrowing percentage. |
 | The other 2.5 BTC stays in cold storage | Post 1 BTC at 50% LTV · Reserve 2.5 BTC for this loan | Reserve counts for lender LTV only once credited. |
 | about 14.3% LTV. | Same debt: 3.5 BTC posted → 14.3%; 1 BTC posted → 50% | Compare custody exposure and response time. |
+| That's a 37.5% price decline | Fixed debt: 50% initial LTV → 80% at a 37.5% price decline | Hypothetical threshold; dedicated coins count only once credited. |
+| posting more collateral to start the same loan at 25% LTV | 25% initial LTV → 80% at a 68.75% price decline | More upfront collateral; not a recommended starting level. |
+| Putting 20% of your Bitcoin with a lender | Share of total Bitcoin pledged ≠ loan-to-value | Label both denominators. |
 | All $6,000 of room is gone. | $50,000 × 1.12 = $56,000; $56,000 ÷ $70,000 = 80% | One year capitalized at year-end; actual accrual can differ. |
 | Another 12% brings it to $59,360. | Repeat draws: $25,000 → $28,000 → $53,000 → $59,360 | Separate recurring-loan illustration; $9,360 interest total. |
 | the provider will remain solvent | Model result does not certify provider solvency or transfer timing. | One concise limitation beside the result. |
 
 ### Walkthrough handoff — not spoken
 
-[W03, chapter 5](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): size the conditional loan, distinguish posted and dedicated Bitcoin, and record the timed top-up/repayment response. Chapter 4 supplies the financing comparison; chapter 6 reconciles ordinary cash commitments.
+[W03, chapter 5](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): size the conditional loan, distinguish posted and dedicated Bitcoin, and record the timed top-up/repayment response. Chapter 2 supplies the household balance-sheet comparison; chapter 4 covers the financing choice; chapter 6 records ordinary repayment rules and reconciles cash commitments.
 
 ### Member checkpoint
 
@@ -190,69 +193,73 @@ Record actual thresholds and deadlines, projected full debt, dedicated BTC witho
 
 ### Source and production notes — not spoken
 
-September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no example household Bitcoin loan is created.
+September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no example household Bitcoin loan is created. Fixed-debt 50%/25% initial-LTV comparisons and pledged-share distinction moved here from main 3.6 so nonborrowers can continue without specialist mechanics. Assumed 80% liquidation gives 37.5%/68.75% price declines; actual call/cure/liquidation terms can differ.
 
 Source provenance remains in [../../production/consolidation.json](production/consolidation.json), the original source-material and the dated [../../reference/script-finishing-sources.md](reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](production/STEPWISE-SCRIPT-STANDARD.md).
 
 ---
 
-# A3.2 — Compare unusual financing terms
+# A3.2 — Read the terms of the loan you are considering
 
 Status: CONVERSATIONAL_VOICE_REVIEW — revised spoken manuscript; Austin voice approval and capture remain separate.
 Kind: conditional
 Gate: LENDING_REVIEW
 Sources: DEBT, OWNER, PRIMARY
 After lesson: 3.4
-Use when: You are comparing an unusual financing agreement or a structure with nonstandard terms.
+Use when: You are comparing a financing offer; use only the contract sections relevant to that offer.
 Complete before: Complete before relying on the proposed payment or exit.
 Return to: Set borrowing limits and a repayment plan
 
 ### Do this
 
-Trace the complete payment and settlement schedule of an unusual agreement, including terms the app cannot represent.
+Trace the payment and final settlement of a financing offer, using the terms relevant to its structure and separate analysis where needed.
 
 ### Read aloud
 
-Some financing offers need more explanation than an interest rate and a monthly payment. This lesson is for an agreement with a large final balance, a shared-appreciation formula or another term that changes what you'll owe or how you can get out. We're going to follow that agreement all the way through, so a small payment today doesn't hide the decision waiting at the end.
+This lesson is for the loan you're actually considering. We need to understand what it costs, what could change and how it ends before relying on the payment in the plan. You can use the contract section that matches your offer; you don't need to learn every lending product.
 
-We'll keep the purchase price, cash needed and date the same across the alternatives. That lets us compare the financing itself. Then we can follow what leaves the household at the start, over time and at final settlement.
+Start with cash needed at the beginning, the payments over time and the final amount owed. Fees may be paid upfront or added to the loan. The rate or payment may change, and ending the loan early may cost something. Even a zero-interest promotion needs its full terms, including what happens when it ends.
 
-Upfront cash and fees are part of that cost, along with interest and any later rate changes. The amount still owed at the end belongs beside the monthly payment. A balloon payment is that larger final amount due; having a low payment before it doesn't make the ending balance disappear.
+One payment comparison is worth seeing. Say you borrow $20,000 at 8% over five years, with no fees. A fully amortizing loan would require about $406 a month. That means the scheduled payments clear the balance by the end if you follow the terms.
 
-The earlier interest-only example makes the point. Paying interest on $20,000 for five years leaves the $20,000 principal outstanding. If the planned exit is another loan, add the case where refinancing is declined. The payment schedule hasn't become workable until the household has an acceptable response.
+An interest-only version at the same rate would cost about $133 a month, with $20,000 still owed. Over five years, the amortizing version costs about $4,332 in interest. The interest-only version costs $8,000, and then you still need to repay the original $20,000.
 
-The term that matters depends on your offer. For a cash-out refinance, it's the entire replacement mortgage. You might need a relatively small amount of new cash but have to reprice a much larger existing balance. Keeping the old mortgage and financing just the new need gives us a useful comparison.
+The lower payment hasn't made the principal disappear. It has moved that decision to the end. A balloon is a larger final payment due under the agreement. If the exit depends on refinancing, include the case where another lender declines. The schedule needs an acceptable response to that outcome.
 
-A seller-financed purchase may use a low starting payment and a large balance due later. Read the security interest, guarantees, restrictions and default remedies. For a business purchase, compare the debt service with cash after payroll, operating needs, maintenance and taxes, not with sales alone.
+Now look at the terms specific to your offer. For a home-equity loan or line, your home is part of the agreement. A line may have a draw period followed by repayment, and its rate and payments may change. Access to further borrowing can be reduced under the terms, so unused capacity isn't a guaranteed fallback.
 
-A home-equity investment or shared-appreciation agreement needs its actual settlement formula. It isn't a zero-rate loan just because no monthly interest payment appears. Calculate what would be owed under lower, unchanged and higher home values at the relevant dates. Include valuation adjustments, fees, sale or refinancing triggers and other conditions from the contract.
+A cash-out refinance can replace the existing mortgage itself. The new rate may apply to a much larger balance than the additional cash you wanted. Compare the entire replacement mortgage with keeping the old mortgage and financing only the new need. A conventional mortgage isn't normally subject to a Bitcoin-style collateral call just because the home price falls, but its payment and default terms still matter.
 
-Once we understand the formula, we need to know where the settlement money comes from and when it's available. A paper gain doesn't provide cash by itself. A sale or another funded route has to work, and the agreement may affect when you can move or refinance. That belongs in the life decision too.
+A seller-financed purchase may also have a low starting payment and a large balance due later. Read the security interest, guarantees, restrictions and default remedies. For a business purchase, compare debt service with cash after payroll, operating needs, maintenance and taxes. A personal guarantee may make the household responsible if the activity fails.
 
-Securities-backed credit adds a use restriction check. A non-purpose line generally can't fund purchases or trading of securities; a margin loan is a different arrangement. Neither should be substituted for the other simply because both use an investment account as collateral.
+A home-equity investment or shared-appreciation agreement needs its actual settlement formula. No monthly interest payment doesn't make it a zero-rate loan. Calculate what would be owed under lower, unchanged and higher home values at the relevant dates. Include valuation adjustments, fees and sale or refinancing triggers from the contract.
 
-Retirement-plan loans add employment and plan-rule consequences. Read what happens if the job ends or payments fail, and how repayment affects other saving. Interest returning to the plan doesn't make the lost flexibility and investment exposure irrelevant.
+Then identify the money for that settlement. A paper gain doesn't provide cash by itself. The agreement may affect when you can move or refinance, so it belongs in that life decision too.
 
-For our example household's project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment isn't funded. They may decide not to do the project for now.
+A non-purpose securities-backed line generally can't be used to buy or trade securities. It isn't interchangeable with a margin loan. Both may involve collateral demands or forced sales, but their permitted uses and terms differ. Check that your intended use is permitted and how much time you'd have to respond to a demand.
 
-We can still use Orange Plan for the parts it supports, with the actual payment and settlement schedule beside the comparison. If it doesn't represent an important contract term, using an ordinary loan as a substitute doesn't show how the full agreement behaves.
+With an employer retirement-plan loan, first check whether the plan permits it. Then read the repayment terms and what happens if employment ends. Failure to repay can produce a taxable distribution and possibly additional tax. Interest paid back to your retirement account doesn't make the arrangement cost-free: the money is no longer invested in the same way, and repayment can affect ongoing saving.
 
-In the financing walkthrough, we'll use the offer that applies to you and follow the first payment, ongoing cost and final amount owed to their funding sources. A missing contract answer stays open before you choose the offer. Then bring the repayment source and fallback back to the debt-rules lesson, so the comparison becomes a decision you know how to carry out.
+Tax treatment also follows the actual transaction. Whether interest is deductible depends on the use of the money and the applicable rules, not simply the asset securing the loan. Later sales, collateral liquidation or forgiven debt can have tax consequences. Resolve the specific question before relying on a tax benefit.
+
+You only need to bring the relevant terms into your comparison. Keep the same purchase amount and date across the alternatives, and follow the cash left, payments and final repayment. If an important contract term isn't represented in Orange Plan, keep separate analysis beside the scenario; an ordinary-loan substitute won't explain a different agreement.
+
+The walkthrough will follow your offer through those points. If a contract answer is missing, the proposal stays open. Then return to the borrowing-rules lesson with the payment source, principal exit and fallback. If Bitcoin is the collateral, complete its separate loan lesson as well before depending on that arrangement.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| having a low payment before it doesn't make the ending balance disappear. | Upfront cost → payments → final settlement | Keep final balance visible throughout. |
-| leaves the $20,000 principal outstanding. | Interest-only example: $20,000 still due after five years | Recall the separate generic example; no new offer. |
-| it's the entire replacement mortgage. | Cash-out refinance changes the existing debt too. | Show old mortgage beside full replacement. |
-| needs its actual settlement formula. | Shared appreciation: lower / unchanged / higher home values | Leave formula terms sourced to the contract. |
-| another payment isn't funded. | Same monthly cash; no second pool for financing. | Retain smaller project and delay. |
-| with the actual payment and settlement schedule beside the comparison. | Unmodeled term → separate analysis before choosing | No staged model-complete badge. |
+| A fully amortizing loan would require about $406 a month. | Generic: $20,000 · 8% · 5 years · no fees | Scheduled payments clear principal under the example terms. |
+| about $133 a month, with $20,000 still owed. | Interest only: about $133/mo; $20,000 principal remains | Keep the ending balance beside the lower payment. |
+| the amortizing version costs about $4,332 in interest. | Five-year interest: about $4,332 vs $8,000 + principal due | Separate teaching graphic; no loan offer. |
+| Compare the entire replacement mortgage | Cash-out refinance reprices existing debt too. | Compare old mortgage with full replacement. |
+| needs its actual settlement formula. | Shared appreciation: lower / unchanged / higher home values | Use the actual contract formula. |
+| keep separate analysis beside the scenario | Unsupported contract term → separate analysis before choosing | Do not stage a complete-model claim. |
 
 ### Walkthrough handoff — not spoken
 
-[W03, chapter 4](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): compare the whole agreement; chapter 5 records the chosen repayment and fallback. Return to 3.6 afterward.
+[W03, chapter 4](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): compare the whole agreement, then return to 3.6 before recording ordinary repayment and fallback in W03 chapter 6. Use A3.1 and W03 chapter 5 before relying on Bitcoin collateral.
 
 ### Member checkpoint
 
@@ -260,7 +267,7 @@ The actual offer has a complete payment/settlement schedule, relevant stress cas
 
 ### Source and production notes — not spoken
 
-Debt Strategy financing steps and existing dated lending-source review. Preserve SBLOC use restrictions, employer-plan consequences, personal guarantees and home-equity/shared-appreciation settlement conditions. No lender terms, security value, quote or approval is invented. The separate $20,000 interest-only illustration remains unchanged.
+Debt Strategy financing steps and existing dated lending-source review. Preserve SBLOC use restrictions, employer-plan consequences, personal guarantees and home-equity/shared-appreciation settlement conditions. No lender terms, security value, quote or approval is invented. The separate $20,000/8%/five-year/no-fee amortizing-versus-interest-only illustration moved here from 3.4 without changing its arithmetic: $405.5279/month and $4,331.6735 interest versus $133.3333/month, $8,000 interest and $20,000 principal due. Offer-specific mechanics formerly in main 3.4 now belong here.
 
 Source provenance remains in [../../production/consolidation.json](production/consolidation.json), the original source-material and the dated [../../reference/script-finishing-sources.md](reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](production/STEPWISE-SCRIPT-STANDARD.md).
 
@@ -283,11 +290,9 @@ Compare a limited multiyear conversion schedule against no added conversions and
 
 ### Read aloud
 
-The main tax lesson compared a conversion with keeping the current treatment. If you're considering conversions over several years, we need to follow that decision through the income changes ahead. An amount that fits this year may be expensive next year or use cash you'll need in the meantime.
+We've compared a conversion in one year. Now we're going to decide whether it has a useful place over several years. The amount that fits today may be expensive next year, or there may be a better income window ahead.
 
-We're moving money already in eligible Traditional retirement accounts into Roth. Traditional here generally means tax is still due when money comes out; it isn't an ordinary taxable brokerage account. This is separate from a new contribution, so the annual contribution limit doesn't set the conversion amount. The taxable portion, the money paying that tax and the access rules are what we need to work through.
-
-The starting point is still the plan you're following now. Work, benefits, healthcare and required distributions show us where income changes. Living expenses and conversion tax each need a source in those years. That gives us a reason for the period we're comparing, instead of repeating one conversion amount through all of retirement.
+The starting point is still the plan you're following now. Mark when work income, benefits, healthcare and required distributions change. Those dates give the schedule a beginning, an end and reasons for the amount to change along the way.
 
 We can put three versions beside each other: no added conversions, a modest schedule and a larger early schedule. The spending and market assumptions stay the same. What we're changing is the timing and amount of the conversion.
 
@@ -295,15 +300,11 @@ Here's why the next portion matters. In a separate illustration, converting the 
 
 If the comparable future cost were 25% under those simplified assumptions, the first portion and second portion have different trade-offs. The average hides that. Your actual tax and coverage calculation may differ, and next year's circumstances can change the opportunity. A pension starting could shrink the window; a lower-income year ahead could make waiting worth another comparison.
 
-As we follow each schedule, I want to keep the first affected year, the next income change and the later outcome in view. Conversion dollars, spending withdrawals and tax payments remain separate. A bigger Roth doesn't replace accessible cash already spent on conversion tax when the early retirement years still need it.
-
-That is also why we're comparing total after-tax resources on the same dates. In the no-conversion version, the outside money that would have paid tax can stay invested, with its own growth and taxes. Lifetime tax alone doesn't show what the household has left to use.
+As we follow each schedule, keep the first affected year, the next income change and the later outcome in view. We're comparing total after-tax resources on the same dates, including the outside tax money from the main lesson. Each year's spending and conversion tax need their own sources; a larger Roth balance doesn't fill an early cash gap.
 
 The preferred schedule depends on assumptions worth testing. Lower future tax rates or weaker growth could change it. So could one spouse dying earlier, with a different income and filing picture for the survivor. An important effect the model doesn't represent needs a separate calculation rather than being inferred from the score.
 
-A market decline can allow the same conversion dollars to move more units. It still doesn't pay the tax or guarantee a rebound. The cash source and longer-term reason have to stand on their own.
-
-So the schedule includes a yearly review before the transaction deadline. Income, required distributions, nondeductible basis, healthcare effects and the tax-payment source get updated before the actual amount is confirmed with the custodian. A saved strategy becomes a completed conversion only after the transaction happens.
+The schedule includes a yearly review before the transaction deadline. Update income, required distributions, nondeductible basis, healthcare effects and the tax-payment source before confirming the actual amount with the custodian. That review can make the next conversion smaller, larger or unnecessary. A saved schedule isn't an instruction to repeat the same amount regardless of what changes.
 
 In the walkthrough, we'll extend the conversion comparison through the years that matter and keep that review condition beside it. You may choose a smaller schedule or no added conversion when the benefit doesn't survive a plausible assumption. Then we'll return to the retirement paycheck and use the tax choice alongside the money needed for living expenses.
 
@@ -314,8 +315,8 @@ In the walkthrough, we'll extend the conversion comparison through the years tha
 | The starting point is still the plan you're following now. | 1 · Mark the income windows | Dates and each spouse visible. |
 | We can put three versions beside each other: | 2 · None / modest / larger early | Same spending and market assumptions. |
 | Here's why the next portion matters. | Illustration: first $20k costs 20%; next $20k costs 30% | Show marginal portions before 25% average. |
-| we're comparing total after-tax resources on the same dates. | 3 · After-tax resources + accessible cash | Include opportunity cost of tax payments. |
-| the schedule includes a yearly review before the transaction deadline. | 4 · Recheck the actual year | No automatic fixed conversion schedule. |
+| We're comparing total after-tax resources on the same dates, | 3 · After-tax resources + accessible cash | Include opportunity cost of tax payments. |
+| The schedule includes a yearly review before the transaction deadline. | 4 · Recheck the actual year | No automatic fixed conversion schedule. |
 
 ### Walkthrough handoff — not spoken
 
@@ -364,13 +365,13 @@ Gifts and inheritance bring their own basis rules and records. They aren't ordin
 
 Past sales and filed returns help establish what's still available. Units sold earlier can't remain in the list for another sale. A capital-loss carryforward is an unused realized tax loss carried into a later year. Its remaining amount comes from the returns and subsequent activity, not a screenshot of an investment that once fell in value.
 
-With that history in place, the lot comparison becomes usable. The course's $20,000 sale can produce $8,400, $16,800 or $9,600 of gain, depending on the available lot. If the preferred lot lacks evidence, the choices are to obtain it or compare a supported lot. An unknown cost doesn't become reliable because it creates the smallest gain.
+With that history in place, return to the lot comparison from the main lesson. If the preferred lot lacks evidence, obtain it or compare a supported lot. An unknown cost doesn't become reliable because it creates the smallest gain.
 
 The identification has to happen through the process and deadline that apply to the asset, custodian or wallet and transaction year. A choice in Orange Plan doesn't itself notify a broker. The actual instruction acknowledgment or required contemporaneous identification record is what supports the transaction. Temporary relief isn't permanent permission to pick any lot after the fact.
 
 For a loss harvest, the replacement is part of that preparation. Automatic purchases, another account and relevant spouse activity can affect a securities wash-sale analysis. A replacement in your IRA or Roth IRA can make the securities loss permanent because the usual replacement-basis adjustment doesn't apply. Direct Bitcoin and Bitcoin funds need their own current-rule review.
 
-For a gain harvest, the same-year income picture matters. Other gains, business income or a conversion can use room that looked available earlier. State tax, healthcare costs, fees and price movement between sale and replacement also affect what the transaction gives the household.
+Before a gain harvest, update the year's income and costs from the main comparison. A later gain or conversion may have used room that appeared available when you first planned the sale.
 
 After execution, the trade confirmation lets us check what actually happened: the identified units, time, proceeds and fees. The remaining lots need to agree with the current holding, and any replacement purchase gets its own record. That continuity matters next time you sell.
 
@@ -396,7 +397,7 @@ In the walkthrough, we'll prepare that packet and follow the transaction back to
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Retains source reconstruction, 0.1 BTC transfer, original three lots, carryforward continuity, timely identification and securities IRA-replacement consequence. The September 8/10 technical record governs existing temporary broker-held identification relief; no date-specific relief is extended in evergreen speech. Provider behavior and tax-data export coverage need actual capture evidence.
+Retains source reconstruction, the 0.1 BTC same-owner transfer illustration, carryforward continuity, timely identification and the securities IRA-replacement consequence. The three-lot calculation is taught once in 5.1; this lesson applies its choice to supported units and transaction records. The September 8/10 technical record governs existing temporary broker-held identification relief; no date-specific relief is extended in evergreen speech. Provider behavior and tax-data export coverage need actual capture evidence.
 
 ### Member checkpoint
 
@@ -435,7 +436,7 @@ A governmental 457(b) can have different additional-tax treatment too. The actua
 
 Another possible route is substantially equal periodic payments, often called SEPP or 72(t). This is a schedule with a permitted method, account, amount and first-payment date. It isn't flexible spending you can change casually. An employer-plan series begins after separation from that employer; an IRA series doesn't have that employment-separation requirement.
 
-The required period generally runs until the later of five years from the first payment or age 59½, subject to applicable exceptions. Starting exactly on a 54th birthday illustrates five and a half years to 59½. Starting exactly at 58 illustrates five years to 63. Those examples show duration; they don't calculate an eligible payment.
+The required period generally runs until the later of five years from the first payment or age 59½, subject to applicable exceptions. Starting exactly at 58 illustrates why that matters: the five-year period continues to 63. Reaching 59½ doesn't end it. That example shows duration; it doesn't calculate an eligible payment.
 
 The household also needs to be able to maintain that schedule through a weak market or changing spending. An improper modification can lead to retroactive additional tax and interest. That's why the calculation and setup need review before the income becomes part of the retirement funding we're relying on.
 
@@ -450,7 +451,7 @@ In the walkthrough, we'll connect the route to its person, account, amount and d
 | the early year we're trying to fund and the account intended to supply it. | 1 · Person / account / amount / date | Three checks: permission, ordinary tax, additional tax. |
 | A Roth IRA shows why those distinctions matter. | 2 · Verify the applicable route | Contributions / conversions / earnings. |
 | a rollover worth checking before it's submitted. | Before rollover: confirm access | Show source-plan permission and separation date. |
-| The required period generally runs until | SEPP illustration: 54 → 59½; 58 → 63 | Exact-birthday duration only; no payment calculation. |
+| The required period generally runs until | SEPP illustration: 58 → 63 | Exact-birthday duration only; no payment calculation. |
 | In the walkthrough, we'll connect the route | 3 · Keep evidence and invalidating actions | Return to actual funding years. |
 
 ### Walkthrough handoff — not spoken
@@ -486,41 +487,36 @@ Choose whether a passphrase, multisig or professional support addresses a named 
 
 ### Read aloud
 
-If you're considering a passphrase, multisig or professional support, there's probably something about the current arrangement you'd like to improve. In this lesson, we'll work through what each option changes, because adding complexity helps only when it addresses the problem you're trying to solve.
+If you're considering a passphrase, multisig or professional support, start with the failure you want to address. This lesson helps you judge whether the added complexity improves that problem.
 
-The useful starting point is the holding and the failure you're concerned about. Maybe someone finding one backup could reach too much of the family's Bitcoin. Maybe one missing key would interrupt access. Or maybe the family would need help operating the setup if you weren't available. Those problems can lead to different choices.
+A passphrase can protect against the backup alone being exposed, provided the passphrase stays separate and secure under a workable process. You're taking on another exact secret that must be preserved.
 
-A passphrase changes the wallet derived from the backup material. It can add protection if the backup alone is exposed, provided the passphrase stays separate and secure under a workable process. You're also taking on another exact secret that must be preserved.
+A wrong passphrase can open a different valid wallet. Recovery therefore needs the backup, exact passphrase and verification of the intended wallet. A passphrase doesn't create another independent signer or legal authority.
 
-A wrong passphrase can open a different valid wallet. That's why checking the word list isn't the whole recovery check. We need the backup, the exact passphrase and a way to verify the intended wallet. A passphrase isn't another independent signer, and it doesn't create legal authority.
+Multisig changes who can authorize a transaction. A two-of-three policy needs two of three independent keys, plus the configuration, compatible tools and required information. If one key is unavailable, the other two may provide access.
 
-Multisig changes who can authorize a transaction. A two-of-three policy can authorize a transaction with two of the three keys. If one is unavailable, the other two may provide access when the configuration, compatible tools and required information are also available.
+Copies of the same key on three devices don't create three independent signers. They may help with a broken device, but they don't provide a threshold requiring different keys.
 
-The independence is what matters. Putting the same key on three devices gives you copies of one key. It doesn't give you three independent signers. That may help with a broken device, but it doesn't provide the same protection as a threshold requiring different keys.
+Collaborative support can help with multisig while the provider holds one key. Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. Any claimed provider-independent route needs a safe demonstration before you depend on it.
 
-Collaborative support can help with a multisig process while the provider holds one key. Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. If the arrangement is supposed to remain usable without the provider, that path needs a safe demonstration before you depend on it.
+Institutional custody can take on more of the operating work. Check the contract, legal ownership, withdrawal procedures and family process; support doesn't mean unlimited recourse or insurance.
 
-Institutional custody can move more of the operating work to a provider. The family may have a simpler place to start, but its rights depend on the contract, legal ownership and withdrawal procedures. Support doesn't mean unlimited recourse or insurance.
+Now bring the options back to the problem. If exposure of one backup is the concern, a well-maintained passphrase or threshold can address it differently. If the family already struggles with access, another secret might make that harder. Support or a simpler arrangement may help more.
 
-So let's bring those options back to the original concern. If exposure of one backup is the problem, a carefully maintained passphrase or threshold can address it in different ways. If the family is already struggling with the process, another secret might add more difficulty. Support or a simpler arrangement may be the more useful change.
+Before moving meaningful funds, check that the proposed arrangement survives the failure you named. Include the keys, configuration, tools and person who would start the process. Testing a separate small-value wallet teaches that procedure; it doesn't certify a different funded arrangement.
 
-You might also choose direct control for one portion and support for another. The amounts depend on what they're for and the consequence of losing access to either route. Each extra arrangement still needs maintaining.
+Keep the recovery kit private. Planning notes can describe the protection gained, responsibilities, costs and remaining risks without containing secrets, sensitive descriptors or extended keys.
 
-Before moving meaningful funds, we need to see whether the proposed improvement survives the failure you named. That includes the keys, configuration, tools and the person who would start the process. A safe test of a separate small-value wallet teaches that procedure; it doesn't certify a different funded arrangement.
-
-Keep the recovery kit private. Ordinary planning notes can describe the protection gained, responsibilities added, costs and risks remaining without containing secrets, sensitive descriptors or extended keys.
-
-In the custody walkthrough, we'll record the direction you're considering and the test still needed. Keep the move planned until that test covers the actual intended arrangement. Then return to the recovery lesson, where we'll connect the setup to the evidence and account security. If the extra complexity doesn't improve a meaningful problem, keeping the simpler arrangement can be the decision.
+In the custody walkthrough, record the proposed direction and the safe test needed. Keep the move planned until evidence covers the intended arrangement. Then continue to recovery and account security. Keeping the simpler arrangement is a valid decision when the added complexity doesn't solve a meaningful problem.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| The useful starting point is the holding and the failure you're concerned about. | Holding / failure to address | Show a non-secret entry. |
 | A wrong passphrase can open a different valid wallet. | Exact passphrase + intended-wallet verification | No actual secret or wallet descriptor. |
-| A two-of-three policy can authorize a transaction with two of the three keys. | 2 independent keys required out of 3 | Show generic key labels A, B and C; copies do not add a key. |
+| A two-of-three policy needs two of three independent keys, plus the configuration, compatible tools and required information. | 2 independent keys of 3 + configuration + tools | Use generic key labels; copies do not add a signer. |
 | Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. | Authority / fees / requirements / provider-unavailable route | Use contract headings without invented terms. |
-| Keep the move planned until that test covers the actual intended arrangement. | Planned arrangement / required test / actual evidence | Keep status separate from the diagram. |
+| Keep the move planned until evidence covers the intended arrangement. | Proposed arrangement / safe test / actual evidence | Keep status separate from a diagram. |
 
 ### Walkthrough handoff — not spoken
 
@@ -554,7 +550,7 @@ The demonstration is a prepared instruction, not evidence that the app, device, 
 
 ### Member checkpoint
 
-Choose a custody architecture for a named failure and verify the complete safe recovery path and retained responsibilities.
+Choose an arrangement for a named failure, record its added responsibilities and identify the complete safe check required before meaningful funds depend on it. Evidence applies only to the setup actually checked.
 
 ---
 
@@ -575,45 +571,40 @@ Identify the specific family or legal job a trust would perform. Compare it with
 
 ### Read aloud
 
-As you work through the family handoff, you may find a job the basic arrangements don't fully cover. That's when a trust becomes worth looking at. In this lesson, we're going to identify what you want it to do and what would need to happen for it to work with the rest of your plan.
+A trust becomes worth considering when there's a specific job your current arrangements don't cover. Let's identify that job and what the trust would need to do in the rest of your plan.
 
-The purpose comes first. It could be managing money for a child over time, supporting a vulnerable beneficiary, providing continuity during incapacity or coordinating several assets. Those are different outcomes, so we need more than a general idea that a trust sounds protective.
+It might manage money for a child over time, support a vulnerable beneficiary or provide continuity during incapacity. Begin with that purpose and compare it with what the existing documents, beneficiaries and custody process already provide.
 
-Let's say a family mainly needs current beneficiaries, signed baseline documents and a custody process somebody can find. A trust doesn't substitute for those unfinished steps. We would want to understand what it adds.
+The structure affects how much control and access you retain. A properly created and funded revocable living trust can support administration and continuity. Retaining control generally keeps the assets within the owner's relevant tax and creditor picture. It isn't automatically an estate-tax reduction or creditor shield.
 
-Now consider a family that wants money managed for a child over many years rather than distributed outright. That continuing management is a specific objective to discuss with the attorney. The distribution terms, trustee and backup process can then be designed around it.
+An irrevocable arrangement can change control, access, tax and beneficiary rights in ways that are difficult to undo. Those consequences belong in the decision alongside any potential benefit.
 
-The structure affects how much control and access you retain. A revocable living trust can support administration and continuity when it's properly created and funded. Retaining control generally keeps the assets within the owner's relevant tax and creditor picture. It isn't automatically an estate-tax reduction or a creditor shield.
+Grantor and non-grantor describe income-tax treatment. That's separate from whether the trust is revocable or irrevocable. The actual powers, terms, funding and applicable law determine how it works.
 
-An irrevocable arrangement can change control, access, tax and beneficiary rights in ways that are difficult to undo. Those consequences are part of the decision, even when a tax illustration looks attractive.
+Specialized charitable structures, including a charitable lead trust, need a real charitable and beneficiary purpose. Expected Bitcoin growth doesn't establish that purpose, and the obligations must work under less favorable returns too. They need the appropriate legal and tax design.
 
-Grantor and non-grantor describe income-tax treatment. They're separate from whether the trust is revocable or irrevocable. The actual powers, terms, funding and applicable law determine how the arrangement works.
+For Bitcoin, connect legal authority to the ability to sign. The custody arrangement, recovery, provider dependence and successor trustee all have to fit. A clause expressing enthusiasm for Bitcoin doesn't remove fiduciary duties or recreate missing keys.
 
-Specialized charitable structures, including a charitable lead trust, need a real charitable and beneficiary purpose. A high expected Bitcoin return doesn't establish that purpose. Their obligations need to work under less favorable returns too, with the appropriate legal and tax design.
+Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. Retirement accounts need particular care because trust beneficiaries or asset movements can affect distributions and taxes.
 
-Bitcoin then adds the operating questions to the legal ones. Someone needs authority to make decisions and a usable way to sign. Recovery, provider dependence and a successor trustee all need to fit. A clause expressing enthusiasm for Bitcoin doesn't remove fiduciary duties or recreate missing keys.
+Bring the ownership inventory and custody map to the attorney. Identify which assets would be held by the trust, which use a beneficiary process and which stay outside, then confirm the provider can implement that arrangement.
 
-That's also why funding matters. Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. Retirement accounts need particular care because trust beneficiaries or asset movements can change distributions and tax treatment.
+If the current arrangements already meet the need, that can settle the question. If a trust adds the benefit you're looking for, identify the legal work, actual funding and beneficiary or custody coordination needed.
 
-The ownership inventory and custody map give you something concrete to use with the attorney. Identify the accounts intended for the trust, those using a beneficiary process and those staying outside. The relevant provider also needs to be able to implement the arrangement.
-
-The result of this comparison might be that the current arrangements meet the need. If a trust adds the benefit you're looking for, the next actions are the legal work, actual funding and any beneficiary or custody coordination. Confirm each completed step; signing a document alone doesn't finish them.
-
-We'll bring the resulting authority and status back into the family walkthrough. Then you can continue with the handoff and insurance decisions, carrying the actual arrangement forward rather than just a document you've signed.
+Return to the family walkthrough with the resulting authority and actual status. That lets you finish the handoff using the arrangement that exists, with any unfinished step still assigned.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| The purpose comes first. | Specific purpose / current arrangement / benefit to compare | Use the existing ownership record. |
-| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not an example household choice. |
+| Begin with that purpose and compare it with what the existing documents, beneficiaries and custody process already provide. | Specific purpose / existing arrangement / added benefit | Use the existing ownership record; no new fictional family. |
 | Grantor and non-grantor describe income-tax treatment. | Revocable / irrevocable: control terms · grantor / non-grantor: income-tax treatment | Keep the two distinctions on separate lines. |
-| Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / actual funding / beneficiary coordination / custody | Highlight the unfinished part only. |
-| Confirm each completed step; signing a document alone doesn't finish them. | Actual status + responsible person + next action | End on the existing action list. |
+| Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / funding / beneficiaries / custody | Highlight actual unfinished work. |
+| Return to the family walkthrough with the resulting authority and actual status. | Actual arrangement / open item / next step | Continue the same family handoff. |
 
 ### Walkthrough handoff — not spoken
 
-Use [W08 chapter 1](scripts/working/W08_build-and-rehearse-the-family-handoff.md#chapter-1--connect-people-documents-and-beneficiaries) to record the resulting authority and document status, and [chapter 2](scripts/working/W08_build-and-rehearse-the-family-handoff.md#chapter-2--connect-authority-to-practical-access) for actual custody or provider requirements. Return to 8.1, then 8.4.
+Use [W08 chapter 1](scripts/working/W08_build-and-rehearse-the-family-handoff.md#chapter-1--connect-people-documents-and-beneficiaries) to record the resulting authority and document status, and [chapter 2](scripts/working/W08_build-and-rehearse-the-family-handoff.md#chapter-2--connect-authority-to-practical-access) for actual custody or provider requirements. Continue the existing family handoff at W08 chapter 3, then 8.4; do not restart 8.1 or repeat a completed rehearsal.
 
 ### Source and production notes — not spoken
 
@@ -633,4 +624,4 @@ The demonstration is a prepared instruction, not evidence that the app, device, 
 
 ### Member checkpoint
 
-Resolve the trust purpose with qualified review and identify actual funding, beneficiary, custody and successor actions or a simpler baseline.
+Identify the trust's specific purpose or choose the simpler baseline. With appropriate review of the dependent decision, record actual authority, funding, beneficiary, custody and successor status and the remaining actions.

@@ -1,10 +1,10 @@
-This lesson is for you if you're considering a Bitcoin-backed loan. There are two decisions that can get mixed together: how much debt the household can support through a severe decline, and how much Bitcoin to put with the lender at the start. I want to work through them in that order, because a low-looking starting payment or an available loan limit doesn't tell us whether the whole arrangement will hold up.
+This lesson is for you if you have or are considering a Bitcoin-backed loan. There are two decisions that can get mixed together: how much debt the household can support through a severe decline, and how much Bitcoin to put with the lender at the start. I want to work through them in that order, because a low-looking starting payment or an available loan limit doesn't tell us whether the whole arrangement will hold up.
 
 We'll use the actual agreement and the Bitcoin you can dedicate to the debt. That includes the full balance we'll need to support, the liquidation and cure requirements and where the payments come from. Then we'll decide what the initial collateral placement means.
 
 I can see a place for borrowing against Bitcoin when the household can afford the debt and accepts the lender risk. The size starts with what that household can carry through a severe decline.
 
-Only then would I decide how much collateral to post. Starting at 50% LTV can keep more Bitcoin under my control, but it also means I may need to act sooner. Those are two separate decisions: the size of the debt and where the supporting Bitcoin sits.
+Then I might start the chosen loan at 50% LTV to keep more Bitcoin under my control, accepting that I may need to act sooner. Loan-to-value compares the loan with the collateral actually pledged for it. It doesn't include other household assets or Bitcoin still in my wallet.
 
 Let's use a separate example with Bitcoin at $100,000. You have 3.5 BTC available to support one loan. That includes whatever you initially pledge and the Bitcoin you keep for top-ups. Assume liquidation happens at 80% LTV and the debt stays at $50,000 for now.
 
@@ -24,7 +24,13 @@ The cold-storage coins still have a job. I can't count them as protection for tw
 
 Next, check every contract condition that could force a sale. The headline liquidation percentage isn't the whole agreement. A margin call may require a lower LTV by a deadline. That's the cure requirement: the change needed to bring the loan back within the lender's terms. Maturity or renewal can have another limit. Size the reserve for those requirements too. Remaining below 80% doesn't help if another contract provision allows a sale sooner.
 
-Having enough Bitcoin elsewhere also doesn't mean it will arrive in time. In the earlier lesson, 50% starting LTV reached an 80% liquidation line after a 37.5% decline without a top-up. You need to respond during the decline, well before that point. You can't wait for an 80% drop and then start moving coins.
+Having enough Bitcoin elsewhere doesn't mean it will arrive in time. Let's follow the $50,000 loan with $100,000 posted, assuming the debt stays fixed. At $62,500 of collateral value, the loan reaches the assumed 80% liquidation line. That's a 37.5% price decline, even though we've set aside enough Bitcoin for a much larger decline. The extra coins don't count until they arrive and the lender credits them.
+
+For comparison, posting more collateral to start the same loan at 25% LTV gives a 68.75% price decline to that same assumed 80% line. Here, 25% shows the effect of more upfront collateral, not a recommended starting point. These are hypothetical contract terms. The percentages describe price declines, not percentage-point gaps between LTV readings or a lender's warning threshold.
+
+Putting 20% of your Bitcoin with a lender doesn't mean you have 20% LTV either. One measures the share of your total Bitcoin exposed to the arrangement; the other measures debt against the portion pledged. A strong household balance sheet doesn't override that lender calculation.
+
+You need to respond during the decline, well before the contract requires a sale. You can't wait for an 80% drop and then start moving coins.
 
 That timing is what the operating instructions need to address. We need a trigger for the top-up, an amount and enough time for access, transfer and the lender's confirmation requirements. There also needs to be a response when you're asleep, traveling or unable to act. Watching the price closely doesn't remove a transfer delay.
 

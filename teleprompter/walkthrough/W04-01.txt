@@ -1,7 +1,5 @@
-Here's the portfolio we put together earlier. I'm starting in Plan, under Portfolio and allocation, with Current. Before we decide what to change, I want to make sure this percentage describes everything we intended to include.
+Here's Current in Portfolio and allocation. I'm opening the included assets before changing the target.
 
-In the household example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
+I'm checking the Bitcoin held directly and through funds, along with the stock and cash holdings. Each holding belongs in the total once; the account balance doesn't get added again. Dedicated education and healthcare money keep their separate jobs.
 
-I'm opening the included assets so we can see where those dollars came from, along with the stock and cash holdings. If an account contains several investments, we count those holdings once. We don't add the account balance again on top.
-
-Dedicated education and healthcare money still have their own jobs. Once the included holdings agree with our records, we can compare Current with a target using that same group of assets. That gives us a useful starting point for the role we want Bitcoin to have.
+Once these holdings agree with the records, we can compare a target using the same group of assets. If a holding is missing or classified incorrectly, that's the first thing to fix.

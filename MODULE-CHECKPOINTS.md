@@ -44,15 +44,15 @@ Every debt has a chosen action or one specific missing fact. Total extra payment
 
 One funding choice has an identified cash source, affordable payments, ending balance, repayment source and fallback—or a specific contract answer still needed. A smaller or deferred purchase is a complete possible decision.
 
-## Compare unusual financing terms
+## Read the terms of the loan you are considering
 
-For your situation: You are comparing an unusual financing agreement or a structure with nonstandard terms.
+For your situation: You are comparing a financing offer; use only the contract sections relevant to that offer.
 
 The actual offer has a complete payment/settlement schedule, relevant stress cases and a feasible exit. Unsupported terms are separately analyzed or remain specific blockers to choosing it.
 
 ## Set borrowing limits and a repayment plan
 
-Your debt instructions identify ordinary payments, principal repayment, timing, fallback, monitoring owner and any additional collateral limit. Unfunded obligations or unresolved contract terms prevent adopting new borrowing.
+Each applicable debt has a payment source, principal exit, relevant dates and fallback with an owner. Collateral obligations have funded response rules before adoption. If no debt applies, continue with the cash available after other commitments.
 
 ## Manage a Bitcoin-backed loan, including repeat borrowing
 
@@ -122,7 +122,7 @@ Each significant holding has an owner, purpose and custody direction. The larges
 
 For your situation: You are considering a passphrase, multisig or professional custody support.
 
-Choose a custody architecture for a named failure and verify the complete safe recovery path and retained responsibilities.
+Choose an arrangement for a named failure, record its added responsibilities and identify the complete safe check required before meaningful funds depend on it. Evidence applies only to the setup actually checked.
 
 ## Protect access and verify recovery
 
@@ -136,7 +136,7 @@ People and backups have agreed to their roles. The family can find its safe firs
 
 For your situation: You need to decide whether a trust adds a specific legal or family benefit.
 
-Resolve the trust purpose with qualified review and identify actual funding, beneficiary, custody and successor actions or a simpler baseline.
+Identify the trust's specific purpose or choose the simpler baseline. With appropriate review of the dependent decision, record actual authority, funding, beneficiary, custody and successor status and the remaining actions.
 
 ## Cover the risks your household cannot afford to carry
 
@@ -148,4 +148,4 @@ Set the review date, update actual records, and apply relevant changes without r
 
 ## Read your completed plan and finish the next actions
 
-Read the plan’s key choices and limits, resolve the highest-priority unfinished action, and keep the current non-secret household summary available.
+Read the saved plan's retirement date, spending, important funding years and response rules. Keep its next action and any blocking question with the dated report; household sharing remains optional.

@@ -1,5 +1,7 @@
-For the insurance review, we'll take one event at a time. In the audit, we're comparing what the household would need to cover with the resources and policy benefits actually available for that event.
+Open the insurance audit beside the actual policy. Work through one material loss, the household need, accessible resources and the benefit that applies.
 
-The life-coverage illustration gives us a simple example. A ten-year shortfall of $400,000 in today's dollars, less $100,000 that's separately available and $200,000 of coverage, leaves $100,000 to investigate. That calculation assumes zero return after inflation, taxes and fees, with later needs funded separately. Those assumptions stay beside the number.
+The life-coverage illustration leaves a $100,000 gap: $400,000 of need, less $100,000 of separately available assets and $200,000 of coverage. It assumes zero return after inflation, taxes and fees, with later needs funded separately.
 
-Your own policy gives us the benefit, term, waiting period and exclusions to work from. Once we see the uncovered amount, we can record whether you intend to carry that risk or investigate a change. Related premiums belong in Cash Flow, and an expected future cost belongs in Life events where applicable. The policy change itself happens with the provider; we'll record its effective date once it's real, keeping needed protection until any replacement is approved and active.
+Use your own policy's benefit, term, waiting period and exclusions to judge the uncovered amount. Record whether you'll carry it or investigate a change, and update the related premium or future cost in Cash Flow or Life events.
+
+Keep needed protection until any replacement is approved and active. Record the provider's effective date when coverage changes.

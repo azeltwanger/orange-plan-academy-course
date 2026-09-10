@@ -1,7 +1,7 @@
-If one of your open decisions needs outside help, we can make that conversation more useful now. We're starting with the decision you're considering and the specific question that blocks it, then adding the relevant records and deadline.
+If an open decision needs outside help, prepare the specific question and the records needed to answer it. Include the deadline.
 
-For a tax question, those records might be the income, account and purchase details behind the proposed transaction. For estate access, they might be ownership, authority and the provider's requirements. Neither packet needs recovery secrets.
+For a tax question, that may mean the income, account and purchase details behind the proposed transaction. Estate access may need ownership, authority and provider requirements.
 
-Before sharing an export, let's read what it includes and remove information unrelated to the question. The status also needs to reflect where we are: prepared until it's sent, and awaiting an answer until the answer arrives. The packet helps someone review the question; preparing it doesn't complete the transaction or give us the professional answer.
+Read an export before sharing it. Remove unrelated information and keep recovery secrets out. Record whether the question is prepared, sent or awaiting an answer.
 
-If there's no decision that needs that help, there's no extra packet to create here. We can continue to saving the plan and its actual next steps.
+If you don't need that help for an open decision, continue to saving the report.

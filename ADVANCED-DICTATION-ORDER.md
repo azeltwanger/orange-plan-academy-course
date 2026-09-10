@@ -22,13 +22,13 @@ You have or are considering a Bitcoin-backed loan, including repeat borrowing. C
 
 **Return to:** your debt plan, then Allocation; revisit beside retirement funding when relevant.
 
-## [Compare unusual financing terms](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md)
+## [Read the terms of the loan you are considering](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md)
 
-You are comparing an unusual financing agreement or a structure with nonstandard terms. Complete before relying on the proposed payment or exit.
+You are comparing a financing offer; use only the contract sections relevant to that offer. Complete before relying on the proposed payment or exit.
 
 [Clean teaching teleprompter](teleprompter/advanced/A3-2.txt)
 
-**Separate walkthrough:** W03 chapters 4–5.
+**Separate walkthrough:** W03 chapter 4 for the offer; chapter 5 only with A3.1 for Bitcoin collateral.
 
 **Return to:** Set borrowing limits and a repayment plan.
 

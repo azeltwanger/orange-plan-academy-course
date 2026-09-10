@@ -13,7 +13,7 @@ Read the plan’s date, spending, horizon and calculation status. Trace one mean
 
 Now that we've brought together your starting information and the assumptions, we can look at the first answer. This is the part where it's easy to go straight to a percentage and decide whether the plan is good or bad. I want to show you how to read a little further than that, so you understand what's supporting the result and what your next useful decision actually is.
 
-We'll begin with the retirement date, spending amount and final age beside the result. Those tell us what the calculation tested. And we need the result to include the inputs we just entered before we use it to judge a change.
+We'll begin with the retirement date, spending amount and final age beside the result. Those tell us what the calculation tested.
 
 The date you choose tells the plan when you want to retire. The calculated earliest date tells you when the model meets the standard you're using. Putting 52 into the client's plan doesn't, by itself, show that they can retire at 52.
 
@@ -21,7 +21,7 @@ A projection follows one possible future using the assumptions in the plan. A si
 
 Let's say 790 out of 1,000 test futures cover the planned spending through age 95. That's 79%. The other 210 don't cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
 
-Those are example numbers. They aren't our example household's results. They aren't a prediction of exactly what will happen to your family. And the unsuccessful paths aren't necessarily small problems that a tiny spending cut would fix. We need to understand where the funding becomes difficult.
+Those are illustrative numbers, not our example household's result or a prediction for your family. The unsuccessful paths aren't necessarily small problems a tiny cut would fix. We need to understand where funding becomes difficult.
 
 Also read the result's status. An account balance can be current while the calculation still reflects earlier inputs. Don't judge an improvement until the result includes the change you're looking at.
 
@@ -33,7 +33,7 @@ Once the facts are right, the response needs to fit the problem we found. If the
 
 I like to keep those comparisons to one decision at a time because then we can explain the difference. More saving uses money today. Working longer changes the life you're planning. A lower spending figure only helps if the household is willing to live with it. A higher percentage on its own doesn't settle those trade-offs.
 
-If the first answer is strong, don't invent problems just to keep improving the number. Explain what supports it and identify the limitation that still matters. If it's weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
+If the first answer is strong, explain what supports it and the limitation that still matters. If it's weak, find the biggest fixable issue. You don't need to keep changing things just to chase a higher percentage.
 
 Before we move on, you want to be able to explain what the result tested, where the money comes from in that first retirement year, and which change is worth comparing. Keeping the current plan is a useful answer too, when you understand what supports it.
 

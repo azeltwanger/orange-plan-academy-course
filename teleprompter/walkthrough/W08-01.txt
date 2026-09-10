@@ -1,5 +1,5 @@
-We're starting with the people because the documents need to support the jobs those people may have to do. In Trusted people, we'll identify the person for financial matters, the person for healthcare and the intended estate representative, along with who has agreed and who can be the backup.
+In Trusted people, connect the financial, healthcare and estate roles to the person who has agreed and the backup.
 
-Now we can connect each role to Estate documents. A name in this record isn't a legal appointment. For a financial power of attorney, we're checking that it's durable, meaning its authority can continue if you're incapacitated. We also need to know when it takes effect and which powers it actually grants.
+Now compare Estate documents with the current signed versions. For the financial power of attorney, we're checking durability, when authority takes effect and the powers granted. Keep a proposed role or unfinished document visible until the actual arrangement supports it.
 
-Who receives what gives us another comparison to make with the institution's own beneficiary record. The primary beneficiary is the first person designated. The contingent beneficiary is the backup who receives if the primary can't under the account's rules. If that record differs from what you intend, the provider or document update remains an open action. We'll save the status the evidence supports.
+In Who receives what, compare the primary and contingent beneficiaries with the institution's current record. If it differs from your intention, put the specific provider or document update on the action list.

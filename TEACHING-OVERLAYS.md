@@ -8,7 +8,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 |---|---|---|
 | Choose an age when you'd like work to become optional | Work optional at ___ · Annual spending ___ | Reveal two blanks; leave them unfilled. |
 | I had an investment strategy | An investment needs a plan for spending, access and time. | One line beside Austin; no stock footage of luxury retirement. |
-| We'll use a fictional household throughout the course. | Fictional household · [Client]: work optional at 52 | Use [Client] and [Partner] as the household card labels; no fictional names. |
+| We'll use a fictional household when an example helps. | Example labels: [Client] · [Partner] | No fictional names; examples support a decision rather than every lesson. |
 | You'll also see some lessons marked For your situation. | Use a strategy? Complete its situation lesson first. | Show the conditional lesson marker. |
 | You can choose a reserve target today | Decision → next action → date | Reveal the three items as the sentence continues. |
 
@@ -16,20 +16,18 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| The example account is worth $145,000. | Fictional Roth IRA: $116,000 spot-fund exposure + $29,000 stocks = $145,000 | Draw one account boundary; amounts live inside it. |
-| Our example household's existing mortgage is a fact. | Existing mortgage · Expected college · Possible renovation | Reveal fact, expected event and scenario underneath. |
-| That doesn't mean the balance is cash. | Balance received ≠ holdings identified | Show a neutral missing-information line. |
-| Entering the current holding isn't a purchase today. | Current holding  /  Purchase history  /  Transfer | Use three separate labels; no invented transaction date. |
-| That's $9,300 a year, or $775 a month. | Employee $775/mo · Employer $387.50/mo | Label fictional example and keep employer money out of spendable cash. |
-| Subtract their $775 contribution, and $500 remains | $1,275 − $775 = $500 remaining | Show $4,000 hypothetical tax provision in the calculation footnote. |
-| Their partner has a separate work timeline | One timeline for each person | Show two independent work lines without inventing dates. |
+| The example account is worth $145,000. | Fictional Roth IRA: $116,000 spot-fund exposure + $29,000 stocks = $145,000 | Draw one account boundary; the investments explain its total. |
+| use what your records support | Verified fact · Estimate · Missing source | Use the distinction when data is incomplete; detailed branches belong in W01. |
+| That's $9,300 a year, or $775 a month. | Employee $775/mo · Employer $387.50/mo | Keep employer money outside spendable household cash. |
+| Subtract their $775 contribution, and $500 remains | $1,275 − $775 = $500 remaining | Footnote the $4,000 hypothetical tax provision; this is a teaching calculation. |
+| Their partner has a separate work timeline | One work timeline for each person | Show independent lines without inventing dates. |
 
 ## 03 — [Choose assumptions you understand](scripts/01-4_choose-assumptions-you-can-explain.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
 | $10,000 growing at 10% for ten years | Hypothetical: $10,000 → about $26,000 at 10%; about $62,000 at 20% | Side-by-side ten-year examples; before tax, not forecasts. |
-| look at an early year and a later year | Read the return path: early year → later year | Highlight two positions on an illustrative path without importing preset rates. |
+| Look at an early year and a later year. | Read the return path: early year → later year | Highlight two positions on an illustrative path without importing preset rates. |
 | A lifestyle costing $100,000 today | Hypothetical 3% inflation: $100,000 today → about $134,000 in 10 years | Keep purchasing power fixed in the graphic. |
 | when the spending field asks for today's dollars | Enter today’s cost once; let the model apply inflation. | Brief unit callout. |
 | Funding through 85 asks something different from funding through 95 | Horizon: include the surviving spouse’s years | Show 85 and 95 as comparison endpoints, not recommendations. |
@@ -48,13 +46,12 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an additional expense for our example household. |
-| The groceries are spending. | Count the purchase once; the card payment settles it. | Connect one purchase to its settlement. |
-| The employer money adds retirement savings | Employer money stays outside the household spending pool. | Keep it outside the cash bridge. |
-| the amount left for their other priorities is $500. | Original example: $1,275 − $775 = $500 | Footnote the $4,000 teaching tax provision. |
-| three choices: Keep, Cut or Reduce. | Keep · Cut · Reduce | One example per choice; no category wall. |
-| bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Label “proposed reduction”; no invented cancellations. |
-| A withholding change can also make a paycheck larger | Withholding changes timing; verify the tax still due. | Small callout next to the relevant action. |
+| Say your car insurance costs $1,200 a year | Generic: $1,200/year ÷ 12 = $100/month | A separate annual-premium example, not another household invoice. |
+| The card payment settles it | Count the purchase once; separate old-debt repayment. | Connect one purchase with its settlement. |
+| Where did that money actually go? | Trace the monthly remainder to the records. | Follow the existing answer; do not replay the starting cash calculation. |
+| three choices: Keep, Cut or Reduce. | Keep · Cut · Reduce | Use one short cue per choice. |
+| bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Keep the proposed spending change distinct from current records. |
+| without reducing the tax ultimately owed | Withholding changes timing; verify tax still due. | Keep beside the relevant action. |
 
 ## 06 — [Size the Reserve for the job it has to do](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md)
 
@@ -72,12 +69,10 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| The vehicle is something they intend to prepare for. | Expected vehicle → Life event · Possible renovation → Scenario | Fictional household; preserve relative timing only. |
-| paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the example household vehicle. |
-| If it's in today's dollars and Orange Plan applies inflation | Amount · Date · Frequency · Dollar basis | Reveal alongside entry explanation. |
-| there are two connected parts | Save before the event → Spend the balance when due | Show one pot of money changing over time. |
-| its market value isn't all money you can spend. | Home sale: value − debt − costs − any tax | No invented tax figure. |
-| Your current spending should reflect its absence. | When a change happens: update current facts; reconcile the old event. | Show one effect, not a duplicate reduction. |
+| Something you're only considering stays in a separate scenario | Expected change → Plan · Possible choice → Scenario | One simple distinction; no second worked household story. |
+| If the field uses today's dollars | Amount · Date · Frequency · Dollar basis | Reveal as the event is described. |
+| you spend the balance you've built | Save before the event → Spend the balance when due | The same money changes jobs over time. |
+| what happens if its price is down when you need to buy? | Funding fallback: another resource · lower cost · later date | Connect flexibility to the actual commitment. |
 
 ## 08 — [Choose which debts to pay down](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md)
 
@@ -85,7 +80,6 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 |---|---|---|
 | Their current minimum is $405 | Fictional card: $13,500 · 20.9% · $405 minimum | Keep statement approximation separate from app calculation. |
 | Only about $170 remains to reduce principal | Approximate first month: $405 − $235 interest ≈ $170 principal | Before new purchases or fees. |
-| or roughly 17%. | Required payments ÷ gross income ≈ 17% | Label teaching ratio; not underwriting approval or surplus. |
 | They're considering $500 for the Reserve and $1,200 extra for the card. | $1,700 = $500 Reserve + $1,200 extra card | Reduced-spending example only. |
 | Adding $1,200 produces a $1,605 card payment | $405 required + $1,200 extra = $1,605 total | Minimum was already deducted before available cash. |
 | Extra principal may shorten the mortgage | Mortgage payoff: principal ends; taxes, insurance and upkeep continue. | Show the continuing costs separately. |
@@ -95,25 +89,19 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Taking the full project cost from that money would leave $2,000 | Fictional project: $32,000 Reserve − $30,000 = $2,000 left | Do not treat this as a chosen example household purchase. |
-| Another loan payment needs room. | Current proposal: $500 Reserve + $1,200 extra card = $1,700 | Show no unassigned payment capacity in that example. |
-| A fully amortizing loan would require about $406 a month. | Generic: $20,000 · 8% · 5 years · no fees | Reveal amortizing column. |
-| An interest-only version at the same rate would cost about $133 | Interest only: about $133/mo; $20,000 principal remains | Keep ending balance next to payment. |
-| total interest is about $4,332 | Amortizing: about $4,332 interest · Interest only: $8,000 + principal due | Use precise calculation in production, rounded speech. |
-| It can replace the old mortgage itself. | Cash-out refinance: price the whole replacement mortgage. | Simple old/new balance graphic. |
-| Whether interest is deductible depends on the use of the money | Tax treatment follows the actual use and rules. | No tax-saving claim without sources. |
+| Taking the full project cost from that money would leave $2,000 | Proposed project: $32,000 Reserve − $30,000 = $2,000 left | The project is still a comparison. |
+| another loan payment needs room. | Proposed $500 Reserve + $1,200 extra card = $1,700 | No unassigned payment capacity in this illustration. |
+| Read the fees, changing rates, final balance and repayment source together. | Payment + final balance + repayment source | Full amortizing/interest-only example lives in A3.2. |
+| A smaller purchase, a delay or keeping the current plan | A financing comparison can end with no new loan. | Show alongside the actual alternatives. |
 
 ## 10 — [Set borrowing limits and a repayment plan](scripts/03-6_write-the-rules-before-using-leverage.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| That puts debt at about 22% | Fictional included assets $1,996,000 · Debt $444,500 · DTA 22.27% | Net worth shown separately: $1,551,500. |
-| about 37% of the assets instead of 22%. | Partial stress: assets $1,217,200; debt unchanged; DTA 36.52% | BTC exposure −70%; selected stocks −30%; home −20%; named exclusions. |
-| Each secured loan has its own collateral test. | Household DTA  /  One loan’s LTV  /  Accessible response money | Separate denominators. |
-| That's a 37.5% decline. | Fixed debt: 50% initial LTV → 80% at −37.5% price | Generic threshold, not a current lender term. |
-| a 68.75% decline reaches the same assumed 80% line | 25% initial LTV → 80% at −68.75% price | Comparison of more posted collateral; no recommended level. |
-| Putting 20% of your Bitcoin with a lender | Share of total BTC pledged ≠ loan-to-value | Two labeled denominators. |
-| Monitoring helps you notice a problem. | Response requires resources + access + time | Keep consequences in narration. |
+| Paying interest and repaying the loan are different jobs. | Payment source · Principal exit | Keep regular payment and final repayment distinct. |
+| A strong household total doesn't override the contract | Household resources ≠ one lender's collateral test | No loan arithmetic in this general lesson; A3.1 owns it. |
+| Adding collateral also needs a limit. | Maximum added collateral · Response at that limit | Do not imply an unlimited top-up commitment. |
+| Monitoring helps you notice a problem. | Response needs resources + access + time | Keep the forced-sale limitation in narration. |
 
 ## 11 — [Build the whole portfolio around your life](scripts/04-3_match-the-money-to-when-you-will-use-it.md)
 
@@ -141,10 +129,8 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | The amount comes first | 1 · Use the available cash once | example household reduced-spending state badge. |
-| Their $775 leaves $1,700. | $2,475 − $775 = $1,700; $500 + $1,200 = $1,700 | Build arithmetic rows in order. |
 | That's future money. | 2 · Set the start condition | After actual card payoff: $1,605; not available today. |
 | the target helps us choose what it buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
-| For a large one-time amount, timing is another choice. | One-time timing illustration: 0.20 / 0.30 / 0.15 BTC | Label hypothetical prices and no fees. |
 | the first deposit and purchase are worth checking. | 4 · Confirm deposit AND purchase | Two completion checks; leave unverified outside actions open. |
 
 ## 14 — [Understand a sale and choose the relevant tax action](scripts/05-1_understand-what-a-sale-would-realize.md)
@@ -155,14 +141,14 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | The amount you sell, the gain you realize and the tax you owe | Proceeds − basis = gain or loss | Tax and usable cash shown as subsequent rows. |
 | The course's three-lot example shows why that history can change a decision. | Illustrative $20,000 sale: gains $8,400 / $16,800 / $9,600 | Three-lot table; omit fees only in labeled example. |
 | we can look at whether a sale serves a tax purpose. | 2 · Gain harvest / loss harvest / keep holding | Add actual-year income and replacement checks. |
-| After an actual trade, its confirmation tells us | 3 · Reconcile the actual trade | Proceeds, fees, used lots, remaining holdings. |
+| we're taking forward a decision with a reason. | 3 · Prepare a sale / keep holding / resolve evidence | Transaction instructions and reconciliation follow in A5.2. |
 
 ## 15 — [Use tax timing to compare withdrawals and Roth conversions](scripts/05-4_compare-conversions-with-intentional-withdrawals.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | The amount matters, but the year can matter just as much. | 1 · Find the actual income window | Separate each spouse and benefit date. |
-| I want to look at what the next amount costs | 2 · Compare incremental cost | Illustrative brackets, not a current tax table. |
+| I want to look at what the next amount costs | 2 · Compare incremental cost | Show the cost added by the amount being considered. |
 | We need three amounts in view: | 3 · Conversion / spending / tax source | Three money paths. |
 | The tax money's opportunity cost is easy to miss | Include the tax money's opportunity cost | Illustrative $30,000 + $6,000 comparison. |
 | Now we have a useful set of choices: | 4 · No conversion / smaller / proposed | Same lifestyle and return assumptions. |
@@ -183,7 +169,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | The first date I'd want is when the current coverage ends. | 1 · Coverage end → replacement start | Separate dates for each person. |
-| A monthly premium is only part of the budget. | 2 · Premiums + expected costs + retained risk | Show hypothetical $15,000 versus $16,000 totals. |
+| A monthly premium is only part of the budget. | 2 · Premiums + expected costs + retained risk | Compare the complete costs from reviewed quotes. |
 | The tax lesson connects directly to this budget. | 3 · Tax change + coverage change | Illustration: $2,000 + $1,500 = $3,500. |
 | The enrollment dates are the other part | 4 · Confirm enrollment and HSA dates | COBRA / Part B; Part A effective date / HSA eligibility. |
 | The walkthrough puts the selected costs and dates | 5 · Fund each coverage period | Show annual cost and any outstanding confirmation. |
@@ -194,8 +180,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | --- | --- | --- |
 | The comparison needs the same amount for spending on the same date. | 1 · Same cash need, same date | Compare net cash after taxes and fees. |
 | Borrowing brings forward the work from Debt: | 2 · Terms / payment / collateral / repayment | Use actual contract inputs. |
-| Let's use a simple $20,000 loan | Illustration: $2,000 paid OR $22,000 owed | Label 10% simple annual rate; not an offer. |
-| Now imagine Bitcoin stays flat or falls | 3 · Fund the response before the lender's boundary | Keep household Reserve and collateral response distinct. |
+| bring the completed loan review into this comparison. | 3 · Use the verified payment, response and exit | Keep household Reserve and collateral response distinct. |
 | We also need to follow the loan through its exit. | 4 · Follow the debt through repayment | Include sale tax and resources remaining. |
 | we'll read the plan effect and added risk together. | 5 · Plan effect + risk added | No fabricated risk frequency or provider safety score. |
 
@@ -215,10 +200,10 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Let's look at the custody mix in our example household. | Fictional household: 3.4 BTC self-custody / 0.7 BTC professional custody / Bitcoin ETF in Roth IRA | Reveal each holding when named; retain fictional label. |
-| Once you have that picture, we can test it by taking away one thing. | Operator / device / location / provider | Mark one unavailable item at a time. |
-| If both use the same custodian, 60% depends on that custodian. | Hypothetical: 30% + 30% = 60% shared exposure | Connect two provider names to one custodian; label exposure, not loss. |
-| What you're taking forward is a custody direction and the first action that makes it more dependable. | Custody direction / person / next action | Hold on the completed non-secret fields. |
+| I'd start with the job each portion does and who owns it. | Holding / owner / purpose / custody method | Use the existing holdings; no additional example portfolio. |
+| Then test the arrangement by taking away one thing: the operator, a device, a location or a provider. | Operator / device / location / provider | Mark one unavailable dependency at a time. |
+| Then 60% shares that dependency. | Hypothetical: 30% + 30% = 60% shared exposure | Connect two providers to one custodian; label exposure, not loss. |
+| Choose one improvement that addresses the largest failure you found. | Custody direction / agreed person / next action | End on the non-secret custody record. |
 
 ## 21 — [Protect access and verify recovery](scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md)
 
@@ -229,51 +214,49 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | During secret generation or entry, stop recording. | Stop capture before secrets appear | Full-screen text during the recording break. |
 | A successful test applies to the wallet you tested. | Test-wallet result ≠ funded-wallet verification | Show separate status rows. |
 | Set up and test the legitimate backup sign-in method before removing the working one. | Add backup access → test it → review old access | Reveal in order. |
-| In the walkthrough, we'll connect the recovery result and any completed account-security change to the right holding. | Setup / method / date / result / still unverified | Show a non-secret status record. |
+| Anything unverified gets a specific safe next step. | Setup / method / date / result / safe next step | Show the non-secret status record. |
 
 ## 22 — [Make it possible for someone else to manage the plan](scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| A backup matters too, because the first person may also be unavailable. | Primary person / agreed role / backup | Show role fields without invented example household selections. |
-| After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document list. |
-| Check account beneficiaries next. | Provider record: primary + contingent beneficiaries | Highlight the provider record. |
-| Here's an example of the first paragraph: | Illustrative family letter | Keep the example label while the paragraph is spoken. |
-| Correct the instruction they couldn't follow, then repeat that part. | Find first contact → find backup → repair unclear step | Use the non-secret first page. |
-| Give each unfinished item a person and a date. | Item / actual status / person / date | End on the existing action record. |
+| Start with the people. | Financial / healthcare / estate role / agreed backup | Show roles without invented household appointments. |
+| After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document inventory. |
+| Check beneficiaries against the institution's current record. | Provider record: primary + contingent beneficiaries | Highlight the actual provider record. |
+| Reuse the custody map you've already built. | Existing custody map → family instructions | Connect the records; do not create a second map. |
+| Then rehearse the first steps with the intended person. | Find page → first contact → backup → repair unclear step | One rehearsal after the complete handoff is ready. |
+| Any missing authority, access or instruction stays assigned to a person and next step. | Open item / responsible person / next step | End on actual status. |
 
 ## 23 — [Cover the risks your household cannot afford to carry](scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Pull the actual policies and employer-benefit summaries so you can see what protection already exists. | Benefit / period / exclusions / premium | Show a redacted sample record, not a quote. |
+| Pull the actual policies and employer-benefit summaries, then compare the needs after a loss with the resources and benefits available. | Need / accessible resources / actual policy benefit | Show a redacted policy record, not a quote. |
 | That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees. | Hypothetical: $40,000 × 10 = $400,000 / 0% real return after taxes and fees | Keep assumptions beside the calculation. |
-| That leaves a $100,000 gap to investigate. | $400,000 − $100,000 assets − $200,000 coverage = $100,000 | Retain “other future needs funded separately.” |
+| With $100,000 available for this shortfall and $200,000 of existing life coverage that would pay during the policy's term, that leaves a $100,000 gap to investigate. | $400,000 − $100,000 assets − $200,000 coverage = $100,000 | Retain “other future needs funded separately.” |
 | I'd also test self-funding with Bitcoin down and income interrupted at the same time. | Asset decline + lost income + changed costs | Display the simultaneous test. |
 | If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. | Hypothetical covered claim: $2m − $500k − $1m = $500k | Label assumed responding coverage. |
-| Record the provider confirmation and effective date when it happens. | Planned / confirmed / effective date | End on the implementation record. |
+| Update the related costs in Orange Plan, and record the provider confirmation and effective date when coverage changes. | Plan costs / confirmed coverage / effective date | End on the existing implementation record. |
 
 ## 24 — [Keep the plan current without starting over](scripts/09-1_keep-a-quiet-month-simple.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| For the monthly check, we're looking at what actually happened since the last update. | Monthly: changed facts | Introduce return route 1. |
-| The problem may be execution, not saving too little. | Contribution received / purchase instruction completed? | Show the existing cash-held contribution example. |
-| Check the choices in six areas. | Annual: spending + Reserve / allocation / debt / tax / custody / family + insurance | Reveal one area as discussed. |
-| First confirm the debt is actually gone. | Payoff confirmed → review available cash → choose route → verify purchase | Show the payment's new job without inventing a dollar amount. |
-| It helps to separate a changed fact, a wrong record and a possibility, because they lead to different actions. | Changed fact: update owner / error: trace and correct / possibility: Scenarios | Introduce return route 3. |
-| When the facts are current and there's no decision to make, close the plan. | Review complete: no change needed | Use only with an actually quiet fixture. |
+| Each visit has a different job. | Monthly: facts / annual: choices / immediate: change or deadline | Introduce the three return routes. |
+| If nothing needs a decision, you're finished. | Quiet month: review complete | Use only with an actually quiet fixture. |
+| Work through spending and the Reserve, allocation, debt, taxes, custody, and family protection. | Six annual areas | Reveal the six areas; detailed screen review belongs to W09. |
+| Separating those tells us where to begin. | Changed fact: update / wrong record: repair / possibility: Scenarios | Keep the three classifications beside their spoken examples. |
+| After any review, keep a short record of what changed and why, including who will finish any outside action and when. | Decision / reason / open action / person / timing | End on the review record. |
 
 ## 25 — [Read your completed plan and finish the next actions](scripts/10-1_read-the-completed-plan-in-a-useful-order.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. | Date / spending / planning horizon | Use the actual saved report; no staged outcome. |
-| The chance-of-success result describes the modeled paths under the saved inputs and spending policy. | Result + saved inputs + policy + date | Keep inputs beside the result. |
-| Their spending-reduction comparison leaves $1,700. | example household comparison: $500 now / $1,700 with chosen spending reduction | Label states separately. |
-| And the future $1,605 from ending the card payments isn't available today. | $1,605: available only after card payments end | Place on the future timeline, not current surplus. |
-| Focus on the years where the funding changes. | First retirement year / benefit start / major cost / account-access change | Highlight the actual years on one plan. |
-| A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned. | Planned / completed / evidence | End on actual outside-action status. |
+| Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. | Retirement date / spending / planning horizon | Use the actual saved report; no staged outcome. |
+| The chance of success describes the modeled paths under your inputs and spending policy. | Result + inputs + policy | Keep assumptions beside the result. |
+| Now follow the first retirement year. | Income / full spending / taxes / source accounts | Follow actual year-level funding in the matching plan. |
+| From there, read your response rules. | Spending response / Reserve refill / borrowing obligations if used | Show adopted rules and their funding. |
+| Separate the next implementation step from a question that blocks a major decision. | Next action / blocking question | End on what remains to be done, without creating a course assessment. |
 
 ## 2.5 — [Choose the college support you intend to fund](scripts/02-5_decide-how-much-college-help-you-will-provide.md)
 
@@ -295,20 +278,23 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | that boundary is $56,000. | $350,000 × 20% × 80% = $56,000 boundary | Specific assumptions; not a recommended borrowing percentage. |
 | The other 2.5 BTC stays in cold storage | Post 1 BTC at 50% LTV · Reserve 2.5 BTC for this loan | Reserve counts for lender LTV only once credited. |
 | about 14.3% LTV. | Same debt: 3.5 BTC posted → 14.3%; 1 BTC posted → 50% | Compare custody exposure and response time. |
+| That's a 37.5% price decline | Fixed debt: 50% initial LTV → 80% at a 37.5% price decline | Hypothetical threshold; dedicated coins count only once credited. |
+| posting more collateral to start the same loan at 25% LTV | 25% initial LTV → 80% at a 68.75% price decline | More upfront collateral; not a recommended starting level. |
+| Putting 20% of your Bitcoin with a lender | Share of total Bitcoin pledged ≠ loan-to-value | Label both denominators. |
 | All $6,000 of room is gone. | $50,000 × 1.12 = $56,000; $56,000 ÷ $70,000 = 80% | One year capitalized at year-end; actual accrual can differ. |
 | Another 12% brings it to $59,360. | Repeat draws: $25,000 → $28,000 → $53,000 → $59,360 | Separate recurring-loan illustration; $9,360 interest total. |
 | the provider will remain solvent | Model result does not certify provider solvency or transfer timing. | One concise limitation beside the result. |
 
-## A3.2 — [Compare unusual financing terms](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md)
+## A3.2 — [Read the terms of the loan you are considering](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| having a low payment before it doesn't make the ending balance disappear. | Upfront cost → payments → final settlement | Keep final balance visible throughout. |
-| leaves the $20,000 principal outstanding. | Interest-only example: $20,000 still due after five years | Recall the separate generic example; no new offer. |
-| it's the entire replacement mortgage. | Cash-out refinance changes the existing debt too. | Show old mortgage beside full replacement. |
-| needs its actual settlement formula. | Shared appreciation: lower / unchanged / higher home values | Leave formula terms sourced to the contract. |
-| another payment isn't funded. | Same monthly cash; no second pool for financing. | Retain smaller project and delay. |
-| with the actual payment and settlement schedule beside the comparison. | Unmodeled term → separate analysis before choosing | No staged model-complete badge. |
+| A fully amortizing loan would require about $406 a month. | Generic: $20,000 · 8% · 5 years · no fees | Scheduled payments clear principal under the example terms. |
+| about $133 a month, with $20,000 still owed. | Interest only: about $133/mo; $20,000 principal remains | Keep the ending balance beside the lower payment. |
+| the amortizing version costs about $4,332 in interest. | Five-year interest: about $4,332 vs $8,000 + principal due | Separate teaching graphic; no loan offer. |
+| Compare the entire replacement mortgage | Cash-out refinance reprices existing debt too. | Compare old mortgage with full replacement. |
+| needs its actual settlement formula. | Shared appreciation: lower / unchanged / higher home values | Use the actual contract formula. |
+| keep separate analysis beside the scenario | Unsupported contract term → separate analysis before choosing | Do not stage a complete-model claim. |
 
 ## A5.1 — [Compare Roth conversions over several years](scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md)
 
@@ -317,8 +303,8 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | The starting point is still the plan you're following now. | 1 · Mark the income windows | Dates and each spouse visible. |
 | We can put three versions beside each other: | 2 · None / modest / larger early | Same spending and market assumptions. |
 | Here's why the next portion matters. | Illustration: first $20k costs 20%; next $20k costs 30% | Show marginal portions before 25% average. |
-| we're comparing total after-tax resources on the same dates. | 3 · After-tax resources + accessible cash | Include opportunity cost of tax payments. |
-| the schedule includes a yearly review before the transaction deadline. | 4 · Recheck the actual year | No automatic fixed conversion schedule. |
+| We're comparing total after-tax resources on the same dates, | 3 · After-tax resources + accessible cash | Include opportunity cost of tax payments. |
+| The schedule includes a yearly review before the transaction deadline. | 4 · Recheck the actual year | No automatic fixed conversion schedule. |
 
 ## A5.2 — [Prepare the records and instructions for a tax-sensitive sale](scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md)
 
@@ -337,25 +323,23 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | the early year we're trying to fund and the account intended to supply it. | 1 · Person / account / amount / date | Three checks: permission, ordinary tax, additional tax. |
 | A Roth IRA shows why those distinctions matter. | 2 · Verify the applicable route | Contributions / conversions / earnings. |
 | a rollover worth checking before it's submitted. | Before rollover: confirm access | Show source-plan permission and separation date. |
-| The required period generally runs until | SEPP illustration: 54 → 59½; 58 → 63 | Exact-birthday duration only; no payment calculation. |
+| The required period generally runs until | SEPP illustration: 58 → 63 | Exact-birthday duration only; no payment calculation. |
 | In the walkthrough, we'll connect the route | 3 · Keep evidence and invalidating actions | Return to actual funding years. |
 
 ## A7.1 — [Compare passphrase, multisig and professional support](scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| The useful starting point is the holding and the failure you're concerned about. | Holding / failure to address | Show a non-secret entry. |
 | A wrong passphrase can open a different valid wallet. | Exact passphrase + intended-wallet verification | No actual secret or wallet descriptor. |
-| A two-of-three policy can authorize a transaction with two of the three keys. | 2 independent keys required out of 3 | Show generic key labels A, B and C; copies do not add a key. |
+| A two-of-three policy needs two of three independent keys, plus the configuration, compatible tools and required information. | 2 independent keys of 3 + configuration + tools | Use generic key labels; copies do not add a signer. |
 | Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. | Authority / fees / requirements / provider-unavailable route | Use contract headings without invented terms. |
-| Keep the move planned until that test covers the actual intended arrangement. | Planned arrangement / required test / actual evidence | Keep status separate from the diagram. |
+| Keep the move planned until evidence covers the intended arrangement. | Proposed arrangement / safe test / actual evidence | Keep status separate from a diagram. |
 
 ## A8.1 — [Decide whether a trust has a job in the plan](scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| The purpose comes first. | Specific purpose / current arrangement / benefit to compare | Use the existing ownership record. |
-| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not an example household choice. |
+| Begin with that purpose and compare it with what the existing documents, beneficiaries and custody process already provide. | Specific purpose / existing arrangement / added benefit | Use the existing ownership record; no new fictional family. |
 | Grantor and non-grantor describe income-tax treatment. | Revocable / irrevocable: control terms · grantor / non-grantor: income-tax treatment | Keep the two distinctions on separate lines. |
-| Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / actual funding / beneficiary coordination / custody | Highlight the unfinished part only. |
-| Confirm each completed step; signing a document alone doesn't finish them. | Actual status + responsible person + next action | End on the existing action list. |
+| Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / funding / beneficiaries / custody | Highlight actual unfinished work. |
+| Return to the family walkthrough with the resulting authority and actual status. | Actual arrangement / open item / next step | Continue the same family handoff. |

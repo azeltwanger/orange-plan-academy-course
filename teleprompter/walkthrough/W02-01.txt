@@ -1,5 +1,5 @@
-We've entered a starting monthly picture. Here we're checking whether it agrees with the records before using the amount left over. I'll begin with the income source, because gross pay still has deductions to account for while a bank deposit already has them taken out. In our example, the partner's ordinary business costs are deducted, but the equipment payment remains separate.
+We've entered the monthly picture. Now let's compare the income and deductions with their source records, then follow the money the plan says is left. In the original illustration that was $500; the app's actual amount needs to agree with its actual inputs.
 
-In our original teaching calculation, $1,275 before the client's $775 contribution becomes $500 afterward. The employer adds $387.50 to retirement money. Let's follow where the remaining household cash actually went: checking, saving or a cost we haven't included.
+I'll look for that remainder in checking, savings or a cost we haven't included. If it doesn't agree, we correct the underlying record before assigning another transfer. A tax payment set aside for later still has that job even if it's sitting in savings.
 
-Any difference needs resolving at its source. A withholding change affects cash available and the amount still due; it doesn't by itself change the calculated tax obligation. Once the income side makes sense, we can look more closely at the spending period.
+Once the income and deductions reconcile, we'll check the spending period and bill timing. That's where annual costs or a short week before payday can explain why a monthly total hasn't worked in practice.

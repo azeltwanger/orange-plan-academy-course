@@ -1,67 +1,45 @@
-Here's the portfolio we put together earlier. I'm starting in Plan, under Portfolio and allocation, with Current. Before we decide what to change, I want to make sure this percentage describes everything we intended to include.
+Here's Current in Portfolio and allocation. I'm opening the included assets before changing the target.
 
-In the household example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
+I'm checking the Bitcoin held directly and through funds, along with the stock and cash holdings. Each holding belongs in the total once; the account balance doesn't get added again. Dedicated education and healthcare money keep their separate jobs.
 
-I'm opening the included assets so we can see where those dollars came from, along with the stock and cash holdings. If an account contains several investments, we count those holdings once. We don't add the account balance again on top.
+Once these holdings agree with the records, we can compare a target using the same group of assets. If a holding is missing or classified incorrectly, that's the first thing to fix.
 
-Dedicated education and healthcare money still have their own jobs. Once the included holdings agree with our records, we can compare Current with a target using that same group of assets. That gives us a useful starting point for the role we want Bitcoin to have.
+Let's bring forward the role you chose for Bitcoin. We're using that intention to set a starting amount to test.
 
-Now that we know the current mix, let's talk about what we want it to become. Before entering a percentage, I'd come back to the role you chose for Bitcoin in the teaching lesson.
+I'm looking at the target choice here, with the household's spending dates beside it. The question now is whether the rest of the portfolio can cover those commitments through a decline. We'll check that before saving the target.
 
-These four descriptions can help with that conversation: Foundation, Integration, Optimization and Sovereign. They describe different intentions. Someone with a smaller position isn't behind someone with a larger one.
+Here's the Reserve amount we already chose, followed by the approaching expenses that need separate funding. I'm using those amounts to check the cash in the proposed mix.
 
-The amount we test needs to fit the people who share this money and the dates when they'll need it. A position can feel comfortable while markets are rising and very different when a bill arrives during a decline.
+Now let's look at the first important payment during a difficult market. I want to see the asset that supplies it and what remains afterward. If that payment is unfunded, we can adjust the mix or its funding source and compare again.
 
-For now, we're choosing a starting amount to test. The next step is to put the Reserve and approaching expenses beside it. If those jobs don't have enough funding, we can adjust the proposal before saving a target.
+Once the proposed mix fits those jobs and we're willing to follow it, we can save the target and read it beside Current. That saves our intention; it doesn't trade the holdings.
 
-Let's put some dollars behind that proposed mix. We've already chosen the Reserve, so we're bringing that amount forward and adding any committed expenses that need separate funding.
+We're in Saving and investing, using the reduced-spending version from earlier. I'm checking the employee contribution, Reserve contribution and extra card payment against the same available money.
 
-This is a separate $1 million illustration. The household wants to test $500,000 in Bitcoin. Its $60,000 Reserve and $40,000 purchase use $100,000. That leaves $400,000 for long-term stock exposure: 50% Bitcoin, 40% stocks and 10% cash.
+In this version, those choices use the remaining household cash. The employer contribution adds retirement saving separately; it doesn't increase the money we can transfer from checking.
 
-Now suppose two $50,000 retirement payments still need funding, and the household wants that money in cash too. Cash becomes $200,000 and stocks become $300,000. They've given themselves more cash for those first payments, with less remaining in long-term growth investments.
+The card payoff is a future start condition. I'll keep the proposed new investment transfer inactive until the payments actually stop, then check the amount released and any changed bills. Today's instructions now fit today's cash.
 
-Back in the target comparison, I'm looking at the first important payment and the money that can supply it through a difficult market. If that source is missing, the target still needs work. Once we choose a mix we intend to follow, we can save it and read it beside Current. That saves the target; it doesn't trade the holdings.
+Let's open the account intended to receive this contribution. I'm checking its owner and access date first, then the provider's investment menu, fees, eligibility and remaining contribution room.
 
-We're back in Cash Flow, under Saving and investing, to connect the plan to this month's money. I'm using the reduced-spending version from our earlier comparison, so we need to keep that version consistent here.
+If this money funds early retirement, the account needs a supported way to supply those years. Any unresolved access question goes through the early-access lesson before we rely on it.
 
-The $2,475 before the client's contribution becomes $1,700 after their $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. The client is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
+An existing account that meets those needs can do the job. If another one needs opening, we'll keep that as an outside action. Now we can compare the tax election where that choice applies.
 
-Their employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
+Here's the contribution election we're comparing. First, I'm checking whether the comparison holds the household cost equal or keeps the deposits equal. That changes what the numbers mean.
 
-The card payoff gives us a future decision to prepare for. The illustrated $1,605 becomes available only after those payments stop. When that happens, we'll check what was actually released and whether the other bills have changed before starting a new transfer. Reserve completion has its own condition as well. We can prepare those later choices now while keeping today's contribution instructions affordable.
+Now let's read the take-home effect beside the Reserve and debt payments. If switching to Roth reduces the paycheck, that cost needs to fit here before we save it.
 
-We know what this money needs to do. Now let's find the account that can hold it. I'm starting with the date we'll need to use it, because that can change which account makes sense.
+Once the cost and access needs fit, we can save Traditional, Roth or the intended mix. This changes new contributions. An existing Traditional balance requires the separate conversion decision from Tax.
 
-For an early-retirement gap, we need a supported way to get the money out at that time. A tax benefit doesn't help fund the gap if the money is unavailable when the bills arrive.
+Here's the target beside what we currently own. The shortfall helps us choose where affordable purchases go; it doesn't create cash to invest.
 
-Here's the provider's investment menu. We're checking that it permits the investment we intend to buy, along with the account's fees, contribution eligibility and remaining room. An HSA, education account or self-employed plan belongs in the comparison when it fits the actual commitment and we're eligible to use it.
+I'm opening each contribution and connecting its amount to the receiving account and the actual investment. For the future card-payoff route, the proposed split remains conditional until payoff. The Reserve contribution continues separately.
 
-If an existing account meets those needs, we can use it. If we need to open another one, that becomes an outside action with a person and a date attached. Once the account and investment are supported, we can compare the tax election where that choice applies.
+Let's check the start condition and investment together before saving. Changing future purchases leaves the existing holdings unchanged. Next, we'll take these instructions to the provider so the money arrives and buys what we intended.
 
-Let's work through Traditional and Roth at the same household cost. This separate example starts with $1,000 of pretax earnings. At a hypothetical 20% tax rate, that puts $1,000 into deductible Traditional or $800 into Roth.
+The plan tells us where the contributions are supposed to go. Here are the employer, bank or investment-provider actions still needed.
 
-If both investments double and the Traditional withdrawal is also taxed at 20%, both leave $1,600 available under the stated rules. The Roth withdrawal has to qualify for tax-free treatment. The example helps us compare tax timing without quietly giving one choice a larger starting contribution.
+I'm putting a person and date beside each one. After the first contribution, we'll compare the confirmation with the amount, receiving account and investment in this plan. A transfer can succeed while the cash is still waiting to be invested, so we're checking both the deposit and the purchase.
 
-Now I'm looking at the payroll effect of the actual election being considered. If we keep the contribution amount the same while switching to Roth, take-home pay can fall. That extra cost needs to fit beside the Reserve and debt payments we already chose.
-
-Once we've compared that cost, we can select Traditional, Roth or a mix and save the intended contribution choice. This applies to new money. An existing Traditional balance stays where it is unless we arrange a separate conversion, which we'll cover in Tax.
-
-We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
-
-First, here's the target gap. In our example household's 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
-
-For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
-
-For each contribution, I'm connecting the amount to the receiving account and the investment it will buy. We still need to know the product's holdings, fees and strategy. A name that sounds like the investment we want isn't enough to establish what it owns.
-
-Changing future purchases doesn't rebalance the investments already held. A taxable sale would need its own review. Next, we'll take these planned instructions to the provider so the money actually arrives and buys what we intended.
-
-The plan now tells us where each contribution is supposed to go. The remaining work happens with the employer, bank or investment provider.
-
-For payroll, that means the amount, tax election and investment instructions for new contributions. A bank transfer also needs a date that fits the bills. Some brokerages receive the cash first and require another instruction to buy the investment, so a successful transfer alone may leave the money sitting in cash.
-
-I'm putting those actions beside the person who will do them and the date. After the first contribution, the provider confirmation lets us check the amount, receiving account and holding purchased against this plan.
-
-If the money arrived but stayed in cash, we still have a purchase instruction to finish unless cash was the intended holding. Until we have that evidence, the action stays pending. Future changes stay tied to the condition that funds them.
-
-That finishes the contribution setup for this stage. Next, we'll work on the purchase records we need when money eventually comes out, so we can understand what a sale would realize for tax.
+Until that evidence exists, the action stays pending. That finishes contribution setup. Next, we'll work on the purchase records needed when an investment is eventually sold.

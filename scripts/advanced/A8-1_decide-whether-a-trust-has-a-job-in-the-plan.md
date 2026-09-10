@@ -15,45 +15,40 @@ Identify the specific family or legal job a trust would perform. Compare it with
 
 ### Read aloud
 
-As you work through the family handoff, you may find a job the basic arrangements don't fully cover. That's when a trust becomes worth looking at. In this lesson, we're going to identify what you want it to do and what would need to happen for it to work with the rest of your plan.
+A trust becomes worth considering when there's a specific job your current arrangements don't cover. Let's identify that job and what the trust would need to do in the rest of your plan.
 
-The purpose comes first. It could be managing money for a child over time, supporting a vulnerable beneficiary, providing continuity during incapacity or coordinating several assets. Those are different outcomes, so we need more than a general idea that a trust sounds protective.
+It might manage money for a child over time, support a vulnerable beneficiary or provide continuity during incapacity. Begin with that purpose and compare it with what the existing documents, beneficiaries and custody process already provide.
 
-Let's say a family mainly needs current beneficiaries, signed baseline documents and a custody process somebody can find. A trust doesn't substitute for those unfinished steps. We would want to understand what it adds.
+The structure affects how much control and access you retain. A properly created and funded revocable living trust can support administration and continuity. Retaining control generally keeps the assets within the owner's relevant tax and creditor picture. It isn't automatically an estate-tax reduction or creditor shield.
 
-Now consider a family that wants money managed for a child over many years rather than distributed outright. That continuing management is a specific objective to discuss with the attorney. The distribution terms, trustee and backup process can then be designed around it.
+An irrevocable arrangement can change control, access, tax and beneficiary rights in ways that are difficult to undo. Those consequences belong in the decision alongside any potential benefit.
 
-The structure affects how much control and access you retain. A revocable living trust can support administration and continuity when it's properly created and funded. Retaining control generally keeps the assets within the owner's relevant tax and creditor picture. It isn't automatically an estate-tax reduction or a creditor shield.
+Grantor and non-grantor describe income-tax treatment. That's separate from whether the trust is revocable or irrevocable. The actual powers, terms, funding and applicable law determine how it works.
 
-An irrevocable arrangement can change control, access, tax and beneficiary rights in ways that are difficult to undo. Those consequences are part of the decision, even when a tax illustration looks attractive.
+Specialized charitable structures, including a charitable lead trust, need a real charitable and beneficiary purpose. Expected Bitcoin growth doesn't establish that purpose, and the obligations must work under less favorable returns too. They need the appropriate legal and tax design.
 
-Grantor and non-grantor describe income-tax treatment. They're separate from whether the trust is revocable or irrevocable. The actual powers, terms, funding and applicable law determine how the arrangement works.
+For Bitcoin, connect legal authority to the ability to sign. The custody arrangement, recovery, provider dependence and successor trustee all have to fit. A clause expressing enthusiasm for Bitcoin doesn't remove fiduciary duties or recreate missing keys.
 
-Specialized charitable structures, including a charitable lead trust, need a real charitable and beneficiary purpose. A high expected Bitcoin return doesn't establish that purpose. Their obligations need to work under less favorable returns too, with the appropriate legal and tax design.
+Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. Retirement accounts need particular care because trust beneficiaries or asset movements can affect distributions and taxes.
 
-Bitcoin then adds the operating questions to the legal ones. Someone needs authority to make decisions and a usable way to sign. Recovery, provider dependence and a successor trustee all need to fit. A clause expressing enthusiasm for Bitcoin doesn't remove fiduciary duties or recreate missing keys.
+Bring the ownership inventory and custody map to the attorney. Identify which assets would be held by the trust, which use a beneficiary process and which stay outside, then confirm the provider can implement that arrangement.
 
-That's also why funding matters. Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. Retirement accounts need particular care because trust beneficiaries or asset movements can change distributions and tax treatment.
+If the current arrangements already meet the need, that can settle the question. If a trust adds the benefit you're looking for, identify the legal work, actual funding and beneficiary or custody coordination needed.
 
-The ownership inventory and custody map give you something concrete to use with the attorney. Identify the accounts intended for the trust, those using a beneficiary process and those staying outside. The relevant provider also needs to be able to implement the arrangement.
-
-The result of this comparison might be that the current arrangements meet the need. If a trust adds the benefit you're looking for, the next actions are the legal work, actual funding and any beneficiary or custody coordination. Confirm each completed step; signing a document alone doesn't finish them.
-
-We'll bring the resulting authority and status back into the family walkthrough. Then you can continue with the handoff and insurance decisions, carrying the actual arrangement forward rather than just a document you've signed.
+Return to the family walkthrough with the resulting authority and actual status. That lets you finish the handoff using the arrangement that exists, with any unfinished step still assigned.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| The purpose comes first. | Specific purpose / current arrangement / benefit to compare | Use the existing ownership record. |
-| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not an example household choice. |
+| Begin with that purpose and compare it with what the existing documents, beneficiaries and custody process already provide. | Specific purpose / existing arrangement / added benefit | Use the existing ownership record; no new fictional family. |
 | Grantor and non-grantor describe income-tax treatment. | Revocable / irrevocable: control terms · grantor / non-grantor: income-tax treatment | Keep the two distinctions on separate lines. |
-| Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / actual funding / beneficiary coordination / custody | Highlight the unfinished part only. |
-| Confirm each completed step; signing a document alone doesn't finish them. | Actual status + responsible person + next action | End on the existing action list. |
+| Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / funding / beneficiaries / custody | Highlight actual unfinished work. |
+| Return to the family walkthrough with the resulting authority and actual status. | Actual arrangement / open item / next step | Continue the same family handoff. |
 
 ### Walkthrough handoff — not spoken
 
-Use [W08 chapter 1](../working/W08_build-and-rehearse-the-family-handoff.md#chapter-1--connect-people-documents-and-beneficiaries) to record the resulting authority and document status, and [chapter 2](../working/W08_build-and-rehearse-the-family-handoff.md#chapter-2--connect-authority-to-practical-access) for actual custody or provider requirements. Return to 8.1, then 8.4.
+Use [W08 chapter 1](../working/W08_build-and-rehearse-the-family-handoff.md#chapter-1--connect-people-documents-and-beneficiaries) to record the resulting authority and document status, and [chapter 2](../working/W08_build-and-rehearse-the-family-handoff.md#chapter-2--connect-authority-to-practical-access) for actual custody or provider requirements. Continue the existing family handoff at W08 chapter 3, then 8.4; do not restart 8.1 or repeat a completed rehearsal.
 
 ### Source and production notes — not spoken
 
@@ -73,4 +68,4 @@ The demonstration is a prepared instruction, not evidence that the app, device, 
 
 ### Member checkpoint
 
-Resolve the trust purpose with qualified review and identify actual funding, beneficiary, custody and successor actions or a simpler baseline.
+Identify the trust's specific purpose or choose the simpler baseline. With appropriate review of the dependent decision, record actual authority, funding, beneficiary, custody and successor status and the remaining actions.

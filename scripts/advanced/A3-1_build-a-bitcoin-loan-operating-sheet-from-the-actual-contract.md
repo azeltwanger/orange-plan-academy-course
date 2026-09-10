@@ -15,13 +15,13 @@ Size a possible Bitcoin-backed loan against a severe decline and full debt growt
 
 ### Read aloud
 
-This lesson is for you if you're considering a Bitcoin-backed loan. There are two decisions that can get mixed together: how much debt the household can support through a severe decline, and how much Bitcoin to put with the lender at the start. I want to work through them in that order, because a low-looking starting payment or an available loan limit doesn't tell us whether the whole arrangement will hold up.
+This lesson is for you if you have or are considering a Bitcoin-backed loan. There are two decisions that can get mixed together: how much debt the household can support through a severe decline, and how much Bitcoin to put with the lender at the start. I want to work through them in that order, because a low-looking starting payment or an available loan limit doesn't tell us whether the whole arrangement will hold up.
 
 We'll use the actual agreement and the Bitcoin you can dedicate to the debt. That includes the full balance we'll need to support, the liquidation and cure requirements and where the payments come from. Then we'll decide what the initial collateral placement means.
 
 I can see a place for borrowing against Bitcoin when the household can afford the debt and accepts the lender risk. The size starts with what that household can carry through a severe decline.
 
-Only then would I decide how much collateral to post. Starting at 50% LTV can keep more Bitcoin under my control, but it also means I may need to act sooner. Those are two separate decisions: the size of the debt and where the supporting Bitcoin sits.
+Then I might start the chosen loan at 50% LTV to keep more Bitcoin under my control, accepting that I may need to act sooner. Loan-to-value compares the loan with the collateral actually pledged for it. It doesn't include other household assets or Bitcoin still in my wallet.
 
 Let's use a separate example with Bitcoin at $100,000. You have 3.5 BTC available to support one loan. That includes whatever you initially pledge and the Bitcoin you keep for top-ups. Assume liquidation happens at 80% LTV and the debt stays at $50,000 for now.
 
@@ -41,7 +41,13 @@ The cold-storage coins still have a job. I can't count them as protection for tw
 
 Next, check every contract condition that could force a sale. The headline liquidation percentage isn't the whole agreement. A margin call may require a lower LTV by a deadline. That's the cure requirement: the change needed to bring the loan back within the lender's terms. Maturity or renewal can have another limit. Size the reserve for those requirements too. Remaining below 80% doesn't help if another contract provision allows a sale sooner.
 
-Having enough Bitcoin elsewhere also doesn't mean it will arrive in time. In the earlier lesson, 50% starting LTV reached an 80% liquidation line after a 37.5% decline without a top-up. You need to respond during the decline, well before that point. You can't wait for an 80% drop and then start moving coins.
+Having enough Bitcoin elsewhere doesn't mean it will arrive in time. Let's follow the $50,000 loan with $100,000 posted, assuming the debt stays fixed. At $62,500 of collateral value, the loan reaches the assumed 80% liquidation line. That's a 37.5% price decline, even though we've set aside enough Bitcoin for a much larger decline. The extra coins don't count until they arrive and the lender credits them.
+
+For comparison, posting more collateral to start the same loan at 25% LTV gives a 68.75% price decline to that same assumed 80% line. Here, 25% shows the effect of more upfront collateral, not a recommended starting point. These are hypothetical contract terms. The percentages describe price declines, not percentage-point gaps between LTV readings or a lender's warning threshold.
+
+Putting 20% of your Bitcoin with a lender doesn't mean you have 20% LTV either. One measures the share of your total Bitcoin exposed to the arrangement; the other measures debt against the portion pledged. A strong household balance sheet doesn't override that lender calculation.
+
+You need to respond during the decline, well before the contract requires a sale. You can't wait for an 80% drop and then start moving coins.
 
 That timing is what the operating instructions need to address. We need a trigger for the top-up, an amount and enough time for access, transfer and the lender's confirmation requirements. There also needs to be a response when you're asleep, traveling or unable to act. Watching the price closely doesn't remove a transfer delay.
 
@@ -76,13 +82,16 @@ Our example household hasn't taken out a Bitcoin-backed loan; these separate ill
 | that boundary is $56,000. | $350,000 × 20% × 80% = $56,000 boundary | Specific assumptions; not a recommended borrowing percentage. |
 | The other 2.5 BTC stays in cold storage | Post 1 BTC at 50% LTV · Reserve 2.5 BTC for this loan | Reserve counts for lender LTV only once credited. |
 | about 14.3% LTV. | Same debt: 3.5 BTC posted → 14.3%; 1 BTC posted → 50% | Compare custody exposure and response time. |
+| That's a 37.5% price decline | Fixed debt: 50% initial LTV → 80% at a 37.5% price decline | Hypothetical threshold; dedicated coins count only once credited. |
+| posting more collateral to start the same loan at 25% LTV | 25% initial LTV → 80% at a 68.75% price decline | More upfront collateral; not a recommended starting level. |
+| Putting 20% of your Bitcoin with a lender | Share of total Bitcoin pledged ≠ loan-to-value | Label both denominators. |
 | All $6,000 of room is gone. | $50,000 × 1.12 = $56,000; $56,000 ÷ $70,000 = 80% | One year capitalized at year-end; actual accrual can differ. |
 | Another 12% brings it to $59,360. | Repeat draws: $25,000 → $28,000 → $53,000 → $59,360 | Separate recurring-loan illustration; $9,360 interest total. |
 | the provider will remain solvent | Model result does not certify provider solvency or transfer timing. | One concise limitation beside the result. |
 
 ### Walkthrough handoff — not spoken
 
-[W03, chapter 5](../working/W03_set-debt-jobs-and-test-one-financing-decision.md): size the conditional loan, distinguish posted and dedicated Bitcoin, and record the timed top-up/repayment response. Chapter 4 supplies the financing comparison; chapter 6 reconciles ordinary cash commitments.
+[W03, chapter 5](../working/W03_set-debt-jobs-and-test-one-financing-decision.md): size the conditional loan, distinguish posted and dedicated Bitcoin, and record the timed top-up/repayment response. Chapter 2 supplies the household balance-sheet comparison; chapter 4 covers the financing choice; chapter 6 records ordinary repayment rules and reconciles cash commitments.
 
 ### Member checkpoint
 
@@ -90,6 +99,6 @@ Record actual thresholds and deadlines, projected full debt, dedicated BTC witho
 
 ### Source and production notes — not spoken
 
-September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no example household Bitcoin loan is created.
+September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no example household Bitcoin loan is created. Fixed-debt 50%/25% initial-LTV comparisons and pledged-share distinction moved here from main 3.6 so nonborrowers can continue without specialist mechanics. Assumed 80% liquidation gives 37.5%/68.75% price declines; actual call/cure/liquidation terms can differ.
 
 Source provenance remains in [../../production/consolidation.json](../../production/consolidation.json), the original source-material and the dated [../../reference/script-finishing-sources.md](../../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).

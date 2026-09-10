@@ -27,14 +27,17 @@ CONSOLIDATION_PIN = 'c4c55601dfdaa893343623a75f478cbbfef120ad'
 CHAPTERS.update({
     '0.1': 'Choose age and spending now; enter them in W01 chapter 7 after the starting facts',
     '1.2': 'W01 chapters 1–7; chapter 5 is conditional history/transfer work',
+    '3.4': 'W03 chapter 4 only when comparing new financing; A3.2 for relevant offer terms',
+    '3.6': 'W03 chapters 2 and 6; chapter 5 with A3.1 only for Bitcoin-backed borrowing',
     '2.5': 'W02 chapter 7',
     'A3.1': 'W03 chapter 5; chapters 4 and 6 supply financing and cash-flow context',
-    'A3.2': 'W03 chapters 4–5',
+    'A3.2': 'W03 chapter 4 for the offer; chapter 5 only with A3.1 for Bitcoin collateral',
     'A5.1': 'W05 chapter 4; chapter 6 for the professional handoff',
     'A5.2': 'W05 chapters 2 and 5–6; chapter 1 for the gain comparison',
     'A6.3': 'W06 chapter 2',
     'A7.1': 'W07 chapter 1; D07 only for its separately reviewed isolated setup',
     'A8.1': 'W08 chapters 1–2',
+    '8.1': 'W07 chapter 4 prepares the map; W08 chapters 1–4 complete authority, one rehearsal and communication',
 })
 CONSOLIDATION_MAPPING_DIGEST = '1a61726e67a15447c50eebe218b10177c23136a66efdb03c8dd7b0693ea2240d'
 

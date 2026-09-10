@@ -11,17 +11,17 @@ Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e
 
 #### Chapter 1 — Follow the monthly money · after 2.1
 
-**Show:** Open Cash Flow → Income and Taxes and withholding, then the summary’s debt and saving routes. Reconcile original income with a synthetic pay-stub/statement source. Show the precise example household bridge as its own graphic.
+**Show:** Open Cash Flow → Income and Taxes and withholding, then the summary’s debt and saving routes. Reconcile original income and deductions with synthetic pay-stub/statement sources, then trace the remainder. Recall the original $500 illustration only to identify the state; do not replay the W01 arithmetic.
 
 **Narration:**
 
-We've entered a starting monthly picture. Here we're checking whether it agrees with the records before using the amount left over. I'll begin with the income source, because gross pay still has deductions to account for while a bank deposit already has them taken out. In our example, the partner's ordinary business costs are deducted, but the equipment payment remains separate.
+We've entered the monthly picture. Now let's compare the income and deductions with their source records, then follow the money the plan says is left. In the original illustration that was $500; the app's actual amount needs to agree with its actual inputs.
 
-In our original teaching calculation, $1,275 before the client's $775 contribution becomes $500 afterward. The employer adds $387.50 to retirement money. Let's follow where the remaining household cash actually went: checking, saving or a cost we haven't included.
+I'll look for that remainder in checking, savings or a cost we haven't included. If it doesn't agree, we correct the underlying record before assigning another transfer. A tax payment set aside for later still has that job even if it's sitting in savings.
 
-Any difference needs resolving at its source. A withholding change affects cash available and the amount still due; it doesn't by itself change the calculated tax obligation. Once the income side makes sense, we can look more closely at the spending period.
+Once the income and deductions reconcile, we'll check the spending period and bill timing. That's where annual costs or a short week before payday can explain why a monthly total hasn't worked in practice.
 
-**Overlay:** Original example: $1,275 − $775 employee = $500; employer $387.50 separate
+**Overlay:** Trace the remainder → resolve its source → use the verified amount
 
 **Verify:** Income and deductions reconcile without double subtraction; original $10,800 living remains active. Actual tax output is not forced to the $4,000 teaching provision.
 
@@ -101,15 +101,21 @@ Their proposed $500 Reserve pace leaves $1,200 of the same $1,700 for the card. 
 
 #### Chapter 6 — Add an expected event and trace its funding · after 2.4
 
-**Show:** Open Plan → Overview → Life events. Add the reviewed expected vehicle need and one person’s income change, with explicit recurrence and units. Inspect the affected year’s income/costs/funding. Put the possible renovation in Plan → Scenarios and return to Current. Rehearse a planned change becoming current.
+**Show:** Open Plan → Overview → Life events. Add the reviewed expected vehicle need and one person’s income change, with explicit recurrence and units. Inspect the affected year’s income/costs/funding. Put the possible renovation in Plan → Scenarios and return to Current. Rehearse a planned change becoming current. Capture only the event branch relevant to the learner; the optional housing explanation requires its own reviewed synthetic proceeds/cost record before showing calculated results.
 
 **Narration:**
 
-Here we're adding an expected change to the plan. The amount, date and frequency describe what happens: a vehicle purchase happens once, while an income change belongs to the person and period it affects. The dollar basis tells us whether we're using today's estimate or a future quote before applying inflation.
+Here we're adding the expected vehicle change. I'll check the amount, date and frequency, then the dollar basis so we don't apply inflation twice. A one-time purchase needs to happen once.
 
-Let's follow it into the affected year and see how it's funded. Income, existing savings and an investment withdrawal leave different resources afterward. Adding the event tells the plan an expense is coming; it doesn't start a separate saving transfer.
+Let's follow it into the affected year. Which account or income pays for it, and what remains afterward? If we're saving ahead, that uses cash flow before the purchase and builds the balance we'll spend. Adding the event doesn't start that separate transfer.
 
-We'll keep the possible renovation in its own comparison until it's chosen. And when a planned change becomes today's fact, the old event needs reconciling so it doesn't happen twice. If college is part of your plan, the next take applies this to its several years of payments. Otherwise, you're ready to carry the expected costs into Debt.
+If your event changes income instead, use the right person and start date, and an end date when the change is temporary. We'll keep the possible renovation in a separate scenario until it's chosen.
+
+For a home move, there's an additional funding check here. Sale value has to cover the old mortgage, selling costs and any tax before we count what's left. The next home can need cash upfront as well as a new mortgage, and property tax, insurance, utilities and upkeep may change. Follow those together rather than treating the old home's full value as available cash.
+
+Finally, when an expected change happens, reconcile the old event with today's facts. If a recurring bill ended, current spending now excludes it; keeping a second future reduction would lower spending twice. A completed purchase or new loan needs the same check against its new asset or debt record.
+
+After saving, we'll reopen the affected year to verify the effect once. If college applies, continue to its take. Otherwise, carry the expected costs into Debt.
 
 **Overlay:** Event: amount · timing · recurrence · units · funding
 

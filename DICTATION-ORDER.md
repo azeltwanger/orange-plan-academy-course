@@ -58,7 +58,7 @@ Choose a Reserve target, identify eligible existing money and compare a funding 
 
 ### 07 — [Plan for the changes coming in your life](scripts/02-4_put-future-changes-on-the-timeline.md)
 
-Add one expected change with its amount, timing and funding. Keep an unchosen possibility in a separate scenario.
+Choose the next expected change, record its timing and cost, and explain its funding and fallback.
 
 [Clean teaching teleprompter](teleprompter/core/2-4.txt)
 
@@ -86,29 +86,29 @@ Give each existing debt an affordable next action. Separate required payments fr
 
 ### 09 — [Decide whether financing is worth it](scripts/03-4_decide-whether-new-financing-improves-the-plan.md)
 
-Compare one real financing proposal with cash, a sale and a smaller or delayed purchase. Follow payments through final repayment before choosing.
+When financing is a real option, compare its obligation with cash, a sale and a smaller or delayed purchase. Continue without a proposal if you are not considering borrowing.
 
 [Clean teaching teleprompter](teleprompter/core/3-4.txt)
 
-**Separate walkthrough:** W03 chapter 4.
+**Separate walkthrough:** W03 chapter 4 only when comparing new financing; A3.2 for relevant offer terms.
 
-> **For your situation — [Compare unusual financing terms](teleprompter/advanced/A3-2.txt)**
+> **For your situation — [Read the terms of the loan you are considering](teleprompter/advanced/A3-2.txt)**
 >
-> You are comparing an unusual financing agreement or a structure with nonstandard terms.
+> You are comparing a financing offer; use only the contract sections relevant to that offer.
 >
 > Complete before relying on the proposed payment or exit.
 >
 > **Return to:** Set borrowing limits and a repayment plan.
 
-**Separate walkthrough:** W03 chapters 4–5. [Script and overlay cues](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md).
+**Separate walkthrough:** W03 chapter 4 for the offer; chapter 5 only with A3.1 for Bitcoin collateral. [Script and overlay cues](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md).
 
 ### 10 — [Set borrowing limits and a repayment plan](scripts/03-6_write-the-rules-before-using-leverage.md)
 
-Write the borrowing limit, payment source, principal exit and response rules before taking new debt. Test household resources and each loan’s actual collateral terms separately.
+Record payment, principal exit and fallback for the debts you carry or propose. Complete A3.1 before relying on Bitcoin collateral; skip the debt work if no debt applies.
 
 [Clean teaching teleprompter](teleprompter/core/3-6.txt)
 
-**Separate walkthrough:** W03 chapters 2 and 5–6.
+**Separate walkthrough:** W03 chapters 2 and 6; chapter 5 with A3.1 only for Bitcoin-backed borrowing.
 
 > **For your situation — [Manage a Bitcoin-backed loan, including repeat borrowing](teleprompter/advanced/A3-1.txt)**
 >
@@ -264,7 +264,7 @@ Connect the people, documents and account processes your family would use if you
 
 [Clean teaching teleprompter](teleprompter/core/8-1.txt)
 
-**Separate walkthrough:** W07 chapter 4 and W08 chapters 1–4.
+**Separate walkthrough:** W07 chapter 4 prepares the map; W08 chapters 1–4 complete authority, one rehearsal and communication.
 
 > **For your situation — [Decide whether a trust has a job in the plan](teleprompter/advanced/A8-1.txt)**
 >
@@ -298,7 +298,7 @@ Use the monthly check for changed facts, the annual review for standing choices,
 
 ### 25 — [Read your completed plan and finish the next actions](scripts/10-1_read-the-completed-plan-in-a-useful-order.md)
 
-Read one saved plan from household goal through the years that need funding. Confirm the assumptions and response rules, then finish or assign the actions that make those choices real.
+Read one saved plan from retirement date and spending through the important funding years and response rules. Identify the next real action and any question blocking a major decision.
 
 [Clean teaching teleprompter](teleprompter/core/10-1.txt)
 

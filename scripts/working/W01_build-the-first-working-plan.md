@@ -7,7 +7,7 @@ Sources: FOUNDATION, DICTATION, APP
 
 ### Production basis — not spoken
 
-Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged example household data and a separately reviewed synthetic extension supply all household facts. Use [Client] and [Partner] as display labels throughout capture. [Client] owns the workplace plan and Roth IRA and has the age-52 work goal; [Partner] has the business income and a separate work timeline. Use these roles in account labels too. The original source identifiers are internal references, not filming labels. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
+Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged example household data and a separately reviewed synthetic extension supply all household facts. Use [Client] and [Partner] as display labels throughout capture. [Client] owns the workplace plan and Roth IRA and has the age-52 work goal; [Partner] has the business income and a separate work timeline. Use these roles in account labels too. The original source identifiers are internal references, not filming labels. Use separate takes after the paired lessons. Chapters 3–5 are optional record-specific branches, not a mandatory cleanup project for every learner. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
 
 #### Chapter 1 — Find the first task · after 0.1
 
@@ -37,7 +37,7 @@ Here we're looking at one account from the money category on Home. Before gettin
 
 The client's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
 
-After a correction is saved, I'll reopen the account beside the same statement. That lets us see whether the record now describes what the household actually owns.
+After saving, I'll reopen the account beside the statement to check the result. The next three takes handle specific record questions: what a connection supplies, a balance without holdings, and purchase history. Use the ones that apply. If your accounts are already explained, continue to chapter six for the monthly picture.
 
 **Overlay:** One account · Correct owner/type · Holdings explain the balance
 
@@ -45,7 +45,7 @@ After a correction is saved, I'll reopen the account beside the same statement. 
 
 **Capture dependency:** Foundation account-detail and maintenance writer paths, scoped ownership and truthful update dates. Fixture amounts require frozen-price treatment; actual holdings, HSA/education composition and any missing owners require a separately reviewed capture extension. Do not choose example tickers to fill gaps.
 
-#### Chapter 3 — Read what the connection supplies · after 1.2
+#### Chapter 3 — Read what the connection supplies · only for a connected account after 1.2
 
 **Show:** Open account detail → How this account updates in an authorized synthetic connected-source case. Read the actual capability receipt for balance, holdings, activity and purchase details, including an incomplete case and its supported next step.
 
@@ -53,9 +53,9 @@ After a correction is saved, I'll reopen the account beside the same statement. 
 
 This account is connected, but let's look at what that connection actually supplies. The balance tells us the total. Holdings explain what's inside it. Activity and purchase details answer different questions about how it got there.
 
-If the total arrived without the investments, the statement can help us fill in that composition. Missing purchase history can stay with the tax question it needs to answer. We're also looking at when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+If the total arrived without investments, that doesn't mean the balance is cash. The statement can help explain the composition in the next take. Missing purchase history stays with the question it needs to answer. We're also checking when the financial information was last confirmed; opening the page today doesn't make an older balance current.
 
-That tells us what's ready to use and which part still needs our input. Next we'll look at an account where we know the total but need to explain the investments.
+If the account still needs its investments explained, the next take shows how to do that. If the holdings are complete, use the history take only for relevant records; otherwise, continue to the monthly cash-flow setup.
 
 **Overlay:** Balance · Holdings · Activity · Purchase details
 
@@ -63,7 +63,7 @@ That tells us what's ready to use and which part still needs our input. Next we'
 
 **Capture dependency:** D34/D62 capability receipts and financial-fact freshness. Capture requires certified synthetic evidence and the approved receipt/recovery UI. No live credentials, provider connection, paid refresh or staged provider response.
 
-#### Chapter 4 — Explain a balance-only investment account · after 1.2
+#### Chapter 4 — Explain a balance-only investment account · only when holdings are missing after 1.2
 
 **Show:** At the same $145,000 Roth account, use Holdings needed → Add investments. Enter verified positions or use the accepted mutually exclusive Estimated mix path. Where identities are unresolved, show the source $116,000 spot-fund exposure/$29,000 stocks only as the estimated categories they support.
 
@@ -87,9 +87,11 @@ Any cash needs to come from the statement too. We won't make an unexplained rema
 
 **Narration:**
 
-This part is useful when you have purchase or transfer records for holdings already in your plan. If those records don't apply, or you don't have them yet, note what's missing and continue to chapter six for the monthly picture. You don't need to repair an unrelated old purchase before you do that.
+Use this take when you have purchase or transfer records for holdings already in the plan. Gather the exchange or brokerage records you can access; the price paid and relevant costs help establish purchase history for later tax work. If those records don't apply or aren't available, note what's missing and continue to chapter six. You don't need to repair an unrelated old purchase first.
 
-Here, the purchase explains Bitcoin already included in today's holdings. It isn't a new purchase today. As we follow it from the exchange to the wallet, the transfer keeps the original history attached. If the same purchase is already here, accepting it again would give us a duplicate.
+Here, the purchase explains Bitcoin already in today's holdings. It isn't a new purchase today, so we don't invent today's date and price. The transfer from exchange to wallet moves the same position and history; it doesn't create a sale and repurchase. If the purchase is already here, accepting it again would duplicate it.
+
+For a Roth account, you don't need every internal trade just to identify today's holdings. Contribution, conversion and distribution records have separate jobs when we examine access and taxes.
 
 I'll compare the household quantity before and after the history is attached. It only changes if we've identified a real position that was missing. Otherwise, we've learned more about the same Bitcoin. Unsupported purchase details stay unknown, and we can move on to the monthly starting picture.
 

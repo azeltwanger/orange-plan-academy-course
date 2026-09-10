@@ -17,13 +17,13 @@ Only Narration blocks are spoken. All actions use authorized fictional or test d
 
 **Narration:**
 
-For an ordinary monthly check, Home is our starting point. Before interpreting a balance, let's look at its date. If an account needs attention, How this account updates tells us what's automatic and what still needs input. Seeing a provider's name doesn't tell us that its purchase history came through.
+Home is our starting point for the monthly check. Read any material issue and the source dates. How this account updates shows what still needs input.
 
-Then we're comparing this month's records with what we expected to happen. Did the contribution arrive, and was it invested as intended? In Cash Flow, we'll check the spending source, the cash Reserve and the next confirmed life event so the upcoming cash needs are still represented.
+Compare the records with what you expected: contributions received, investments purchased and debt payments made. In Cash Flow, check the spending source, Reserve and upcoming confirmed events so the near-term needs are covered.
 
-The saved Plan has its own date and status. Prices can be current while its calculation is older, so we need to read the result that belongs to the current inputs. A price move by itself isn't a reason to rewrite the assumptions.
+Then read the Plan's own date and status. Its result needs to include the current inputs before we interpret it.
 
-If those records are current and there's no new decision, we're finished with this month's check. We can keep the next reminder and close the plan.
+If the facts are current and nothing needs a decision, that's this month's review finished.
 
 **Overlay:** Monthly: source dates / expected changes / cash needs / current result
 
@@ -57,15 +57,19 @@ If we still don't have the evidence, the issue stays open with the missing infor
 
 **Narration:**
 
-The annual review gives us room to revisit the decisions behind the plan. Last year's dated plan is a useful comparison if you have it. For a first annual review, we'll date the current plan and start the record from here.
+Open the Annual Plan Refresh beside your previous dated plan. If this is the first review, start the record with today's plan.
 
-There are six areas to work through, starting with spending and the Reserve. If you're retired, the next year's spending and refill need to be considered together in the spending review. If you're working, we're checking whether the target and funding pace still fit.
+Begin with spending and the Reserve. In retirement, read the proposed annual budget and refill together through the spending-review process. While working, check the Reserve target and funding pace against the household's current needs.
 
-From there, Portfolio and allocation let us review any changed purpose or timeframe. Debt statements show what remains owed, and the tax review brings up available windows and approaching deadlines. In Protect, we're checking custody, family contacts, beneficiaries, documents and insurance.
+In Portfolio and allocation, look for a changed purpose or timeframe. A purchase getting closer may need a more dependable funding source. Compare a specific contribution or trade if it addresses that need; a price change alone doesn't require a rebalance.
 
-Here's how that becomes a real action: if a debt has ended, we'll confirm the payoff before assigning the old payment. Then we can check today's cash needs and choose its destination in Saving and investing. The provider instruction is still a separate step.
+For Debt, use the actual statement: balance, rate, required payment, maturity and repayment source. If a debt is paid off, confirm that before assigning its old payment to the next cash need or investment.
 
-We'll record the changes you actually adopt and the outside work still needed. Choices that continue to fit can stay as they are.
+The tax review connects the year's income with relevant conversions, gains, losses and required distributions. Identify the records, proposed action and deadline while there's still time to act.
+
+In Bitcoin access, check whether a device, provider, sign-in method or helper changed. Existing recovery evidence must still apply. Any new check needs the safe procedure for that setup; an annual review doesn't call for wiping a funded wallet.
+
+Finish with family roles, ownership, beneficiaries, documents and insurance. Confirm that the people and arrangements still fit. Keep the changes you adopt and assign the outside work still needed; leave choices that continue to fit as they are.
 
 **Overlay:** Annual: spending/Reserve / allocation / debt / tax / custody / family/insurance
 
@@ -95,23 +99,21 @@ A career break you're only considering stays in Scenarios. And if a number is un
 
 #### Chapter 5 — Keep the next review usable
 
-**Show:** Save a dated summary/action record through actual supported views. Open Profile → Data & privacy → Export to inspect available export scope. Keep any sensitive backup separately; restoration is independently verified in a disposable authorized environment, never demonstrated by restoring over the current household plan. Create actual monthly/annual reminders externally if no app scheduler exists.
+**Show:** Record the review date, adopted changes and reasons through supported views. Keep unresolved work with the existing action list. Create actual monthly/annual reminders externally if no app scheduler exists, and inspect their dates. Exporting the final report belongs to W10 chapter 5.
 
 **Narration:**
 
-We're leaving a short record for the next time you open the plan: the date, what you adopted and why. Any outside action still needed gets a responsible person and a due date. If it depends on something happening first, that condition goes with it.
+Leave a short note of this review's date, what changed and why. The existing action list holds anything still needed, including a responsible person, due date and any condition it depends on.
 
-The export options tell us what we can save. Let's read that scope before saving or sharing the file. A readable summary helps someone understand the plan; a supported restoration backup has a different job. If this export supports restoration, we'll keep it protected and record its actual restoration status separately. A report or data export on its own doesn't establish that the plan can be restored.
+Now set the monthly and annual reminders and check their dates. Keep collateral thresholds, tax deadlines, security issues and important life changes on their own timing.
 
-We'll also put the monthly and annual reviews on the calendar, with loan thresholds, tax deadlines and important life changes on their own timing. Writing down an intention to create a reminder doesn't create it.
+When you come back, this record gives you a starting point. The final walkthrough will save the completed report alongside it.
 
-At the next review, this dated record gives us somewhere to start. We can see what changed without rebuilding the reasoning from memory.
+**Overlay:** Review date / adopted changes / open action / actual reminders
 
-**Overlay:** Dated decisions / actual action status / next reminder / separate protected backup
+**Verify:** Actual saved review record and created calendar reminders; no calendar event inferred from a note. Superseded instructions remain dated rather than current. Urgent obligations are not limited to scheduled reviews.
 
-**Verify:** Actual save/reopen and export scope; no calendar event inferred from a note, assumed restore capability or sensitive file shared. Superseded instructions remain dated rather than current.
-
-**Capture dependency:** Verify Profile export labels/formats/privacy and report save path. Restore is not promised by the future contract; any restoration test requires actual supported safe capability and separate evidence.
+**Capture dependency:** Verify supported review/action fields and the actual reminder mechanism. Use an external calendar if the app has no scheduler. Final report/export behavior is checked in W10 chapter 5.
 
 ### Readback and finish
 

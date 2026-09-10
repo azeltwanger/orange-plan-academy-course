@@ -251,8 +251,10 @@ class BoundedReviewFollowup(unittest.TestCase):
         self.assertIn("That's why I might start at 50% instead", text)
         self.assertEqual((D(50000) / (D('3.5') * 100000) * 100).quantize(D('.1')), D('14.3'))
 
-    def test_main_borrowing_comparison_is_not_a_competing_default(self):
-        text = read('teleprompter/core/3-6.txt')
+    def test_conditional_borrowing_comparison_is_not_a_competing_default(self):
+        # Austin moved detailed collateral teaching into the conditional loan lesson.
+        # Keep all interpretation checks at its new home.
+        text = read('teleprompter/advanced/A3-1.txt')
         self.assertIn("posting more collateral to start the same loan at 25% LTV", text)
         self.assertIn("25% shows the effect of more upfront collateral, not a recommended starting point", text)
         self.assertIn("Then I might start the chosen loan at 50% LTV", text)

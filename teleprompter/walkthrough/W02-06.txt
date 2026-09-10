@@ -1,5 +1,11 @@
-Here we're adding an expected change to the plan. The amount, date and frequency describe what happens: a vehicle purchase happens once, while an income change belongs to the person and period it affects. The dollar basis tells us whether we're using today's estimate or a future quote before applying inflation.
+Here we're adding the expected vehicle change. I'll check the amount, date and frequency, then the dollar basis so we don't apply inflation twice. A one-time purchase needs to happen once.
 
-Let's follow it into the affected year and see how it's funded. Income, existing savings and an investment withdrawal leave different resources afterward. Adding the event tells the plan an expense is coming; it doesn't start a separate saving transfer.
+Let's follow it into the affected year. Which account or income pays for it, and what remains afterward? If we're saving ahead, that uses cash flow before the purchase and builds the balance we'll spend. Adding the event doesn't start that separate transfer.
 
-We'll keep the possible renovation in its own comparison until it's chosen. And when a planned change becomes today's fact, the old event needs reconciling so it doesn't happen twice. If college is part of your plan, the next take applies this to its several years of payments. Otherwise, you're ready to carry the expected costs into Debt.
+If your event changes income instead, use the right person and start date, and an end date when the change is temporary. We'll keep the possible renovation in a separate scenario until it's chosen.
+
+For a home move, there's an additional funding check here. Sale value has to cover the old mortgage, selling costs and any tax before we count what's left. The next home can need cash upfront as well as a new mortgage, and property tax, insurance, utilities and upkeep may change. Follow those together rather than treating the old home's full value as available cash.
+
+Finally, when an expected change happens, reconcile the old event with today's facts. If a recurring bill ended, current spending now excludes it; keeping a second future reduction would lower spending twice. A completed purchase or new loan needs the same check against its new asset or debt record.
+
+After saving, we'll reopen the affected year to verify the effect once. If college applies, continue to its take. Otherwise, carry the expected costs into Debt.

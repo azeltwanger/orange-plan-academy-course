@@ -1,7 +1,5 @@
-We have a sale candidate with records we can support. Before doing anything with it, let's come back to its purpose: providing spending money, realizing a gain or realizing a loss. That tells us which costs and benefits to compare with the rest of the year's income.
+Here is the supported sale candidate and the reason for it. I'm putting the lot-identification instruction beside the process and deadline required for this account. We need the provider acknowledgment or applicable contemporaneous record.
 
-The units we're planning to sell need to be identified through the process required for this account and transaction date. I'm keeping the acknowledgment or contemporaneous record with the proposal. Choosing units in a planning screen doesn't complete that process with the provider.
+For a loss sale, let's check the replacement review, including automatic purchases and relevant spouse or IRA activity. For a gain harvest, let's confirm the remaining income room after other planned transactions.
 
-For a securities loss sale, replacement investments and automatic purchases matter, including relevant spouse and IRA activity. For a gain harvest, we need to see the income room remaining after other gains and conversions, including state and healthcare effects.
-
-If the expected benefit is too small, or the records still don't support the transaction, keeping the investment is a valid result. We can record that reason and stop there. If we decide to proceed, this remains a proposed transaction until the actual instruction is executed. Then we'll reconcile the confirmation and remaining holdings.
+If the benefit no longer justifies the costs, we can keep the investment and record that reason. If we proceed, the proposal stays pending until the actual trade is executed. Then we reconcile what happened.

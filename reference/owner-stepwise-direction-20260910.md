@@ -29,3 +29,9 @@ Austin requested “give me all scripts in one file,” then said “these read 
 This authorizes a full conversational speech pass and the combined recording file. Keep the step sequence useful, while letting the spoken teaching explain decisions in his conversational voice. His approval of that example and direction is not approval of every subsequently revised line. [The conversational standard](../production/CONVERSATIONAL-VOICE-PASS.md) governs this correction.
 
 Austin then supplied private coaching-call transcripts as “one clients journey” for this work. They may inform his delivery and the sequence of explanations. They are not new course household facts, current app verification or operational instructions. Raw transcripts and identifying client material remain outside this public repository.
+
+## Subsequent focus and repetition correction
+
+Austin requested generic placeholders instead of the named fictional household and moved AI-question instruction out of Teaching 4 into the walkthrough. He then asked for a tighter course with less repetition and redundancy, approved the proposed structural pass with “okay do it,” and added “yes not every one needs an example probablyu.”
+
+This authorizes shortening repeated explanations, relocating detailed borrowing work to the existing conditional lessons, using each family rehearsal and maintenance task once, and focusing the finale on explaining one finished plan. Keep examples where they improve understanding; a separate example is not required in every lesson. [The focused-script standard](../production/FOCUSED-SCRIPT-PASS.md) records the explanation ownership and preservation rules.

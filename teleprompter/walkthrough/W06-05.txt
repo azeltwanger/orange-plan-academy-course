@@ -1,7 +1,5 @@
-Let's see how the Reserve helps when returns arrive in an unpleasant order. We're starting with the income already covering retirement spending, then looking at the remaining gap and any separate bills assigned to cash.
+Let's open a weak year and follow the cash used for spending. Here's what remains in the Reserve, beside its chosen target and floor.
 
-In the separate illustration, $1 million with $50,000 beginning-year withdrawals ends at $887,500 after a 20% loss and a 25% gain. Reverse those returns and it ends at $910,000. The same returns leave different amounts because assets were sold for spending along the way. A later recovery can't grow the units we've already sold.
+Now I'm looking at the proposed refill. Which asset supplies it, what tax or fees apply, and is that money already promised elsewhere? If we wait, there still needs to be a funded response before the Reserve reaches its floor.
 
-Now I'm opening a weak year in the actual plan. We'll follow the cash used, the Reserve left and the proposed refill. Before it reaches the chosen floor, we need to know where that refill comes from, including sale tax and fees.
-
-If the same money is promised to another payment, it isn't available here too. And if recovery takes longer, the response still needs a funding source. Once we can follow that sequence, the Reserve amount has a practical meaning: we know what it pays and what we'll do as it runs down.
+We'll also look farther into the difficult period. A longer wait for recovery needs a source for the next bills. Once we can follow that, the Reserve amount tells us what it supports and what we'll do as it runs down.

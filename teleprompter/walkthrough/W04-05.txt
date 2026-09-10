@@ -1,7 +1,5 @@
-We know what this money needs to do. Now let's find the account that can hold it. I'm starting with the date we'll need to use it, because that can change which account makes sense.
+Let's open the account intended to receive this contribution. I'm checking its owner and access date first, then the provider's investment menu, fees, eligibility and remaining contribution room.
 
-For an early-retirement gap, we need a supported way to get the money out at that time. A tax benefit doesn't help fund the gap if the money is unavailable when the bills arrive.
+If this money funds early retirement, the account needs a supported way to supply those years. Any unresolved access question goes through the early-access lesson before we rely on it.
 
-Here's the provider's investment menu. We're checking that it permits the investment we intend to buy, along with the account's fees, contribution eligibility and remaining room. An HSA, education account or self-employed plan belongs in the comparison when it fits the actual commitment and we're eligible to use it.
-
-If an existing account meets those needs, we can use it. If we need to open another one, that becomes an outside action with a person and a date attached. Once the account and investment are supported, we can compare the tax election where that choice applies.
+An existing account that meets those needs can do the job. If another one needs opening, we'll keep that as an outside action. Now we can compare the tax election where that choice applies.

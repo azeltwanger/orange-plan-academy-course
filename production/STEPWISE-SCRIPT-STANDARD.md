@@ -4,6 +4,8 @@ Austin's September 10 direction: use the slide steps; each lesson says what to d
 
 **Current delivery correction:** Austin subsequently said the draft sounded like instruction manuals and asked for conversational lesson introductions, transitions and handoffs. [CONVERSATIONAL-VOICE-PASS.md](CONVERSATIONAL-VOICE-PASS.md) supersedes any rule below that would make the spoken text read as a checklist or remove a useful introduction/handoff. The steps still organize the work.
 
+**Later focus correction:** [FOCUSED-SCRIPT-PASS.md](FOCUSED-SCRIPT-PASS.md) gives each explanation one primary lesson. Examples are selective, walkthroughs apply earlier teaching, and later lessons use short callbacks instead of repeating whole calculations. Keep the material conditions needed for the decision or action.
+
 ## Teaching file
 
 - Keep the existing ID, filename, source references and situational route. The 25 main recordings remain lesson families with short action steps inside them; eight situational recordings remain conditional.

@@ -13,7 +13,7 @@ Only Narration blocks are spoken. All actions use authorized fictional or test d
 
 ### For your situation — recording route, not spoken
 
-After 7.1, use [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professional-support.md) only for a proposed passphrase, multisig or support arrangement; return to chapter 1 and 7.2. Shared-provider exposure is now in 7.1, implemented in chapter 3. After 7.2, use the [output-management reference](../../reference/bitcoin-output-management.md) only for the relevant transaction; return to the applicable safe wallet work. The former operator-absent exercise is part of chapter 4, then 8.1.
+After 7.1, use [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professional-support.md) only for a proposed passphrase, multisig or support arrangement; return to chapter 1 and 7.2. Shared-provider exposure is now in 7.1, implemented in chapter 3. After 7.2, use the [output-management reference](../../reference/bitcoin-output-management.md) only for the relevant transaction; return to the applicable safe wallet work. Chapter 4 prepares the custody starting route for 8.1. The operator-absent family rehearsal occurs once, in W08 chapter 3, after authority and instructions are connected.
 
 #### Chapter 1 — Choose custody for the household job
 
@@ -21,11 +21,11 @@ After 7.1, use [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professio
 
 **Narration:**
 
-We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. Our example household has directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
+We're in Bitcoin access, connecting each holding to its custody arrangement. Start with the owner, what the money is for and who controls it today.
 
-For this holding, we're recording what the money is for and who controls it today. If you're considering a move, that belongs beside the current arrangement as a planned change. We don't want the family reading a future intention as something that's already happened.
+Put an intended move beside the current arrangement so the family can tell which process applies now. Then connect the person handling the ordinary work and the agreed backup from Trusted people.
 
-The next part is who handles the ordinary work and who has agreed to help if that person is unavailable. An unanswered provider question can stay as the next action here. Once we save and reopen the record, we can check that it still points to the right holding. This is a map of the process, so recovery words and precise secret locations stay in their protected records.
+Let's save and reopen the record to check it belongs to the right holding. Provider questions can stay with the next action. This map points to the protected recovery process without containing its secrets.
 
 **Overlay:** Holding / owner / current method / intended change / agreed person
 
@@ -39,11 +39,11 @@ The next part is who handles the ordinary work and who has agreed to help if tha
 
 **Narration:**
 
-Before we update recovery status, let's look at the evidence we're using. The receipt needs to tell us which wallet was checked, how it was checked, when it happened and what the result was.
+Let's use the recovery receipt to record the wallet checked, method, date and result.
 
-That scope matters here. If the receipt is from the separate test wallet, we're recording a result for that wallet. The family's funded wallet keeps its own status until its appropriate safe check is complete. Buying a new device or checking that a word list is valid wouldn't establish the full recovery result.
+If this is the separate test wallet, its result stays with that wallet. The funded setup keeps its own status until its appropriate safe check is complete. Buying a device or validating a word list doesn't establish full recovery.
 
-Where a funded setup has been safely checked, we can record the evidence that actually exists, including any passphrase or multisig requirements covered by the check. When we read the saved entry back, someone else needs to understand both what's been tested and what's left to do. They don't need any recovery material to understand that.
+For a funded setup with actual evidence, include the passphrase or multisig requirements covered by the check, without recording the sensitive material itself. Read the saved entry back: it needs to show what's verified and the safe next step for anything still open.
 
 **Overlay:** Test setup ≠ funded setup / method / date / actual result
 
@@ -71,25 +71,23 @@ Back in the map, we'll record the change only once it's actually completed. A pr
 
 #### Chapter 4 — Finish the family starting map
 
-**Show:** Prepare the non-secret custody entries for W08. With an agreed helper, rehearse the first contact and backup contact while the usual operator stays silent. Correct and repeat only an unclear first step.
+**Show:** Prepare the non-secret custody entries for W08. Read the holding's legitimate access process, first contact and agreed backup. Link this existing map to the future family instructions; do not request or stage a separate rehearsal here.
 
 **Narration:**
 
-The last thing we need from this map is a usable starting point for the family. Let's read the instruction for this holding: who would they contact, and which legitimate process applies if the usual operator is unavailable?
+Before we leave Bitcoin access, let's make this holding's starting route clear. The family needs the legitimate process, first contact and agreed backup if the usual operator is unavailable.
 
-The person who agreed to help can try those first steps while the operator stays quiet. We're looking for whether they can find the first contact and the backup. This rehearsal doesn't involve entering credentials or moving money.
+We're preparing the custody part of the handoff here. Keep any missing contact or provider instruction as the next action. In the family walkthrough, we'll connect this same map to the person's legal authority and first-page instructions, then rehearse the complete route once it's ready.
 
-If an instruction stops them, that's the part to correct and try again. If we haven't rehearsed it yet, we'll leave that status pending. We'll take this same map into the family handoff, where the access process connects to the person's authority. And just to keep the two kinds of backup clear: an Orange Plan data backup doesn't restore a Bitcoin wallet.
+**Overlay:** Custody map / legitimate starting route / first contact / backup / ready for family handoff
 
-**Overlay:** First contact / backup / unclear step / actual rehearsal date
+**Verify:** The non-secret map has a usable starting route or a precise open item. Contacts are agreed or explicitly pending. No separate rehearsal completion, transfer, impersonation, secret storage or legal authority is inferred.
 
-**Verify:** Actual rehearsal result or honest pending status; agreed contacts; no transfer, impersonation, guessed credentials, secret storage or inferred legal authority.
-
-**Capture dependency:** Verify supported Protect map/packet outputs separately from financial-data export and restoration. Confirm helper consent and actual rehearsal evidence before showing success.
+**Capture dependency:** Verify supported Protect map references and linkage to family instructions. Actual helper rehearsal and evidence belong to W08 chapter 3; no export or wallet-restoration claim is made by this chapter.
 
 ### Readback and finish
 
-The custody map identifies each significant holding, its current method, the agreed operator and backup, and one actual protection action. Recovery evidence applies only to the setup tested. The family starting route has a dated rehearsal result or a precise unresolved step; planned changes and completed provider actions remain separate.
+The custody map identifies each significant holding, its current method, the agreed operator and backup, and one actual protection action. Recovery evidence applies only to the setup tested. The family starting route is prepared for W08 with any missing instruction identified; the single rehearsal belongs to W08 chapter 3. Planned changes and completed provider actions remain separate.
 
 ### Source and production notes — not spoken
 

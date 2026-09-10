@@ -1,7 +1,5 @@
-A check-in service is optional. If you don't use one, the family still needs findable instructions and a backup contact; you can continue to the insurance review from there.
+If you use a check-in service, this is where we'll check how it delivers the family instructions. If you don't, continue to insurance with the findable instructions and backup contact you've already prepared.
 
-If you do use a service, let's look at the arrangement you actually have. Its timing, recipient, message and false-alarm process determine how useful it will be. We're checking how to cancel or correct a message as well as how it's triggered.
+Read the service's actual timing, recipient, trigger and cancellation or false-alarm process. Then use a harmless test agreed with the recipient. Label the message as a test and include no recovery secrets.
 
-The way to check delivery is a harmless test agreed with the recipient beforehand. The message needs to say it's a test and contain no recovery secrets. Then we can see whether it arrives and whether the recipient can open the safe instructions.
-
-Until that happens, delivery stays unverified and the test remains an action. Even after it works, we'll keep another way for the family to reach the instructions if the service is unavailable.
+Check that it arrives and that the recipient can open the safe instructions. Until then, delivery stays unverified. Keep the independent route to those instructions even after the service works.

@@ -7,66 +7,48 @@ Sources: APP, CASHFLOW, CLIENT_THEMES, DICTATION, FOUNDATION
 
 ### Do this
 
-Add one expected change with its amount, timing and funding. Keep an unchosen possibility in a separate scenario.
+Choose the next expected change, record its timing and cost, and explain its funding and fallback.
 
 ### Read aloud
 
-So far we've been working with what your household looks like today. But retirement planning also needs room for things you already expect to change. In this lesson, we'll bring those changes into the timeline and look at how they'll be funded. That could be a vehicle, college, a move or one person's work changing. The useful part is seeing the cost before it arrives.
+So far we've been working with what your household looks like today. In this lesson, we're going to include something you already expect to change and decide how to prepare for it. The useful part is seeing the cost and its funding before the date arrives.
 
-Our example household expects to replace a vehicle in about three years. They're also considering a renovation in two years. The vehicle is something they intend to prepare for. The renovation is still a decision. They want to see what it would mean before committing to it.
+Take a vehicle you expect to replace in a few years. You don't need the exact model picked out to start planning. You do need an estimate, a likely date and an idea of how flexible that commitment is.
 
-That's the distinction between an expected Life Event and a scenario. Include the vehicle in the plan they're building toward. Compare the renovation separately until they decide to do it. A real cost stays in the plan even when it makes the projection look worse. And running the numbers on an idea doesn't mean you've committed to it.
+An expected Life Event belongs in the plan you're building toward. Something you're only considering stays in a separate scenario until you choose it. Comparing an idea doesn't commit you to it, and an expected cost shouldn't disappear just because it makes the result less attractive.
 
-To put either one into a comparison, we need more than the price. We need to know how the change happens. A purchase happens once; a recurring expense continues. Income may change on a particular date and change again later. Those describe different needs even when the dollar amount looks similar.
+With the vehicle, we'd record a one-time purchase. A new recurring expense or a work change would need its own start and, where relevant, end. For a couple, one person's income changing doesn't automatically change the other person's paycheck.
 
-For a simple illustration, paying $30,000 in cash for a car is a one-time cost. It doesn't mean you spend an extra $30,000 every year. Financing a car is different: some money may leave now as a down payment, and the loan payments continue afterward. This isn't a vehicle quote for our example household. It's a way to see why the amount alone doesn't explain the event.
+The amount needs a clear basis too. If the field uses today's dollars, enter today's estimate and let the model apply inflation. Keep the source so you can replace that estimate when you have a better quote.
 
-The same applies when a cost ends. A recurring expense stopping next year should affect the months after it stops, not make your current spending look lower before it happens. A temporary expense should also have an end instead of continuing for the rest of the plan.
+Now, where does the vehicle money come from? Putting a cost on the timeline doesn't set the money aside. If you'll save ahead of time, that saving uses part of your monthly available cash. When the purchase happens, you spend the balance you've built. We don't charge the whole purchase to income again as though the savings weren't there.
 
-For income, think through both people in the household. One person might reduce their hours while the other keeps working. Or you might expect a temporary break followed by different work. Describe the income change you actually intend instead of using one retirement date to stand in for everything.
+You might use existing investments instead. Then we need to know which account is available and what else that money was supposed to fund. A taxable sale may need to raise more than the purchase price to cover its tax cost.
 
-The price estimate has a timing question too. If it's in today's dollars and Orange Plan applies inflation, increasing it yourself first could count the increase twice. A quote for a future date is different. Keeping the estimate's source lets you update it when you have better information.
+Or you could borrow. That can reduce the cash needed upfront, but the down payment and later loan payments still need funding. We'll compare that obligation in Debt. Here, the purchase and its funding need to describe the same transaction once.
 
-Once the cost and date are clear, we can look at where the money comes from. Putting the expense on the timeline tells the plan it needs paying. It doesn't mean you've started saving for it or that the account you have in mind will have enough money available then.
+You don't have to explore every method. Start with the one you intend to use, then ask what would make it difficult.
 
-You might pay it from income when the time comes. That can work when the amount fits alongside the other bills and commitments in that period. Look at what will still be left, instead of assuming future income can cover both the event and all the contributions you're making now.
+If Bitcoin is funding the vehicle, what happens if its price is down when you need to buy? You might use another available resource, spend less or keep the current vehicle longer. The answer needs to be something you could actually do.
 
-For a larger cost, you may want to set money aside ahead of time. In that case, there are two connected parts: the amount you save before the event and the amount you spend when it happens. The saving uses some of your available cash flow along the way. When you later spend that saved money, you're using the balance you've built, not paying for the same purchase a second time out of income.
+A flexible date gives you more choices than a fixed deadline. The more important it is that the full amount be there on a particular day, the less I'd want it to depend on a favorable market at exactly that time. That doesn't mean every future goal has to sit in cash now. It means the funding choice and review date need to fit the commitment.
 
-You could instead plan to use existing investments. Then we need to know which money is available and what else it was supposed to fund. Selling from a taxable account may also create a tax cost, so the amount you need to sell can be different from the amount you need for the purchase.
+In the walkthrough, we'll follow your event into the year it affects. We'll check when it happens, which money pays for it and what remains afterward. There are extra details there for a home move or for reconciling a planned change once it has happened.
 
-Borrowing is another comparison. It can reduce how much cash you need up front, but it adds a repayment obligation. We'll work through the financing decisions in Debt. Here, make sure the purchase, the borrowed money, and the payments describe one transaction. Don't add a fully cash-funded purchase and then add loan payments as though the entire purchase still came from your own cash.
-
-If you're selling a house, its market value isn't all money you can spend. The mortgage still needs to be paid off, and there can be selling costs and taxes to consider. What remains may help fund the next home, but it isn't automatically available for another goal too.
-
-And when you're buying the next home, the new mortgage is only one part of the change. There may be cash needed upfront, and insurance, property taxes, utilities and maintenance can change too. Those costs help tell you whether the move actually improves cash flow in the way you hoped.
-
-How flexible you are makes a difference here. A cost you could move back a year gives you more choices than a fixed deadline you really need to meet. That's why I'd think about a later date, a lower cost and another funding source while you're making the plan, before any of them becomes urgent.
-
-That matters when Bitcoin is part of the funding plan. You may be comfortable keeping money invested for an expense several years away. But say Bitcoin is down when the bill arrives. Would you still make the purchase, sell something else, use income, or delay it?
-
-The more important it is that the full amount be there on a particular date, the less I'd want that payment to depend on a favorable market at exactly the right time. That doesn't mean every future goal has to sit in cash today. It means you need a funding choice that fits the commitment, and a time to review it as the date gets closer.
-
-In the walkthrough, we'll follow the event into the year it affects. We want to see it happen once, at the intended time, with the right income still arriving. Then we can look at the account funding it and what remains afterward. That's how we check the event's meaning instead of just checking that a row was added.
-
-There's one update to remember when that future date becomes today. Let's say a recurring bill was expected to end, and it has now ended. Your current spending should reflect its absence. The old future event needs reconciling too, or the projection could reduce spending a second time. The same idea applies when a planned purchase becomes an owned asset or a proposed loan becomes a real debt.
-
-Let's add the next expected change and work through that funding in the walkthrough. We'll keep an unchosen renovation in its separate comparison and leave any funding question visible. If you're helping with college, the next situation lesson works through that commitment over several years. Otherwise, you're ready for Debt, where we'll decide what the existing payments and any new financing need to do for the plan.
+For now, choose the next expected change, put an amount and date around it, and explain the funding. If you're helping with college, the next situation lesson works through that commitment across several years. Otherwise, we'll take the expected costs into Debt so we're deciding about payments with the rest of your life still in view.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| The vehicle is something they intend to prepare for. | Expected vehicle → Life event · Possible renovation → Scenario | Fictional household; preserve relative timing only. |
-| paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the example household vehicle. |
-| If it's in today's dollars and Orange Plan applies inflation | Amount · Date · Frequency · Dollar basis | Reveal alongside entry explanation. |
-| there are two connected parts | Save before the event → Spend the balance when due | Show one pot of money changing over time. |
-| its market value isn't all money you can spend. | Home sale: value − debt − costs − any tax | No invented tax figure. |
-| Your current spending should reflect its absence. | When a change happens: update current facts; reconcile the old event. | Show one effect, not a duplicate reduction. |
+| Something you're only considering stays in a separate scenario | Expected change → Plan · Possible choice → Scenario | One simple distinction; no second worked household story. |
+| If the field uses today's dollars | Amount · Date · Frequency · Dollar basis | Reveal as the event is described. |
+| you spend the balance you've built | Save before the event → Spend the balance when due | The same money changes jobs over time. |
+| what happens if its price is down when you need to buy? | Funding fallback: another resource · lower cost · later date | Connect flexibility to the actual commitment. |
 
 ### Walkthrough handoff — not spoken
 
-[W02, chapter 6](working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md): expected expense, income change, affected year and planned-to-current reconciliation. Education support continues in chapter 7 only when applicable.
+[W02, chapter 6](working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md): expected event, affected year and funding; conditional branches cover income changes, housing and planned-to-current reconciliation. Education support continues in chapter 7 only when applicable.
 
 ### Member checkpoint
 

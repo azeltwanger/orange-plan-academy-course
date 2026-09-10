@@ -21,7 +21,7 @@ It took me four years of holding Bitcoin to realize what I was missing. I had an
 
 That's what I want you to have as we go through this course. I'll talk through the decisions and show you how I'd think about the trade-offs. Then, in the separate walkthrough, we'll put that part into Orange Plan together. That's a good place to pause and work on your own information, so you're building your plan as we go.
 
-We'll use a fictional household throughout the course. One person wants work to become optional at 52, and their partner has a separate work timeline. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
+We'll use a fictional household when an example helps. You'll see them labeled Client and Partner, and you'll use your own information as we build your plan.
 
 Before we get into investments, though, we need somewhere to start. Choose an age when you'd like work to become optional and a first estimate of what that life would cost each year. Those aren't promises we're making about the result. They're the question we're going to ask the plan. We'll start with the money you have and the bills it needs to cover, then work through investing, retirement income, protection and maintenance.
 
@@ -41,7 +41,7 @@ For now, have that work-change age and spending estimate written down. We'll beg
 |---|---|---|
 | Choose an age when you'd like work to become optional | Work optional at ___ · Annual spending ___ | Reveal two blanks; leave them unfilled. |
 | I had an investment strategy | An investment needs a plan for spending, access and time. | One line beside Austin; no stock footage of luxury retirement. |
-| We'll use a fictional household throughout the course. | Fictional household · [Client]: work optional at 52 | Use [Client] and [Partner] as the household card labels; no fictional names. |
+| We'll use a fictional household when an example helps. | Example labels: [Client] · [Partner] | No fictional names; examples support a decision rather than every lesson. |
 | You'll also see some lessons marked For your situation. | Use a strategy? Complete its situation lesson first. | Show the conditional lesson marker. |
 | You can choose a reserve target today | Decision → next action → date | Reveal the three items as the sentence continues. |
 
@@ -82,73 +82,49 @@ Let's look at a Roth IRA in our example household. We'll label its owner “Clie
 
 Those amounts add up to the $145,000. They aren't extra assets sitting on top of the balance. Think of the account as the container and the investments as its contents.
 
-There's another distinction we'll keep throughout the course: what is true today, what you expect to change, and what you're only considering. Our example household's existing mortgage is a fact. College support they intend to provide is an expected expense. The renovation they're debating is a scenario. We can compare that renovation without making it part of the plan they've chosen.
+The account also tells us who owns the money and the rules around it. An IRA is an individual retirement account; a 401(k) is a workplace retirement plan. You can copy the type from your statement. You aren't choosing a new account yet, just describing the one you have and the investments inside it.
 
-An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
+So we're gathering bank accounts, investments, retirement plans and any health or education accounts that apply. If an account is already in Orange Plan, we'll review that record. Adding it again would give us money you don't actually have.
 
-So as we go through your accounts, we're including the bank accounts, taxable investments, retirement plans and any health or education accounts that apply. The owner still matters when two accounts are at the same institution. And if an account is already in Orange Plan, we're reviewing that record; adding it again would give us money you don't actually have.
+For Bitcoin itself, include how much you own and where you control or access it. Use a plain location name without recovery information. A spot Bitcoin fund gives you exposure through fund shares; those shares aren't coins you can recover with a personal wallet backup.
 
-Once we know which account we're looking at, the next question is what's inside it. Your statement is the place to find the actual investment name, quantity when known, and current value. If an investment name is unfamiliar, choosing a ticker that looks close won't solve that. We want the plan to describe what you actually own.
+You may find a connection only supplies part of the information. We'll handle that in the walkthrough, along with estimated holdings and purchase records when they apply. The rule for now is simple: use what your records support and leave anything you haven't checked marked as missing. An unrelated history question doesn't have to stop the rest of your plan.
 
-Sometimes you only know the total and a rough investment mix. Start there, with the mix clearly marked as an estimate. Don't turn a rough percentage into a list of specific investments you haven't checked.
+That gives us the money you already have. Now let's connect it to the money moving through the household each month.
 
-A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That doesn't mean the balance is cash. It means part of the picture is still missing. Read what actually arrived instead of assuming “connected” means every detail is complete.
+Start by checking what your income figure means. Gross pay is before taxes and payroll deductions. Take-home pay is the amount left afterward, so subtracting those deductions from a bank deposit again would count them twice.
 
-For Bitcoin itself, record how much you own and where you control or access it. That's the custody arrangement. Use a clear name for the location, without private recovery information. A spot Bitcoin fund is different: you own shares in a fund that holds Bitcoin. Those shares give you Bitcoin price exposure, but they aren't coins you can recover with your personal wallet backup. Later we'll add the dollar amounts when reviewing your investment mix.
+For business income, look at the operating costs already deducted. Sales, profit and cash available to the household are different amounts. In our example, the partner's income is after ordinary operating costs but before the equipment-loan payment shown separately. Your records may use a different convention.
 
-Let's say you already own Bitcoin that was purchased years ago. Entering the current holding isn't a purchase today. We shouldn't create a date and price just to make the balance appear. The current position tells us what you have. Purchase history tells us how you acquired it and helps with later tax questions.
+Use what your life actually costs now, including required debt payments and existing saving. We'll verify the spending more closely in Cash Flow. For this first picture, don't enter the amount you wish you spent or leave out a debt because you're planning to pay it off.
 
-A transfer needs the same care. Buying Bitcoin on an exchange and moving it to your wallet doesn't leave you owning it in both places. The transfer moves the position and its history. It doesn't create a second investment or reset what you originally paid.
-
-This is why I'd gather the old exchange and brokerage records you already have now. We can use them as they become relevant without turning this first lesson into a complete tax-history project. For a Roth account, you don't have to reconstruct every internal trade just to identify today's holdings. Contribution, conversion and distribution records have separate jobs when access or tax treatment matters.
-
-The history and transfer part of the walkthrough is there for records that apply to your holdings and are available now. If that isn't your situation, leave a note about what's missing and go straight to chapter six, where we build the monthly picture. An unrelated old purchase doesn't have to stop that work.
-
-What I want to see before we leave an account is that its investments explain the statement balance once, under the right owner and account type. If there's a difference we can't explain, we leave that question visible until we find its source.
-
-That gives us the money you already have. Now we need to see how the household changes from month to month, starting with income and the bills and saving already coming out of it.
-
-The income source, amount and timing belong to each person. Gross pay means pay before taxes and other deductions; take-home pay is what remains afterward. That distinction matters when you're entering the number. If you're starting with the bank deposit, the payroll deductions have already happened. Subtracting them again would count them twice.
-
-For business income, identify the operating costs already deducted from the amount you're using. Sales, profit, and cash available to the household are different. In our example, the partner's income is after ordinary operating costs but before the equipment-loan payment shown separately. Your records may use a different convention. Follow what your number includes.
-
-On the spending side, we're using what your life actually costs now. You may want to spend less, and we'll work on that, but putting the amount you wish you spent into the starting plan would skip the decision. Annual bills and recent changes can make one month misleading. We'll spend more time on that in Cash Flow.
-
-The debt statements fill in another part of that monthly picture. We're checking the current balance, rate and required payment with the lender, and keeping required payments in their debt records when the plan counts them there. The mortgage already exists. A possible new loan stays in a comparison until you've chosen it.
-
-There's one more amount we need before calling anything left over: money you're already investing. A payroll retirement contribution uses household pay before the remainder reaches checking. The employer match adds retirement money, but it isn't cash the family can spend.
-
-The client earns $155,000 a year and puts 6% into their workplace plan. That's $9,300 a year, or $775 a month. The employer's formula adds another $387.50 a month. Keep their money and the employer's money separate.
+Payroll investing needs including too. The client earns $155,000 a year and puts 6% into their workplace plan. That's $9,300 a year, or $775 a month. The employer adds another $387.50 a month. Their contribution adds retirement savings; it isn't cash the family can spend.
 
 Let's follow the money. With their current living costs and required debt payments, and $4,000 a month allowed for taxes, our example household has $1,275 left before the client's retirement contribution. Subtract their $775 contribution, and $500 remains for other priorities.
 
-That's the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
-
-The tax amount in that example is an assumption, not a calculated tax bill. For your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
+They aren't only saving $500; the employee contribution is already invested. And the tax amount here is a teaching assumption, not a calculated tax bill. In your own plan, the income and tax figures need to agree with your records before you assign the remainder.
 
 Now we can bring back the work-change question from the introduction. The client would like work to be optional at 52. Entering that age records the intention; it doesn't establish that the plan can fund it. Their partner has a separate work timeline, so the client's date doesn't silently end both incomes.
 
-You don't have to know your final retirement budget yet. Start with what your life costs now. Subtract costs you expect to stop and add costs you expect to begin. Some work costs may disappear; travel, healthcare, or family support may increase. Keep an uncertain amount marked as an estimate instead of using zero. We'll check and improve this first budget as we go.
+You don't need a final retirement budget yet. Start with current costs, subtract what you expect to stop and add what you expect to begin. Healthcare or travel might increase while work costs disappear. Keep uncertain amounts marked as estimates instead of using zero.
 
-Social Security or pension income belongs here when you have an actual estimate, tied to the right person and start date. If you don't have the source yet, that's a question we need to answer. Inserting a benefit because the plan needs more income would make the result look better without making it more reliable.
+Add Social Security or pension income when you have an actual estimate for the right person and start date. If the source is missing, keep that question open. Inserting a benefit because the plan needs more income would improve the result without making it more reliable.
 
-In the walkthrough, we'll put these pieces together and check them against the same records. You can keep going with a nonessential history question still open; missing income or spending needs resolving before you rely on the result. Once the starting facts are in place, we'll look at the assumptions behind the future numbers. That's how we move from what you have today to the retirement question you want to test.
+In the walkthrough, we'll enter these pieces and check them against your records. By the end, we want each account counted once and a starting monthly picture we can explain. Then we'll look at the assumptions that take us from today's facts to the retirement question you want to test.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| The example account is worth $145,000. | Fictional Roth IRA: $116,000 spot-fund exposure + $29,000 stocks = $145,000 | Draw one account boundary; amounts live inside it. |
-| Our example household's existing mortgage is a fact. | Existing mortgage · Expected college · Possible renovation | Reveal fact, expected event and scenario underneath. |
-| That doesn't mean the balance is cash. | Balance received ≠ holdings identified | Show a neutral missing-information line. |
-| Entering the current holding isn't a purchase today. | Current holding  /  Purchase history  /  Transfer | Use three separate labels; no invented transaction date. |
-| That's $9,300 a year, or $775 a month. | Employee $775/mo · Employer $387.50/mo | Label fictional example and keep employer money out of spendable cash. |
-| Subtract their $775 contribution, and $500 remains | $1,275 − $775 = $500 remaining | Show $4,000 hypothetical tax provision in the calculation footnote. |
-| Their partner has a separate work timeline | One timeline for each person | Show two independent work lines without inventing dates. |
+| The example account is worth $145,000. | Fictional Roth IRA: $116,000 spot-fund exposure + $29,000 stocks = $145,000 | Draw one account boundary; the investments explain its total. |
+| use what your records support | Verified fact · Estimate · Missing source | Use the distinction when data is incomplete; detailed branches belong in W01. |
+| That's $9,300 a year, or $775 a month. | Employee $775/mo · Employer $387.50/mo | Keep employer money outside spendable household cash. |
+| Subtract their $775 contribution, and $500 remains | $1,275 − $775 = $500 remaining | Footnote the $4,000 hypothetical tax provision; this is a teaching calculation. |
+| Their partner has a separate work timeline | One work timeline for each person | Show independent lines without inventing dates. |
 
 ### Walkthrough handoff — not spoken
 
-[W01, chapters 2–7](scripts/working/W01_build-the-first-working-plan.md): accounts and holdings, source coverage, monthly starting picture and each person's retirement question. Chapter 5 history/transfer work is conditional on relevant, available records; otherwise continue to chapter 6 with the missing history noted.
+[W01, chapters 2–7](scripts/working/W01_build-the-first-working-plan.md): accounts and holdings, source coverage, monthly starting picture and each person's retirement question. Chapters 3–5 are record-specific branches: use connection, balance-only and available-history paths only when they apply; otherwise continue to chapter 6 with any missing source noted.
 
 ### Member checkpoint
 
@@ -187,13 +163,11 @@ If we make the return high enough, we can make an earlier retirement look afford
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
-The reason I'd look at an early year and a later year is that an average can hide how that path changes. A model may assume more growth early and less later. Seeing both gives you a better idea of what your plan is relying on than one average over the entire period.
+Look at an early year and a later year. That lets you see whether the model assumes more growth early and less later, which one average over the whole period can hide.
 
 Investment returns are only one side of this. The cost of the life we're funding can grow too. A lifestyle costing $100,000 today would cost about $134,000 in ten years at a hypothetical 3% annual inflation rate. The additional dollars are paying for the same purchasing power, not automatically a more expensive lifestyle.
 
 So when the spending field asks for today's dollars, we use today's cost and let the model apply inflation. If we inflate it ourselves first, we could count that increase twice. A price already quoted for a future date needs to be identified that way instead.
-
-Income has a similar distinction. A general annual raise assumption describes gradual growth. A career change next year is something specific happening on a date. That belongs on the timeline, where we can see when it changes the paycheck, rather than hidden inside an annual rate.
 
 The other big question is how long this money has to last. That's the planning horizon. Funding through 85 asks something different from funding through 95, and for a couple we need to include the years a surviving spouse may still need support.
 
@@ -210,7 +184,7 @@ Let's take that into the walkthrough. We'll read the starting assumptions, look 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
 | $10,000 growing at 10% for ten years | Hypothetical: $10,000 → about $26,000 at 10%; about $62,000 at 20% | Side-by-side ten-year examples; before tax, not forecasts. |
-| look at an early year and a later year | Read the return path: early year → later year | Highlight two positions on an illustrative path without importing preset rates. |
+| Look at an early year and a later year. | Read the return path: early year → later year | Highlight two positions on an illustrative path without importing preset rates. |
 | A lifestyle costing $100,000 today | Hypothetical 3% inflation: $100,000 today → about $134,000 in 10 years | Keep purchasing power fixed in the graphic. |
 | when the spending field asks for today's dollars | Enter today’s cost once; let the model apply inflation. | Brief unit callout. |
 | Funding through 85 asks something different from funding through 95 | Horizon: include the surviving spouse’s years | Show 85 and 95 as comparison endpoints, not recommendations. |
@@ -247,7 +221,7 @@ Read the plan’s date, spending, horizon and calculation status. Trace one mean
 
 Now that we've brought together your starting information and the assumptions, we can look at the first answer. This is the part where it's easy to go straight to a percentage and decide whether the plan is good or bad. I want to show you how to read a little further than that, so you understand what's supporting the result and what your next useful decision actually is.
 
-We'll begin with the retirement date, spending amount and final age beside the result. Those tell us what the calculation tested. And we need the result to include the inputs we just entered before we use it to judge a change.
+We'll begin with the retirement date, spending amount and final age beside the result. Those tell us what the calculation tested.
 
 The date you choose tells the plan when you want to retire. The calculated earliest date tells you when the model meets the standard you're using. Putting 52 into the client's plan doesn't, by itself, show that they can retire at 52.
 
@@ -255,7 +229,7 @@ A projection follows one possible future using the assumptions in the plan. A si
 
 Let's say 790 out of 1,000 test futures cover the planned spending through age 95. That's 79%. The other 210 don't cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
 
-Those are example numbers. They aren't our example household's results. They aren't a prediction of exactly what will happen to your family. And the unsuccessful paths aren't necessarily small problems that a tiny spending cut would fix. We need to understand where the funding becomes difficult.
+Those are illustrative numbers, not our example household's result or a prediction for your family. The unsuccessful paths aren't necessarily small problems a tiny cut would fix. We need to understand where funding becomes difficult.
 
 Also read the result's status. An account balance can be current while the calculation still reflects earlier inputs. Don't judge an improvement until the result includes the change you're looking at.
 
@@ -267,7 +241,7 @@ Once the facts are right, the response needs to fit the problem we found. If the
 
 I like to keep those comparisons to one decision at a time because then we can explain the difference. More saving uses money today. Working longer changes the life you're planning. A lower spending figure only helps if the household is willing to live with it. A higher percentage on its own doesn't settle those trade-offs.
 
-If the first answer is strong, don't invent problems just to keep improving the number. Explain what supports it and identify the limitation that still matters. If it's weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
+If the first answer is strong, explain what supports it and the limitation that still matters. If it's weak, find the biggest fixable issue. You don't need to keep changing things just to chase a higher percentage.
 
 Before we move on, you want to be able to explain what the result tested, where the money comes from in that first retirement year, and which change is worth comparing. Keeping the current plan is a useful answer too, when you understand what supports it.
 
@@ -311,85 +285,56 @@ Verify what a normal month costs and what remains after existing commitments. Ch
 
 ### Read aloud
 
-We've got a starting picture in the plan. Now we're going to spend some time on the money available each month, because that's what funds the choices coming next. Before we decide how fast to build cash, pay off debt or invest, we need an amount that agrees with what's actually happening in your accounts.
+Our starting plan says there's money available each month. Now we're going to check whether that agrees with what's actually happening in your accounts. That's the amount we'll use to build cash, pay down debt and invest, so it needs to hold up beyond a good-looking month.
 
-A single month can make this look simpler than it is. Let me show you what I mean.
+A single month can leave out quite a bit. Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. Accounting for it throughout the year gives you a way to have the money ready when it's due.
 
-Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. You could leave it out of eleven months and then feel like the twelfth month ruined your savings plan. Or you could account for it throughout the year and have the money ready when it's due.
+I'd look across a full year when you have the records. That brings back annual insurance, gifts and other costs that are easy to forget. If your spending recently changed in a lasting way, use the newer records too. The average from before a move or an ended payment may no longer describe your life.
 
-The same kind of mismatch can happen with income. When we start from gross pay, taxes and other payroll deductions still need accounting for. When we start from the deposit in your bank, they've already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
+For a large expense, ask whether it will happen again. An annual premium belongs in the normal budget. A one-time renovation belongs on the timeline. We'll work on those future events shortly.
 
-Sales aren't all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. In our example, the partner's income is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
+Watch the transfers as you review the spending. If you buy groceries with a card and then pay the card from checking, the groceries are the expense. The card payment settles it; we haven't bought them twice. Payments on an older unpaid balance still need room with the existing debts.
 
-That's why I'd look across more than one month. A full year helps bring back the costs that are easy to forget, like annual insurance, gifts and expenses around the holidays. The bills still need money even when they don't show up on this month's statement.
+Money moved to savings or investments also has a different job from money spent on your lifestyle. We included existing saving in the starting picture. Keep it separate here so we can see what you're already doing before assigning anything extra.
 
-An average also needs some judgment. If your spending recently changed in a way you expect to continue, the past year may no longer describe your life. Maybe you moved, or a recurring payment ended. Use the newer records to understand the change, but still check for annual bills that haven't come around yet.
+Our original example left $500 after the client's contribution and the other listed costs. Where did that money actually go? It might be accumulating in checking, moving into savings or paying for something we missed. Looking across a few months helps us follow it.
 
-And don't remove an expense just because it was large. Ask whether it's likely to happen again. A one-time renovation is different from an annual premium. We'll put major future purchases on the timeline later, so they stay in the plan without being treated as something you buy every month.
+If checking keeps falling or an unpaid card balance keeps growing, I'd find the difference before adding another regular investment transfer. Check the income, deductions, spending and existing transfers against their sources. Money set aside for a future tax bill may still appear in savings, but it isn't available to invest again.
 
-Let's say you buy groceries with your credit card and then pay the card from checking. The groceries are spending. Paying the card settles that purchase; it isn't another grocery expense. If we add up both transactions as new spending, we've counted the same cost twice.
+The timing can also be the problem. A monthly total can work while checking is short before payday. You may need more money there between paychecks, a later saving date or a different bill due date. Cash needed for those bills hasn't become spare just because it's in the account today.
 
-An older card balance you're still paying off is different. That repayment needs room in your cash flow too. We'll keep it with the existing debts and their required payments, separate from this month's purchases.
+With variable income, I wouldn't base a regular transfer on the best business month. Look at what slower periods can carry after costs and taxes. You can use a regular amount that fits those periods, then decide what to do with extra income after it arrives.
 
-Something else you'll see leaving checking is money transferred to savings or investments. That has a different job from money spent on your lifestyle. Keeping those movements separate helps us see how much you're already saving, before we decide what anything left over can do.
+Once we trust the starting amount, we can ask whether there's a spending change you'd actually want to keep. Keep the spending that makes the life worthwhile to you. Removing every vacation and hobby may improve a projection, but you still have to live with that budget.
 
-Our example household earns about $19,417 a month between them. For this example, we're allowing $4,000 a month for taxes. That's an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
+I find it useful to look at the records through three choices: Keep, Cut or Reduce. Keep what is necessary or worth the money to you. Cut what you wouldn't choose again, such as an unused subscription. Reduce the cost of something you still want, perhaps with a cheaper phone plan or fewer meals out.
 
-Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before the client's retirement contribution.
+I'd start with recurring bills. You make the change once and it can keep helping. Check the switching fees and any introductory price that ends later. With insurance, compare the coverage and deductibles too; a lower premium may leave you carrying a larger bill when something goes wrong.
 
-The employer money adds retirement savings without adding money for bills. The client contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
+For bigger changes, think about the whole effect on your life. Cheaper housing may add a commute or take you away from family support. Selling a car may require cash to clear its loan. We want the cost and benefit of the change you're actually making.
 
-So we've calculated $500. The next question is whether that agrees with their accounts. It might be accumulating in checking, moving into savings or paying for something missing from the plan. Looking across a few months helps us follow it. A balance just before payday can be very different from one just after, even when the monthly totals are right.
+Our example household's original living spending is $10,800 a month. We're going to compare a $1,200 reduction, bringing it down to $9,600. With everything else unchanged, that takes the amount available from $500 to $1,700.
 
-If checking keeps falling or an unpaid card balance keeps growing, I'd find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
+That increase comes from spending less, not from assuming a better investment return. But we haven't established which bills make the reduction possible. Before relying on it, the household needs to choose those changes and when they begin.
 
-That leads to another practical issue: the timing of the bills. The monthly total can work while checking is still short before the next paycheck. You may need to leave more there between paydays, schedule saving later or ask about a different bill due date. Money needed for those bills hasn't become spare just because it's in the account today.
+Some savings won't start until a contract ends or a renewal arrives. Keep the current cost in today's picture and put the reduction on its actual timeline. Your normal budget still needs to describe a life you'd willingly maintain; the temporary bare-bones budget for an income interruption has a different purpose.
 
-Variable income makes that timing question more important. I wouldn't base a regular transfer on your best business month. I'd look at the range of income you've actually had and the costs that continue through slower periods. You could use a regular amount those periods can carry, then decide what to do with extra income after it arrives and its costs and taxes are covered. A good month can help the plan without every month depending on one.
+Earning more is another option. Look at what it leaves after childcare, travel, business costs and any additional tax. More work also uses time. A proposed raise can be compared, but it isn't money available today.
 
-Once we trust the starting amount, we can ask whether there's a spending change you'd actually want to keep. This is where you have a decision to make about the life you want the money to support.
+A withholding change can also make a paycheck larger without reducing the tax ultimately owed. Check the expected obligation before treating the difference as new investing money. Otherwise this month's improvement could leave a later bill unfunded.
 
-Keep the spending that makes the life worthwhile to you. Taking every vacation and hobby out may improve a projection, but you still have to live with that budget.
-
-I find it useful to look at the records through three choices: Keep, Cut or Reduce. That gives us a way to think through the spending without treating every expense as something to get rid of.
-
-Keep what is necessary or worth the money to you. Cut what you wouldn't choose again, such as an unused subscription. Reduce the cost of something you still want. Maybe a cheaper phone plan, or fewer meals out while keeping the ones you actually enjoy.
-
-Insurance takes a little more care. A lower premium could be a better price, or it could mean less coverage and a larger bill for you when something goes wrong. Compare the coverage and deductibles as well as the monthly price. The saving needs to be worth any extra cost you're agreeing to carry.
-
-For a simple example, reducing a recurring bill by $40 a month frees up $480 over a full year. There's no investment return in that calculation. It's money that would otherwise have left your account, provided the lower cost continues and you haven't added another expense to replace it.
-
-That's why I'd look at recurring bills before spending hours trying to squeeze a few dollars out of every purchase. You make the change once, and it can keep helping the cash flow. Check for switching fees or an introductory price that ends soon, so you know how much you'll really save.
-
-For example, moving somewhere cheaper might lower the housing bill, but add a longer commute or move you away from people who help with the kids. A less expensive car might reduce a payment, but selling the current one could require cash to clear the loan. Compare the whole change, not just the bill that gets smaller.
-
-Our example household's original living spending is $10,800 a month. With the other costs and the client's retirement contribution already accounted for, they have $500 left. We're going to compare reducing that living spending by $1,200 a month, bringing it down to $9,600.
-
-If everything else stays the same, that gives them $1,700 for their other priorities instead of $500. They haven't increased their income or changed an investment assumption. They would be keeping more of the money they already earn.
-
-For now, that $1,200 is a reduction we're testing. We haven't established which bills would make it possible. Before they rely on it, they need to choose those changes and when they begin. The same is true in your plan: the lower spending number needs an actual change behind it.
-
-Some changes won't start immediately. You might have a contract to finish or a renewal coming up. Keep the current cost in the starting picture until it changes, and include the future reduction at the time you expect it. We'll work through those dated changes in Life Events.
-
-Your normal spending after this review should still describe a life you're willing to live. It's different from the bare-bones number we'll use to size the reserve. You might temporarily pause a family trip or a hobby during an income interruption without deciding to remove it from every future year of your plan.
-
-Earning more is another option. Look at what the additional income would leave you after its costs. More work may come with childcare, travel, business expenses, or less time at home. A proposed raise also isn't income you have today. Compare the change, but don't commit the money before it's reasonably available.
-
-A withholding change can also make a paycheck larger, but it needs a different kind of care. You may simply be paying less toward the same tax bill during the year. Until we've checked the expected obligation, that isn't necessarily money available to invest. Otherwise we'd improve this month's cash flow by leaving a later payment unfunded.
-
-We'll use the walkthrough to check your spending against the records and compare a change you would really make. Any cancellation, renewal or income step still needs to happen before its saving is available. What we're taking into the next lesson is the amount you actually have to work with. Then we'll decide how much of that money needs to build your Reserve before we settle the debt and investment choices.
+We'll use the walkthrough to reconcile your spending and test a change you would really make. Any cancellation, renewal or income step still needs to happen before its saving is available. Then we'll take that usable monthly amount into the Reserve decision.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an additional expense for our example household. |
-| The groceries are spending. | Count the purchase once; the card payment settles it. | Connect one purchase to its settlement. |
-| The employer money adds retirement savings | Employer money stays outside the household spending pool. | Keep it outside the cash bridge. |
-| the amount left for their other priorities is $500. | Original example: $1,275 − $775 = $500 | Footnote the $4,000 teaching tax provision. |
-| three choices: Keep, Cut or Reduce. | Keep · Cut · Reduce | One example per choice; no category wall. |
-| bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Label “proposed reduction”; no invented cancellations. |
-| A withholding change can also make a paycheck larger | Withholding changes timing; verify the tax still due. | Small callout next to the relevant action. |
+| Say your car insurance costs $1,200 a year | Generic: $1,200/year ÷ 12 = $100/month | A separate annual-premium example, not another household invoice. |
+| The card payment settles it | Count the purchase once; separate old-debt repayment. | Connect one purchase with its settlement. |
+| Where did that money actually go? | Trace the monthly remainder to the records. | Follow the existing answer; do not replay the starting cash calculation. |
+| three choices: Keep, Cut or Reduce. | Keep · Cut · Reduce | Use one short cue per choice. |
+| bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Keep the proposed spending change distinct from current records. |
+| without reducing the tax ultimately owed | Withholding changes timing; verify tax still due. | Keep beside the relevant action. |
 
 ### Walkthrough handoff — not spoken
 
@@ -427,15 +372,11 @@ In this lesson, we're going to figure out how much cash makes sense for your hou
 
 When you believe in Bitcoin, holding cash can be frustrating. You look at that money and think about what you could be buying instead. But think about what happens if your income stops while Bitcoin is down. Your bills still need to be paid. A reserve gives you a cushion so an unexpected expense or a lost paycheck doesn't immediately become a decision to sell an investment.
 
-The amount should fit the problem you're trying to cover. More cash isn't automatically better. We want enough accessible money to handle a difficult period without leaving more out of the long-term plan than the household needs.
-
 I'd start with what the household would actually need during that interruption. We can call that bare-bones spending: the amount you could realistically run on through a job loss, business slowdown or another stressful period.
 
 Housing, food, utilities, insurance, healthcare and required debt payments all belong in that number. Some other spending could pause temporarily. The distinction is which costs keep going while you work through the interruption.
 
-This number can be different from your normal spending. We're not pretending you will live at this reduced level forever. We're asking what you could maintain while you get through the interruption.
-
-We also want that number to be usable. If minimum debt payments are already included, adding them again would overstate the need. And making the budget so lean the family couldn't follow it would understate it. Neither would give us the cash target we're looking for.
+This is a temporary budget you could actually follow, which can be different from your normal spending. Include the required debt payments once and keep enough for the household to function through the interruption.
 
 Once we have the monthly amount, the question becomes how long we want that protection to last.
 
@@ -443,13 +384,11 @@ Three, six, or twelve months or more are starting points. None of them is the au
 
 I would think about how long replacing the lost income could take, and whether another income would continue. Two paychecks don't necessarily provide two independent sources of protection if both jobs face the same slowdown. Dependents and bills that are difficult to change belong in that decision too.
 
-More income uncertainty, a longer job search, dependents, and higher fixed bills are reasons to compare more time. When income is reliable and the reserve already fits the household's needs, continuing to add cash may not be the most useful next step.
-
-Also think about what could happen together. A business slowdown and a Bitcoin decline don't have to take turns. We want the reserve to remain usable in the situation we're planning for.
+A business slowdown and a Bitcoin decline can happen together. We want the reserve usable through that situation. Once it fits the household's needs, though, continuing to add cash may have less value than its next job.
 
 For our example household, we're testing six months of essential spending. Their essential monthly amount is $7,200, including required household debt payments. That puts the target at $43,200.
 
-Six months is the comparison used in this example. The calculation doesn't tell us that six is the right number for every household. The reason for choosing the months matters just as much as the multiplication.
+Six months is what we're testing for this household. Your reason for choosing the months matters as much as the multiplication.
 
 That gives us the target. The next part is figuring out how much of the money you already have is available for this job.
 
@@ -463,8 +402,6 @@ If your checking balance keeps moving as pay arrives and bills leave, that doesn
 
 Access matters just as much as the balance. An investment you can't readily use, Bitcoin pledged to a lender or a credit line that might be reduced is different from cash you can use when needed. Calling a volatile investment your Reserve doesn't change how its price behaves when the household needs it.
 
-You might decide that only part of an account belongs to the reserve. What matters is how much is actually available after its other commitments.
-
 Now we can connect that $11,200 gap to the monthly cash flow from the last lesson. This is where the target becomes a funding decision.
 
 At $500 a month, our example household's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. The question I'd think about is whether you could carry that gap for that long and still get through the interruption you're planning for.
@@ -475,7 +412,7 @@ I'd put more weight on accessible cash when there are dependents or the househol
 
 For that household, it may make sense to build the reserve faster and put less toward extra debt payments for a while. Required payments still need to be made. The trade-off is that the expensive debt stays outstanding longer, so we need to revisit the pace as the cash cushion improves.
 
-Having dependents doesn't decide the answer by itself. Look at the cash already available, whether another reliable income would continue, and how long the family could cover essentials without more borrowing. Those are the facts that can make liquidity more important than faster debt repayment.
+Dependents alone don't decide that split. The cash already available and any continuing income can change how urgently the Reserve needs building.
 
 The $500 pace belongs to the course's reduced-spending example. It isn't proof that the household has made the spending changes or set up a transfer. A faster funding pace also needs a real source of money. Writing a larger amount in the plan doesn't create that money.
 
@@ -528,66 +465,48 @@ Sources: APP, CASHFLOW, CLIENT_THEMES, DICTATION, FOUNDATION
 
 ### Do this
 
-Add one expected change with its amount, timing and funding. Keep an unchosen possibility in a separate scenario.
+Choose the next expected change, record its timing and cost, and explain its funding and fallback.
 
 ### Read aloud
 
-So far we've been working with what your household looks like today. But retirement planning also needs room for things you already expect to change. In this lesson, we'll bring those changes into the timeline and look at how they'll be funded. That could be a vehicle, college, a move or one person's work changing. The useful part is seeing the cost before it arrives.
+So far we've been working with what your household looks like today. In this lesson, we're going to include something you already expect to change and decide how to prepare for it. The useful part is seeing the cost and its funding before the date arrives.
 
-Our example household expects to replace a vehicle in about three years. They're also considering a renovation in two years. The vehicle is something they intend to prepare for. The renovation is still a decision. They want to see what it would mean before committing to it.
+Take a vehicle you expect to replace in a few years. You don't need the exact model picked out to start planning. You do need an estimate, a likely date and an idea of how flexible that commitment is.
 
-That's the distinction between an expected Life Event and a scenario. Include the vehicle in the plan they're building toward. Compare the renovation separately until they decide to do it. A real cost stays in the plan even when it makes the projection look worse. And running the numbers on an idea doesn't mean you've committed to it.
+An expected Life Event belongs in the plan you're building toward. Something you're only considering stays in a separate scenario until you choose it. Comparing an idea doesn't commit you to it, and an expected cost shouldn't disappear just because it makes the result less attractive.
 
-To put either one into a comparison, we need more than the price. We need to know how the change happens. A purchase happens once; a recurring expense continues. Income may change on a particular date and change again later. Those describe different needs even when the dollar amount looks similar.
+With the vehicle, we'd record a one-time purchase. A new recurring expense or a work change would need its own start and, where relevant, end. For a couple, one person's income changing doesn't automatically change the other person's paycheck.
 
-For a simple illustration, paying $30,000 in cash for a car is a one-time cost. It doesn't mean you spend an extra $30,000 every year. Financing a car is different: some money may leave now as a down payment, and the loan payments continue afterward. This isn't a vehicle quote for our example household. It's a way to see why the amount alone doesn't explain the event.
+The amount needs a clear basis too. If the field uses today's dollars, enter today's estimate and let the model apply inflation. Keep the source so you can replace that estimate when you have a better quote.
 
-The same applies when a cost ends. A recurring expense stopping next year should affect the months after it stops, not make your current spending look lower before it happens. A temporary expense should also have an end instead of continuing for the rest of the plan.
+Now, where does the vehicle money come from? Putting a cost on the timeline doesn't set the money aside. If you'll save ahead of time, that saving uses part of your monthly available cash. When the purchase happens, you spend the balance you've built. We don't charge the whole purchase to income again as though the savings weren't there.
 
-For income, think through both people in the household. One person might reduce their hours while the other keeps working. Or you might expect a temporary break followed by different work. Describe the income change you actually intend instead of using one retirement date to stand in for everything.
+You might use existing investments instead. Then we need to know which account is available and what else that money was supposed to fund. A taxable sale may need to raise more than the purchase price to cover its tax cost.
 
-The price estimate has a timing question too. If it's in today's dollars and Orange Plan applies inflation, increasing it yourself first could count the increase twice. A quote for a future date is different. Keeping the estimate's source lets you update it when you have better information.
+Or you could borrow. That can reduce the cash needed upfront, but the down payment and later loan payments still need funding. We'll compare that obligation in Debt. Here, the purchase and its funding need to describe the same transaction once.
 
-Once the cost and date are clear, we can look at where the money comes from. Putting the expense on the timeline tells the plan it needs paying. It doesn't mean you've started saving for it or that the account you have in mind will have enough money available then.
+You don't have to explore every method. Start with the one you intend to use, then ask what would make it difficult.
 
-You might pay it from income when the time comes. That can work when the amount fits alongside the other bills and commitments in that period. Look at what will still be left, instead of assuming future income can cover both the event and all the contributions you're making now.
+If Bitcoin is funding the vehicle, what happens if its price is down when you need to buy? You might use another available resource, spend less or keep the current vehicle longer. The answer needs to be something you could actually do.
 
-For a larger cost, you may want to set money aside ahead of time. In that case, there are two connected parts: the amount you save before the event and the amount you spend when it happens. The saving uses some of your available cash flow along the way. When you later spend that saved money, you're using the balance you've built, not paying for the same purchase a second time out of income.
+A flexible date gives you more choices than a fixed deadline. The more important it is that the full amount be there on a particular day, the less I'd want it to depend on a favorable market at exactly that time. That doesn't mean every future goal has to sit in cash now. It means the funding choice and review date need to fit the commitment.
 
-You could instead plan to use existing investments. Then we need to know which money is available and what else it was supposed to fund. Selling from a taxable account may also create a tax cost, so the amount you need to sell can be different from the amount you need for the purchase.
+In the walkthrough, we'll follow your event into the year it affects. We'll check when it happens, which money pays for it and what remains afterward. There are extra details there for a home move or for reconciling a planned change once it has happened.
 
-Borrowing is another comparison. It can reduce how much cash you need up front, but it adds a repayment obligation. We'll work through the financing decisions in Debt. Here, make sure the purchase, the borrowed money, and the payments describe one transaction. Don't add a fully cash-funded purchase and then add loan payments as though the entire purchase still came from your own cash.
-
-If you're selling a house, its market value isn't all money you can spend. The mortgage still needs to be paid off, and there can be selling costs and taxes to consider. What remains may help fund the next home, but it isn't automatically available for another goal too.
-
-And when you're buying the next home, the new mortgage is only one part of the change. There may be cash needed upfront, and insurance, property taxes, utilities and maintenance can change too. Those costs help tell you whether the move actually improves cash flow in the way you hoped.
-
-How flexible you are makes a difference here. A cost you could move back a year gives you more choices than a fixed deadline you really need to meet. That's why I'd think about a later date, a lower cost and another funding source while you're making the plan, before any of them becomes urgent.
-
-That matters when Bitcoin is part of the funding plan. You may be comfortable keeping money invested for an expense several years away. But say Bitcoin is down when the bill arrives. Would you still make the purchase, sell something else, use income, or delay it?
-
-The more important it is that the full amount be there on a particular date, the less I'd want that payment to depend on a favorable market at exactly the right time. That doesn't mean every future goal has to sit in cash today. It means you need a funding choice that fits the commitment, and a time to review it as the date gets closer.
-
-In the walkthrough, we'll follow the event into the year it affects. We want to see it happen once, at the intended time, with the right income still arriving. Then we can look at the account funding it and what remains afterward. That's how we check the event's meaning instead of just checking that a row was added.
-
-There's one update to remember when that future date becomes today. Let's say a recurring bill was expected to end, and it has now ended. Your current spending should reflect its absence. The old future event needs reconciling too, or the projection could reduce spending a second time. The same idea applies when a planned purchase becomes an owned asset or a proposed loan becomes a real debt.
-
-Let's add the next expected change and work through that funding in the walkthrough. We'll keep an unchosen renovation in its separate comparison and leave any funding question visible. If you're helping with college, the next situation lesson works through that commitment over several years. Otherwise, you're ready for Debt, where we'll decide what the existing payments and any new financing need to do for the plan.
+For now, choose the next expected change, put an amount and date around it, and explain the funding. If you're helping with college, the next situation lesson works through that commitment across several years. Otherwise, we'll take the expected costs into Debt so we're deciding about payments with the rest of your life still in view.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| The vehicle is something they intend to prepare for. | Expected vehicle → Life event · Possible renovation → Scenario | Fictional household; preserve relative timing only. |
-| paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the example household vehicle. |
-| If it's in today's dollars and Orange Plan applies inflation | Amount · Date · Frequency · Dollar basis | Reveal alongside entry explanation. |
-| there are two connected parts | Save before the event → Spend the balance when due | Show one pot of money changing over time. |
-| its market value isn't all money you can spend. | Home sale: value − debt − costs − any tax | No invented tax figure. |
-| Your current spending should reflect its absence. | When a change happens: update current facts; reconcile the old event. | Show one effect, not a duplicate reduction. |
+| Something you're only considering stays in a separate scenario | Expected change → Plan · Possible choice → Scenario | One simple distinction; no second worked household story. |
+| If the field uses today's dollars | Amount · Date · Frequency · Dollar basis | Reveal as the event is described. |
+| you spend the balance you've built | Save before the event → Spend the balance when due | The same money changes jobs over time. |
+| what happens if its price is down when you need to buy? | Funding fallback: another resource · lower cost · later date | Connect flexibility to the actual commitment. |
 
 ### Walkthrough handoff — not spoken
 
-[W02, chapter 6](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md): expected expense, income change, affected year and planned-to-current reconciliation. Education support continues in chapter 7 only when applicable.
+[W02, chapter 6](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md): expected event, affected year and funding; conditional branches cover income changes, housing and planned-to-current reconciliation. Education support continues in chapter 7 only when applicable.
 
 ### Member checkpoint
 
@@ -626,13 +545,9 @@ To compare them fairly, we need to separate the payment you have to make from ex
 
 We also need to know what that payment does. Principal is the amount still owed. On a loan that pays down over time, some of the payment covers interest and some reduces principal. An interest-only payment can keep the loan current without reducing the original amount at all.
 
-Our example household's home-equity line illustrates that. At $46,000 and the example's 8% rate, interest alone is about $307 a month. Paying that amount doesn't repay the $46,000. They need the date when the payment changes or the principal becomes due, and a way to handle it.
+With an interest-only balance, keep the date when payments change or principal becomes due beside the payment. Borrowed home equity still has to be repaid, and the lender has a claim against the home under the agreement. We'll inspect that separate example in the walkthrough if it applies to your debts.
 
-Even though the loan is based on equity in their home, the cash they received is borrowed money. It isn't a withdrawal from a savings account. The lender has a claim against the home under the agreement, and the principal still needs repaying. That's why we want the repayment terms beside the interest payment.
-
-Putting the required payments beside income helps show how much of the paycheck is already committed. Our example household's listed payments total about $3,342 against about $19,417 of gross monthly income, or roughly 17%.
-
-That debt-to-income ratio describes payment pressure before tax and other deductions. It doesn't tell us what is left. Their original cash-flow example leaves only $500 after living costs, taxes and the client's existing contribution. A low-looking ratio doesn't create money for another payment.
+A debt-to-income ratio can show how much gross pay is committed to required payments. The available cash we verified earlier tells us what remains after all the household's costs and existing saving. Use that amount for the extra-payment decision.
 
 The difficult-month version matters too. If one income stops, the bills don't all stop with it. We need to know what continues and which accessible money pays it. In our Reserve example, the $7,200 essential-spending amount already includes required debt payments, so we don't add those again.
 
@@ -652,9 +567,7 @@ Keeping the mortgage can be reasonable when the payment fits and retained money 
 
 The effect on the monthly budget is another reason to look at the actual terms. Extra principal may shorten the mortgage without lowering next month's required payment. Property taxes, insurance and upkeep will still be there after it's gone.
 
-For debts between those extremes, compare the rate with the monthly flexibility and the money needed to clear them. Our example household's 6.7% auto loan has a $600 payment. Their 7.4% equipment loan has a $480 payment. Ranking the rates alone doesn't tell us what each payoff does for the household or business.
-
-For the equipment loan, the useful income number is business cash left after operating needs. For the car, it's whether removing that payment matters enough to justify the cash used. Keeping the agreed payment can be a deliberate choice when that cash needs to stay available elsewhere.
+For other debts, compare the rate with the monthly flexibility and cash needed to clear them. A business loan also needs the operating cash available after its other needs. Keeping the agreed payment can be deliberate when the money would do more for the household elsewhere.
 
 Refinancing is another possibility. Compare the complete replacement loan: fees, rate, term, security and remaining principal. A lower payment can simply extend the obligation. Consolidating card debt also doesn't help if the cards build up again afterward. Securing the new loan with the home changes what is exposed.
 
@@ -664,7 +577,7 @@ When a payment ends, check the money it actually releases. The example's $405 mi
 
 The walkthrough will let us read the chosen extra payment beside the Reserve and saving already in place. If the extra money would do more for the household elsewhere, we can leave the debt on its agreed payments and use it there. We're looking for a choice the cash flow can actually carry.
 
-Have the lender statement beside you as we do that, including any payment-change or maturity date. A missing contract term stays a question to resolve, and any chosen payment still needs arranging with the lender; the plan doesn't send it. Next we'll look at new financing and ask when taking on a loan is worth the obligation it adds.
+Have the lender statement beside you as we do that, including any payment-change or maturity date. A missing contract term stays a question to resolve, and any chosen payment still needs arranging with the lender; the plan doesn't send it. Next we'll look at a new financing decision if you have one, then write the repayment rules for the debts you're carrying.
 
 ### Text overlays — not spoken
 
@@ -672,7 +585,6 @@ Have the lender statement beside you as we do that, including any payment-change
 |---|---|---|
 | Their current minimum is $405 | Fictional card: $13,500 · 20.9% · $405 minimum | Keep statement approximation separate from app calculation. |
 | Only about $170 remains to reduce principal | Approximate first month: $405 − $235 interest ≈ $170 principal | Before new purchases or fees. |
-| or roughly 17%. | Required payments ÷ gross income ≈ 17% | Label teaching ratio; not underwriting approval or surplus. |
 | They're considering $500 for the Reserve and $1,200 extra for the card. | $1,700 = $500 Reserve + $1,200 extra card | Reduced-spending example only. |
 | Adding $1,200 produces a $1,605 card payment | $405 required + $1,200 extra = $1,605 total | Minimum was already deducted before available cash. |
 | Extra principal may shorten the mortgage | Mortgage payoff: principal ends; taxes, insurance and upkeep continue. | Show the continuing costs separately. |
@@ -703,95 +615,48 @@ Sources: BRAIN, CLIENT_THEMES, DEBT, OWNER, PRIMARY
 
 ### Do this
 
-Compare one real financing proposal with cash, a sale and a smaller or delayed purchase. Follow payments through final repayment before choosing.
+When financing is a real option, compare its obligation with cash, a sale and a smaller or delayed purchase. Continue without a proposal if you are not considering borrowing.
 
 ### Read aloud
 
-We've looked at the debt you already have. In this lesson, we're going to consider when a new loan might be worth it. Borrowing can help you keep cash or avoid selling an investment, but it also gives that money another obligation to support. I want to walk through the whole decision, from the reason you're borrowing to how the loan eventually gets repaid.
+We've looked at the debt you already have. Now let's consider a new loan. Borrowing can keep cash available or let you avoid a sale, but the retained money comes with payments and an eventual repayment. I want you to be able to explain why taking on that obligation helps your plan.
 
-Let's say our example household is considering a $30,000 project. We'll keep the purchase amount and date the same while comparing cash, a sale and one relevant financing offer. A smaller project or a delay stays on the table too. First, what happens if they pay cash?
+If you aren't considering financing, you don't need to go looking for a loan to complete this section. Keep your existing debt choices and move on to the borrowing-rules lesson, where we'll check what those obligations need. This comparison is here when you have a real decision to make.
 
-They have $32,000 assigned to the reserve. Taking the full project cost from that money would leave $2,000 there. We have avoided a new loan, but we've also used money that was supposed to keep the household going through an interruption.
+Let's use one proposed project. Our example household is considering spending $30,000. We'll compare paying cash, selling an investment and one relevant financing offer, with a smaller project or a delay available too.
 
-That consequence belongs in the comparison. “We have enough in the account” isn't the same as “we can use it without affecting anything else.” They might have another resource available, but we need to identify it and its other commitments instead of assuming every account balance is spare cash.
+They have $32,000 assigned to the Reserve. Taking the full project cost from that money would leave $2,000 there. Avoiding a loan would also use most of the cash meant to protect the household through an interruption.
 
-Selling an investment is another option. In a taxable account, look at the gain and any tax associated with the sale. The amount sold may need to be larger than the $30,000 needed for the project. It depends on the actual purchase history and the household's tax situation; we shouldn't make up a tax cost to finish the example.
+A sale needs a different check. In a taxable account, the amount sold may need to cover both the purchase and tax on the gain. Use the actual purchase history and tax situation; don't invent a tax cost to finish the comparison.
 
-The payment side is just as important. In the reduced-spending example, the available $1,700 is already being compared as $500 for the Reserve and $1,200 for extra card payments. Another loan payment needs room. We'd need to know which spending, contribution or project choice changes to provide it.
+Financing preserves cash initially, but another loan payment needs room. The proposed $500 Reserve and $1,200 extra-card plan already use the example's $1,700 available. They'd have to change a commitment or identify another source before adding a payment.
 
-For now, they may decide to leave the project as a possibility or do it later. Borrowing doesn't have to come out ahead.
+And the retained money needs to keep doing the job that justified borrowing. Preserving a Reserve and then investing all of it in Bitcoin changes the protection while leaving the debt in place.
 
-That's why the purpose of the retained cash matters. If you borrow to preserve a Reserve and then invest the entire Reserve in Bitcoin, you've kept the debt but changed the protection the borrowing was supposed to preserve. The original reason for the loan no longer describes what the household is doing.
+You may expect Bitcoin to earn more than the loan costs. The return still won't arrive on the lender's schedule. Before relying on it, work out what pays the loan through a decline or several weak years. Borrowing to buy Bitcoin doesn't itself produce the dollars for those payments.
 
-You may believe your long-term Bitcoin return will exceed the interest on a loan. That's one reason a high-conviction household might prefer to keep an affordable loan and invest instead of paying it down early.
+The same applies to a business purchase. Look at cash after operating needs, maintenance and taxes, including a weaker period. If a personal guarantee makes the household responsible, that risk belongs in the household decision too.
 
-The important word is expected. The investment return isn't arriving on the same schedule as the loan payment.
+A lower payment doesn't settle the comparison. It might mean a longer term or principal still owed at the end. Read the fees, changing rates, final balance and repayment source together. The contract lesson works through those payment structures and the differences between specific lending products. Use the branch that matches your offer before relying on it.
 
-Bitcoin could do well over several years and still be worth much less next month. The loan needs support during that period too. So before relying on the expected return, we need an answer for where the payments come from while we wait, and how long that source can carry them in a weak market.
+Borrowing may postpone a taxable sale, but it adds interest, fees and other risks. Later repayment may still require a sale. We'll compare selling and borrowing across retirement in the income section; here we're deciding whether this particular obligation is worth taking on.
 
-Borrowing can also let you avoid selling an appreciated investment today. That can postpone realizing a gain from that sale. But we still need to compare the interest, fees, collateral risk, and eventual repayment with the cost of selling.
+We'll put the relevant alternatives beside each other in the walkthrough, keeping the amount and date of the need consistent. Any contract term the app doesn't represent needs separate analysis. A smaller purchase, a delay or keeping the current plan can be the complete answer.
 
-Avoiding a sale now isn't the same as making the tax disappear forever. If you later sell to repay the loan, the sale still needs to be considered. We'll build the fuller sell-versus-borrow comparison in the retirement-income session. Here, the useful question is whether preserving the asset is worth the new obligation.
-
-You might finance equipment, a business, or another productive asset because you expect it to help generate cash. Start with the money left after the costs of operating it, not the total sales you hope it will produce.
-
-That business cash still needs testing through an ordinary setback: a repair, a late customer payment or lower sales. You may need working capital as well as purchase money. Using everything for the down payment could leave the activity short of cash before it's had time to work.
-
-And the business label doesn't necessarily contain the risk. A personal guarantee can bring the obligation back to the household if the activity fails. That's part of understanding who is responsible before we call the financing affordable.
-
-If you borrow to buy Bitcoin, the Bitcoin itself doesn't provide the dollars for the loan payment merely because you own it. The repayment has to come from income, other resources, a sale, or another financing arrangement. State which one you're relying on.
-
-Whichever source you expect to use for repayment, its amount and timing matter. If the money arrives late or is smaller than expected, what would you do? A temporary loan needs an answer to that. Repeated borrowing to cover a continuing income-and-spending gap is a different problem.
-
-The repayment structure can change this decision quite a bit, even at the same interest rate. Let's use a separate, simpler example so you can see the monthly payment and ending balance together.
-
-Let's say you borrow $20,000 at 8% and repay it over five years, with no fees. A fully amortizing loan would require about $406 a month. Fully amortizing just means the scheduled payments pay off the balance by the end, assuming the terms and payments are followed.
-
-An interest-only version at the same rate would cost about $133 a month while the balance stays at $20,000.
-
-The interest-only payment is lower because you haven't been paying back the $20,000 as you go. After five years of interest-only payments, that principal is still owed. You need to have it available or have a workable way to repay it at the agreed time.
-
-In the amortizing example, total interest is about $4,332 over five years. In the interest-only example, keeping the full balance for all five years costs $8,000 in interest, and you still need to repay the original $20,000. Those are simplified examples, not loan offers. They show why we need the ending balance beside the payment.
-
-When you get to a real offer, those are the numbers we're trying to explain. Fees may be paid upfront or added to the balance. The rate or payment may change, and ending the loan early may cost something. Even a zero-interest promotion needs its full terms, because the introductory label doesn't explain what happens afterward.
-
-There are a few offer-specific differences I want you to recognize. You only need the ones that apply to the agreement you're considering; this isn't a reason to research every lending product.
-
-For a home-equity loan or line, your home is part of the agreement. A line may have a period when you can draw money and a later period when the balance must be repaid. The rate and payment can change, and access to further borrowing can be reduced under the terms. Read those parts before treating unused capacity as your fallback.
-
-A cash-out refinance is different from keeping the existing mortgage and adding a separate loan. It can replace the old mortgage itself. That means the new rate may apply to a much larger balance than the extra cash you wanted.
-
-So for someone with a low fixed mortgage, the comparison is the whole new mortgage against keeping the old one and funding the new need separately. Otherwise, looking only at the extra cash misses the cost of changing financing you already had.
-
-A non-purpose securities-backed line generally can't be used to buy or trade securities. It isn't interchangeable with a margin loan. Both can involve collateral requirements and forced sales, but their permitted uses and terms differ. A familiar brokerage name doesn't mean every loan against the account works the same way. Don't assume another intended investment purchase is permitted without checking the agreement.
-
-A loan from an employer retirement plan has its own rules as well. First check whether the plan allows it, then the repayment terms and what happens when employment ends. Failure to repay can produce a taxable distribution and possibly additional tax.
-
-Even when interest goes back into the retirement account, the arrangement isn't cost-free. The borrowed amount is no longer invested in the same way, payments need room in cash flow, and the effect on ongoing retirement saving matters. “I'm paying myself interest” doesn't answer all of those questions.
-
-Tax treatment needs to fit the actual transaction too. Keeping an investment avoids selling it at that moment, but later sales, collateral liquidation or forgiven debt can have consequences. Whether interest is deductible depends on the use of the money and the applicable rules, not simply which asset secured the loan. Bring that specific question to the tax review before relying on a benefit.
-
-Let's bring that back to the decision in Orange Plan. We're comparing one relevant financing option with cash or a sale, while keeping a smaller project or delay beside them. What matters is the cash left, the payments, the balance still owed and the repayment source. Any important contract term the app doesn't represent still needs separate analysis.
-
-If your offer has a large final payment, seller financing or a shared-appreciation formula, the unusual-financing lesson will help you work through that part before you depend on the comparison. Bitcoin collateral has its own lesson as well. The purpose is to understand the agreement you might use, rather than collect every possible strategy.
-
-We'll put the relevant alternatives side by side in the walkthrough. If a contract answer could change the decision, we'll leave it open until you have that answer; comparing an offer doesn't mean you've applied or qualified. Then we'll write the repayment and response rules that make a borrowing decision something the household can follow.
+If you do choose financing, bring back the payment source and the way it gets repaid. That's what we'll turn into usable borrowing rules next.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Taking the full project cost from that money would leave $2,000 | Fictional project: $32,000 Reserve − $30,000 = $2,000 left | Do not treat this as a chosen example household purchase. |
-| Another loan payment needs room. | Current proposal: $500 Reserve + $1,200 extra card = $1,700 | Show no unassigned payment capacity in that example. |
-| A fully amortizing loan would require about $406 a month. | Generic: $20,000 · 8% · 5 years · no fees | Reveal amortizing column. |
-| An interest-only version at the same rate would cost about $133 | Interest only: about $133/mo; $20,000 principal remains | Keep ending balance next to payment. |
-| total interest is about $4,332 | Amortizing: about $4,332 interest · Interest only: $8,000 + principal due | Use precise calculation in production, rounded speech. |
-| It can replace the old mortgage itself. | Cash-out refinance: price the whole replacement mortgage. | Simple old/new balance graphic. |
-| Whether interest is deductible depends on the use of the money | Tax treatment follows the actual use and rules. | No tax-saving claim without sources. |
+| Taking the full project cost from that money would leave $2,000 | Proposed project: $32,000 Reserve − $30,000 = $2,000 left | The project is still a comparison. |
+| another loan payment needs room. | Proposed $500 Reserve + $1,200 extra card = $1,700 | No unassigned payment capacity in this illustration. |
+| Read the fees, changing rates, final balance and repayment source together. | Payment + final balance + repayment source | Full amortizing/interest-only example lives in A3.2. |
+| A smaller purchase, a delay or keeping the current plan | A financing comparison can end with no new loan. | Show alongside the actual alternatives. |
 
 ### Walkthrough handoff — not spoken
 
-[W03, chapter 4](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): compare the same purchase and timeline, inspect terms and repayment. Use A3.2 for unusual contracts and A3.1 before relying on Bitcoin collateral.
+[W03, chapter 4](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): compare the same purchase and timeline, inspect terms and repayment. Use A3.2 for the payment structure and contract sections matching your offer; use A3.1 before relying on Bitcoin collateral. If no financing is proposed, continue to 3.6 without this capture.
 
 ### Member checkpoint
 
@@ -814,109 +679,66 @@ Sources: APP, BRAIN, DEBT, OWNER, PRIMARY
 
 ### Do this
 
-Write the borrowing limit, payment source, principal exit and response rules before taking new debt. Test household resources and each loan’s actual collateral terms separately.
+Record payment, principal exit and fallback for the debts you carry or propose. Complete A3.1 before relying on Bitcoin collateral; skip the debt work if no debt applies.
 
 ### Read aloud
 
-A loan can look manageable on the day you take it out. The part I want to work through now is what you'll do if income changes, Bitcoin falls or the repayment date gets close. Having those decisions in advance gives you something to follow when there's less time and more pressure. We'll start with the household's overall debt, then connect that to the actual rules for each loan.
+A loan can look manageable when you take it out. What I want to work through now is how you'll keep paying it, how it ends and what you'll do if the expected repayment doesn't work. Having those answers before you're under pressure makes the decision easier to follow.
 
-The household view begins with a balance sheet. That's just a list of the assets you own and the debts you owe. If we divide debt by assets, we get the debt-to-assets ratio. It tells us how much debt we're carrying relative to that included value.
+Use the debts you already have and any new proposal you're still considering. If you have no debt and aren't planning to borrow, there's nothing to invent here. You can go straight to Allocation with the money available after your other commitments.
 
-Here we're using asset value before subtracting debt. Net worth is what remains after the subtraction, so it answers a different question. Keeping those two numbers separate helps us understand what the percentage is really describing.
+For a new proposal, decide the most you are willing to borrow for its purpose. Then start with what pays the regular bill. That might be household income or business cash after operating costs. Then ask what repays the principal. A scheduled payment may gradually clear it, or you may owe a large balance on a particular date. Paying interest and repaying the loan are different jobs.
 
-Our example household has just under $2 million in assets and $444,500 in debt. That puts debt at about 22% of the included assets. Subtracting the debt leaves about $1.55 million of net worth.
+If the exit is a sale, give it an amount and a deadline, allowing for costs and tax. Then consider smaller proceeds or a delay. “We'll refinance” needs the same treatment: the new lender, acceptable terms and approval still have to exist when you need them. What would you do if they don't?
 
-Their home is part of that value. So are retirement accounts and money set aside for education and healthcare. Those assets have different access rules and other jobs. A home can make the balance sheet stronger without being a source of cash you can use quickly.
+Those dates need enough lead time to act. A rate reset, payment change or final repayment can require work well before money is due. Put the next review where you'll see it and name the information you'll need by then.
 
-Our example also leaves out the value of vehicles and business equipment, while including their debts. That makes it a simplified teaching balance sheet, not a complete appraisal of everything the family owns. In your own plan, check what the total includes before drawing a conclusion from the percentage.
+Now look at the resources supporting that answer. A household balance sheet includes assets with very different access rules and existing commitments. Home equity can strengthen net worth without providing cash for next month's payment. Money reserved for taxes or essential bills isn't automatically repayment money either.
 
-In the stress example, Bitcoin exposure falls 70%, the selected stock holdings fall 30%, and the home falls 20%. These are hypothetical declines we're using to test the position, not a prediction.
+A fall in asset values makes unchanged debt larger relative to what you own. During a rally, the opposite can make another loan seem easier to carry. Before borrowing more, look at whether the payments and repayment resources still work through weaker values or income. A better-looking percentage doesn't create another paycheck.
 
-The included assets fall from just under $2 million to about $1.22 million. The debt is still $444,500. That same debt now represents about 37% of the assets instead of 22%.
+The walkthrough shows that household comparison. A lender may have a separate test using only the collateral pledged for its loan. A strong household total doesn't override the contract or make restricted money available in time.
 
-This is why a debt level can feel comfortable after Bitcoin has risen and much less comfortable after it has fallen. During a rally, the percentage gets lower and it can look as though you've created room for another loan. But borrowing until the ratio is back where it started uses up some of the protection that the rally gave you.
+If Bitcoin backs your loan, complete the separate Bitcoin-loan lesson before relying on it. That's where we'll size the full debt through a severe decline, distinguish dedicated Bitcoin from what's already posted, and work through the lender's actual call, cure and liquidation terms. The proposed starting collateral is a decision after that sizing work.
 
-The reverse matters too. A higher debt-to-assets ratio after a decline doesn't automatically mean you should sell Bitcoin immediately. Go back to the payments, available cash, and actual loan terms. Can you continue carrying the debt, or is there a specific event that could force action?
+For any loan that can require an early response, connect the trigger to something you can actually do. You might repay part of the balance, add eligible collateral or make a controlled sale. Name the available resource, who acts and how long access and transfer take.
 
-The stress example we've just used is deliberately limited. It holds the education and health accounts unchanged, and it doesn't estimate the value of the omitted business or vehicles. A complete household stress test would need those details too. Use this calculation to understand the mechanism; don't mistake it for proof that we've tested every bad outcome.
+Adding collateral also needs a limit. It may improve today's loan-to-value while putting more of the family's assets into the lending arrangement. Decide how much you're willing to expose and what happens when you reach that limit. An unlimited promise to protect one loan can weaken the rest of the plan.
 
-A fast price decline is also not the only difficult case. You might handle a brief drop but struggle if returns stay weak for several years while interest and payments continue. Or business income could weaken at the same time as investments. That's why we need more than today's asset total.
+Monitoring helps you notice a problem. It doesn't guarantee you can prevent a forced sale. Price gaps, transfer delays, provider rights and outages can leave less time than you expected. The response needs room for those limits from the beginning.
 
-That household picture is useful, but it doesn't tell us whether one lender could require action. Each secured loan has its own collateral test. Loan-to-value, or LTV, compares one loan with the assets pledged for it. Let's connect that to a Bitcoin-backed example.
+A regular loan payment can fit the monthly household review. Volatile collateral may need much closer attention and lender alerts. An annual retirement review can't manage a time-sensitive collateral demand.
 
-For a Bitcoin-backed loan, I'd size the debt against a severe decline first, including the extra Bitcoin available for top-ups. Then I might start the chosen loan at 50% LTV to put less Bitcoin with the lender. That leaves less time to respond to a drop. The Bitcoin-loan lesson works through the reserve calculation before you borrow.
+Your spouse or trusted person needs to know the obligation exists, where the safe instructions begin and whom to contact if you're unavailable. Wallet recovery information doesn't belong in this document. We'll connect those safe instructions to the family handoff later.
 
-For this example, say the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000. That's a 37.5% decline. The loan balance didn't change.
+If an essential bill is unfunded, the agreement is unclear, or the exit depends on resources you can't access, leave the new borrowing unchosen. And if someone shares the consequences but hasn't agreed to the risk, talk before proceeding.
 
-For comparison, posting more collateral to start the same loan at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. Here, 25% shows the effect of more upfront collateral, not a recommended starting point. These are made-up contract terms to explain the math, not a lender's current offer.
+Our example household hasn't taken out a Bitcoin-backed loan. Their Reserve and expensive card still need funding. We can compare borrowing without adding it to the plan they've chosen.
 
-Notice what the numbers describe. They're price declines to the assumed liquidation threshold. They aren't percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
+In the walkthrough, we'll record the payment source, principal exit and response for the debts that apply to you. Then we'll bring the chosen payments back to Cash Flow. Required payments have already been counted; extra payments need to fit beside the Reserve and other commitments. Money released by a future payoff stays in the future until that payment actually ends.
 
-Interest or fees added to the balance can also reduce that room. So can changes to what the lender accepts as collateral or how it values it. Read the actual agreement instead of borrowing the 80% figure from this example.
-
-Putting 20% of your Bitcoin with a lender doesn't mean the loan has 20% LTV. One figure tells you how much of your Bitcoin is exposed to that arrangement. The other tells you how large the loan is compared with that pledged portion. You need to understand both.
-
-A strong household balance sheet doesn't override the lender's calculation. You might have plenty of home equity while a Bitcoin-backed loan is close to its action threshold. The lender needs the response allowed by the agreement, not a list of valuable assets you can't access in time.
-
-Different loans also behave differently. A conventional mortgage isn't normally subject to a Bitcoin-style margin call just because the home price falls. A home-equity line can lose available borrowing capacity under its terms. A securities-backed loan may allow a collateral demand or sale. Don't apply one loan's rules to all three.
-
-So the response rule has to connect the number to something you can actually do. A review point only helps when the resources and time to respond are there. That's what we're going to put into the debt instructions.
-
-The starting point is the purpose of the loan and the most you're prepared to borrow for it. From there, we need to know what pays the interest and what repays the principal. Those are easier decisions to examine while borrowing is still a choice.
-
-Those may be different answers. You could cover monthly interest from income while planning to repay the principal from a sale. In that case, the sale has an amount and a deadline. Include the response if the proceeds are smaller or arrive later.
-
-“We'll refinance” is something to investigate, not a complete fallback. You may be able to replace the loan, but the new lender, terms and approval still need to exist when you need them. Check what the household would do if they don't.
-
-The dates give those answers a deadline. A rate reset, a changing payment or a final principal repayment may require work beforehand. Having the date where you'll see it gives you time to compare options before the money is due.
-
-For a collateral-backed loan, a date may not be enough. The agreement can have thresholds or rights that require a response while the market is moving. Your own review point needs to leave time before the situation you're trying to avoid. Repeating the liquidation number as your comfortable limit doesn't provide that room.
-
-You might repay part of the loan, add eligible collateral, arrange a controlled sale, or reduce the obligation in another permitted way. Identify the resource that would make that response possible. Money reserved for taxes or essential bills isn't automatically spare repayment money.
-
-Adding collateral needs its own limit. It can improve the current LTV while putting more of your assets into the same lending arrangement. If you keep adding Bitcoin every time the price falls, you could end up pledging much more of the family's holdings than you intended.
-
-That's why I'd decide in advance how much additional exposure you're willing to accept and which resources need to keep doing other jobs. There also needs to be an answer for what happens when you reach that limit. An unlimited promise to protect one loan can weaken the rest of the household plan.
-
-The time to move those resources matters too. An account balance won't help with a fast collateral demand if you can't get it there when needed. Market gaps, transfer delays, lender discretion and outages can leave less time than a smooth projection suggests.
-
-Monitoring helps you notice a problem. It doesn't guarantee you can prevent a forced sale. That's a reason to leave room in the original borrowing decision, not a reason to assume an alert makes a larger loan safe.
-
-The review routine follows from how the loan works. A regular payment can be part of the normal monthly household review. A loan backed by a volatile asset may need much closer attention and lender alerts. An annual plan review can't manage a collateral position changing rapidly today.
-
-Your spouse or trusted person should know that the obligation exists, where the safe instructions begin, and whom to contact. They don't need wallet recovery information written into this document. They do need enough context to recognize that a time-sensitive lending issue shouldn't sit unread for a week. We'll connect that to the family handoff later in the course.
-
-Some situations are reasons to stop before borrowing. An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you can't access. If someone in the household shares the consequences but hasn't agreed to the risk, stop and talk.
-
-For our example household, the Reserve and high-rate card still need funding. They haven't taken out a Bitcoin-backed loan. We can compare borrowing without adding it to the plan they've chosen.
-
-Now we can bring the chosen debt actions back to Cash Flow. Required payments have already been counted. Extra payments need to fit beside the Reserve and other commitments. A proposed loan stays separate until you choose it, and money released by a future payoff stays in the future until that payment ends.
-
-In the walkthrough, we'll connect the payment source, principal exit and response rules to the person who will follow them. If you're considering Bitcoin collateral, complete its separate loan lesson before relying on that proposal, then return with those terms worked through. What we carry into Allocation is the money left after the debt choices you've actually made, so the next part of the plan doesn't spend it again.
+That leaves us ready for Allocation. We'll decide where investing money goes with the debt choices accounted for, so the next part of the plan uses money you really have.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| That puts debt at about 22% | Fictional included assets $1,996,000 · Debt $444,500 · DTA 22.27% | Net worth shown separately: $1,551,500. |
-| about 37% of the assets instead of 22%. | Partial stress: assets $1,217,200; debt unchanged; DTA 36.52% | BTC exposure −70%; selected stocks −30%; home −20%; named exclusions. |
-| Each secured loan has its own collateral test. | Household DTA  /  One loan’s LTV  /  Accessible response money | Separate denominators. |
-| That's a 37.5% decline. | Fixed debt: 50% initial LTV → 80% at −37.5% price | Generic threshold, not a current lender term. |
-| a 68.75% decline reaches the same assumed 80% line | 25% initial LTV → 80% at −68.75% price | Comparison of more posted collateral; no recommended level. |
-| Putting 20% of your Bitcoin with a lender | Share of total BTC pledged ≠ loan-to-value | Two labeled denominators. |
-| Monitoring helps you notice a problem. | Response requires resources + access + time | Keep consequences in narration. |
+| Paying interest and repaying the loan are different jobs. | Payment source · Principal exit | Keep regular payment and final repayment distinct. |
+| A strong household total doesn't override the contract | Household resources ≠ one lender's collateral test | No loan arithmetic in this general lesson; A3.1 owns it. |
+| Adding collateral also needs a limit. | Maximum added collateral · Response at that limit | Do not imply an unlimited top-up commitment. |
+| Monitoring helps you notice a problem. | Response needs resources + access + time | Keep the forced-sale limitation in narration. |
 
 ### Walkthrough handoff — not spoken
 
-[W03, chapters 2 and 5–6](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): distinguish leverage measures, write funded rules and reconcile the remaining cash. Chapter 5 includes the conditional A3.1 operating example.
+[W03, chapters 2 and 6](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md): inspect household resources, record ordinary repayment rules and reconcile remaining cash. Chapter 5 is the separate A3.1 Bitcoin-loan capture only when relevant. With no debts or proposal, continue to Allocation.
 
 ### Member checkpoint
 
-Your debt instructions identify ordinary payments, principal repayment, timing, fallback, monitoring owner and any additional collateral limit. Unfunded obligations or unresolved contract terms prevent adopting new borrowing.
+Each applicable debt has a payment source, principal exit, relevant dates and fallback with an owner. Collateral obligations have funded response rules before adoption. If no debt applies, continue with the cash available after other commitments.
 
 ### Source and production notes — not spoken
 
-Debt Strategy balance-sheet and lender-limit steps; owner September 10 borrowing direction. Source assets omit vehicle/business value but include associated debts; partial stress leaves education/health accounts unchanged. Do not label it a complete worst case. Fixed-debt LTV illustrations use an assumed 80% line; calls/cure/maturity and provider rights remain distinct. 50% posted LTV follows sizing against all dedicated supporting BTC; it is not a stressed-LTV target. Current property/credit restrictions require the actual agreement.
+Debt Strategy balance-sheet and lender-limit steps; owner September 10 borrowing direction. Source assets omit vehicle/business value but include associated debts; partial stress leaves education/health accounts unchanged. Do not label it a complete worst case. Household ratio/partial-stress illustration remains in W03 chapter 2. Fixed-debt LTV illustrations and all posted-versus-dedicated Bitcoin sizing moved to A3.1; W03 chapter 5 is conditional. Calls/cure/maturity and provider rights remain distinct; no specialist arithmetic is required for a nonborrower. Current property/credit restrictions require the actual agreement.
 
 Source provenance remains in [../production/consolidation.json](production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](production/STEPWISE-SCRIPT-STANDARD.md).
 
@@ -939,7 +761,7 @@ We've worked out what your household can save, how much cash you want available,
 
 I'd start by looking at what you already own across all of your accounts. It's easy to look at the Bitcoin in your wallet and forget that a retirement account also holds a Bitcoin fund. Those amounts belong together when we're talking about exposure to Bitcoin's price.
 
-For our example household, that's $410,000 of Bitcoin and $318,000 of spot Bitcoin-fund exposure. Together, that's $728,000 out of the $1,307,000 portfolio we're using here, or about 56%. They own 4.1 Bitcoin outside the funds: 3.4 in self-custody and 0.7 with a professional custodian. The funds are still securities in retirement accounts. Adding their dollar exposure doesn't give our example household more coins in their own wallets.
+For our example household, that's $410,000 of Bitcoin and $318,000 of spot Bitcoin-fund exposure. Together, that's $728,000 out of the $1,307,000 portfolio we're using here, or about 56%. The funds are securities in retirement accounts. We're combining exposure to the price, while keeping direct Bitcoin and the funds separate in the accounts.
 
 That percentage only makes sense when we know what went into it. This example leaves out the home and dedicated HSA and education money because those have other jobs. When we compare their current mix with a target, we're going to use that same group of assets. And we're adding the dollars first. Averaging the percentages from a small account and a large account would give us the wrong household mix.
 
@@ -951,13 +773,13 @@ The spending commitments help us put an amount around that. You've already chose
 
 That's what Reserve, Bridge and Forever are helping us think about: when the money is needed. The rough ranges are zero to three years, four to ten years, and ten years or more. They don't mean everyone needs three years in cash, or that each account belongs to one category forever. A brokerage account can hold next year's spending and investments you won't use for twenty years.
 
-For an approaching bill, access and stability matter more than getting the highest possible return. Savings, a Treasury bill that matures in time and a money market fund can all come up in that conversation, but their access and protection differ. A money market fund isn't an FDIC-insured deposit. Its terms and costs still need to fit the payment you're assigning it.
+For an approaching bill, access and stability matter more than the highest possible return. Savings, Treasury bills and money market funds differ in access and protection. A money market fund isn't an FDIC-insured deposit, and a Treasury's maturity needs to fit the payment date.
 
-Once those near-term jobs are covered, the remaining investments can have a longer runway. Stocks give you ownership of businesses alongside Bitcoin. A broad fund spreads that ownership across many companies, which can be useful when you don't want to pick individual winners. The holdings, geographic coverage, concentration and fees tell you what you're actually getting. Several technology funds may own much of the same thing.
+Once those near-term jobs are covered, the remaining investments can have a longer runway. Stocks give you ownership of businesses alongside Bitcoin. A broad fund spreads that ownership across many companies. Look at its holdings, coverage and fees: several technology funds may own much of the same thing.
 
-Bonds give you another set of trade-offs. You're lending money, so the borrower's ability to repay principal, the amount originally lent, matters. So does sensitivity to interest rates. An individual bond has a maturity; a bond fund doesn't give the whole investment one repayment date. A long-term bond fund can fall substantially, which is why I wouldn't treat every bond holding as cash for an approaching bill.
+Bonds involve lending money, so repayment and sensitivity to interest rates matter. An individual bond has a maturity; a bond fund doesn't give the whole investment one repayment date. A long-term bond fund can fall substantially, so it isn't interchangeable with cash for an approaching bill.
 
-Property or a business needs the same connection to spending. The value on a balance sheet is different from cash available after costs, debt and interruptions. Your home funds retirement only when there's a workable plan to use its value. You don't need every investment type. Each one needs a job worth its cost and the work it adds.
+With property or a business, look at cash available after costs, debt and interruptions. Your home funds retirement only when there's a workable plan to use its value. You don't need every investment type. Each one needs a job worth its cost and the work it adds.
 
 Let's put this together with a separate household that has $1 million. They want to test $500,000 in Bitcoin. Their Reserve is $60,000, and a purchase next year needs another $40,000 from existing savings. That gives cash a $100,000 job. The remaining $400,000 has a long runway, and this household chooses broad stock funds after reviewing coverage and costs. Now we have 50% Bitcoin, 40% stocks and 10% cash, with a reason for each amount.
 
@@ -1013,15 +835,15 @@ Now that we have a reason for the investments in your plan, we need somewhere to
 
 I think it's helpful to start with when you need the money. If you're trying to fund the years before you can use retirement accounts, another tax deduction may leave the actual gap untouched. Taxable savings, a brokerage account or personally held Bitcoin can give you access for those years. A sale may create tax, but you generally don't need an early-retirement exception just to use taxable proceeds.
 
-For money you won't need until later, the workplace plan you already have may do the job. Its provider or employer benefits documents can tell you the investment menu, fees, match and withdrawal rules. The client's fictional plan permits a Bitcoin fund. Yours may only offer stock and bond funds. That can still work: the workplace account holds part of the overall allocation, and Bitcoin can be held elsewhere.
+For later money, start with the workplace plan you already have. Check its investment menu, fees, match and withdrawal rules. The client's fictional plan permits a Bitcoin fund. If yours only offers stock and bond funds, it can hold that part of the allocation while Bitcoin is held elsewhere.
 
-An IRA is worth comparing when its menu, cost or contribution treatment gives you something useful. Being allowed to contribute and being allowed to deduct a Traditional contribution are separate questions. Roth IRA contributions have income limits too, so the contribution year's rules and what you've already contributed matter.
+An IRA is worth comparing when its menu, cost or contribution treatment gives you something useful. Eligibility to contribute doesn't establish eligibility to deduct a Traditional contribution. Roth IRA contributions have income limits too. Use the contribution year's rules and include what you've already contributed.
 
 For long-term money, we can start by comparing an eligible HSA, then an IRA, then additional workplace saving. The HSA is a health savings account, so it can help with qualified medical expenses. An IRA may give you more investment choice, and a workplace plan may give you additional contribution room. That's a starting sequence. A cheaper workplace plan, a missing eligibility requirement or an early-access gap can change it.
 
 With an HSA, the coverage and other insurance determine whether you qualify to contribute. Medical records matter as well. Tax-free reimbursement needs a qualified expense incurred after the HSA was established that hasn't already been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, although the additional 20% tax no longer applies. So we can consider the tax benefit while preserving the cash needed for care and checking the account's investment menu.
 
-Some accounts have a separate commitment attached to them. A 529 may be funding the college support you chose; that money isn't also available for general retirement while tuition remains promised. If you're self-employed, a Solo 401(k) or SEP may fit, but compensation, employees and other plans affect the rules. We can't add every advertised contribution maximum together.
+The college money already assigned to a 529 keeps that job. If you're self-employed, a Solo 401(k) or SEP may fit, but compensation, employees and other plans affect the rules. Their limits can't simply be added to every other plan's maximum. These are checks for the account you're considering; you don't need to open one of everything.
 
 Self-directed Bitcoin IRAs need particular care with the transaction and custody arrangement. Personally held Bitcoin doesn't become an IRA asset because we would prefer its tax treatment. Selling your own Bitcoin to your IRA or pledging IRA Bitcoin for a personal loan can trigger distributions or loss of tax treatment. The administrator and permitted process need to be established before assets move.
 
@@ -1033,7 +855,7 @@ Now change the later tax rate. At 30%, Traditional leaves $1,400. At 10%, it lea
 
 Your real comparison uses working income, later benefits and required distributions, along with healthcare and other income-sensitive costs. A mix can give you some deduction now and some qualified Roth spending later. You don't have to make one tax choice for every contribution forever.
 
-We also need the access rules for the account you actually have. For ordinary retirement use, qualified Roth IRA earnings generally require age 59½ and the five-tax-year period starting with the first tax year you funded any Roth IRA. Other qualifying circumstances exist. Regular contributions, conversions and workplace Roth distributions have different rules. We'll use the early-access lesson if your plan depends on that money sooner.
+Qualified Roth IRA earnings generally require age 59½ and the five-tax-year period beginning with the first tax year you funded any Roth IRA, unless another qualifying circumstance applies. Contributions, conversions and workplace Roth distributions differ. If you need retirement money earlier, we'll verify the actual route in the early-access lesson before relying on it.
 
 There's one immediate effect to check before we finish: the paycheck. If the client keeps sending $775 but switches from pretax to Roth, their take-home pay may fall. That extra tax has to fit beside the Reserve and debt choices. Changing the election affects new contributions; moving an existing Traditional balance into Roth is a separate conversion that we'll cover in Tax.
 
@@ -1080,9 +902,7 @@ Give each affordable contribution an amount, start condition, receiving account 
 
 We've chosen a portfolio mix and looked at the accounts that can hold it. Now we're going to connect that plan to the money coming in each month. We'll follow each contribution from the amount you can afford, through the receiving account, to the investment you intend it to buy.
 
-The amount comes first, because a target percentage doesn't tell us what we can afford to buy. In our example household's reduced-spending comparison, $2,475 is left before the client's employee contribution. Their $775 leaves $1,700. The proposed $500 Reserve contribution and $1,200 extra card payment use all of it. There's no additional investment transfer available in that version.
-
-The client is still investing through payroll. Their employer adds $387.50 under the fictional match: half of their 6% contribution on a $155,000 salary. Your own formula may differ, and vesting tells you the requirements for keeping the employer's money. That employer contribution adds retirement saving, but it isn't money available for another household transfer.
+The amount comes first, because a target percentage doesn't tell us what we can afford to buy. In our example household's reduced-spending comparison, the Reserve and extra card payment already use the available money. Payroll investing continues, with the employer contribution separate. There's no additional household transfer available in that version.
 
 So the order we're using begins with the necessary Reserve pace, an available employer match and the extra-debt choice. Any remainder can go toward the first funding need that still has a gap. Those things can receive money together. We don't have to finish every earlier item before anything reaches the next one.
 
@@ -1094,17 +914,11 @@ Once we have an affordable amount, the target helps us choose what it buys. Our 
 
 That difference can guide new purchases, but it doesn't create $56,200 of cash. New money directed toward a shortfall can move the mix without a taxable sale. If an existing holding creates an immediate funding problem, a trade may still deserve a comparison with its tax, fees and effect on the approaching payment.
 
-The accounts can work together here. A workplace plan without Bitcoin access may hold the stock funds wanted in the overall portfolio. Another account supplies Bitcoin exposure. Retirement treatment can reduce ongoing tax on some investments, while taxable holdings preserve early access. The tax benefit and the spending job both belong in that choice.
+Now we can use the receiving accounts chosen in the last lesson, keeping the early-access money available for its intended years.
 
 One future route for our example household's $1,605 is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution continues separately. We're comparing that route after payoff; it isn't running today. Another commitment could use part of the released money and change the split.
 
-The last part of that instruction is the actual investment. A spot Bitcoin fund, a leveraged fund and a company associated with Bitcoin do different things. With stock funds, several names on the statement can still mean the same companies underneath. The holdings, fees and strategy tell us whether the purchase matches the job.
-
-For a large one-time amount, timing is another choice. Let's say $20,000 is earmarked for Bitcoin and the hypothetical price is $100,000. Investing all of it buys 0.2 Bitcoin, with fees left out. Buying $10,000 now and $10,000 later produces 0.3 Bitcoin if the later price is $50,000, or 0.15 if it's $200,000.
-
-Waiting buys more in one path and less in the other. Someone may choose staging because it makes a large change easier to maintain. Someone else may want the exposure immediately. The example shows what they're choosing; it doesn't tell us which price comes next.
-
-Ordinary recurring saving doesn't need that decision every payday. And a bill next month still needs dependable funding when a market indicator looks bullish. If an indicator informs a discretionary change, its date, meaning and limits matter. It can't tell us the exact turning point.
+The last part of that instruction is the actual investment. A spot Bitcoin fund, a leveraged fund and a company associated with Bitcoin do different things. Use the investment you've checked against the job, rather than choosing from the name alone.
 
 Now we can connect the full instruction: the amount, where it comes from, when it begins, the receiving account, tax election and investment. A payroll change may need both a contribution election and an investment election. A bank transfer may arrive as cash and need a separate recurring buy.
 
@@ -1117,10 +931,8 @@ The walkthrough will help you put the chosen contribution route into Orange Plan
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | The amount comes first | 1 · Use the available cash once | example household reduced-spending state badge. |
-| Their $775 leaves $1,700. | $2,475 − $775 = $1,700; $500 + $1,200 = $1,700 | Build arithmetic rows in order. |
 | That's future money. | 2 · Set the start condition | After actual card payoff: $1,605; not available today. |
 | the target helps us choose what it buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
-| For a large one-time amount, timing is another choice. | One-time timing illustration: 0.20 / 0.30 / 0.15 BTC | Label hypothetical prices and no fees. |
 | the first deposit and purchase are worth checking. | 4 · Confirm deposit AND purchase | Two completion checks; leave unverified outside actions open. |
 
 ### Walkthrough handoff — not spoken
@@ -1131,7 +943,7 @@ The walkthrough will help you put the chosen contribution route into Orange Plan
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Allocation deck steps 6, 7 and 10 retained with former A4.1 timing mechanics. Preserve $775 employee, $387.50 employer, $500 Reserve, $1,200 extra card and conditional $1,605/$1,000/$605. Future Plan → Portfolio and allocation previews direction; Cash Flow → Saving and investing owns contribution saves. No automated broker execution, exact routing engine or current target adoption is claimed.
+Allocation deck steps 6, 7 and 10 retained. This lesson owns recurring contribution amounts, accounts, purchases and start conditions. The one-time purchase-timing illustration and market-indicator aside were removed from this recording to keep that decision focused; their original source remains preserved. Cash-flow and employer-match arithmetic are callbacks to their earlier teaching, with unchanged $775 employee, $387.50 employer, $500 Reserve and $1,200 extra card amounts retained in the W04 source state. Preserve conditional $1,605/$1,000/$605 in this lesson. Future Plan → Portfolio and allocation previews direction; Cash Flow → Saving and investing owns contribution saves. No automated broker execution, exact routing engine or current target adoption is claimed.
 
 ### Member checkpoint
 
@@ -1156,7 +968,7 @@ We've worked through where new money is going. In this lesson, we're going to lo
 
 I'd begin with the account or wallet holding the investment and the units you might sell. The purchase date and documented cost tell us what happened when you acquired them. An exchange export or trade confirmation is useful here because we're working from the transaction rather than a price we remember.
 
-Cost basis is the supported cost used to calculate gain or loss. Let's say an investment is sold for $20,000 and its basis is $16,000. That's $4,000 of gain before adjustments. It isn't $4,000 of tax. The tax also depends on the holding period, other income and the rules that apply to the household.
+Cost basis is the supported cost used to calculate gain or loss. We subtract it from the sale proceeds, with the applicable adjustments. The gain still isn't the tax bill. That also depends on the holding period, other income and the rules that apply to the household.
 
 The course's three-lot example shows why that history can change a decision. We're selling 0.2 Bitcoin at a hypothetical $100,000 per Bitcoin, so the proceeds are $20,000 before fees. If those units were purchased at $58,000 per Bitcoin, they have $11,600 of basis and $8,400 of gain. At a $16,000 purchase price, basis is $3,200 and gain is $16,800. At a $52,000 purchase price, basis is $10,400 and gain is $9,600.
 
@@ -1166,15 +978,15 @@ Missing records are worth dealing with before the sale. You may know how much Bi
 
 The account matters too. A taxable Bitcoin sale generally realizes gain or loss. A sale inside a retirement account is generally different; the withdrawal follows that account's rules. That's another reason to keep the actual account beside the tax comparison.
 
-Once the records are usable, we can look at whether a sale serves a tax purpose. A gain harvest deliberately realizes gain when paying its current cost may be worthwhile. If the $4,000 gain receives favorable treatment and the exposure is repurchased, that new purchase has its own basis and holding period. The potential benefit needs to exceed tax, fees, market movement and any healthcare effect. A 0% federal rate doesn't mean the entire transaction costs nothing.
+Once the records are usable, we can look at whether a sale serves a tax purpose. A gain harvest deliberately realizes gain when paying its current cost may be worthwhile. If the exposure is repurchased, the new purchase has its own basis and holding period. The potential benefit needs to exceed tax, fees, market movement and any healthcare effect. A 0% federal rate doesn't mean the entire transaction costs nothing.
 
-A loss harvest goes the other direction. An investment bought for $20,000 and sold for $16,000 has a $4,000 loss before adjustments. That isn't a $4,000 refund. Its value depends on what it can offset and the rules for using a loss later. And if a replacement with $16,000 of basis grows back to $20,000, that replacement now has a gain. Harvesting can change timing without eliminating every future tax.
+A loss harvest deliberately realizes a loss. The loss isn't a matching refund; its value depends on what it can offset and the rules for using it later. A replacement starts with its own basis and can have a future gain. Harvesting can change timing without eliminating every future tax.
 
-The replacement is part of the decision before the sale. Securities wash-sale rules can disallow or defer a loss when substantially identical investments are acquired in the relevant window. Automatic purchases, another account or a spouse's activity can matter. Direct Bitcoin and Bitcoin funds need their own current-rule review. We'll work through that preparation in the transaction lesson when it applies.
+The replacement is part of the decision before the sale. Securities wash-sale rules can affect a loss, and direct Bitcoin and Bitcoin funds need their own current-rule review. If you're preparing a transaction, the separate lesson takes you through the replacement and identification requirements before you trade.
 
 These choices also share the same tax year. Wages, business income, distributions, conversions, realized gains and losses, and supported loss carryforwards belong in one picture. A conversion can use income room that looked available for a gain harvest. Looking at both together gives us a more useful answer than treating each as the only transaction happening.
 
-You may find a sale worth preparing, or you may keep the investment because the benefit is small or the records don't support it yet. Either way, we're taking forward a decision with a reason. After an actual trade, its confirmation tells us the units, proceeds and fees, and lets us reconcile the holdings left over. FORM 8949 TAX DATA is supporting information to inspect with your tax professional; it isn't a filed form.
+You may find a sale worth preparing, or you may keep the investment because the benefit is small or the records don't support it yet. Either way, we're taking forward a decision with a reason. The transaction lesson and walkthrough handle the actual instructions and records when you need them.
 
 In the walkthrough, we'll follow one sale from proceeds through basis, gain, estimated tax and cash left for its purpose. If you're preparing a real tax-sensitive sale or missing its records, use the transaction lesson before execution. Otherwise, we'll move into tax timing and see how different income years can change the withdrawal or conversion worth considering.
 
@@ -1186,7 +998,7 @@ In the walkthrough, we'll follow one sale from proceeds through basis, gain, est
 | The amount you sell, the gain you realize and the tax you owe | Proceeds − basis = gain or loss | Tax and usable cash shown as subsequent rows. |
 | The course's three-lot example shows why that history can change a decision. | Illustrative $20,000 sale: gains $8,400 / $16,800 / $9,600 | Three-lot table; omit fees only in labeled example. |
 | we can look at whether a sale serves a tax purpose. | 2 · Gain harvest / loss harvest / keep holding | Add actual-year income and replacement checks. |
-| After an actual trade, its confirmation tells us | 3 · Reconcile the actual trade | Proceeds, fees, used lots, remaining holdings. |
+| we're taking forward a decision with a reason. | 3 · Prepare a sale / keep holding / resolve evidence | Transaction instructions and reconciliation follow in A5.2. |
 
 ### Walkthrough handoff — not spoken
 
@@ -1196,7 +1008,7 @@ In the walkthrough, we'll follow one sale from proceeds through basis, gain, est
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Tax deck steps 1, 6 and 8. Original three lots and $20,000/$16,000 gain/loss mechanisms retained. Missing basis remains unknown rather than silently zero in app records; failure to substantiate it can affect tax treatment. Asset/account/year-specific identification and replacement rules stay in A5.2. Temporary digital-asset relief is not an evergreen immediate-repurchase or after-the-fact identification rule. See existing September 10 source verification for the missing-basis consequence.
+Tax deck steps 1, 6 and 8. The three-lot illustration owns the sale calculation; separate simple gain/loss examples were removed from speech. Missing basis remains unknown rather than silently zero in app records; failure to substantiate it can affect tax treatment. Asset/account/year-specific identification, replacement, confirmation and reporting rules belong to A5.2 and its W05 takes. Temporary digital-asset relief is not an evergreen immediate-repurchase or after-the-fact identification rule. See existing September 10 source verification for the missing-basis consequence.
 
 ### Member checkpoint
 
@@ -1227,7 +1039,7 @@ The source of the spending money affects that picture too. A $20,000 taxable sal
 
 Let's say employment income ends before benefits and required distributions begin. There may be several years with less ordinary income while spending is funded elsewhere. A deliberate Traditional withdrawal or conversion may use that period. Leaving Traditional untouched can mean more taxable withdrawals later, but that possibility is a reason to compare, not a reason to automatically convert.
 
-I want to look at what the next amount costs, because an average tax rate can hide it. In a made-up two-step tax, the first $10,000 at 10% costs $1,000 and the next $1,000 at 20% costs $200. Total tax is $1,200. Crossing the line didn't make all $11,000 taxable at the higher rate.
+I want to look at what the next amount costs, because an average tax rate can hide it. Moving into a higher bracket doesn't put all your income at that rate. We need the cost of the additional withdrawal or conversion we're considering.
 
 Your actual cost can include more than that bracket. Credits, healthcare assistance, Social Security taxation, state rules and later Medicare premiums can change when income is added. Long-term gains interact with the other income too. That's why a bracket with room left in it isn't, by itself, an instruction to fill it.
 
@@ -1247,7 +1059,7 @@ Before a conversion is executed, required distributions and nondeductible IRA ba
 
 Converted amounts also have access timing to verify. A completed Roth conversion generally can't be recharacterized back to Traditional under current rules. That makes it worth resolving the amount, tax source and custodian instructions before money moves.
 
-If a state move is part of the comparison, the actual residency date, source-income treatment and living costs belong beside the tax change. A lower projected rate doesn't establish residency or settle whether the move fits your life.
+If the comparison depends on moving states, confirm the residency and source-income treatment, along with the move's living costs, before using the projected tax change.
 
 The walkthrough will compare the year and amount you're considering with keeping the current treatment. We'll keep the planned strategy separate from a completed transaction and tax payment. If the decision covers several years, the multiyear conversion lesson will help set the review rule. Then we're going to use those tax choices in the retirement paycheck: how money actually reaches the household after work stops.
 
@@ -1256,7 +1068,7 @@ The walkthrough will compare the year and amount you're considering with keeping
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | The amount matters, but the year can matter just as much. | 1 · Find the actual income window | Separate each spouse and benefit date. |
-| I want to look at what the next amount costs | 2 · Compare incremental cost | Illustrative brackets, not a current tax table. |
+| I want to look at what the next amount costs | 2 · Compare incremental cost | Show the cost added by the amount being considered. |
 | We need three amounts in view: | 3 · Conversion / spending / tax source | Three money paths. |
 | The tax money's opportunity cost is easy to miss | Include the tax money's opportunity cost | Illustrative $30,000 + $6,000 comparison. |
 | Now we have a useful set of choices: | 4 · No conversion / smaller / proposed | Same lifestyle and return assumptions. |
@@ -1307,13 +1119,13 @@ Once that first year makes sense, the timeline shows us where the source may nee
 
 For each interval, we need money that's available then. Cash and taxable investments may fund the early years, but some of those balances already belong to the Reserve or another commitment. A large retirement-account balance doesn't automatically fill an accessible-money gap.
 
-There are legitimate retirement-account routes before 59½, with specific conditions. Roth IRA contributions, qualifying workplace separation rules, governmental 457(b) distributions and structured periodic payments have different treatment. Provider permission, ordinary income tax and an additional-tax exception are separate questions. If your plan depends on one of those routes, the early-access lesson comes before a rollover or withdrawal that could change it.
+There are retirement-account routes before 59½, but we need the conditions for the actual person and account. Permission to withdraw, ordinary income tax and an exception to additional tax are separate questions. If your plan depends on that access, use the early-access lesson before a rollover or withdrawal that could change it.
 
 Benefit timing creates another trade-off. Claiming Social Security earlier can reduce the portfolio gap sooner. Waiting can provide a larger later benefit, but the household funds more of the meantime. The actual estimates, earnings, spouse and survivor circumstances all belong in that comparison. Your own retirement benefit stops earning delayed retirement credits at 70; spousal and survivor rules differ. We also need the estimate's dollar convention so it doesn't receive inflation twice.
 
 Now we can follow the withdrawal itself. There are two choices inside 'take it from investments': which account supplies the cash, and which investment is sold inside it. A Traditional withdrawal might come from selling a stock fund. Personally held Bitcoin has a taxable sale with its purchase records. Each can pay the bill, with different tax consequences.
 
-Required distributions are handled under their actual rules before the discretionary account order. For the remaining gap, a simple order may work, or a blend may fit the tax and access needs better. Some early spending might come from Traditional and the rest from taxable assets. A conversion can use part of the same income window, but still needs separate spending and tax sources.
+Required distributions come before the discretionary account order. For the remaining gap, a simple order may work, or a blend may fit the tax and access needs better. Bring forward the conversion choice from Tax with its separate spending and tax sources.
 
 What I want to see is cash available for the bills, tax paid, balances left and what happens in a later funding year. Keeping Roth or Bitcoin untouched is a preference we can test. If the other assets run out before their job ends, that preference needs another source, a spending change or a different work transition.
 
@@ -1366,9 +1178,9 @@ The first date I'd want is when the current coverage ends. Your employer or prov
 
 A monthly premium is only part of the budget. Deductibles, copayments, coinsurance and prescriptions also affect the ordinary year. The network determines whether your clinicians and facilities are available. A difficult year can cost more, and an out-of-pocket limit may leave some services or out-of-network costs outside it.
 
-Let's say one plan has $12,000 of annual premiums and $3,000 of other costs. That's $15,000. Another has a cheaper $8,000 premium but $8,000 of other costs, for $16,000. Those are hypothetical amounts, but they show why the cheaper premium doesn't necessarily mean the cheaper year. For your choice, the actual quote and cash available for retained risk matter.
+Compare the complete annual cost from the actual quotes, along with the cash you'd need in a difficult year. The cheaper premium may leave you paying more for the care you use.
 
-If you're considering healthcare sharing or crowdfunding, the member agreement changes this conversation. CrowdHealth is one example of a noninsurance arrangement. Bill payment isn't guaranteed and the member remains responsible. The exclusions, eligibility and existing-condition treatment tell you more about what you're agreeing to carry than the monthly contribution alone.
+If you're considering healthcare sharing or crowdfunding, read the member agreement separately. These aren't insurance, payment isn't guaranteed and the member remains responsible. Compare the exclusions and retained risk as well as the monthly contribution.
 
 The tax lesson connects directly to this budget. A gain, Traditional withdrawal or conversion can affect healthcare costs as well as tax. In a separate illustration, a $10,000 conversion adds $2,000 of tax and $1,500 of coverage cost. Together, that's $3,500, or 35% of the conversion. Looking only at the 20% income tax would miss $1,500.
 
@@ -1393,7 +1205,7 @@ The walkthrough puts the selected costs and dates into those retirement periods 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | The first date I'd want is when the current coverage ends. | 1 · Coverage end → replacement start | Separate dates for each person. |
-| A monthly premium is only part of the budget. | 2 · Premiums + expected costs + retained risk | Show hypothetical $15,000 versus $16,000 totals. |
+| A monthly premium is only part of the budget. | 2 · Premiums + expected costs + retained risk | Compare the complete costs from reviewed quotes. |
 | The tax lesson connects directly to this budget. | 3 · Tax change + coverage change | Illustration: $2,000 + $1,500 = $3,500. |
 | The enrollment dates are the other part | 4 · Confirm enrollment and HSA dates | COBRA / Part B; Part A effective date / HSA eligibility. |
 | The walkthrough puts the selected costs and dates | 5 · Fund each coverage period | Show annual cost and any outstanding confirmation. |
@@ -1406,7 +1218,7 @@ The walkthrough puts the selected costs and dates into those retirement periods 
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Existing ordinary-year, difficult-year and $10,000 conversion/$3,500 combined-cost examples retained. Healthcare.gov income guidance, IRS Publication 969 and Medicare enrollment guidance re-opened September 10. No new year-specific subsidy threshold, premium or contribution limit introduced. CrowdHealth is retained as a noninsurance example from prior reviewed source, not a product recommendation; verify current agreement before provider footage. Model coverage gaps and actual quoted costs remain capture dependencies.
+Ordinary-year and difficult-year cost checks remain; the $10,000 conversion/$3,500 combined-cost illustration is the lesson's numerical example. The simple premium-addition example and named noninsurance provider were removed from speech. Healthcare.gov income guidance, IRS Publication 969 and Medicare enrollment guidance re-opened September 10. No new year-specific subsidy threshold, premium or contribution limit introduced. Model coverage gaps and actual quoted costs remain capture dependencies; any noninsurance arrangement needs its actual agreement.
 
 ### Member checkpoint
 
@@ -1435,19 +1247,15 @@ With a Bitcoin sale, the quantity, supported basis and tax determine how much ha
 
 Using another asset may preserve Bitcoin, but that money was doing something too. A stock fund might provide diversification, or Roth money might support a later period. Holding Bitcoin works when another source pays the bill or the expense can change. The effect on that other source belongs in the comparison.
 
-Borrowing brings forward the work from Debt: the loan size, rate, fees, collateral requirements and repayment date. I can see why someone would consider it to keep more Bitcoin invested. The payment still needs funding when employment income has stopped, and Reserve dollars already paying for life can't also be assigned to a collateral response.
+Borrowing brings forward the work from Debt: the loan size, rate, fees, collateral requirements and repayment date. The new question is whether those obligations fit after employment income stops. Interest paid from cash increases the year's funding need; interest added to the loan increases what must eventually be repaid.
 
-Let's use a simple $20,000 loan at a hypothetical 10% annual rate. With unchanged principal and simple annual interest, that's $2,000. Paying it from cash uses another $2,000. Adding it to the loan leaves $22,000 owed after the simplified year. The agreement tells us which treatment applies and whether other costs accrue.
-
-Now imagine Bitcoin stays flat or falls while that interest continues. We need the payment source, the Bitcoin available for a top-up and the time it takes to deliver it. Cold-storage Bitcoin affects lender LTV only when the lender credits it. Strong household net worth doesn't stop a lender acting on its own collateral threshold.
-
-That's why the Debt lesson sizes the full obligation, including accruing costs, against a severe decline before deciding what to post initially. Opening a pre-sized loan at 50% posted-collateral LTV can leave more Bitcoin under personal control. It also requires the supporting reserves and timely response; it isn't a safe borrowing limit. A stricter cure or maturity requirement may bind before liquidation.
+If you're considering borrowing, bring the completed loan review into this comparison. We need its funded payment, collateral response and exit, including a weak market. Reserve dollars already paying for life can't also supply that response. If those answers are missing, borrowing isn't ready to become the spending plan.
 
 We also need to follow the loan through its exit. That includes what repays principal, tax on a repayment sale and the resources left afterward. A larger balance at the end of a projection doesn't fix a forced sale or missed payment along the way. Avoiding today's sale doesn't guarantee avoiding a later one.
 
 In the comparison, we'll read the plan effect and added risk together. The spending, dates and market assumptions stay the same while we look at the first year, a difficult period and repayment. Tax, Bitcoin retained, loan balance, collateral and accessible cash all help explain the trade-off. A contract term the model doesn't represent still needs its own analysis before we rely on the borrowing result.
 
-Our example household doesn't have a Bitcoin-backed loan in the saved baseline. A possible one-time loan stays a separate comparison. Borrowing across retirement is a different strategy, and if it includes repeated draws, the Bitcoin-loan lesson follows each draw and accrued cost into the combined balance.
+Our example household has no Bitcoin-backed loan in the saved baseline. A possible one-time loan stays a separate comparison. Repeated retirement borrowing needs the conditional loan review to follow every draw and accrued cost into the combined balance.
 
 The walkthrough will put those funding routes beside the same spending need. You'll take forward the method you prefer and any repayment or response it requires. If borrowing is part of it, complete the conditional loan lesson before relying on that choice. Next, we'll work through how spending and the Reserve are reviewed as the retirement years unfold.
 
@@ -1457,8 +1265,7 @@ The walkthrough will put those funding routes beside the same spending need. You
 | --- | --- | --- |
 | The comparison needs the same amount for spending on the same date. | 1 · Same cash need, same date | Compare net cash after taxes and fees. |
 | Borrowing brings forward the work from Debt: | 2 · Terms / payment / collateral / repayment | Use actual contract inputs. |
-| Let's use a simple $20,000 loan | Illustration: $2,000 paid OR $22,000 owed | Label 10% simple annual rate; not an offer. |
-| Now imagine Bitcoin stays flat or falls | 3 · Fund the response before the lender's boundary | Keep household Reserve and collateral response distinct. |
+| bring the completed loan review into this comparison. | 3 · Use the verified payment, response and exit | Keep household Reserve and collateral response distinct. |
 | We also need to follow the loan through its exit. | 4 · Follow the debt through repayment | Include sale tax and resources remaining. |
 | we'll read the plan effect and added risk together. | 5 · Plan effect + risk added | No fabricated risk frequency or provider safety score. |
 
@@ -1470,7 +1277,7 @@ The walkthrough will put those funding routes beside the same spending need. You
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Retirement sell/borrow/hold slide actions retained. September 10 owner borrowing reasoning overrides old 10–20% posted-LTV quotations; size total debt against dedicated supporting BTC first, then evaluate opening collateral. No 50% stressed-LTV target. Preserve $20,000/10% simple-interest illustration and no current example household loan. Future contexts remain existing loan → Debt, one future loan → Scenarios, retirement policy → Retirement strategy. Exact modeled terms and added-risk outputs need parity proof.
+Retirement sell/borrow/hold slide actions retained. This lesson owns equal-net-spending comparison through repayment; A3.1 owns Bitcoin-loan sizing, actual collateral terms, accrual and funded responses. The separate interest example and repeated posted-LTV explanation were removed here. September 10 owner borrowing reasoning remains unchanged: size total debt against dedicated supporting BTC first, then evaluate opening collateral; no 50% stressed-LTV target. The example household has no current Bitcoin loan. Future contexts remain existing loan → Debt, one future loan → Scenarios, retirement policy → Retirement strategy. Exact modeled terms and added-risk outputs need parity proof.
 
 ### Member checkpoint
 
@@ -1515,7 +1322,7 @@ If the market is weak, they can compare using some existing cash with refilling 
 
 A refill also has costs to include. Moving $7,700 from investments into cash doesn't create $7,700 of new wealth. The Reserve stays inside existing assets, and any sale tax and fees belong beside the cash being raised. That keeps the same dollars from doing two jobs.
 
-The reason we're paying attention to this is that return order matters once withdrawals begin. Start with $1 million and take $50,000 at the beginning of each year. A 20% loss followed by a 25% gain leaves $887,500 after two withdrawals. Reverse those returns and the amount is $910,000. Assets sold for spending aren't there to participate in the recovery.
+This is where the order of returns matters. When investments are sold after a decline to pay for life, those units aren't there to participate in a recovery. The Reserve gives us another source for a period, with the refill decision we've just worked through.
 
 In your own plan, we'll look at the weak year's cash, sale and remaining investments. Less favorable return assumptions can be tested separately. Raising growth to undo an uncomfortable result would hide the funding issue we're trying to understand.
 
@@ -1541,7 +1348,7 @@ The walkthrough connects the annual budget to its income, Reserve and refill sou
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Retirement deck spending/sequence/Reserve actions retained; old fixed-withdrawal and generic 10% interpretations do not override accepted current policy. Research-performance exposition removed from speech because it does not perform a student step; dated research remains in reference/script-finishing-sources.md. Preserve invented $103,000/55%/$86,000 example, $92,700 cap, $52,700 gap, $26,350 floor and $7,700 refill. Dollar guardrail inverse calculation, denominator, annual cap/inflation semantics and same-result save receipt require approved-build evidence before footage. No invented solver result is shown as an app output.
+Retirement deck spending/sequence/Reserve actions retained; old fixed-withdrawal and generic 10% interpretations do not override accepted current policy. The separate two-year sequence calculation was removed; this recording follows one annual spending and Reserve case. Research-performance exposition remains outside speech; dated research remains in reference/script-finishing-sources.md. Preserve invented $103,000/55%/$86,000 example, $92,700 cap, $52,700 gap, $26,350 floor and $7,700 refill. Dollar guardrail inverse calculation, denominator, annual cap/inflation semantics and same-result save receipt require approved-build evidence before footage. No invented solver result is shown as an app output.
 
 ### Member checkpoint
 
@@ -1562,46 +1369,42 @@ Choose how each significant Bitcoin holding will be held. Record the responsibil
 
 ### Read aloud
 
-We've worked through how the money could support your retirement. Now I want to spend some time on how you hold the Bitcoin, because the plan depends on you being able to use it when you need it.
+We've worked through how the money could support your retirement. Now we need to decide how to hold the Bitcoin, because the plan depends on being able to use it when you need it.
 
-That's what we're talking about with custody: who controls the Bitcoin, what you're relying on, and how access would work if something goes wrong. A setup can be comfortable for you today and still leave your family unsure where to begin. So we're going to work through the trade-offs and choose an arrangement your household can maintain.
+Custody comes down to who controls each holding and what you're relying on. Direct Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a retirement account have different access processes. Your hardware-wallet backup won't recover the retirement account.
 
-Let's look at the custody mix in our example household. They have 3.4 Bitcoin in self-custody, 0.7 with a professional custodian, and a Bitcoin ETF in a Roth IRA. Those all give them Bitcoin exposure, but the access process is different for each one. Their hardware-wallet backup won't recover the retirement account.
+I'd start with the job each portion does and who owns it. Some may be long-term Bitcoin you want to control yourself. Some may be in a retirement account for its tax treatment. Pledged Bitcoin has a loan attached to it. Those differences help us choose the responsibilities that fit.
 
-I'd begin with what each portion is for. Some might be long-term Bitcoin that you want to control yourself. Some might be in a retirement account for its tax treatment. Pledged Bitcoin has a loan attached to it. Knowing the owner and the job helps us decide which responsibilities make sense.
+With self-custody, you control the signing keys and can move the Bitcoin without a company approving the withdrawal. The household takes responsibility for protecting those keys, recovering the wallet and keeping the family process usable.
 
-With self-custody, you control the signing keys. You can move that Bitcoin without asking a company to approve a withdrawal. In return, the household is responsible for protecting those keys, recovering the wallet and keeping the family process usable.
+Professional custody moves more of that work to a provider. Support can be helpful, especially for someone who doesn't want to operate a wallet. You still depend on the ownership terms, withdrawal process and what happens if the owner or provider becomes unavailable. Don't assume every possible loss is insured.
 
-Professional custody moves more of that work to a provider. Support and administration can be helpful, especially for a family member who doesn't want to operate a wallet. You still depend on the provider's terms and withdrawal process. The documents I'd look for are the ownership terms, who actually holds the assets, and what happens when the owner becomes unavailable. Don't assume every possible loss is insured.
+Collaborative multisig shares signing responsibility across independent keys. A two-of-three arrangement needs two of those keys, along with the correct configuration and people who can use it. We'll compare that and passphrases in the related lesson if either addresses a problem you've identified.
 
-Collaborative multisig can put some of those responsibilities in different hands. In a two-of-three arrangement, two of three independent keys are needed to spend. A provider might hold one key and help with the process. The household still needs the correct wallet configuration, enough available keys and people who can use them.
+There isn't a ladder you have to climb as your balance grows. More direct control gives you more operating responsibility. More support creates dependence on someone else's process. A combination can fit, but every arrangement gives the household something else to maintain.
 
-You don't have to progress through those methods as the amount grows. The choice is which risks you're prepared to carry and how much direct control matters for this portion of the money. A combination can make sense, but every additional arrangement gives you something else to maintain.
+So include the people in this decision. Who will handle the ordinary work, and who has agreed to help if that person is unavailable? They need a process they can follow, even if they don't share your interest in Bitcoin.
 
-That's where the people matter. Someone has to handle secure sign-in, check receive addresses, review recovery and keep the family instructions current. It helps to know who is willing to do those things and who can help when that person is unavailable. Your spouse doesn't need your level of Bitcoin interest to know where the process begins. Technical help can fill a gap, while legal authority remains a separate question we'll cover in the family section.
+Then test the arrangement by taking away one thing: the operator, a device, a location or a provider. Which holdings would become difficult to access?
 
-Once you have that picture, we can test it by taking away one thing. Let's say the usual operator can't help. Or a device is lost, a location becomes inaccessible, or a provider stops allowing withdrawals. Which part of the plan would that interrupt?
+Two devices can share the same backup. Several accounts can share one recovery email. Different providers can even use the same custodian. Suppose 30% is with one provider and 30% with another, and both use that custodian. Then 60% shares that dependency. That's exposure, not a prediction that all 60% would be lost; the actual terms determine the remaining rights and risks.
 
-Two devices with the same backup are copies of the same keys. Several accounts might share one recovery email. Different provider names can also depend on the same custodian.
+The other 40% offers a separate route only if its control and recovery work without those providers. Calling it self-custody doesn't establish that the backup works.
 
-Here's a simple example. Suppose you have 30% with one provider and 30% with another. If both use the same custodian, 60% depends on that custodian. That's shared exposure; it doesn't mean all 60% would necessarily be lost. The actual terms tell us what rights and risks remain.
+Choose one improvement that addresses the largest failure you found. It might be protecting the recovery email, agreeing on a backup person or checking a recovery route. You don't need to move everything to improve one weak point.
 
-The other 40% gives you a separate route only if its control and recovery work without those providers. A self-custody label isn't evidence that the backup was checked.
+In the walkthrough, we'll attach that decision to the right holding and prepare its safe family starting route. The map describes the process; recovery words, private keys, passphrases and exact secret locations stay in protected records outside Orange Plan.
 
-From there, choose one improvement that addresses the biggest failure you found. Maybe it's securing a shared recovery email, arranging a backup person, reducing a provider exposure or proving a recovery route. We don't need to move everything just to make the map look more sophisticated.
-
-In the walkthrough, we'll put the owner, purpose, current method and intended change into your custody record. Rough descriptions such as meaningful or life-changing can be enough when the exact balance isn't needed. Recovery words, private keys, passphrases and precise secret locations stay out of Orange Plan and shared planning documents.
-
-What you're taking forward is a custody direction and the first action that makes it more dependable. If that involves a passphrase, multisig or professional support, use the related lesson before moving meaningful funds. Then we'll work through recovery and account security, so the arrangement you've chosen has evidence behind it before you rely on it.
+If you're considering passphrase, multisig or professional support, use the related lesson before moving meaningful funds. Then we'll check recovery and account security for the arrangement you're going to rely on.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Let's look at the custody mix in our example household. | Fictional household: 3.4 BTC self-custody / 0.7 BTC professional custody / Bitcoin ETF in Roth IRA | Reveal each holding when named; retain fictional label. |
-| Once you have that picture, we can test it by taking away one thing. | Operator / device / location / provider | Mark one unavailable item at a time. |
-| If both use the same custodian, 60% depends on that custodian. | Hypothetical: 30% + 30% = 60% shared exposure | Connect two provider names to one custodian; label exposure, not loss. |
-| What you're taking forward is a custody direction and the first action that makes it more dependable. | Custody direction / person / next action | Hold on the completed non-secret fields. |
+| I'd start with the job each portion does and who owns it. | Holding / owner / purpose / custody method | Use the existing holdings; no additional example portfolio. |
+| Then test the arrangement by taking away one thing: the operator, a device, a location or a provider. | Operator / device / location / provider | Mark one unavailable dependency at a time. |
+| Then 60% shares that dependency. | Hypothetical: 30% + 30% = 60% shared exposure | Connect two providers to one custodian; label exposure, not loss. |
+| Choose one improvement that addresses the largest failure you found. | Custody direction / agreed person / next action | End on the non-secret custody record. |
 
 ### Walkthrough handoff — not spoken
 
@@ -1632,39 +1435,37 @@ Secure the accounts that control access to your Bitcoin. Choose the appropriate 
 
 ### Read aloud
 
-Once you've chosen how to hold the Bitcoin, the next part is making sure you can keep access to it. In this lesson, we're going to look at recovery and the accounts around it. I want you to understand what a successful check actually proves, because owning the hardware and being able to recover the wallet are different things.
+Once you've chosen how to hold the Bitcoin, we need to make sure you can keep access to it. We'll look at wallet recovery and the accounts around it, so you know what you've checked and what still needs work.
 
-The Bitcoin isn't stored inside the device. The device holds signing keys, and the right recovery material lets a compatible process recreate those keys. That's why losing a device doesn't have to mean losing the Bitcoin.
+The Bitcoin isn't stored inside the device. The device holds signing keys, and the right recovery material lets a compatible process recreate them. Losing a device doesn't have to mean losing the Bitcoin.
 
-The time to check that recovery is while you still have working access. Keep the funded wallet intact while you choose the safe procedure for that exact setup. The manufacturer's official instructions need to match your model, firmware and backup format. Some devices offer a backup-check feature that doesn't erase anything. A compatible spare may provide another route.
+Keep the funded wallet intact while you choose the safe procedure for that exact setup. The official instructions need to match your model, firmware and backup format. A supported backup-check feature or a compatible spare may let you check recovery while preserving working access.
 
-There are a few pieces that are easy to confuse. The PIN unlocks the device. It doesn't replace the backup. If you use a passphrase, that exact passphrase selects a particular wallet. With multisig, the recovery also depends on the required independent keys and the wallet configuration. A word list by itself may not cover the whole setup.
+The PIN unlocks the device. It doesn't replace the backup. A passphrase selects a particular wallet, and multisig also needs the required independent keys and wallet configuration. The check has to cover everything your arrangement depends on.
 
-For an unfamiliar process, the device walkthrough uses a separate, newly created wallet and a small test amount. We'll create the test wallet, receive that amount, check the backup, recover the intended wallet and test a small payment. The family's savings stay outside that experiment.
+The device walkthrough uses a separate, newly created wallet and a small test amount. We'll receive that amount, check the backup, recover the intended wallet and test a small payment. The family's savings stay outside that experiment.
 
-During secret generation or entry, stop recording. Recovery words, private keys and passphrases don't belong in screenshots, ordinary notes or chat either. Blurring the finished video would still leave a recording of the secret somewhere.
+During secret generation or entry, stop recording. Recovery words, private keys and passphrases don't belong in screenshots, ordinary notes or chat. Blurring a video afterward still leaves the secret in the original recording.
 
-The important part of recovery is getting back to the intended wallet. Let's say you enter a passphrase incorrectly. You might open a perfectly valid wallet that just isn't yours. That's why we compare the known test-wallet identifier or address through the trusted process and check the test funds. An unexpected identity or an empty wallet is a reason to stop.
+Recovery means reaching the intended wallet. A wrong passphrase can open a different valid wallet, so compare the known test-wallet identifier or address through the trusted process and check the test funds. An unexpected identity or an empty wallet is a reason to stop. Sending more money won't fix the mismatch.
 
-Sending more money won't solve that mismatch. And wiping the only working device holding access to your savings would remove the access you still have. Keep that device intact while you investigate through verified official instructions or support, without giving anyone the recovery material.
+Keep the only working device for your funded wallet intact while you investigate through verified official instructions or support, without giving anyone the recovery material.
 
-A successful test applies to the wallet you tested. If it was the separate test wallet, your funded wallet still needs its own appropriate safe check. When we record the result, we'll include the setup, method, date and what actually happened. That lets another person understand what remains unverified.
+A successful test applies to the wallet you tested. The separate test wallet doesn't verify your funded wallet. Record the setup, method, date and result so it's clear which evidence applies and what safe check is still needed.
 
-The storage choice also needs to match the failure you're trying to survive. Durable material can help with physical damage. Separate protected locations can keep one disaster from taking everything. But the lawful family-access process has to work with those choices too. We can describe where that process begins without putting exact secret locations in the ordinary family map.
+Storage has to survive the failure you're concerned about too. Durable material can help with physical damage; separate protected locations can reduce dependence on one place. The lawful family-access process needs to work with those choices, without putting exact secret locations into the ordinary family map.
 
-Now, the wallet may be only one part of your access. Your email is often the recovery route for exchanges and financial accounts, so someone who controls it may be able to reset other passwords. That's why I'd secure that account early, with a unique password and a protected recovery route. A password manager can help you maintain different passwords across accounts.
+Your email deserves attention because it often controls recovery for exchanges and financial accounts. Use a unique password and a protected recovery route. A password manager can help you maintain different passwords across accounts.
 
-For sign-in, use phishing-resistant security keys or passkeys where they're supported. These can prevent a lookalike site from collecting a credential it can use on the real site. A hardware security key protects a login. A hardware wallet holds Bitcoin signing keys.
+For sign-in, use phishing-resistant security keys or passkeys where they're supported. These help prevent a lookalike site from collecting a credential it can use on the real site. A hardware security key protects a login; a hardware wallet holds Bitcoin signing keys.
 
-When those sign-in options aren't available, an authenticator app is a useful fallback. A fake site can still trick you into handing over its one-time code, so the site you're signing into matters. Treat SMS as a last resort when stronger supported methods aren't available, rather than leaving the account with just a password.
+An authenticator app is a useful fallback where those options aren't available, though a fake site can still trick you into sharing its one-time code. Treat SMS as a last resort when stronger supported methods aren't available, rather than leaving the account with just a password.
 
-Changing sign-in protection can create a new recovery problem if you remove the only method that works. Set up and test the legitimate backup sign-in method before removing the working one. That backup might depend on a phone, cloud account or recovery code. It needs protection too.
+Set up and test the legitimate backup sign-in method before removing the working one. That backup may rely on a phone, cloud account or recovery code, which needs protection too. Review active sessions, notification details and any supported withdrawal delays or allowlists. These improve account access; they don't settle the provider's custody or business risk.
 
-While you're in the provider's settings, review active sessions, notification details and any withdrawal delays or allowlists it supports. Those controls can reduce account-takeover risk. They don't settle the provider's custody or business risk.
+For an urgent warning, open the known official app or independently verified website. Don't use the message's own link or phone number to verify it. Requests for recovery words, a transfer to a supposed safe wallet, guaranteed returns or another payment to unlock withdrawals are reasons to stop.
 
-The same care applies to an urgent message telling you to move Bitcoin. Open the known official app or independently verified website to check it. Don't use the warning's own link or phone number to verify the warning. Requests for recovery words, a transfer to a supposed safe wallet, guaranteed returns or another payment to unlock withdrawals are reasons to stop.
-
-In the walkthrough, we'll connect the recovery result and any completed account-security change to the right holding. An unfinished check stays open; buying a device or watching the video doesn't complete it. Once that record describes what you've actually checked, we'll bring it into the family handoff so someone else knows where to begin.
+In the walkthrough, we'll connect the recovery evidence and completed account-security changes to the right holding. Anything unverified gets a specific safe next step. Then we'll bring that record into the family handoff so someone else knows where to begin.
 
 ### Text overlays — not spoken
 
@@ -1675,7 +1476,7 @@ In the walkthrough, we'll connect the recovery result and any completed account-
 | During secret generation or entry, stop recording. | Stop capture before secrets appear | Full-screen text during the recording break. |
 | A successful test applies to the wallet you tested. | Test-wallet result ≠ funded-wallet verification | Show separate status rows. |
 | Set up and test the legitimate backup sign-in method before removing the working one. | Add backup access → test it → review old access | Reveal in order. |
-| In the walkthrough, we'll connect the recovery result and any completed account-security change to the right holding. | Setup / method / date / result / still unverified | Show a non-secret status record. |
+| Anything unverified gets a specific safe next step. | Setup / method / date / result / safe next step | Show the non-secret status record. |
 
 ### Walkthrough handoff — not spoken
 
@@ -1706,66 +1507,60 @@ Connect the people, documents and account processes your family would use if you
 
 ### Read aloud
 
-Up to this point, you've been the person putting the plan together. Now we're going to make it usable for someone else if you're unable to manage it. That means connecting the people, the legal documents and the access process, so your family has a clear place to begin.
+Up to this point, you've been putting the plan together. Now we're going to make it usable for someone else if you're unable to manage it.
 
-The custody work gives us part of that picture. We know how the Bitcoin is held and what recovery has actually been checked. But someone can know how a wallet works without having authority to use the assets. And a person can have legal authority without knowing how to reach them. Both parts need to connect.
+The custody map gives us a starting point, but knowing how a wallet works doesn't give someone authority to use the assets. Having legal authority doesn't guarantee they can reach them either. We're going to connect both parts and give your family a clear place to begin.
 
-I'd start with the people you want involved. You may need someone for financial decisions while you're alive, someone for healthcare and someone to handle the estate process after death. One person can have several roles, but each role needs its own authority.
+Start with the people. You may need someone for financial decisions while you're alive, someone for healthcare and someone to handle the estate after death. One person can have several roles, but each needs the appropriate authority.
 
-Choose someone who's willing and able to follow the process, and ask them before treating it as settled. They can use technical or professional help; they don't have to be the family's best investor. A backup matters too, because the first person may also be unavailable. If you have children, caring for them and managing their money are separate responsibilities to discuss in the estate plan.
+Choose people who are willing and able to follow the process, and ask them before treating it as settled. They can use technical or professional help. Include a backup, and if you have children, distinguish caring for them from managing their money.
 
-From there, look at the documents you already have. We're looking for the current will, financial power of attorney, healthcare documents and any trust. Check the signed versions, their dates and whether they still reflect your wishes. A draft in a folder tells us work has started, but it doesn't tell us the arrangement is in effect.
+Now look at the current signed documents: the will, financial power of attorney, healthcare documents and any trust. Check whether they still reflect your wishes.
 
-A financial power of attorney gives someone authority under its terms while you're alive. For incapacity, check that the authority can continue if you're unable to manage your affairs. That's what durable means here. Also confirm when it takes effect and which powers it grants. Healthcare authority is separate. After death, estate, trust and beneficiary processes apply instead.
+A financial power of attorney gives someone authority under its terms while you're alive. For incapacity, check that it's durable, meaning the authority can continue when you're unable to manage your affairs. Confirm when it takes effect and what powers it grants. Healthcare authority is separate. After death, estate, trust and beneficiary processes apply instead.
 
-A nominated executor may still need a formal appointment before acting. A trust depends on its terms and which assets it actually holds. So when we put those arrangements into Orange Plan, we're describing the authority that exists; the app isn't creating it.
+An executor you've nominated may still need formal appointment. A trust depends on its terms and the assets it actually holds. The records need to show which arrangements are in effect and which still need work.
 
-Check account beneficiaries next. This is worth doing separately because some accounts and policies pass under their own beneficiary or ownership rules. A will may not change that result.
+Check beneficiaries against the institution's current record. Some accounts and policies pass under their own ownership or beneficiary rules, which a will may not change. The primary beneficiary is the first recipient named. The contingent beneficiary is the backup if the primary can't receive under those rules.
 
-Open the institution's current record and compare it with your intention. The primary beneficiary is the first recipient you've named. The contingent beneficiary is the backup who receives if the primary can't under the account's rules. If something doesn't match, that's the specific update to take to the provider or the person preparing your estate documents.
+A trusted contact is different. The institution may contact them if it can't reach you or is concerned about exploitation. That role doesn't automatically permit trading or withdrawals.
 
-You may also see a trusted contact on an account. That person can be useful if the institution can't reach you or is concerned about exploitation. It doesn't automatically give them permission to trade or withdraw money. The role needs to be clear before the family relies on it.
+Then connect each asset to the person authorized for the situation and the process they would use. Direct Bitcoin needs a lawful route to protected recovery. Professional custody uses the provider's process. A retirement account follows its beneficiary and distribution rules. Don't make the instruction to impersonate the owner with their login.
 
-Now we can connect the people to the assets. Our example household's personally controlled Bitcoin needs a lawful route to the protected recovery process. Their professionally custodied Bitcoin uses the provider's family-access process. The ETF in the Roth IRA follows that account's beneficiary and distribution rules. The word “Bitcoin” on an account list wouldn't explain which kind of help applies.
+The family will also need to pay bills while the full process is underway. Confirm which cash and payment arrangements would be legally available, so immediate spending doesn't depend on an account they can't yet use.
 
-The instruction shouldn't be to impersonate the owner with their login. It should point to the legitimate provider or recovery process for the person authorized in that situation. Recovery words, private keys, passphrases, passwords, PINs and exact secret locations stay out of the family map. Sensitive wallet configurations belong in the protected recovery process too.
+With that settled, write the first page someone would read. The Heir Letter can hold the opening instructions, with the inventory and document references in the Executor Packet. Reuse the custody map you've already built.
 
-There can also be time between somebody needing to help and the full process being completed. So include how the household's immediate bills would be paid. Confirm which cash and payment arrangements are legally available, rather than assuming every account can be used immediately.
+Keep the opening practical: who to contact first, how to verify that contact, where the supporting instructions begin and which bills need attention. Recovery words, private keys, passphrases, passwords, PINs, exact secret locations and sensitive wallet configurations stay in the protected recovery process.
 
-Once those pieces connect, we can write the first page your family would read. You can use the Heir Letter if you don't already have clear instructions, with the supporting inventory, document references and obligations in the Executor Packet.
+Your heir may want help selling Bitcoin. The instructions need to support that lawful choice without requiring them to share your investment preferences.
 
-Here's an example of the first paragraph:
+Then rehearse the first steps with the intended person. Let them find the page, first contact and backup without you explaining every move. Fix the instruction they couldn't follow and repeat that part. No money or credentials need to move during the rehearsal.
 
-“If I'm unavailable, contact the person named for financial matters in our family contact list. Confirm who has authority for this situation. Use the custody map to find the correct provider or technical helper for each account. Check the household payment list for bills that need attention. Don't share wallet recovery words or follow urgent transfer instructions from an unexpected message.”
+If you use a check-in or delayed-message service, it's an optional way to deliver these safe instructions. Check its timing, recipient, cancellation and false-alarm process, and agree on a harmless test. Never send secrets or a false emergency. Keep another way to find the instructions if the service is unavailable.
 
-You'd adapt that to your actual arrangements. It gives someone a starting point; it doesn't grant authority. The process also needs to work for an heir who wants help selling Bitcoin. We can help them avoid a rushed mistake without requiring them to share your investment preferences.
+In the walkthrough, we'll build this handoff from the records you already have and perform that rehearsal. Any missing authority, access or instruction stays assigned to a person and next step.
 
-The useful check is whether the intended person can find and follow that first page. Date it, show them where it begins and let them find the first contact and backup without coaching every step. Correct the instruction they couldn't follow, then repeat that part. No money needs to move during the rehearsal.
-
-If you use a check-in or delayed-message service, treat it as another way to deliver those safe instructions. Confirm the actual timing, recipient, cancellation and false-alarm process. Agree on a harmless test with the recipient and check that it arrives. Never send secrets or a false emergency, and keep another way for the family to find the instructions if the service is unavailable.
-
-In the walkthrough, we'll connect these records in Protect and keep their actual statuses clear. A draft, a signed document, a confirmed provider process and a completed rehearsal tell us different things. Give each unfinished item a person and a date.
-
-If a trust might solve a specific family or legal problem, the related lesson will help you prepare that decision. Otherwise, you can take this handoff forward to insurance, where we'll look at the financial losses your household can carry and the ones you may want to transfer.
+If a trust might solve a specific problem, use the related lesson before finishing that arrangement. Otherwise, continue to insurance, where we'll look at the financial losses your household can carry and those you may want to transfer.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| A backup matters too, because the first person may also be unavailable. | Primary person / agreed role / backup | Show role fields without invented example household selections. |
-| After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document list. |
-| Check account beneficiaries next. | Provider record: primary + contingent beneficiaries | Highlight the provider record. |
-| Here's an example of the first paragraph: | Illustrative family letter | Keep the example label while the paragraph is spoken. |
-| Correct the instruction they couldn't follow, then repeat that part. | Find first contact → find backup → repair unclear step | Use the non-secret first page. |
-| Give each unfinished item a person and a date. | Item / actual status / person / date | End on the existing action record. |
+| Start with the people. | Financial / healthcare / estate role / agreed backup | Show roles without invented household appointments. |
+| After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document inventory. |
+| Check beneficiaries against the institution's current record. | Provider record: primary + contingent beneficiaries | Highlight the actual provider record. |
+| Reuse the custody map you've already built. | Existing custody map → family instructions | Connect the records; do not create a second map. |
+| Then rehearse the first steps with the intended person. | Find page → first contact → backup → repair unclear step | One rehearsal after the complete handoff is ready. |
+| Any missing authority, access or instruction stays assigned to a person and next step. | Open item / responsible person / next step | End on actual status. |
 
 ### Walkthrough handoff — not spoken
 
-[W08 chapters 1–4](scripts/working/W08_build-and-rehearse-the-family-handoff.md#chapter-1--connect-people-documents-and-beneficiaries) connect authority, access, instructions and any communication backstop. [W07 chapter 4](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md#chapter-4--finish-the-family-starting-map) prepares the custody portion; reuse it. [A8.1](scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md) applies when a trust has a specific job.
+[W08 chapters 1–4](scripts/working/W08_build-and-rehearse-the-family-handoff.md#chapter-1--connect-people-documents-and-beneficiaries) connect authority, access, instructions and any communication backstop. Chapter 3 owns the single family-handoff rehearsal. Reuse the custody portion prepared in [W07 chapter 4](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md#chapter-4--finish-the-family-starting-map); do not request a separate earlier rehearsal. [A8.1](scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md) applies when a trust has a specific job.
 
 ### Source and production notes — not spoken
 
-Consolidated 7.4, 8.1, 8.2 and 8.3 remain recoverable through [source mapping](production/consolidation.json). The letter paragraph is editorial illustration, not a legal instrument or approved example household arrangement. The [dated technical review](delivery/professional-topic-review.md), P11/S28, covers the POA/trusted-contact distinctions within its recorded scope. Actual law, instruments, appointment, provider acceptance and trust funding determine authority.
+Consolidated 7.4, 8.1, 8.2 and 8.3 remain recoverable through [source mapping](production/consolidation.json). The first-page guidance organizes safe instructions; it is not a legal instrument or an approved household arrangement. The [dated technical review](delivery/professional-topic-review.md), P11/S28, covers the POA/trusted-contact distinctions within its recorded scope. Actual law, instruments, appointment, provider acceptance and trust funding determine authority.
 
 The September 10 owner ruling excludes a categorical will-drafting instruction and an invented reviewer gate. The older Estate deck's fixed 90-day promise and universal seed/passphrase split are not teaching defaults. No notification is sent or legal status changed by this manuscript. PR #227 preserves Protect's seven sections; actual fields, packet generation and Check-in plan delivery require capture evidence.
 
@@ -1788,62 +1583,54 @@ Identify losses that would materially change the family's quality of life. Compa
 
 ### Read aloud
 
-We've worked through how someone else could use the plan if you weren't able to. Before we finish the family-protection section, I want to look at the financial side of that: what a serious loss would do to the household, and where insurance still has a job.
+We've made it possible for someone else to use the plan. Before we finish family protection, let's look at what a serious financial loss would do to the household and where insurance still has a job.
 
-I think about insurance in terms of what a loss would do to the family's life. When losing a paycheck would put the plan in trouble, paying to protect that income can make sense. Once the assets can comfortably support the household without it, the need for that protection can shrink.
+I think about insurance in terms of the life you're trying to protect. If losing a paycheck would put that life at risk, income protection can matter. As accessible assets become enough to support the household, that need can shrink.
 
-That point depends on the family and its risk tolerance. I wouldn't use one net-worth number for everyone. We need to look at what would change, the money still available and what the existing coverage actually pays.
+I wouldn't use one net-worth number for everyone. Pull the actual policies and employer-benefit summaries, then compare the needs after a loss with the resources and benefits available.
 
-Pull the actual policies and employer-benefit summaries so you can see what protection already exists. We'll use those alongside the household spending you've already put into the plan.
+Start with a death in the family. Account for income that continues and costs that change, including unpaid work such as childcare that would need replacing.
 
-Let's start with a death in the family. Some income may continue and some costs may change. We also need to include work that wasn't paid, such as childcare, because replacing it can still cost money.
+Suppose the remaining shortfall is $40,000 a year for ten years. That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees.
 
-In our example, a family would be short $40,000 a year for ten years after allowing for the income that continues. That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees.
+For this illustration, assume later retirement and other obligations are funded separately. With $100,000 available for this shortfall and $200,000 of existing life coverage that would pay during the policy's term, that leaves a $100,000 gap to investigate.
 
-For this illustration, assume later retirement and other obligations are funded separately. The family has $100,000 available for this shortfall and $200,000 of existing life coverage that would pay if the death occurs during the policy's term. That leaves a $100,000 gap to investigate.
+The calculation is a starting amount, not a policy choice. Add other unfunded education, childcare or final expenses. The assets you subtract must be accessible and spendable for the surviving family.
 
-That calculation gives us a starting amount, not a policy choice. Any other unfunded childcare, education or final expenses belong in the need too. And the assets we're subtracting have to be accessible and spendable for the surviving family.
+Counting the home requires a way to use its value. If you include a mortgage payoff upfront, remove those payments from future spending. The same investment balance can't fund this gap and a separate retirement need.
 
-For example, counting the home assumes a way to use its value. If you include a mortgage payoff upfront, take those payments out of the future spending estimate. We also can't use the same investment balance for this gap and a separate retirement need.
+Coverage needs a period as well as an amount. Term insurance lasts for a set period. Permanent coverage is designed to last for life if its requirements are met. A lasting dependent need or estate cash requirement can give coverage a job even when replacing earnings no longer does.
 
-As the assets grow, it's useful to revisit that calculation. If the family can thrive without the death benefit, income-replacement coverage may have less to do. A lasting dependent need or an estate cash requirement could still give life insurance another job.
+Disability changes the picture because you're alive while earnings and the savings they funded may stop. Care, paid help or home changes can cost more, and another family member may reduce work to help.
 
-That's why the coverage period matters. Term insurance lasts for a set period. Permanent coverage is designed to last for life if the policy's requirements are met. The cost and conditions need to fit the job you want it to do.
+Compare continuing income, assets and the spendable disability benefit with that changed need. Check the policy's disability definition, waiting period, benefit period and tax treatment. The Reserve may need to cover the wait.
 
-Disability asks a related question, but the spending picture can be different. You're alive and the earnings may stop. The savings those earnings were funding stop too, while costs for care, paid help or changes to the home may increase. Another family member might work less to help.
+I'd also test self-funding with Bitcoin down and income interrupted at the same time. If it requires lifestyle cuts the family wouldn't accept, I wouldn't call it comfortably self-funded.
 
-We want to see whether assets and continuing income can support that changed plan. If they can comfortably cover it, protecting the paycheck may become less important. If there's still a gap, compare it with the spendable benefit from existing disability coverage.
+Liability deserves a separate look as wealth grows. More assets can reduce the need to replace earnings while leaving more of the family's future exposed to a large claim.
 
-The details are in the policy: what counts as a disability, how long you wait, how long benefits last and whether the payments are taxable. The Reserve may have to cover the wait. A benefit starting months from now won't cover bills due today.
+Let's say a covered claim is $2 million. If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. Look at what funding that amount would do to retirement.
 
-I'd also test self-funding with Bitcoin down and income interrupted at the same time. A strong expected return can improve a projection. It doesn't give the family cash today. If the plan only works by cutting their lifestyle beyond what they'd accept, I wouldn't call that comfortably self-funded.
+That isn't a prediction of the largest possible claim. Your exposures matter, the underlying limits must meet the umbrella's requirements, and exclusions still apply. Personal umbrella coverage shouldn't be assumed to cover business or professional liability.
 
-Liability deserves a separate look. More assets can reduce the need to replace earnings while leaving more of the family's future exposed to a large claim. That's why I'd review liability and umbrella coverage as wealth grows.
+Healthcare and long-term care also need funding. Medicare doesn't pay for most long-term custodial care. Check whether prolonged care can fit without leaving the other person in the household short.
 
-Let's say a covered claim is $2 million. If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. We can then look at what paying that amount would do to the retirement plan.
+Before reducing or replacing coverage, consider whether you could obtain it later. Health changes can affect eligibility and price; employer benefits may end with work. Keep needed protection until replacement coverage is approved and active unless you've deliberately chosen to carry the gap.
 
-That isn't a prediction of the largest claim you could face. The exposures matter as well as the assets. Your underlying limits need to meet the umbrella's requirements, and exclusions still apply. Personal umbrella coverage shouldn't be assumed to cover business or professional liability.
+In the walkthrough, we'll compare one material loss with available resources and actual policy benefits, then record the remaining gap and your next decision. Unclear terms become specific questions for the insurer.
 
-Healthcare and long-term care need funding as well. Medicare doesn't pay for most long-term custodial care. A prolonged care cost has to fit without leaving the other person in the household short.
-
-If this review leads you toward reducing or replacing coverage, check whether you could obtain it later. Health changes can affect eligibility and price, and employer benefits may end with work. Keep needed protection until replacement coverage is approved and active unless you've deliberately chosen to carry the gap.
-
-In the walkthrough, we'll put the material loss, available resources, policy benefit and remaining gap beside each other. That gives you a reason for keeping coverage, investigating a change or carrying the risk yourself. Unclear policy terms are the questions to take back to the insurer.
-
-The related premiums and self-funding assumptions then need to agree with Orange Plan. The actual policy change still happens with the provider. Record the provider confirmation and effective date when it happens.
-
-That finishes the protection decisions we need for this first plan. Next we'll work through how to keep everything current, so the coverage, family arrangements and financial choices can change as your life does.
+Update the related costs in Orange Plan, and record the provider confirmation and effective date when coverage changes. Next we'll set up the review routine that keeps these choices current as your life changes.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Pull the actual policies and employer-benefit summaries so you can see what protection already exists. | Benefit / period / exclusions / premium | Show a redacted sample record, not a quote. |
+| Pull the actual policies and employer-benefit summaries, then compare the needs after a loss with the resources and benefits available. | Need / accessible resources / actual policy benefit | Show a redacted policy record, not a quote. |
 | That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees. | Hypothetical: $40,000 × 10 = $400,000 / 0% real return after taxes and fees | Keep assumptions beside the calculation. |
-| That leaves a $100,000 gap to investigate. | $400,000 − $100,000 assets − $200,000 coverage = $100,000 | Retain “other future needs funded separately.” |
+| With $100,000 available for this shortfall and $200,000 of existing life coverage that would pay during the policy's term, that leaves a $100,000 gap to investigate. | $400,000 − $100,000 assets − $200,000 coverage = $100,000 | Retain “other future needs funded separately.” |
 | I'd also test self-funding with Bitcoin down and income interrupted at the same time. | Asset decline + lost income + changed costs | Display the simultaneous test. |
 | If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. | Hypothetical covered claim: $2m − $500k − $1m = $500k | Label assumed responding coverage. |
-| Record the provider confirmation and effective date when it happens. | Planned / confirmed / effective date | End on the implementation record. |
+| Update the related costs in Orange Plan, and record the provider confirmation and effective date when coverage changes. | Plan costs / confirmed coverage / effective date | End on the existing implementation record. |
 
 ### Walkthrough handoff — not spoken
 
@@ -1876,66 +1663,41 @@ Use the monthly check for changed facts, the annual review for standing choices,
 
 ### Read aloud
 
-You now have the main pieces of the plan in place. The question from here is how to keep it useful without turning it into another thing you have to manage every day.
+You have the main pieces of the plan in place. From here, I want it to be something you can maintain without having to think about it every day.
 
-There are three times I'd come back to it: a regular check of the facts, a broader annual review of the choices, and a real change that needs attention sooner. Those visits have different jobs. A quiet month doesn't need the same work as leaving a job or starting retirement.
+There are three reasons to come back: a monthly check of the facts, an annual review of the choices, and a change that needs attention sooner. Each visit has a different job.
 
-For the monthly check, we're looking at what actually happened since the last update. That includes purchases, sales, transfers and debt changes. A market-price change isn't another purchase. Moving money between your own accounts isn't automatically new income.
+The monthly check is about what actually happened. Have the contributions and purchases gone through? Are balances and debts current? Does the cash available still cover the spending and upcoming events you've planned around?
 
-The account record and the history need to agree without counting the same money twice. If an import already supplied a transaction, we don't want to add it again. If all you have is a current balance, the missing history stays separate until you have evidence for it.
+You're looking for a meaningful difference from what you expected. If a contribution is still sitting in cash, find out whether the investment instruction went through before deciding you need to save more. We'll follow that example in the walkthrough.
 
-Here's an ordinary example. A retirement contribution went through payroll, but the receiving account still holds it as cash. Before changing how much you save, look at whether the investment instruction was completed. The problem may be execution, not saving too little.
+Once the facts are current, read the Plan's date and status so you know the result includes them. If nothing needs a decision, you're finished. A new Bitcoin price doesn't require a new return assumption every month.
 
-An expected event can change the record too. If a planned purchase has happened, it may now be an actual asset or debt. The old future event needs to be reconciled so the projection doesn't make the same change again later.
+The annual review gives you time to revisit the choices behind those facts. Compare with the previous dated plan and look at what's changed in your life. A purchase may be closer, a debt may have ended or somebody may no longer be available for their family role.
 
-Once those facts are current, read the Plan's date and status. An account can show today's price while the calculation still reflects an earlier set of inputs. We want to know that the result includes the changes before we interpret it.
+Work through spending and the Reserve, allocation, debt, taxes, custody, and family protection. They connect to each other: money released by a confirmed debt payoff might fill the Reserve before it goes toward another investment. Use today's needs to choose its next job.
 
-A missing statement or incomplete purchase instruction gives you a specific action. If the facts are current and nothing needs a decision, you're finished with the monthly check. New Bitcoin prices don't require a new return philosophy every month.
+If you're retired, the annual spending review also sets the next budget and Reserve refill. Keep those decisions together using the process from Retirement Income. The walkthrough will take you through each area and show what to check without starting the whole plan again.
 
-Some obligations have their own schedule. A collateral threshold, tax deadline or security issue can't wait for this monthly visit. The monitoring rules you chose still apply.
+The third route is for something that can't wait. A job loss is a changed fact. A missing balance is a record to repair. A career break you're only considering is a scenario. Separating those tells us where to begin.
 
-The annual review is where we look at whether the choices continue to fit together. You can use the previous dated plan to see what's changed. If this is your first annual review and you don't have an earlier version, date the current plan and start the record from there.
+For an actual income change, update its source and timing, then look at bills, required payments, the Reserve and optional contributions. The old surplus may no longer be available. For an unexplained result, trace the input and date before changing strategy.
 
-Check the choices in six areas. We start with spending and the Reserve because they tell us what the rest of the plan needs to fund. If you're retired, use the spending-review process from Retirement Income and read the proposed budget and refill together. If you're working, check whether the Reserve target and funding pace still fit the household.
+If you need help, bring the relevant facts, what you expected, what you saw and the decision it blocks. An app question can stay open while you get an answer; a practical bill, tax deadline, collateral threshold or security issue still needs attention on its own schedule.
 
-Then look at Portfolio and allocation. A mix can drift with prices, but the purpose of the money can change too. A purchase getting closer may need a more dependable source. Compare new contributions or a specific trade when it addresses that job, rather than selling just to make the chart look tidy.
+After any review, keep a short record of what changed and why, including who will finish any outside action and when. Choices that still fit can stay as they are.
 
-For Debt, bring the actual statement back into the picture. We need the rate, principal, payment and maturity the household now carries, plus a repayment source that still exists. A loan's thresholds keep their regular monitoring; the annual review asks whether the overall arrangement still fits.
-
-The tax review connects this year's income with any relevant conversion, gain, loss or required distribution. Bring the records and proposed action to the appropriate review before the deadline. Waiting for filing season can leave you reviewing a choice after the opportunity to make it has passed.
-
-Custody can change even when the amount of Bitcoin hasn't. A different device, provider, key arrangement, sign-in method or helper can affect which recovery evidence still applies. This doesn't call for wiping a funded wallet every year. It calls for reviewing what changed and doing the appropriate safe check.
-
-The last area is family documents, ownership, beneficiaries and insurance. People may no longer be available for their roles, contact information may change, or a new child or move may require an update. The projection can look fine while those instructions have become outdated.
-
-Here's how those areas connect. Let's say a debt ended during the year and its payment stayed in checking. First confirm the debt is actually gone. Then look at the Reserve and the next funding need before assigning that cash to a contribution. The provider instruction and first purchase still need to happen. We don't need to redesign the whole portfolio to finish that job.
-
-After those checks, read the updated plan together. Each dollar needs one job at a time, the chosen spending and contributions need to fit, and possibilities you haven't adopted belong in Scenarios. Keep the reasons for changes you do adopt, with a person and date for any outside action still needed.
-
-The third route is for something that changes between reviews. It helps to separate a changed fact, a wrong record and a possibility, because they lead to different actions.
-
-A job loss is a changed fact. A missing account balance is a record to repair. A possible career break is a scenario. If household income actually falls, update the source and timing first, then look at bills, required payments, the Reserve and extra contributions. The old surplus may no longer support optional transfers.
-
-If a result looks wrong, trace it before changing strategy. Read the input and date that produced it, and check for an expense counted twice or a future event that's already part of current spending. For an unexpected tax result, look at income and sale basis before editing a rate.
-
-You may find a real consequence, a missing record or a question for product or professional help. It's fine to keep that uncertain while you gather the evidence. State what you expected, what you saw, the relevant input and date, and the decision it blocks. Share the information that question needs; a full unredacted backup or a wallet secret isn't a normal support attachment.
-
-One correction with a before-and-after record is easier to understand than several edits made to recover an old percentage. A practical bill, contract or filing deadline still needs attention through the proper channel while an app question is investigated.
-
-In the walkthrough, we'll show an ordinary monthly visit, the annual review and a changed-income example separately. Then we'll keep the adopted changes and the next reminder with your dated plan.
-
-When the facts are current and there's no decision to make, close the plan. In the final lesson, we'll read the choices together so you can see what funds your retirement, what you're assuming and what you'd do when something changes.
+In the walkthrough, we'll do the monthly check, the annual review and an immediate income change as separate visits. Then we'll set the next reminder. In a quiet month, close the plan and get on with your life. The final lesson brings the choices together so you can see how they fund the retirement you're planning.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| For the monthly check, we're looking at what actually happened since the last update. | Monthly: changed facts | Introduce return route 1. |
-| The problem may be execution, not saving too little. | Contribution received / purchase instruction completed? | Show the existing cash-held contribution example. |
-| Check the choices in six areas. | Annual: spending + Reserve / allocation / debt / tax / custody / family + insurance | Reveal one area as discussed. |
-| First confirm the debt is actually gone. | Payoff confirmed → review available cash → choose route → verify purchase | Show the payment's new job without inventing a dollar amount. |
-| It helps to separate a changed fact, a wrong record and a possibility, because they lead to different actions. | Changed fact: update owner / error: trace and correct / possibility: Scenarios | Introduce return route 3. |
-| When the facts are current and there's no decision to make, close the plan. | Review complete: no change needed | Use only with an actually quiet fixture. |
+| Each visit has a different job. | Monthly: facts / annual: choices / immediate: change or deadline | Introduce the three return routes. |
+| If nothing needs a decision, you're finished. | Quiet month: review complete | Use only with an actually quiet fixture. |
+| Work through spending and the Reserve, allocation, debt, taxes, custody, and family protection. | Six annual areas | Reveal the six areas; detailed screen review belongs to W09. |
+| Separating those tells us where to begin. | Changed fact: update / wrong record: repair / possibility: Scenarios | Keep the three classifications beside their spoken examples. |
+| After any review, keep a short record of what changed and why, including who will finish any outside action and when. | Decision / reason / open action / person / timing | End on the review record. |
 
 ### Walkthrough handoff — not spoken
 
@@ -1962,69 +1724,52 @@ Sources: APP, CLIENT_THEMES, LANDING, MAINTENANCE, MASTER, OWNER, REVIEW
 
 ### Do this
 
-Read one saved plan from household goal through the years that need funding. Confirm the assumptions and response rules, then finish or assign the actions that make those choices real.
+Read one saved plan from retirement date and spending through the important funding years and response rules. Identify the next real action and any question blocking a major decision.
 
 ### Read aloud
 
-We've worked through the individual decisions in the plan. In this final lesson, we're going to read them together, because retirement depends on how the pieces fit: the money available today, the years it needs to fund and the choices you'd make if things turn out differently.
+We've worked through the individual decisions. Now let's read your plan as a whole, from the life you want to the money that will pay for it.
 
-You don't need to explain every calculation. You do need to understand what the plan is showing and why you're comfortable using it. The saved Plan and Your Plan report give us a place to have that conversation.
+Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. If you intend to keep earning something after that date, keep that income in the picture. Work optional means paid work no longer has to cover the planned spending.
 
-Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. Work optional means paid work no longer has to cover the planned spending. If you intend to keep earning something, that income should remain visible rather than disappear just because we call the date retirement.
+Read the result that belongs to those saved choices. The chance of success describes the modeled paths under your inputs and spending policy. Look at the assumptions beside it, especially the ones that make a material difference to the date or spending you can support.
 
-Before reading the result, check its date and status. We want the result that belongs to the decisions you've saved. The chance-of-success result describes the modeled paths under the saved inputs and spending policy. Keeping the assumptions beside it helps you see what supports the date and where the answer could change.
+If the plan is weaker than you need, keep that shortfall visible. Correct wrong inputs first, then compare a change you could actually make, such as saving more, spending differently or retiring later. A higher return assumption doesn't provide the missing money.
 
-If the result is weaker than you need, that gives us a place to work. First correct a missing or wrong input. Then compare a response such as a later date, different spending or more saving. Raising the return assumption doesn't provide the missing money. The shortfall can stay visible while you decide what you'd actually change.
+Now follow the first retirement year. What income arrives, what does the household need to spend, and which accounts cover the difference, including taxes and debt payments? Then move to the next year where something important changes: a benefit starts, a major cost arrives or an account becomes accessible.
 
-From there, follow the money available today. The employee contribution, Reserve funding, extra debt payment and other investment instructions need to fit the same cash flow. Employer money belongs in retirement saving, but it isn't available for another household transfer.
+Those transitions tell you more than staring at the final balance. You want to know which money pays the bills when the funding changes and what might interrupt access to it.
 
-Our example household started with $500 available. Their spending-reduction comparison leaves $1,700. The plan needs to use the spending that goes with the amount they've chosen. And the future $1,605 from ending the card payments isn't available today. Those are different points in the plan, and mixing them would assign money before it exists.
+From there, read your response rules. If markets weaken, which spending can change? How would you refill the Reserve? If you've included borrowing, what funds repayment and what would make you act sooner? The response has to work with the resources still available after the setback.
 
-Now look at the portfolio by the job each amount does. Some money is available soon, some supports the years before retirement-account access, and some can stay invested much longer. The Bitcoin position and the other holdings need to make sense together, with account access that matches those dates.
+There may still be work to finish. Separate the next implementation step from a question that blocks a major decision. Changing payroll is one kind of action; relying on an account you haven't confirmed you can access is another.
 
-The next part is seeing how those accounts become money you can live on. In the first retirement year, we'll follow the income, full spending, taxes, withdrawals and source accounts. Then move to the next important change: a benefit starts, a major cost arrives or an account-access rule changes.
+Keep the next action specific, with the person responsible and the evidence you'll use to know it's done. Future actions can stay tied to their condition, such as redirecting a payment after a debt is actually paid off.
 
-Focus on the years where the funding changes. You don't need to recite every year, but you do need to know which account pays during those transitions and what could interrupt it. A large balance in an account that's unavailable at the needed time doesn't finish the job.
+In the walkthrough, we'll follow those important funding years in one saved plan, gather any focused questions for outside help and keep the final report with its action list. If you share finances, that gives you a useful way to talk through the choices together. Reuse the family handoff for emergency instructions.
 
-The operating rules tell us what happens after the initial plan. Look at the Reserve target and refill source, the spending-review rule and any loan repayment or reduction trigger. We want a response that can be funded, including the circumstance that would make you act before the next scheduled review.
-
-The protection records need to describe these same assets. The custody map should match the holdings, and recovery evidence should apply to the setup actually tested. The legal documents, beneficiaries and agreed family roles need to reflect the intended ownership and access.
-
-There will often still be an action list. Some items are ordinary implementation, such as changing payroll, opening an account or confirming a purchase. Others can block an important decision, such as an unresolved access route or missing basis for a sale you're relying on. Those questions stay visible until the evidence is there.
-
-If you share finances with someone, the Household Plan Summary can help you talk through the decisions that affect both of you. Show what pays the early years, why you chose the investment mix and which spending could change during a difficult period. Keep the detailed calculations in Orange Plan and reuse the family handoff for someone who may need to help manage things.
-
-Sharing works best when it has a purpose. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Review an export before sending it, and keep wallet secrets out of ordinary planning records. A readable report and a restoration backup have different jobs.
-
-For each outside action, include the person responsible, timing and evidence that will show it happened. A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned.
-
-Future actions can stay tied to their condition. Redirecting a payment after payoff doesn't mean increasing transfers early. The condition tells you when to return to that decision and check the available cash.
-
-In the walkthrough, we'll follow one saved plan through those important years, finish the next actions and keep a dated record for the next review. The monthly and annual reminders carry it forward, while urgent monitoring stays on its own schedule.
-
-What I want you to take away is an understanding of how your plan pays for the life you're planning, which assumptions matter and where you'd respond if the situation changes. Keep the next real action in front of you, along with anything still blocking a major decision. When a new question comes up about spending, saving or changing work, you have this plan to compare it with.
+You now have a place to come back to when you're deciding whether to spend more, save differently or change work. You can see what the decision would mean for your retirement, what you're assuming and how you'd respond if things change. Finish the next real action, and use the review schedule you've set to keep this plan current.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. | Date / spending / planning horizon | Use the actual saved report; no staged outcome. |
-| The chance-of-success result describes the modeled paths under the saved inputs and spending policy. | Result + saved inputs + policy + date | Keep inputs beside the result. |
-| Their spending-reduction comparison leaves $1,700. | example household comparison: $500 now / $1,700 with chosen spending reduction | Label states separately. |
-| And the future $1,605 from ending the card payments isn't available today. | $1,605: available only after card payments end | Place on the future timeline, not current surplus. |
-| Focus on the years where the funding changes. | First retirement year / benefit start / major cost / account-access change | Highlight the actual years on one plan. |
-| A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned. | Planned / completed / evidence | End on actual outside-action status. |
+| Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. | Retirement date / spending / planning horizon | Use the actual saved report; no staged outcome. |
+| The chance of success describes the modeled paths under your inputs and spending policy. | Result + inputs + policy | Keep assumptions beside the result. |
+| Now follow the first retirement year. | Income / full spending / taxes / source accounts | Follow actual year-level funding in the matching plan. |
+| From there, read your response rules. | Spending response / Reserve refill / borrowing obligations if used | Show adopted rules and their funding. |
+| Separate the next implementation step from a question that blocks a major decision. | Next action / blocking question | End on what remains to be done, without creating a course assessment. |
 
 ### Walkthrough handoff — not spoken
 
-[W10 chapters 1–2](scripts/working/W10_read-explain-and-save-the-finished-plan.md#chapter-1--read-one-coherent-saved-plan) read the saved result and funding years. [Chapters 3–5](scripts/working/W10_read-explain-and-save-the-finished-plan.md#chapter-3--finish-the-plan-and-share-only-when-useful) finish actions, focused handoffs and the dated operating record. The household summary is optional sharing support, not an assessment.
+[W10 chapters 1–2](scripts/working/W10_read-explain-and-save-the-finished-plan.md#chapter-1--read-one-coherent-saved-plan) read the saved result and funding years. [Chapters 3–5](scripts/working/W10_read-explain-and-save-the-finished-plan.md#chapter-3--finish-the-plan-and-share-only-when-useful) identify the next action, prepare any focused handoff and save the final report. Reuse W09's existing review schedule rather than creating it again. The household summary is optional sharing support, not an assessment.
 
 ### Source and production notes — not spoken
 
-Consolidated 10.1 and 10.2 remain recoverable through [source mapping](production/consolidation.json) and [consolidation history](delivery/consolidation.md). New speech is editorial adaptation, not Austin dictation. The fixed example household household and original/reduced/post-card timing remain unchanged. No landing-page result or invented successful retirement plan is adopted.
+Consolidated 10.1 and 10.2 remain recoverable through [source mapping](production/consolidation.json) and [consolidation history](delivery/consolidation.md). New speech is editorial adaptation, not Austin dictation. The fixed household remains unchanged. The finale uses one saved state; the earlier cash-flow arithmetic is not retaught here. No landing-page result or invented successful retirement plan is adopted.
 
 Use one saved Plan and actual year-level funding evidence. Missing purchase details, access and other blocking uncertainty remain visible. Household sharing serves an actual purpose, not an oral test, homework or required submission. PR #227 retains Your Plan report under Plan Overview and Export under Profile → Data & privacy; actual outputs, privacy and backup scope require capture verification. No professional response or outside execution is implied.
 
 ### Member checkpoint
 
-Read the plan’s key choices and limits, resolve the highest-priority unfinished action, and keep the current non-secret household summary available.
+Read the saved plan's retirement date, spending, important funding years and response rules. Keep its next action and any blocking question with the dated report; household sharing remains optional.

@@ -1,9 +1,5 @@
-The plan now tells us where each contribution is supposed to go. The remaining work happens with the employer, bank or investment provider.
+The plan tells us where the contributions are supposed to go. Here are the employer, bank or investment-provider actions still needed.
 
-For payroll, that means the amount, tax election and investment instructions for new contributions. A bank transfer also needs a date that fits the bills. Some brokerages receive the cash first and require another instruction to buy the investment, so a successful transfer alone may leave the money sitting in cash.
+I'm putting a person and date beside each one. After the first contribution, we'll compare the confirmation with the amount, receiving account and investment in this plan. A transfer can succeed while the cash is still waiting to be invested, so we're checking both the deposit and the purchase.
 
-I'm putting those actions beside the person who will do them and the date. After the first contribution, the provider confirmation lets us check the amount, receiving account and holding purchased against this plan.
-
-If the money arrived but stayed in cash, we still have a purchase instruction to finish unless cash was the intended holding. Until we have that evidence, the action stays pending. Future changes stay tied to the condition that funds them.
-
-That finishes the contribution setup for this stage. Next, we'll work on the purchase records we need when money eventually comes out, so we can understand what a sale would realize for tax.
+Until that evidence exists, the action stays pending. That finishes contribution setup. Next, we'll work on the purchase records needed when an investment is eventually sold.

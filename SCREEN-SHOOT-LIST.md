@@ -18,7 +18,7 @@ The current monthly amount reconciles to records, and any proposed spending redu
 
 [Run sheet](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md)
 
-Each debt has verified payment terms and a chosen job or a precise missing contract answer. Required payments, Reserve funding and extra debt use the monthly money once. A financing comparison includes cash retained, affordable payments, ending principal and a funded repayment source; leaving the proposal unchosen is valid. Any chosen saved debt action reads back correctly, with lender or bank changes listed separately. If Bitcoin collateral applies, the separate operating sheet covers full debt growth, dedicated versus posted collateral, contract triggers, timely response and the principal exit before the loan is used.
+Each debt has verified payment terms and a chosen job or a precise missing contract answer. Required payments, Reserve funding and extra debt use the monthly money once. When new financing is being considered, its comparison includes cash retained, affordable payments, ending principal and a funded repayment source; leaving the proposal unchosen is valid. Any chosen saved debt action reads back correctly, with ordinary repayment instructions in chapter 6 and lender or bank changes listed separately. With no debt or proposal, continue to Allocation. If Bitcoin collateral applies, the separate operating sheet covers full debt growth, dedicated versus posted collateral, contract triggers, timely response and the principal exit before the loan is used.
 
 ## W04 — Route contributions into usable accounts and intended holdings
 
@@ -42,7 +42,7 @@ The saved budget, income, account/asset funding, Reserve refill and any borrowin
 
 [Run sheet](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md)
 
-The custody map identifies each significant holding, its current method, the agreed operator and backup, and one actual protection action. Recovery evidence applies only to the setup tested. The family starting route has a dated rehearsal result or a precise unresolved step; planned changes and completed provider actions remain separate.
+The custody map identifies each significant holding, its current method, the agreed operator and backup, and one actual protection action. Recovery evidence applies only to the setup tested. The family starting route is prepared for W08 with any missing instruction identified; the single rehearsal belongs to W08 chapter 3. Planned changes and completed provider actions remain separate.
 
 ## D07 — Prove a wallet backup with a safe test setup
 
@@ -66,4 +66,4 @@ The member has a monthly facts check, an annual review of standing choices and a
 
 [Run sheet](scripts/working/W10_read-explain-and-save-the-finished-plan.md)
 
-One saved Plan and its matching report identify the household goal, assumptions, current contributions, important funding years and response rules. The next real action has completion evidence or an explicit pending status. A blocking question stays open; a prepared manuscript does not establish a learner's success or outside execution.
+One saved Plan and its matching report identify the retirement date, spending, assumptions, important funding years and response rules. The next action and any blocking question remain visible with actual status. The existing W09 review schedule carries the plan forward; this manuscript does not establish a learner's success or outside execution.

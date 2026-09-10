@@ -1,33 +1,31 @@
-Once you've chosen how to hold the Bitcoin, the next part is making sure you can keep access to it. In this lesson, we're going to look at recovery and the accounts around it. I want you to understand what a successful check actually proves, because owning the hardware and being able to recover the wallet are different things.
+Once you've chosen how to hold the Bitcoin, we need to make sure you can keep access to it. We'll look at wallet recovery and the accounts around it, so you know what you've checked and what still needs work.
 
-The Bitcoin isn't stored inside the device. The device holds signing keys, and the right recovery material lets a compatible process recreate those keys. That's why losing a device doesn't have to mean losing the Bitcoin.
+The Bitcoin isn't stored inside the device. The device holds signing keys, and the right recovery material lets a compatible process recreate them. Losing a device doesn't have to mean losing the Bitcoin.
 
-The time to check that recovery is while you still have working access. Keep the funded wallet intact while you choose the safe procedure for that exact setup. The manufacturer's official instructions need to match your model, firmware and backup format. Some devices offer a backup-check feature that doesn't erase anything. A compatible spare may provide another route.
+Keep the funded wallet intact while you choose the safe procedure for that exact setup. The official instructions need to match your model, firmware and backup format. A supported backup-check feature or a compatible spare may let you check recovery while preserving working access.
 
-There are a few pieces that are easy to confuse. The PIN unlocks the device. It doesn't replace the backup. If you use a passphrase, that exact passphrase selects a particular wallet. With multisig, the recovery also depends on the required independent keys and the wallet configuration. A word list by itself may not cover the whole setup.
+The PIN unlocks the device. It doesn't replace the backup. A passphrase selects a particular wallet, and multisig also needs the required independent keys and wallet configuration. The check has to cover everything your arrangement depends on.
 
-For an unfamiliar process, the device walkthrough uses a separate, newly created wallet and a small test amount. We'll create the test wallet, receive that amount, check the backup, recover the intended wallet and test a small payment. The family's savings stay outside that experiment.
+The device walkthrough uses a separate, newly created wallet and a small test amount. We'll receive that amount, check the backup, recover the intended wallet and test a small payment. The family's savings stay outside that experiment.
 
-During secret generation or entry, stop recording. Recovery words, private keys and passphrases don't belong in screenshots, ordinary notes or chat either. Blurring the finished video would still leave a recording of the secret somewhere.
+During secret generation or entry, stop recording. Recovery words, private keys and passphrases don't belong in screenshots, ordinary notes or chat. Blurring a video afterward still leaves the secret in the original recording.
 
-The important part of recovery is getting back to the intended wallet. Let's say you enter a passphrase incorrectly. You might open a perfectly valid wallet that just isn't yours. That's why we compare the known test-wallet identifier or address through the trusted process and check the test funds. An unexpected identity or an empty wallet is a reason to stop.
+Recovery means reaching the intended wallet. A wrong passphrase can open a different valid wallet, so compare the known test-wallet identifier or address through the trusted process and check the test funds. An unexpected identity or an empty wallet is a reason to stop. Sending more money won't fix the mismatch.
 
-Sending more money won't solve that mismatch. And wiping the only working device holding access to your savings would remove the access you still have. Keep that device intact while you investigate through verified official instructions or support, without giving anyone the recovery material.
+Keep the only working device for your funded wallet intact while you investigate through verified official instructions or support, without giving anyone the recovery material.
 
-A successful test applies to the wallet you tested. If it was the separate test wallet, your funded wallet still needs its own appropriate safe check. When we record the result, we'll include the setup, method, date and what actually happened. That lets another person understand what remains unverified.
+A successful test applies to the wallet you tested. The separate test wallet doesn't verify your funded wallet. Record the setup, method, date and result so it's clear which evidence applies and what safe check is still needed.
 
-The storage choice also needs to match the failure you're trying to survive. Durable material can help with physical damage. Separate protected locations can keep one disaster from taking everything. But the lawful family-access process has to work with those choices too. We can describe where that process begins without putting exact secret locations in the ordinary family map.
+Storage has to survive the failure you're concerned about too. Durable material can help with physical damage; separate protected locations can reduce dependence on one place. The lawful family-access process needs to work with those choices, without putting exact secret locations into the ordinary family map.
 
-Now, the wallet may be only one part of your access. Your email is often the recovery route for exchanges and financial accounts, so someone who controls it may be able to reset other passwords. That's why I'd secure that account early, with a unique password and a protected recovery route. A password manager can help you maintain different passwords across accounts.
+Your email deserves attention because it often controls recovery for exchanges and financial accounts. Use a unique password and a protected recovery route. A password manager can help you maintain different passwords across accounts.
 
-For sign-in, use phishing-resistant security keys or passkeys where they're supported. These can prevent a lookalike site from collecting a credential it can use on the real site. A hardware security key protects a login. A hardware wallet holds Bitcoin signing keys.
+For sign-in, use phishing-resistant security keys or passkeys where they're supported. These help prevent a lookalike site from collecting a credential it can use on the real site. A hardware security key protects a login; a hardware wallet holds Bitcoin signing keys.
 
-When those sign-in options aren't available, an authenticator app is a useful fallback. A fake site can still trick you into handing over its one-time code, so the site you're signing into matters. Treat SMS as a last resort when stronger supported methods aren't available, rather than leaving the account with just a password.
+An authenticator app is a useful fallback where those options aren't available, though a fake site can still trick you into sharing its one-time code. Treat SMS as a last resort when stronger supported methods aren't available, rather than leaving the account with just a password.
 
-Changing sign-in protection can create a new recovery problem if you remove the only method that works. Set up and test the legitimate backup sign-in method before removing the working one. That backup might depend on a phone, cloud account or recovery code. It needs protection too.
+Set up and test the legitimate backup sign-in method before removing the working one. That backup may rely on a phone, cloud account or recovery code, which needs protection too. Review active sessions, notification details and any supported withdrawal delays or allowlists. These improve account access; they don't settle the provider's custody or business risk.
 
-While you're in the provider's settings, review active sessions, notification details and any withdrawal delays or allowlists it supports. Those controls can reduce account-takeover risk. They don't settle the provider's custody or business risk.
+For an urgent warning, open the known official app or independently verified website. Don't use the message's own link or phone number to verify it. Requests for recovery words, a transfer to a supposed safe wallet, guaranteed returns or another payment to unlock withdrawals are reasons to stop.
 
-The same care applies to an urgent message telling you to move Bitcoin. Open the known official app or independently verified website to check it. Don't use the warning's own link or phone number to verify the warning. Requests for recovery words, a transfer to a supposed safe wallet, guaranteed returns or another payment to unlock withdrawals are reasons to stop.
-
-In the walkthrough, we'll connect the recovery result and any completed account-security change to the right holding. An unfinished check stays open; buying a device or watching the video doesn't complete it. Once that record describes what you've actually checked, we'll bring it into the family handoff so someone else knows where to begin.
+In the walkthrough, we'll connect the recovery evidence and completed account-security changes to the right holding. Anything unverified gets a specific safe next step. Then we'll bring that record into the family handoff so someone else knows where to begin.

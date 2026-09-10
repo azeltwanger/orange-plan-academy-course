@@ -1,5 +1,5 @@
-We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. Our example household has directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
+We're in Bitcoin access, connecting each holding to its custody arrangement. Start with the owner, what the money is for and who controls it today.
 
-For this holding, we're recording what the money is for and who controls it today. If you're considering a move, that belongs beside the current arrangement as a planned change. We don't want the family reading a future intention as something that's already happened.
+Put an intended move beside the current arrangement so the family can tell which process applies now. Then connect the person handling the ordinary work and the agreed backup from Trusted people.
 
-The next part is who handles the ordinary work and who has agreed to help if that person is unavailable. An unanswered provider question can stay as the next action here. Once we save and reopen the record, we can check that it still points to the right holding. This is a map of the process, so recovery words and precise secret locations stay in their protected records.
+Let's save and reopen the record to check it belongs to the right holding. Provider questions can stay with the next action. This map points to the protected recovery process without containing its secrets.

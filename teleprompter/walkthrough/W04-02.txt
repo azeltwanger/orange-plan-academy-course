@@ -1,7 +1,3 @@
-Now that we know the current mix, let's talk about what we want it to become. Before entering a percentage, I'd come back to the role you chose for Bitcoin in the teaching lesson.
+Let's bring forward the role you chose for Bitcoin. We're using that intention to set a starting amount to test.
 
-These four descriptions can help with that conversation: Foundation, Integration, Optimization and Sovereign. They describe different intentions. Someone with a smaller position isn't behind someone with a larger one.
-
-The amount we test needs to fit the people who share this money and the dates when they'll need it. A position can feel comfortable while markets are rising and very different when a bill arrives during a decline.
-
-For now, we're choosing a starting amount to test. The next step is to put the Reserve and approaching expenses beside it. If those jobs don't have enough funding, we can adjust the proposal before saving a target.
+I'm looking at the target choice here, with the household's spending dates beside it. The question now is whether the rest of the portfolio can cover those commitments through a decline. We'll check that before saving the target.

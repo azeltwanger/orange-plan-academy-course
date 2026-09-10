@@ -1,9 +1,5 @@
-We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
+Here's the target beside what we currently own. The shortfall helps us choose where affordable purchases go; it doesn't create cash to invest.
 
-First, here's the target gap. In our example household's 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
+I'm opening each contribution and connecting its amount to the receiving account and the actual investment. For the future card-payoff route, the proposed split remains conditional until payoff. The Reserve contribution continues separately.
 
-For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
-
-For each contribution, I'm connecting the amount to the receiving account and the investment it will buy. We still need to know the product's holdings, fees and strategy. A name that sounds like the investment we want isn't enough to establish what it owns.
-
-Changing future purchases doesn't rebalance the investments already held. A taxable sale would need its own review. Next, we'll take these planned instructions to the provider so the money actually arrives and buys what we intended.
+Let's check the start condition and investment together before saving. Changing future purchases leaves the existing holdings unchanged. Next, we'll take these instructions to the provider so the money arrives and buys what we intended.

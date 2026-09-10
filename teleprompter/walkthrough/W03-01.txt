@@ -1,5 +1,7 @@
-We're going to look at what the existing debts require before deciding about extra payments. Here I'll match the balance, rate and required payment to the lender record. The card's $405 minimum isn't all principal: the rough first-month illustration has about $235 of interest and $170 of principal before purchases or fees. The actual statement has its own billing rules.
+Let's match each existing debt to the lender record before choosing extra payments. We're checking the balance, rate, required payment and any date when the terms change. I'll use the debts that apply to your household.
 
-The home-equity line has a different issue. Its interest-only payment leaves principal to repay later, so the payment-change date and exit matter. Let's keep those beside the cash-flow picture.
+With the example card, the $405 minimum isn't all principal. The rough first-month illustration has about $235 of interest and $170 reducing the balance, before new purchases or fees. The real statement has its own billing rules.
 
-The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and the client's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
+For the interest-only home-equity line, $46,000 at the example's 8% rate costs about $307 a month without clearing principal. The payment-change date and repayment source belong beside that figure. With the other example debts, the 6.7% auto loan has a $600 payment and the 7.4% equipment loan has a $480 payment; removing those payments uses different amounts of cash, and the business still has operating needs.
+
+The listed payments are about $3,342 against about $19,417 gross income, roughly 17%. That's payment pressure before tax and other deductions. We'll use the available cash verified earlier to decide about extra payments; the ratio doesn't provide another pool of money.

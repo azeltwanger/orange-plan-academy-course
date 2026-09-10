@@ -56,21 +56,21 @@ Record the teaching from its clean teleprompter file; use the source script for 
 
 ### 09 — [Decide whether financing is worth it](scripts/03-4_decide-whether-new-financing-improves-the-plan.md)
 
-**Separate app capture:** W03 chapter 4.
+**Separate app capture:** W03 chapter 4 only when comparing new financing; A3.2 for relevant offer terms.
 
-> **For your situation — [Compare unusual financing terms](teleprompter/advanced/A3-2.txt)**
+> **For your situation — [Read the terms of the loan you are considering](teleprompter/advanced/A3-2.txt)**
 >
-> You are comparing an unusual financing agreement or a structure with nonstandard terms.
+> You are comparing a financing offer; use only the contract sections relevant to that offer.
 >
 > Complete before relying on the proposed payment or exit.
 >
 > **Return to:** Set borrowing limits and a repayment plan.
 
-**Separate walkthrough:** W03 chapters 4–5. [Script and overlay cues](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md).
+**Separate walkthrough:** W03 chapter 4 for the offer; chapter 5 only with A3.1 for Bitcoin collateral. [Script and overlay cues](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md).
 
 ### 10 — [Set borrowing limits and a repayment plan](scripts/03-6_write-the-rules-before-using-leverage.md)
 
-**Separate app capture:** W03 chapters 2 and 5–6.
+**Separate app capture:** W03 chapters 2 and 6; chapter 5 with A3.1 only for Bitcoin-backed borrowing.
 
 > **For your situation — [Manage a Bitcoin-backed loan, including repeat borrowing](teleprompter/advanced/A3-1.txt)**
 >
@@ -178,7 +178,7 @@ Record the teaching from its clean teleprompter file; use the source script for 
 
 ### 22 — [Make it possible for someone else to manage the plan](scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md)
 
-**Separate app capture:** W07 chapter 4 and W08 chapters 1–4.
+**Separate app capture:** W07 chapter 4 prepares the map; W08 chapters 1–4 complete authority, one rehearsal and communication.
 
 > **For your situation — [Decide whether a trust has a job in the plan](teleprompter/advanced/A8-1.txt)**
 >

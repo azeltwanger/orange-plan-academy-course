@@ -11,85 +11,56 @@ Verify what a normal month costs and what remains after existing commitments. Ch
 
 ### Read aloud
 
-We've got a starting picture in the plan. Now we're going to spend some time on the money available each month, because that's what funds the choices coming next. Before we decide how fast to build cash, pay off debt or invest, we need an amount that agrees with what's actually happening in your accounts.
+Our starting plan says there's money available each month. Now we're going to check whether that agrees with what's actually happening in your accounts. That's the amount we'll use to build cash, pay down debt and invest, so it needs to hold up beyond a good-looking month.
 
-A single month can make this look simpler than it is. Let me show you what I mean.
+A single month can leave out quite a bit. Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. Accounting for it throughout the year gives you a way to have the money ready when it's due.
 
-Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. You could leave it out of eleven months and then feel like the twelfth month ruined your savings plan. Or you could account for it throughout the year and have the money ready when it's due.
+I'd look across a full year when you have the records. That brings back annual insurance, gifts and other costs that are easy to forget. If your spending recently changed in a lasting way, use the newer records too. The average from before a move or an ended payment may no longer describe your life.
 
-The same kind of mismatch can happen with income. When we start from gross pay, taxes and other payroll deductions still need accounting for. When we start from the deposit in your bank, they've already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
+For a large expense, ask whether it will happen again. An annual premium belongs in the normal budget. A one-time renovation belongs on the timeline. We'll work on those future events shortly.
 
-Sales aren't all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. In our example, the partner's income is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
+Watch the transfers as you review the spending. If you buy groceries with a card and then pay the card from checking, the groceries are the expense. The card payment settles it; we haven't bought them twice. Payments on an older unpaid balance still need room with the existing debts.
 
-That's why I'd look across more than one month. A full year helps bring back the costs that are easy to forget, like annual insurance, gifts and expenses around the holidays. The bills still need money even when they don't show up on this month's statement.
+Money moved to savings or investments also has a different job from money spent on your lifestyle. We included existing saving in the starting picture. Keep it separate here so we can see what you're already doing before assigning anything extra.
 
-An average also needs some judgment. If your spending recently changed in a way you expect to continue, the past year may no longer describe your life. Maybe you moved, or a recurring payment ended. Use the newer records to understand the change, but still check for annual bills that haven't come around yet.
+Our original example left $500 after the client's contribution and the other listed costs. Where did that money actually go? It might be accumulating in checking, moving into savings or paying for something we missed. Looking across a few months helps us follow it.
 
-And don't remove an expense just because it was large. Ask whether it's likely to happen again. A one-time renovation is different from an annual premium. We'll put major future purchases on the timeline later, so they stay in the plan without being treated as something you buy every month.
+If checking keeps falling or an unpaid card balance keeps growing, I'd find the difference before adding another regular investment transfer. Check the income, deductions, spending and existing transfers against their sources. Money set aside for a future tax bill may still appear in savings, but it isn't available to invest again.
 
-Let's say you buy groceries with your credit card and then pay the card from checking. The groceries are spending. Paying the card settles that purchase; it isn't another grocery expense. If we add up both transactions as new spending, we've counted the same cost twice.
+The timing can also be the problem. A monthly total can work while checking is short before payday. You may need more money there between paychecks, a later saving date or a different bill due date. Cash needed for those bills hasn't become spare just because it's in the account today.
 
-An older card balance you're still paying off is different. That repayment needs room in your cash flow too. We'll keep it with the existing debts and their required payments, separate from this month's purchases.
+With variable income, I wouldn't base a regular transfer on the best business month. Look at what slower periods can carry after costs and taxes. You can use a regular amount that fits those periods, then decide what to do with extra income after it arrives.
 
-Something else you'll see leaving checking is money transferred to savings or investments. That has a different job from money spent on your lifestyle. Keeping those movements separate helps us see how much you're already saving, before we decide what anything left over can do.
+Once we trust the starting amount, we can ask whether there's a spending change you'd actually want to keep. Keep the spending that makes the life worthwhile to you. Removing every vacation and hobby may improve a projection, but you still have to live with that budget.
 
-Our example household earns about $19,417 a month between them. For this example, we're allowing $4,000 a month for taxes. That's an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
+I find it useful to look at the records through three choices: Keep, Cut or Reduce. Keep what is necessary or worth the money to you. Cut what you wouldn't choose again, such as an unused subscription. Reduce the cost of something you still want, perhaps with a cheaper phone plan or fewer meals out.
 
-Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before the client's retirement contribution.
+I'd start with recurring bills. You make the change once and it can keep helping. Check the switching fees and any introductory price that ends later. With insurance, compare the coverage and deductibles too; a lower premium may leave you carrying a larger bill when something goes wrong.
 
-The employer money adds retirement savings without adding money for bills. The client contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
+For bigger changes, think about the whole effect on your life. Cheaper housing may add a commute or take you away from family support. Selling a car may require cash to clear its loan. We want the cost and benefit of the change you're actually making.
 
-So we've calculated $500. The next question is whether that agrees with their accounts. It might be accumulating in checking, moving into savings or paying for something missing from the plan. Looking across a few months helps us follow it. A balance just before payday can be very different from one just after, even when the monthly totals are right.
+Our example household's original living spending is $10,800 a month. We're going to compare a $1,200 reduction, bringing it down to $9,600. With everything else unchanged, that takes the amount available from $500 to $1,700.
 
-If checking keeps falling or an unpaid card balance keeps growing, I'd find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
+That increase comes from spending less, not from assuming a better investment return. But we haven't established which bills make the reduction possible. Before relying on it, the household needs to choose those changes and when they begin.
 
-That leads to another practical issue: the timing of the bills. The monthly total can work while checking is still short before the next paycheck. You may need to leave more there between paydays, schedule saving later or ask about a different bill due date. Money needed for those bills hasn't become spare just because it's in the account today.
+Some savings won't start until a contract ends or a renewal arrives. Keep the current cost in today's picture and put the reduction on its actual timeline. Your normal budget still needs to describe a life you'd willingly maintain; the temporary bare-bones budget for an income interruption has a different purpose.
 
-Variable income makes that timing question more important. I wouldn't base a regular transfer on your best business month. I'd look at the range of income you've actually had and the costs that continue through slower periods. You could use a regular amount those periods can carry, then decide what to do with extra income after it arrives and its costs and taxes are covered. A good month can help the plan without every month depending on one.
+Earning more is another option. Look at what it leaves after childcare, travel, business costs and any additional tax. More work also uses time. A proposed raise can be compared, but it isn't money available today.
 
-Once we trust the starting amount, we can ask whether there's a spending change you'd actually want to keep. This is where you have a decision to make about the life you want the money to support.
+A withholding change can also make a paycheck larger without reducing the tax ultimately owed. Check the expected obligation before treating the difference as new investing money. Otherwise this month's improvement could leave a later bill unfunded.
 
-Keep the spending that makes the life worthwhile to you. Taking every vacation and hobby out may improve a projection, but you still have to live with that budget.
-
-I find it useful to look at the records through three choices: Keep, Cut or Reduce. That gives us a way to think through the spending without treating every expense as something to get rid of.
-
-Keep what is necessary or worth the money to you. Cut what you wouldn't choose again, such as an unused subscription. Reduce the cost of something you still want. Maybe a cheaper phone plan, or fewer meals out while keeping the ones you actually enjoy.
-
-Insurance takes a little more care. A lower premium could be a better price, or it could mean less coverage and a larger bill for you when something goes wrong. Compare the coverage and deductibles as well as the monthly price. The saving needs to be worth any extra cost you're agreeing to carry.
-
-For a simple example, reducing a recurring bill by $40 a month frees up $480 over a full year. There's no investment return in that calculation. It's money that would otherwise have left your account, provided the lower cost continues and you haven't added another expense to replace it.
-
-That's why I'd look at recurring bills before spending hours trying to squeeze a few dollars out of every purchase. You make the change once, and it can keep helping the cash flow. Check for switching fees or an introductory price that ends soon, so you know how much you'll really save.
-
-For example, moving somewhere cheaper might lower the housing bill, but add a longer commute or move you away from people who help with the kids. A less expensive car might reduce a payment, but selling the current one could require cash to clear the loan. Compare the whole change, not just the bill that gets smaller.
-
-Our example household's original living spending is $10,800 a month. With the other costs and the client's retirement contribution already accounted for, they have $500 left. We're going to compare reducing that living spending by $1,200 a month, bringing it down to $9,600.
-
-If everything else stays the same, that gives them $1,700 for their other priorities instead of $500. They haven't increased their income or changed an investment assumption. They would be keeping more of the money they already earn.
-
-For now, that $1,200 is a reduction we're testing. We haven't established which bills would make it possible. Before they rely on it, they need to choose those changes and when they begin. The same is true in your plan: the lower spending number needs an actual change behind it.
-
-Some changes won't start immediately. You might have a contract to finish or a renewal coming up. Keep the current cost in the starting picture until it changes, and include the future reduction at the time you expect it. We'll work through those dated changes in Life Events.
-
-Your normal spending after this review should still describe a life you're willing to live. It's different from the bare-bones number we'll use to size the reserve. You might temporarily pause a family trip or a hobby during an income interruption without deciding to remove it from every future year of your plan.
-
-Earning more is another option. Look at what the additional income would leave you after its costs. More work may come with childcare, travel, business expenses, or less time at home. A proposed raise also isn't income you have today. Compare the change, but don't commit the money before it's reasonably available.
-
-A withholding change can also make a paycheck larger, but it needs a different kind of care. You may simply be paying less toward the same tax bill during the year. Until we've checked the expected obligation, that isn't necessarily money available to invest. Otherwise we'd improve this month's cash flow by leaving a later payment unfunded.
-
-We'll use the walkthrough to check your spending against the records and compare a change you would really make. Any cancellation, renewal or income step still needs to happen before its saving is available. What we're taking into the next lesson is the amount you actually have to work with. Then we'll decide how much of that money needs to build your Reserve before we settle the debt and investment choices.
+We'll use the walkthrough to reconcile your spending and test a change you would really make. Any cancellation, renewal or income step still needs to happen before its saving is available. Then we'll take that usable monthly amount into the Reserve decision.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an additional expense for our example household. |
-| The groceries are spending. | Count the purchase once; the card payment settles it. | Connect one purchase to its settlement. |
-| The employer money adds retirement savings | Employer money stays outside the household spending pool. | Keep it outside the cash bridge. |
-| the amount left for their other priorities is $500. | Original example: $1,275 − $775 = $500 | Footnote the $4,000 teaching tax provision. |
-| three choices: Keep, Cut or Reduce. | Keep · Cut · Reduce | One example per choice; no category wall. |
-| bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Label “proposed reduction”; no invented cancellations. |
-| A withholding change can also make a paycheck larger | Withholding changes timing; verify the tax still due. | Small callout next to the relevant action. |
+| Say your car insurance costs $1,200 a year | Generic: $1,200/year ÷ 12 = $100/month | A separate annual-premium example, not another household invoice. |
+| The card payment settles it | Count the purchase once; separate old-debt repayment. | Connect one purchase with its settlement. |
+| Where did that money actually go? | Trace the monthly remainder to the records. | Follow the existing answer; do not replay the starting cash calculation. |
+| three choices: Keep, Cut or Reduce. | Keep · Cut · Reduce | Use one short cue per choice. |
+| bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Keep the proposed spending change distinct from current records. |
+| without reducing the tax ultimately owed | Withholding changes timing; verify tax still due. | Keep beside the relevant action. |
 
 ### Walkthrough handoff — not spoken
 

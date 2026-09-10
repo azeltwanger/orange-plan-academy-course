@@ -15,15 +15,15 @@ Now that we have a reason for the investments in your plan, we need somewhere to
 
 I think it's helpful to start with when you need the money. If you're trying to fund the years before you can use retirement accounts, another tax deduction may leave the actual gap untouched. Taxable savings, a brokerage account or personally held Bitcoin can give you access for those years. A sale may create tax, but you generally don't need an early-retirement exception just to use taxable proceeds.
 
-For money you won't need until later, the workplace plan you already have may do the job. Its provider or employer benefits documents can tell you the investment menu, fees, match and withdrawal rules. The client's fictional plan permits a Bitcoin fund. Yours may only offer stock and bond funds. That can still work: the workplace account holds part of the overall allocation, and Bitcoin can be held elsewhere.
+For later money, start with the workplace plan you already have. Check its investment menu, fees, match and withdrawal rules. The client's fictional plan permits a Bitcoin fund. If yours only offers stock and bond funds, it can hold that part of the allocation while Bitcoin is held elsewhere.
 
-An IRA is worth comparing when its menu, cost or contribution treatment gives you something useful. Being allowed to contribute and being allowed to deduct a Traditional contribution are separate questions. Roth IRA contributions have income limits too, so the contribution year's rules and what you've already contributed matter.
+An IRA is worth comparing when its menu, cost or contribution treatment gives you something useful. Eligibility to contribute doesn't establish eligibility to deduct a Traditional contribution. Roth IRA contributions have income limits too. Use the contribution year's rules and include what you've already contributed.
 
 For long-term money, we can start by comparing an eligible HSA, then an IRA, then additional workplace saving. The HSA is a health savings account, so it can help with qualified medical expenses. An IRA may give you more investment choice, and a workplace plan may give you additional contribution room. That's a starting sequence. A cheaper workplace plan, a missing eligibility requirement or an early-access gap can change it.
 
 With an HSA, the coverage and other insurance determine whether you qualify to contribute. Medical records matter as well. Tax-free reimbursement needs a qualified expense incurred after the HSA was established that hasn't already been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, although the additional 20% tax no longer applies. So we can consider the tax benefit while preserving the cash needed for care and checking the account's investment menu.
 
-Some accounts have a separate commitment attached to them. A 529 may be funding the college support you chose; that money isn't also available for general retirement while tuition remains promised. If you're self-employed, a Solo 401(k) or SEP may fit, but compensation, employees and other plans affect the rules. We can't add every advertised contribution maximum together.
+The college money already assigned to a 529 keeps that job. If you're self-employed, a Solo 401(k) or SEP may fit, but compensation, employees and other plans affect the rules. Their limits can't simply be added to every other plan's maximum. These are checks for the account you're considering; you don't need to open one of everything.
 
 Self-directed Bitcoin IRAs need particular care with the transaction and custody arrangement. Personally held Bitcoin doesn't become an IRA asset because we would prefer its tax treatment. Selling your own Bitcoin to your IRA or pledging IRA Bitcoin for a personal loan can trigger distributions or loss of tax treatment. The administrator and permitted process need to be established before assets move.
 
@@ -35,7 +35,7 @@ Now change the later tax rate. At 30%, Traditional leaves $1,400. At 10%, it lea
 
 Your real comparison uses working income, later benefits and required distributions, along with healthcare and other income-sensitive costs. A mix can give you some deduction now and some qualified Roth spending later. You don't have to make one tax choice for every contribution forever.
 
-We also need the access rules for the account you actually have. For ordinary retirement use, qualified Roth IRA earnings generally require age 59½ and the five-tax-year period starting with the first tax year you funded any Roth IRA. Other qualifying circumstances exist. Regular contributions, conversions and workplace Roth distributions have different rules. We'll use the early-access lesson if your plan depends on that money sooner.
+Qualified Roth IRA earnings generally require age 59½ and the five-tax-year period beginning with the first tax year you funded any Roth IRA, unless another qualifying circumstance applies. Contributions, conversions and workplace Roth distributions differ. If you need retirement money earlier, we'll verify the actual route in the early-access lesson before relying on it.
 
 There's one immediate effect to check before we finish: the paycheck. If the client keeps sending $775 but switches from pretax to Roth, their take-home pay may fall. That extra tax has to fit beside the Reserve and debt choices. Changing the election affects new contributions; moving an existing Traditional balance into Roth is a separate conversion that we'll cover in Tax.
 

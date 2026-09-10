@@ -1,5 +1,7 @@
 # Conversational delivery correction
 
+The later [focused-script pass](FOCUSED-SCRIPT-PASS.md) preserves this delivery while reducing repeated teaching, making examples selective and giving each walkthrough or conditional lesson a distinct job.
+
 Austin's latest feedback on the stepwise draft:
 
 > these read like instruction manuals not me conversationally talking

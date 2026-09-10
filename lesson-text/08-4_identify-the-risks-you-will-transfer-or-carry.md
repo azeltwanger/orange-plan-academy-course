@@ -11,62 +11,54 @@ Identify losses that would materially change the family's quality of life. Compa
 
 ### Read aloud
 
-We've worked through how someone else could use the plan if you weren't able to. Before we finish the family-protection section, I want to look at the financial side of that: what a serious loss would do to the household, and where insurance still has a job.
+We've made it possible for someone else to use the plan. Before we finish family protection, let's look at what a serious financial loss would do to the household and where insurance still has a job.
 
-I think about insurance in terms of what a loss would do to the family's life. When losing a paycheck would put the plan in trouble, paying to protect that income can make sense. Once the assets can comfortably support the household without it, the need for that protection can shrink.
+I think about insurance in terms of the life you're trying to protect. If losing a paycheck would put that life at risk, income protection can matter. As accessible assets become enough to support the household, that need can shrink.
 
-That point depends on the family and its risk tolerance. I wouldn't use one net-worth number for everyone. We need to look at what would change, the money still available and what the existing coverage actually pays.
+I wouldn't use one net-worth number for everyone. Pull the actual policies and employer-benefit summaries, then compare the needs after a loss with the resources and benefits available.
 
-Pull the actual policies and employer-benefit summaries so you can see what protection already exists. We'll use those alongside the household spending you've already put into the plan.
+Start with a death in the family. Account for income that continues and costs that change, including unpaid work such as childcare that would need replacing.
 
-Let's start with a death in the family. Some income may continue and some costs may change. We also need to include work that wasn't paid, such as childcare, because replacing it can still cost money.
+Suppose the remaining shortfall is $40,000 a year for ten years. That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees.
 
-In our example, a family would be short $40,000 a year for ten years after allowing for the income that continues. That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees.
+For this illustration, assume later retirement and other obligations are funded separately. With $100,000 available for this shortfall and $200,000 of existing life coverage that would pay during the policy's term, that leaves a $100,000 gap to investigate.
 
-For this illustration, assume later retirement and other obligations are funded separately. The family has $100,000 available for this shortfall and $200,000 of existing life coverage that would pay if the death occurs during the policy's term. That leaves a $100,000 gap to investigate.
+The calculation is a starting amount, not a policy choice. Add other unfunded education, childcare or final expenses. The assets you subtract must be accessible and spendable for the surviving family.
 
-That calculation gives us a starting amount, not a policy choice. Any other unfunded childcare, education or final expenses belong in the need too. And the assets we're subtracting have to be accessible and spendable for the surviving family.
+Counting the home requires a way to use its value. If you include a mortgage payoff upfront, remove those payments from future spending. The same investment balance can't fund this gap and a separate retirement need.
 
-For example, counting the home assumes a way to use its value. If you include a mortgage payoff upfront, take those payments out of the future spending estimate. We also can't use the same investment balance for this gap and a separate retirement need.
+Coverage needs a period as well as an amount. Term insurance lasts for a set period. Permanent coverage is designed to last for life if its requirements are met. A lasting dependent need or estate cash requirement can give coverage a job even when replacing earnings no longer does.
 
-As the assets grow, it's useful to revisit that calculation. If the family can thrive without the death benefit, income-replacement coverage may have less to do. A lasting dependent need or an estate cash requirement could still give life insurance another job.
+Disability changes the picture because you're alive while earnings and the savings they funded may stop. Care, paid help or home changes can cost more, and another family member may reduce work to help.
 
-That's why the coverage period matters. Term insurance lasts for a set period. Permanent coverage is designed to last for life if the policy's requirements are met. The cost and conditions need to fit the job you want it to do.
+Compare continuing income, assets and the spendable disability benefit with that changed need. Check the policy's disability definition, waiting period, benefit period and tax treatment. The Reserve may need to cover the wait.
 
-Disability asks a related question, but the spending picture can be different. You're alive and the earnings may stop. The savings those earnings were funding stop too, while costs for care, paid help or changes to the home may increase. Another family member might work less to help.
+I'd also test self-funding with Bitcoin down and income interrupted at the same time. If it requires lifestyle cuts the family wouldn't accept, I wouldn't call it comfortably self-funded.
 
-We want to see whether assets and continuing income can support that changed plan. If they can comfortably cover it, protecting the paycheck may become less important. If there's still a gap, compare it with the spendable benefit from existing disability coverage.
+Liability deserves a separate look as wealth grows. More assets can reduce the need to replace earnings while leaving more of the family's future exposed to a large claim.
 
-The details are in the policy: what counts as a disability, how long you wait, how long benefits last and whether the payments are taxable. The Reserve may have to cover the wait. A benefit starting months from now won't cover bills due today.
+Let's say a covered claim is $2 million. If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. Look at what funding that amount would do to retirement.
 
-I'd also test self-funding with Bitcoin down and income interrupted at the same time. A strong expected return can improve a projection. It doesn't give the family cash today. If the plan only works by cutting their lifestyle beyond what they'd accept, I wouldn't call that comfortably self-funded.
+That isn't a prediction of the largest possible claim. Your exposures matter, the underlying limits must meet the umbrella's requirements, and exclusions still apply. Personal umbrella coverage shouldn't be assumed to cover business or professional liability.
 
-Liability deserves a separate look. More assets can reduce the need to replace earnings while leaving more of the family's future exposed to a large claim. That's why I'd review liability and umbrella coverage as wealth grows.
+Healthcare and long-term care also need funding. Medicare doesn't pay for most long-term custodial care. Check whether prolonged care can fit without leaving the other person in the household short.
 
-Let's say a covered claim is $2 million. If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. We can then look at what paying that amount would do to the retirement plan.
+Before reducing or replacing coverage, consider whether you could obtain it later. Health changes can affect eligibility and price; employer benefits may end with work. Keep needed protection until replacement coverage is approved and active unless you've deliberately chosen to carry the gap.
 
-That isn't a prediction of the largest claim you could face. The exposures matter as well as the assets. Your underlying limits need to meet the umbrella's requirements, and exclusions still apply. Personal umbrella coverage shouldn't be assumed to cover business or professional liability.
+In the walkthrough, we'll compare one material loss with available resources and actual policy benefits, then record the remaining gap and your next decision. Unclear terms become specific questions for the insurer.
 
-Healthcare and long-term care need funding as well. Medicare doesn't pay for most long-term custodial care. A prolonged care cost has to fit without leaving the other person in the household short.
-
-If this review leads you toward reducing or replacing coverage, check whether you could obtain it later. Health changes can affect eligibility and price, and employer benefits may end with work. Keep needed protection until replacement coverage is approved and active unless you've deliberately chosen to carry the gap.
-
-In the walkthrough, we'll put the material loss, available resources, policy benefit and remaining gap beside each other. That gives you a reason for keeping coverage, investigating a change or carrying the risk yourself. Unclear policy terms are the questions to take back to the insurer.
-
-The related premiums and self-funding assumptions then need to agree with Orange Plan. The actual policy change still happens with the provider. Record the provider confirmation and effective date when it happens.
-
-That finishes the protection decisions we need for this first plan. Next we'll work through how to keep everything current, so the coverage, family arrangements and financial choices can change as your life does.
+Update the related costs in Orange Plan, and record the provider confirmation and effective date when coverage changes. Next we'll set up the review routine that keeps these choices current as your life changes.
 
 ### Text overlays — not spoken
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| Pull the actual policies and employer-benefit summaries so you can see what protection already exists. | Benefit / period / exclusions / premium | Show a redacted sample record, not a quote. |
+| Pull the actual policies and employer-benefit summaries, then compare the needs after a loss with the resources and benefits available. | Need / accessible resources / actual policy benefit | Show a redacted policy record, not a quote. |
 | That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees. | Hypothetical: $40,000 × 10 = $400,000 / 0% real return after taxes and fees | Keep assumptions beside the calculation. |
-| That leaves a $100,000 gap to investigate. | $400,000 − $100,000 assets − $200,000 coverage = $100,000 | Retain “other future needs funded separately.” |
+| With $100,000 available for this shortfall and $200,000 of existing life coverage that would pay during the policy's term, that leaves a $100,000 gap to investigate. | $400,000 − $100,000 assets − $200,000 coverage = $100,000 | Retain “other future needs funded separately.” |
 | I'd also test self-funding with Bitcoin down and income interrupted at the same time. | Asset decline + lost income + changed costs | Display the simultaneous test. |
 | If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. | Hypothetical covered claim: $2m − $500k − $1m = $500k | Label assumed responding coverage. |
-| Record the provider confirmation and effective date when it happens. | Planned / confirmed / effective date | End on the implementation record. |
+| Update the related costs in Orange Plan, and record the provider confirmation and effective date when coverage changes. | Plan costs / confirmed coverage / effective date | End on the existing implementation record. |
 
 ### Walkthrough handoff — not spoken
 

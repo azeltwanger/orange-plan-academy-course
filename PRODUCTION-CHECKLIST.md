@@ -31,7 +31,7 @@
 | 25 | [Read your completed plan and finish the next actions](scripts/10-1_read-the-completed-plan-in-a-useful-order.md) | Conversational teaching manuscript and overlays prepared | APP_CAPTURE, OWNER_REVIEW |
 | 2.5 | [Choose the college support you intend to fund](scripts/02-5_decide-how-much-college-help-you-will-provide.md) | Conversational teaching manuscript and overlays prepared | TAX_REVIEW |
 | A3.1 | [Manage a Bitcoin-backed loan, including repeat borrowing](scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md) | Conversational teaching manuscript and overlays prepared | TAX_LENDING_REVIEW |
-| A3.2 | [Compare unusual financing terms](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md) | Conversational teaching manuscript and overlays prepared | LENDING_REVIEW |
+| A3.2 | [Read the terms of the loan you are considering](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md) | Conversational teaching manuscript and overlays prepared | LENDING_REVIEW |
 | A5.1 | [Compare Roth conversions over several years](scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md) | Conversational teaching manuscript and overlays prepared | TAX_REVIEW |
 | A5.2 | [Prepare the records and instructions for a tax-sensitive sale](scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md) | Conversational teaching manuscript and overlays prepared | TAX_REVIEW |
 | A6.3 | [Check access to retirement accounts before 59½](scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md) | Conversational teaching manuscript and overlays prepared | TAX_REVIEW |

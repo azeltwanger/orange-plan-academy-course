@@ -2,15 +2,11 @@ In this lesson, we're going to figure out how much cash makes sense for your hou
 
 When you believe in Bitcoin, holding cash can be frustrating. You look at that money and think about what you could be buying instead. But think about what happens if your income stops while Bitcoin is down. Your bills still need to be paid. A reserve gives you a cushion so an unexpected expense or a lost paycheck doesn't immediately become a decision to sell an investment.
 
-The amount should fit the problem you're trying to cover. More cash isn't automatically better. We want enough accessible money to handle a difficult period without leaving more out of the long-term plan than the household needs.
-
 I'd start with what the household would actually need during that interruption. We can call that bare-bones spending: the amount you could realistically run on through a job loss, business slowdown or another stressful period.
 
 Housing, food, utilities, insurance, healthcare and required debt payments all belong in that number. Some other spending could pause temporarily. The distinction is which costs keep going while you work through the interruption.
 
-This number can be different from your normal spending. We're not pretending you will live at this reduced level forever. We're asking what you could maintain while you get through the interruption.
-
-We also want that number to be usable. If minimum debt payments are already included, adding them again would overstate the need. And making the budget so lean the family couldn't follow it would understate it. Neither would give us the cash target we're looking for.
+This is a temporary budget you could actually follow, which can be different from your normal spending. Include the required debt payments once and keep enough for the household to function through the interruption.
 
 Once we have the monthly amount, the question becomes how long we want that protection to last.
 
@@ -18,13 +14,11 @@ Three, six, or twelve months or more are starting points. None of them is the au
 
 I would think about how long replacing the lost income could take, and whether another income would continue. Two paychecks don't necessarily provide two independent sources of protection if both jobs face the same slowdown. Dependents and bills that are difficult to change belong in that decision too.
 
-More income uncertainty, a longer job search, dependents, and higher fixed bills are reasons to compare more time. When income is reliable and the reserve already fits the household's needs, continuing to add cash may not be the most useful next step.
-
-Also think about what could happen together. A business slowdown and a Bitcoin decline don't have to take turns. We want the reserve to remain usable in the situation we're planning for.
+A business slowdown and a Bitcoin decline can happen together. We want the reserve usable through that situation. Once it fits the household's needs, though, continuing to add cash may have less value than its next job.
 
 For our example household, we're testing six months of essential spending. Their essential monthly amount is $7,200, including required household debt payments. That puts the target at $43,200.
 
-Six months is the comparison used in this example. The calculation doesn't tell us that six is the right number for every household. The reason for choosing the months matters just as much as the multiplication.
+Six months is what we're testing for this household. Your reason for choosing the months matters as much as the multiplication.
 
 That gives us the target. The next part is figuring out how much of the money you already have is available for this job.
 
@@ -38,8 +32,6 @@ If your checking balance keeps moving as pay arrives and bills leave, that doesn
 
 Access matters just as much as the balance. An investment you can't readily use, Bitcoin pledged to a lender or a credit line that might be reduced is different from cash you can use when needed. Calling a volatile investment your Reserve doesn't change how its price behaves when the household needs it.
 
-You might decide that only part of an account belongs to the reserve. What matters is how much is actually available after its other commitments.
-
 Now we can connect that $11,200 gap to the monthly cash flow from the last lesson. This is where the target becomes a funding decision.
 
 At $500 a month, our example household's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. The question I'd think about is whether you could carry that gap for that long and still get through the interruption you're planning for.
@@ -50,7 +42,7 @@ I'd put more weight on accessible cash when there are dependents or the househol
 
 For that household, it may make sense to build the reserve faster and put less toward extra debt payments for a while. Required payments still need to be made. The trade-off is that the expensive debt stays outstanding longer, so we need to revisit the pace as the cash cushion improves.
 
-Having dependents doesn't decide the answer by itself. Look at the cash already available, whether another reliable income would continue, and how long the family could cover essentials without more borrowing. Those are the facts that can make liquidity more important than faster debt repayment.
+Dependents alone don't decide that split. The cash already available and any continuing income can change how urgently the Reserve needs building.
 
 The $500 pace belongs to the course's reduced-spending example. It isn't proof that the household has made the spending changes or set up a transfer. A faster funding pace also needs a real source of money. Writing a larger amount in the plan doesn't create that money.
 

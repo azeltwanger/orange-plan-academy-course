@@ -23,13 +23,11 @@ If we make the return high enough, we can make an earlier retirement look afford
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
-The reason I'd look at an early year and a later year is that an average can hide how that path changes. A model may assume more growth early and less later. Seeing both gives you a better idea of what your plan is relying on than one average over the entire period.
+Look at an early year and a later year. That lets you see whether the model assumes more growth early and less later, which one average over the whole period can hide.
 
 Investment returns are only one side of this. The cost of the life we're funding can grow too. A lifestyle costing $100,000 today would cost about $134,000 in ten years at a hypothetical 3% annual inflation rate. The additional dollars are paying for the same purchasing power, not automatically a more expensive lifestyle.
 
 So when the spending field asks for today's dollars, we use today's cost and let the model apply inflation. If we inflate it ourselves first, we could count that increase twice. A price already quoted for a future date needs to be identified that way instead.
-
-Income has a similar distinction. A general annual raise assumption describes gradual growth. A career change next year is something specific happening on a date. That belongs on the timeline, where we can see when it changes the paycheck, rather than hidden inside an annual rate.
 
 The other big question is how long this money has to last. That's the planning horizon. Funding through 85 asks something different from funding through 95, and for a couple we need to include the years a surviving spouse may still need support.
 
@@ -46,7 +44,7 @@ Let's take that into the walkthrough. We'll read the starting assumptions, look 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
 | $10,000 growing at 10% for ten years | Hypothetical: $10,000 → about $26,000 at 10%; about $62,000 at 20% | Side-by-side ten-year examples; before tax, not forecasts. |
-| look at an early year and a later year | Read the return path: early year → later year | Highlight two positions on an illustrative path without importing preset rates. |
+| Look at an early year and a later year. | Read the return path: early year → later year | Highlight two positions on an illustrative path without importing preset rates. |
 | A lifestyle costing $100,000 today | Hypothetical 3% inflation: $100,000 today → about $134,000 in 10 years | Keep purchasing power fixed in the graphic. |
 | when the spending field asks for today's dollars | Enter today’s cost once; let the model apply inflation. | Brief unit callout. |
 | Funding through 85 asks something different from funding through 95 | Horizon: include the surviving spouse’s years | Show 85 and 95 as comparison endpoints, not recommendations. |

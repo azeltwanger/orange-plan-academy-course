@@ -1,7 +1,5 @@
-The dated plan and its action record belong together. As we save them, we'll distinguish a choice you've made from an action that's happened. A provider confirmation, an investment purchase or a signed and effective document gives us evidence of completion. Planned work keeps its own status.
+Save the dated report beside the action list and reopen it to check that it matches the plan we've just read.
 
-Future actions need their conditions too. If a transfer depends on a loan payment ending, it starts after that payment ends. Recording who will change the instruction and how they'll confirm it makes that future step easier to follow.
+In Export, read what the file includes before keeping or sharing it. A report is for reading the plan. If the product supports a restoration backup, keep that sensitive file protected; its restoration capability needs a separate check.
 
-We'll keep the monthly and annual reminders, with urgent monitoring on its own schedule. If the product supports an appropriate restoration backup, it needs protected storage and an explicit restoration status. A report isn't automatically that backup.
-
-The last thing to leave visible is your next real action and any question still blocking a major decision. When you come back for a review, this dated record lets you pick up from the plan you're actually following.
+You have the important funding years, the response rules and the next action together in this record. Use it as the starting point when the next review or real life change brings you back.

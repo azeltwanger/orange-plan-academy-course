@@ -1,7 +1,5 @@
-We've found the part of the plan that needs work. Let's test one decision that could address it: spending less, changing the work date or using a different funding source. I'll keep the other assumptions unchanged so we can see what this decision does.
+Here's the retirement year that needs work. Let's compare one change that addresses it, keeping the other assumptions steady.
 
-Here's the chance of success, with the matching simulation count and the years it covers. Now I'm opening the year that explains the difference. The percentage matters, but so does what we would actually have to do: live on less, work longer or take on a different funding obligation.
+I'm reading the changed result and opening that year again to see why it moved. Does the change supply the missing cash? What does the household have to do differently, and what happens to a later funding year?
 
-If we find a missing fact, correcting it may make the result less comfortable. We need to use that corrected picture. Raising return assumptions to recover the old percentage would hide the problem we're trying to solve.
-
-Once the household is willing to follow a change, we can save it and confirm that the updated result uses it. If we prefer Current, we leave the comparison unapplied. The next step is to turn that chosen plan into this year's spending and Reserve decision.
+We'll use corrected facts even if they make the result less comfortable. Once we're willing to follow the change, we can save it and confirm the result reflects it. Otherwise, Current stays in place. Now we can turn that chosen plan into the annual spending decision.

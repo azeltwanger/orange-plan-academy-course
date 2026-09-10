@@ -1,7 +1,5 @@
-Here's the tax roadmap. We're looking for a year when the household's income changes enough that a withdrawal or conversion might be worth comparing.
+Here's the tax roadmap. I'm opening the year we're considering, with each person's work income, benefits and planned transactions.
 
-I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. The client stopping work doesn't automatically make the household's income low if other income continues.
+Let's compare it with the next important income change. We need the household's full picture, including distributions, gains and any supported loss carryforward, before calling this a useful window.
 
-Now we can compare that year with the next important income change. If there's a lower-income interval, we have a reason to examine it. We still need the total cost of adding income, including effects beyond the tax bracket.
-
-We'll start with one amount and identify the money that would pay its tax. The existing plan stays as our baseline. If a missing filing or income record could change this window, that's the fact to obtain before relying on it. Once the year's inputs are supported, we're ready to compare a conversion, a spending withdrawal and leaving the plan as it is.
+If an income or filing record could change that picture, that's the fact to obtain first. Otherwise, we'll use this year to compare one conversion amount, the cash paying its tax and the option of leaving the plan as it is.

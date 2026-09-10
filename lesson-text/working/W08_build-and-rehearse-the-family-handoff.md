@@ -21,11 +21,11 @@ After 8.1, use [A8.1](../advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-p
 
 **Narration:**
 
-We're starting with the people because the documents need to support the jobs those people may have to do. In Trusted people, we'll identify the person for financial matters, the person for healthcare and the intended estate representative, along with who has agreed and who can be the backup.
+In Trusted people, connect the financial, healthcare and estate roles to the person who has agreed and the backup.
 
-Now we can connect each role to Estate documents. A name in this record isn't a legal appointment. For a financial power of attorney, we're checking that it's durable, meaning its authority can continue if you're incapacitated. We also need to know when it takes effect and which powers it actually grants.
+Now compare Estate documents with the current signed versions. For the financial power of attorney, we're checking durability, when authority takes effect and the powers granted. Keep a proposed role or unfinished document visible until the actual arrangement supports it.
 
-Who receives what gives us another comparison to make with the institution's own beneficiary record. The primary beneficiary is the first person designated. The contingent beneficiary is the backup who receives if the primary can't under the account's rules. If that record differs from what you intend, the provider or document update remains an open action. We'll save the status the evidence supports.
+In Who receives what, compare the primary and contingent beneficiaries with the institution's current record. If it differs from your intention, put the specific provider or document update on the action list.
 
 **Overlay:** Agreed person / authority / document status / provider beneficiary record
 
@@ -39,11 +39,11 @@ Who receives what gives us another comparison to make with the institution's own
 
 **Narration:**
 
-Now that we have the people and authority, let's follow one asset through the access process. The owner, the person authorized for this situation and the process that person uses all need to connect.
+Let's follow the custody map we prepared earlier and connect one holding to the person authorized for this situation.
 
-Direct Bitcoin requires a lawful route to the protected recovery process. Professionally held Bitcoin has the provider's family-access requirements. A retirement account has its beneficiary and distribution process. Telling someone to use the owner's login doesn't establish the authority or give them the proper route.
+For direct Bitcoin, that means a lawful route to protected recovery. Professional custody uses the provider's family-access process; a retirement account follows its beneficiary and distribution rules. Using the owner's login isn't a substitute for those processes.
 
-We'll look at incapacity and death separately because the authorized person and process can change. While that longer process is underway, the household still needs to pay essential bills. So we're also identifying cash that's legally available at that time. If authority, access or immediate cash is missing, that's the specific next action we'll carry forward.
+Check incapacity and death separately, then identify the cash legally available for immediate household bills while the longer process is underway. A missing authority, access route or cash arrangement gives us a specific action to resolve.
 
 **Overlay:** Owner → authorized role → access process / immediate bills
 
@@ -53,19 +53,19 @@ We'll look at incapacity and death separately because the authorized person and 
 
 #### Chapter 3 — Write and rehearse the first-page handoff
 
-**Show:** Open Instructions for your family and the existing Heir Letter. Connect the safe first instructions to the Family Custody Map and Plan packet/Executor Packet. Use the editorial sample paragraph as a labeled example; rehearse with an agreed helper.
+**Show:** Open Instructions for your family and the existing Heir Letter. Reuse the Family Custody Map prepared in W07 chapter 4 and the Plan packet/Executor Packet references. Write the safe first paragraph, then perform the course's single family-handoff rehearsal with an agreed helper.
 
 **Narration:**
 
-This is the page someone may read when they're already under a lot of stress. In Instructions for your family, we're keeping the opening straightforward: the first person to contact, how to verify that contact and where to start with household payments. The supporting account and document references can sit in the packet.
+In Instructions for your family, write the page someone can use when they're already under stress: the first person to contact, how to verify that contact and where to begin with household payments. Link the supporting account and document references from the existing packet.
 
-Let's read that first paragraph as the family would read it. Any wallet secret, password or exact secret-storage location belongs in its protected process. We'll date these instructions and identify who keeps them current so the family can tell what they're looking at.
+Keep passwords, wallet secrets, sensitive configurations and exact secret-storage locations in the protected recovery process. Date this page and identify who keeps it current.
 
-Then we'll try the first steps with the person who agreed to help. Can they find the letter, reach the first contact information and find the backup without asking the usual operator? If something stops them, we'll correct that instruction and repeat that part. The actual rehearsal result tells us more than the fact that we've written a letter.
+Now we'll rehearse the complete starting route. Let the agreed helper find the letter, first contact and backup without the usual operator coaching them. No credentials or money need to move. Correct an instruction that stops them and repeat that part; record the actual result or the step still pending.
 
-**Overlay:** Find letter → first contact → backup contact → repair missing instruction
+**Overlay:** Existing map + authority + first page → one rehearsal → actual result
 
-**Verify:** Actual finding/opening and rehearsal evidence before success status. No sensitive recovery configuration or unperformed legal review. Sharing is for the agreed household purpose.
+**Verify:** Reuse W07's custody preparation. Actual finding/opening and helper rehearsal evidence precede any success status. No sensitive recovery configuration, unperformed legal review, credentials or transfer. Sharing serves the agreed household purpose.
 
 **Capture dependency:** Verify editor/save behavior, Plan packet output and permitted references to existing protected records. Confirm actual helper consent and document accessibility.
 
@@ -75,13 +75,11 @@ Then we'll try the first steps with the person who agreed to help. Can they find
 
 **Narration:**
 
-A check-in service is optional. If you don't use one, the family still needs findable instructions and a backup contact; you can continue to the insurance review from there.
+If you use a check-in service, this is where we'll check how it delivers the family instructions. If you don't, continue to insurance with the findable instructions and backup contact you've already prepared.
 
-If you do use a service, let's look at the arrangement you actually have. Its timing, recipient, message and false-alarm process determine how useful it will be. We're checking how to cancel or correct a message as well as how it's triggered.
+Read the service's actual timing, recipient, trigger and cancellation or false-alarm process. Then use a harmless test agreed with the recipient. Label the message as a test and include no recovery secrets.
 
-The way to check delivery is a harmless test agreed with the recipient beforehand. The message needs to say it's a test and contain no recovery secrets. Then we can see whether it arrives and whether the recipient can open the safe instructions.
-
-Until that happens, delivery stays unverified and the test remains an action. Even after it works, we'll keep another way for the family to reach the instructions if the service is unavailable.
+Check that it arrives and that the recipient can open the safe instructions. Until then, delivery stays unverified. Keep the independent route to those instructions even after the service works.
 
 **Overlay:** Actual timing / agreed recipient / harmless test / delivery / fallback
 
@@ -95,11 +93,13 @@ Until that happens, delivery stays unverified and the test remains an action. Ev
 
 **Narration:**
 
-For the insurance review, we'll take one event at a time. In the audit, we're comparing what the household would need to cover with the resources and policy benefits actually available for that event.
+Open the insurance audit beside the actual policy. Work through one material loss, the household need, accessible resources and the benefit that applies.
 
-The life-coverage illustration gives us a simple example. A ten-year shortfall of $400,000 in today's dollars, less $100,000 that's separately available and $200,000 of coverage, leaves $100,000 to investigate. That calculation assumes zero return after inflation, taxes and fees, with later needs funded separately. Those assumptions stay beside the number.
+The life-coverage illustration leaves a $100,000 gap: $400,000 of need, less $100,000 of separately available assets and $200,000 of coverage. It assumes zero return after inflation, taxes and fees, with later needs funded separately.
 
-Your own policy gives us the benefit, term, waiting period and exclusions to work from. Once we see the uncovered amount, we can record whether you intend to carry that risk or investigate a change. Related premiums belong in Cash Flow, and an expected future cost belongs in Life events where applicable. The policy change itself happens with the provider; we'll record its effective date once it's real, keeping needed protection until any replacement is approved and active.
+Use your own policy's benefit, term, waiting period and exclusions to judge the uncovered amount. Record whether you'll carry it or investigate a change, and update the related premium or future cost in Cash Flow or Life events.
+
+Keep needed protection until any replacement is approved and active. Record the provider's effective date when coverage changes.
 
 **Overlay:** Illustration: $400k need − $100k assets − $200k coverage = $100k gap
 

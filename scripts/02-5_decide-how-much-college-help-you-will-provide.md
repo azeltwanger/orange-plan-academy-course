@@ -17,9 +17,7 @@ State the education support you intend to provide, allocate existing resources o
 
 If helping your kids with college is part of your plan, I want to work through what that promise actually means before we pick an account. It's easy to say we're saving for college and have two very different expectations in mind. In this lesson, we'll put an amount and timing around the help you intend to provide, then see how it fits beside your own retirement and other commitments.
 
-Saying you want to help with college could mean very different things. You might intend to pay tuition at an in-state public school, cover a fixed amount each year, or contribute what you can while expecting your child to cover the rest. Housing, meals, fees, travel, and extra years of study can change what that promise costs.
-
-What matters is that you and your child understand the same promise. Tuition alone is different from every expense, and a fixed dollar contribution is different from covering whatever a chosen school charges. Getting that clear makes the saving decision much easier to evaluate.
+You might mean tuition at an in-state public school, a fixed amount each year or whatever you can contribute. Housing, meals, fees and extra years can change that cost. What matters is that you and your child understand the same promise before either of you depends on it.
 
 You can start with an estimate while your child is young. Use actual school cost information and net-price estimates where available, then update it as the choices become clearer. Don't assume published tuition is the entire bill, or that estimated aid is already guaranteed.
 
@@ -27,19 +25,17 @@ Let's give that promise a number. For our example household, we'll compare $20,0
 
 They aren't starting from zero. Our example household has $58,000 in education savings for two children. In this illustration, we're assigning $29,000 to the older child's plan and preserving $29,000 for the younger child. We're deciding what existing money we're counting for each child; we haven't created money or changed an actual account's beneficiary.
 
-That distinction matters. If they compare the older child's $80,000 commitment with the entire $58,000 balance, the gap looks smaller. But then the same money isn't still there for the younger child. Start with the actual account ownership and beneficiaries, then make sure the family totals only count the money once.
+The whole $58,000 can't cover each child's commitment separately. Check actual ownership and beneficiaries while assigning the money once across the family.
 
 For the older child, $80,000 minus the $29,000 assigned leaves $51,000 to fund.
 
 Let's say they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to $850 a month.
 
-That's a useful first number. It tells them the size of the commitment they're considering. That number doesn't tell them what tuition will cost, what Bitcoin will return, or which account to use.
-
 It also depends on wanting the whole amount available at the start. The college bills arrive over four years, so the household could choose to fund some of them from income during those years instead. That changes the saving required now, but it also commits future income that may have had another job.
 
 That brings us back to the whole retirement plan. During those tuition years, will both parents still be working? Will the other child also be in college? If the costs overlap with the years you wanted to reduce work or start withdrawals, that future income may already have another job.
 
-In the reduced-spending example, they have $1,700 available after the costs and the client's existing employee contribution. The later funding example puts $500 toward the reserve and $1,200 toward extra card payments. That uses the full amount.
+The proposed Reserve and extra-card funding already use the $1,700 in the reduced-spending example.
 
 There isn't another $850 available just because we've calculated a college gap.
 
@@ -59,9 +55,7 @@ The response to that lower price has to be something you could really do: use an
 
 As enrollment gets closer, separate the payments that must be available soon from money intended for later years. You don't have to move every family investment at once. You do need to know how the first bill will be paid, then come back to the next year's need before it becomes urgent.
 
-We'll trace that in Orange Plan by following the money paying for college. Is it coming from education savings, another account or income during those years? The future expense tells the plan what needs paying; it doesn't set aside the money or start the contributions for you.
-
-Once you've worked through it, you'll have something concrete to discuss with your child: the help you intend to provide, what's already set aside and how the rest could be funded. That conversation can change as costs and school choices become clearer, so it helps to have a time to come back to it.
+That gives you something concrete to discuss with your child: the help you intend to provide, what's set aside and how you'll fund the rest. Choose a time to revisit it as costs and school choices become clearer.
 
 In the walkthrough, we'll place those payments beside the same Reserve and debt claims we've already considered. If the money is still promised elsewhere, the college choice stays open until you decide what changes. Then we'll return to Debt with that education commitment visible, so we aren't making the next decision with money you've already assigned.
 

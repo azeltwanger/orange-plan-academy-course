@@ -4,7 +4,7 @@ It took me four years of holding Bitcoin to realize what I was missing. I had an
 
 That's what I want you to have as we go through this course. I'll talk through the decisions and show you how I'd think about the trade-offs. Then, in the separate walkthrough, we'll put that part into Orange Plan together. That's a good place to pause and work on your own information, so you're building your plan as we go.
 
-We'll use a fictional household throughout the course. One person wants work to become optional at 52, and their partner has a separate work timeline. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
+We'll use a fictional household when an example helps. You'll see them labeled Client and Partner, and you'll use your own information as we build your plan.
 
 Before we get into investments, though, we need somewhere to start. Choose an age when you'd like work to become optional and a first estimate of what that life would cost each year. Those aren't promises we're making about the result. They're the question we're going to ask the plan. We'll start with the money you have and the bills it needs to cover, then work through investing, retirement income, protection and maintenance.
 

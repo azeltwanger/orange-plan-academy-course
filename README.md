@@ -4,6 +4,8 @@
 
 The course follows the steps in Austin's slide decks. Each lesson tells the member what to do, explains how to think about the decision, then implements it in a separately recorded walkthrough.
 
+Each explanation has a primary lesson. Walkthroughs apply it to the plan; later lessons carry the result forward. Examples are included where they clarify a decision, and detailed financing or collateral work follows the applicable conditional route. See [the tightening review](delivery/tightening-review.md) for the latest editorial changes.
+
 There are 25 main teaching recordings and eight **For your situation** recordings. The ten app walkthroughs and one device walkthrough are separate filming work. Their chapters are individual takes paired with the relevant teaching, not another course to watch from beginning to end.
 
 | For this job | Open |

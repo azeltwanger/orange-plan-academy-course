@@ -15,11 +15,9 @@ Compare a limited multiyear conversion schedule against no added conversions and
 
 ### Read aloud
 
-The main tax lesson compared a conversion with keeping the current treatment. If you're considering conversions over several years, we need to follow that decision through the income changes ahead. An amount that fits this year may be expensive next year or use cash you'll need in the meantime.
+We've compared a conversion in one year. Now we're going to decide whether it has a useful place over several years. The amount that fits today may be expensive next year, or there may be a better income window ahead.
 
-We're moving money already in eligible Traditional retirement accounts into Roth. Traditional here generally means tax is still due when money comes out; it isn't an ordinary taxable brokerage account. This is separate from a new contribution, so the annual contribution limit doesn't set the conversion amount. The taxable portion, the money paying that tax and the access rules are what we need to work through.
-
-The starting point is still the plan you're following now. Work, benefits, healthcare and required distributions show us where income changes. Living expenses and conversion tax each need a source in those years. That gives us a reason for the period we're comparing, instead of repeating one conversion amount through all of retirement.
+The starting point is still the plan you're following now. Mark when work income, benefits, healthcare and required distributions change. Those dates give the schedule a beginning, an end and reasons for the amount to change along the way.
 
 We can put three versions beside each other: no added conversions, a modest schedule and a larger early schedule. The spending and market assumptions stay the same. What we're changing is the timing and amount of the conversion.
 
@@ -27,15 +25,11 @@ Here's why the next portion matters. In a separate illustration, converting the 
 
 If the comparable future cost were 25% under those simplified assumptions, the first portion and second portion have different trade-offs. The average hides that. Your actual tax and coverage calculation may differ, and next year's circumstances can change the opportunity. A pension starting could shrink the window; a lower-income year ahead could make waiting worth another comparison.
 
-As we follow each schedule, I want to keep the first affected year, the next income change and the later outcome in view. Conversion dollars, spending withdrawals and tax payments remain separate. A bigger Roth doesn't replace accessible cash already spent on conversion tax when the early retirement years still need it.
-
-That is also why we're comparing total after-tax resources on the same dates. In the no-conversion version, the outside money that would have paid tax can stay invested, with its own growth and taxes. Lifetime tax alone doesn't show what the household has left to use.
+As we follow each schedule, keep the first affected year, the next income change and the later outcome in view. We're comparing total after-tax resources on the same dates, including the outside tax money from the main lesson. Each year's spending and conversion tax need their own sources; a larger Roth balance doesn't fill an early cash gap.
 
 The preferred schedule depends on assumptions worth testing. Lower future tax rates or weaker growth could change it. So could one spouse dying earlier, with a different income and filing picture for the survivor. An important effect the model doesn't represent needs a separate calculation rather than being inferred from the score.
 
-A market decline can allow the same conversion dollars to move more units. It still doesn't pay the tax or guarantee a rebound. The cash source and longer-term reason have to stand on their own.
-
-So the schedule includes a yearly review before the transaction deadline. Income, required distributions, nondeductible basis, healthcare effects and the tax-payment source get updated before the actual amount is confirmed with the custodian. A saved strategy becomes a completed conversion only after the transaction happens.
+The schedule includes a yearly review before the transaction deadline. Update income, required distributions, nondeductible basis, healthcare effects and the tax-payment source before confirming the actual amount with the custodian. That review can make the next conversion smaller, larger or unnecessary. A saved schedule isn't an instruction to repeat the same amount regardless of what changes.
 
 In the walkthrough, we'll extend the conversion comparison through the years that matter and keep that review condition beside it. You may choose a smaller schedule or no added conversion when the benefit doesn't survive a plausible assumption. Then we'll return to the retirement paycheck and use the tax choice alongside the money needed for living expenses.
 
@@ -46,8 +40,8 @@ In the walkthrough, we'll extend the conversion comparison through the years tha
 | The starting point is still the plan you're following now. | 1 · Mark the income windows | Dates and each spouse visible. |
 | We can put three versions beside each other: | 2 · None / modest / larger early | Same spending and market assumptions. |
 | Here's why the next portion matters. | Illustration: first $20k costs 20%; next $20k costs 30% | Show marginal portions before 25% average. |
-| we're comparing total after-tax resources on the same dates. | 3 · After-tax resources + accessible cash | Include opportunity cost of tax payments. |
-| the schedule includes a yearly review before the transaction deadline. | 4 · Recheck the actual year | No automatic fixed conversion schedule. |
+| We're comparing total after-tax resources on the same dates, | 3 · After-tax resources + accessible cash | Include opportunity cost of tax payments. |
+| The schedule includes a yearly review before the transaction deadline. | 4 · Recheck the actual year | No automatic fixed conversion schedule. |
 
 ### Walkthrough handoff — not spoken
 

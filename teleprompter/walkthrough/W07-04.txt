@@ -1,5 +1,3 @@
-The last thing we need from this map is a usable starting point for the family. Let's read the instruction for this holding: who would they contact, and which legitimate process applies if the usual operator is unavailable?
+Before we leave Bitcoin access, let's make this holding's starting route clear. The family needs the legitimate process, first contact and agreed backup if the usual operator is unavailable.
 
-The person who agreed to help can try those first steps while the operator stays quiet. We're looking for whether they can find the first contact and the backup. This rehearsal doesn't involve entering credentials or moving money.
-
-If an instruction stops them, that's the part to correct and try again. If we haven't rehearsed it yet, we'll leave that status pending. We'll take this same map into the family handoff, where the access process connects to the person's authority. And just to keep the two kinds of backup clear: an Orange Plan data backup doesn't restore a Bitcoin wallet.
+We're preparing the custody part of the handoff here. Keep any missing contact or provider instruction as the next action. In the family walkthrough, we'll connect this same map to the person's legal authority and first-page instructions, then rehearse the complete route once it's ready.

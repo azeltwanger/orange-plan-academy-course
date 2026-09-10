@@ -1,5 +1,7 @@
-This part is useful when you have purchase or transfer records for holdings already in your plan. If those records don't apply, or you don't have them yet, note what's missing and continue to chapter six for the monthly picture. You don't need to repair an unrelated old purchase before you do that.
+Use this take when you have purchase or transfer records for holdings already in the plan. Gather the exchange or brokerage records you can access; the price paid and relevant costs help establish purchase history for later tax work. If those records don't apply or aren't available, note what's missing and continue to chapter six. You don't need to repair an unrelated old purchase first.
 
-Here, the purchase explains Bitcoin already included in today's holdings. It isn't a new purchase today. As we follow it from the exchange to the wallet, the transfer keeps the original history attached. If the same purchase is already here, accepting it again would give us a duplicate.
+Here, the purchase explains Bitcoin already in today's holdings. It isn't a new purchase today, so we don't invent today's date and price. The transfer from exchange to wallet moves the same position and history; it doesn't create a sale and repurchase. If the purchase is already here, accepting it again would duplicate it.
+
+For a Roth account, you don't need every internal trade just to identify today's holdings. Contribution, conversion and distribution records have separate jobs when we examine access and taxes.
 
 I'll compare the household quantity before and after the history is attached. It only changes if we've identified a real position that was missing. Otherwise, we've learned more about the same Bitcoin. Unsupported purchase details stay unknown, and we can move on to the monthly starting picture.

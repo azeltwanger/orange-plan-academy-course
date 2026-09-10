@@ -1,7 +1,5 @@
-Here's the first year after work stops. We're going to see how much money the household needs and where it comes from. The starting spending number is the cost of living that life, so we don't simply replace today's salary or carry retirement contributions into it.
+Here's the first year after work stops. I'm opening living costs, healthcare, required debt, tax and dated events to check that each appears once. The spending describes the life we're funding; it doesn't carry retirement contributions forward as living costs.
 
-I'm opening living costs, healthcare, required debt, tax and dated events to see that each appears once. Debt stays separate from ordinary living costs so its payments can end when the loan is paid off. Then we'll look at the income that actually arrives during this year.
+Now let's read the income arriving in that year and the gap the accounts need to supply. I'm checking what that displayed gap includes, especially tax and debt.
 
-In the separate teaching illustration, $108,000 of living and healthcare costs minus $40,000 of gross income gives a rough $68,000 gap. Adding $12,000 of hypothetical tax and $6,000 of debt changes it to $86,000. That's why we need to know what a displayed amount includes before treating it as the withdrawal needed.
-
-If a source record is missing or duplicated, we correct it there. After saving, I'll wait for the updated result and read the funding need again. Gross income, withholding and the complete tax cost need to agree. Then we can look at which money is available during these first retirement years.
+If something is missing or duplicated, we'll correct its source and wait for the updated result. Once the income, withholding and full costs agree, we can follow the money available for this year.

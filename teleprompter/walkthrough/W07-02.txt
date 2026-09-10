@@ -1,5 +1,5 @@
-Before we update recovery status, let's look at the evidence we're using. The receipt needs to tell us which wallet was checked, how it was checked, when it happened and what the result was.
+Let's use the recovery receipt to record the wallet checked, method, date and result.
 
-That scope matters here. If the receipt is from the separate test wallet, we're recording a result for that wallet. The family's funded wallet keeps its own status until its appropriate safe check is complete. Buying a new device or checking that a word list is valid wouldn't establish the full recovery result.
+If this is the separate test wallet, its result stays with that wallet. The funded setup keeps its own status until its appropriate safe check is complete. Buying a device or validating a word list doesn't establish full recovery.
 
-Where a funded setup has been safely checked, we can record the evidence that actually exists, including any passphrase or multisig requirements covered by the check. When we read the saved entry back, someone else needs to understand both what's been tested and what's left to do. They don't need any recovery material to understand that.
+For a funded setup with actual evidence, include the passphrase or multisig requirements covered by the check, without recording the sensitive material itself. Read the saved entry back: it needs to show what's verified and the safe next step for anything still open.

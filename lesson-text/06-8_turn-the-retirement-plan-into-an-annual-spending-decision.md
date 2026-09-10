@@ -35,7 +35,7 @@ If the market is weak, they can compare using some existing cash with refilling 
 
 A refill also has costs to include. Moving $7,700 from investments into cash doesn't create $7,700 of new wealth. The Reserve stays inside existing assets, and any sale tax and fees belong beside the cash being raised. That keeps the same dollars from doing two jobs.
 
-The reason we're paying attention to this is that return order matters once withdrawals begin. Start with $1 million and take $50,000 at the beginning of each year. A 20% loss followed by a 25% gain leaves $887,500 after two withdrawals. Reverse those returns and the amount is $910,000. Assets sold for spending aren't there to participate in the recovery.
+This is where the order of returns matters. When investments are sold after a decline to pay for life, those units aren't there to participate in a recovery. The Reserve gives us another source for a period, with the refill decision we've just worked through.
 
 In your own plan, we'll look at the weak year's cash, sale and remaining investments. Less favorable return assumptions can be tested separately. Raising growth to undo an uncomfortable result would hide the funding issue we're trying to understand.
 
@@ -61,7 +61,7 @@ The walkthrough connects the annual budget to its income, Reserve and refill sou
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Retirement deck spending/sequence/Reserve actions retained; old fixed-withdrawal and generic 10% interpretations do not override accepted current policy. Research-performance exposition removed from speech because it does not perform a student step; dated research remains in reference/script-finishing-sources.md. Preserve invented $103,000/55%/$86,000 example, $92,700 cap, $52,700 gap, $26,350 floor and $7,700 refill. Dollar guardrail inverse calculation, denominator, annual cap/inflation semantics and same-result save receipt require approved-build evidence before footage. No invented solver result is shown as an app output.
+Retirement deck spending/sequence/Reserve actions retained; old fixed-withdrawal and generic 10% interpretations do not override accepted current policy. The separate two-year sequence calculation was removed; this recording follows one annual spending and Reserve case. Research-performance exposition remains outside speech; dated research remains in reference/script-finishing-sources.md. Preserve invented $103,000/55%/$86,000 example, $92,700 cap, $52,700 gap, $26,350 floor and $7,700 refill. Dollar guardrail inverse calculation, denominator, annual cap/inflation semantics and same-result save receipt require approved-build evidence before footage. No invented solver result is shown as an app output.
 
 ### Member checkpoint
 

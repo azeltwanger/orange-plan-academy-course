@@ -1,7 +1,7 @@
-Let's bring the review back to the amount the household will spend. I'm looking at the standing guardrail status first, then the annual spending review. The portfolio threshold tells us when to review. The budget proposal tells us what spending we're considering.
+I'm reading the standing guardrail status first, then opening the annual spending review. The portfolio threshold tells us when to review; this proposal is the budget we're considering.
 
-We start with the saved budget and apply inflation once. In this separate illustration, $100,000 becomes $103,000. A made-up 55% result crosses the lower trigger, and the made-up amount that would reach the target is $86,000. The 10% correction cap gives us $92,700 for this review. The cap hasn't restored 80% confidence, so we still need to read the difficult years before adopting that amount.
+Let's check the saved spending, the inflation adjustment and any suggested correction. If the annual correction is capped, that doesn't mean the target has been restored. We still need to read the remaining difficult years and identify the expenses the household would actually change.
 
-The household then has to identify the expenses that would actually change. Those choices also change the Reserve calculation. With $40,000 of spendable income and withdrawal tax funded separately, the example's remaining gap is $52,700. Its chosen twelve-month target is $52,700, its six-month floor is $26,350, and $45,000 of cash leaves a $7,700 refill gap.
+Now I'm checking the Reserve against that same budget and spendable income. Here's its target, floor, current assigned cash and any refill needed. The refill needs an available source with its tax and costs included.
 
-I'm putting the actual refill source and its tax beside the proposed budget. Once those agree, we can save the spending we choose, read the saved amount and set the next review. An urgent income or loan change needs attention sooner. This gives us a decision we can follow for the coming year, and next we'll work on keeping the assets and access behind that plan secure.
+Once those agree, we can save the chosen spending, read it back and set the next review. An urgent income or loan change needs attention sooner. Next, we'll work on protecting the assets and access behind this plan.

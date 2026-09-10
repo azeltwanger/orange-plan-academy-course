@@ -1,14 +1,14 @@
-We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. Our example household has directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
+We're in Bitcoin access, connecting each holding to its custody arrangement. Start with the owner, what the money is for and who controls it today.
 
-For this holding, we're recording what the money is for and who controls it today. If you're considering a move, that belongs beside the current arrangement as a planned change. We don't want the family reading a future intention as something that's already happened.
+Put an intended move beside the current arrangement so the family can tell which process applies now. Then connect the person handling the ordinary work and the agreed backup from Trusted people.
 
-The next part is who handles the ordinary work and who has agreed to help if that person is unavailable. An unanswered provider question can stay as the next action here. Once we save and reopen the record, we can check that it still points to the right holding. This is a map of the process, so recovery words and precise secret locations stay in their protected records.
+Let's save and reopen the record to check it belongs to the right holding. Provider questions can stay with the next action. This map points to the protected recovery process without containing its secrets.
 
-Before we update recovery status, let's look at the evidence we're using. The receipt needs to tell us which wallet was checked, how it was checked, when it happened and what the result was.
+Let's use the recovery receipt to record the wallet checked, method, date and result.
 
-That scope matters here. If the receipt is from the separate test wallet, we're recording a result for that wallet. The family's funded wallet keeps its own status until its appropriate safe check is complete. Buying a new device or checking that a word list is valid wouldn't establish the full recovery result.
+If this is the separate test wallet, its result stays with that wallet. The funded setup keeps its own status until its appropriate safe check is complete. Buying a device or validating a word list doesn't establish full recovery.
 
-Where a funded setup has been safely checked, we can record the evidence that actually exists, including any passphrase or multisig requirements covered by the check. When we read the saved entry back, someone else needs to understand both what's been tested and what's left to do. They don't need any recovery material to understand that.
+For a funded setup with actual evidence, include the passphrase or multisig requirements covered by the check, without recording the sensitive material itself. Read the saved entry back: it needs to show what's verified and the safe next step for anything still open.
 
 Let's work on one dependency from the custody map. In this example, several accounts rely on the same recovery email. That gives us a useful place to start: protecting that email affects the access route for more than one account.
 
@@ -16,8 +16,6 @@ We're using the provider's verified security settings to see which sign-in and r
 
 Back in the map, we'll record the change only once it's actually completed. A provider question or an agreement we're still waiting for stays open. This improves account access, but the company's custody risk is still there, so that dependency remains in the map.
 
-The last thing we need from this map is a usable starting point for the family. Let's read the instruction for this holding: who would they contact, and which legitimate process applies if the usual operator is unavailable?
+Before we leave Bitcoin access, let's make this holding's starting route clear. The family needs the legitimate process, first contact and agreed backup if the usual operator is unavailable.
 
-The person who agreed to help can try those first steps while the operator stays quiet. We're looking for whether they can find the first contact and the backup. This rehearsal doesn't involve entering credentials or moving money.
-
-If an instruction stops them, that's the part to correct and try again. If we haven't rehearsed it yet, we'll leave that status pending. We'll take this same map into the family handoff, where the access process connects to the person's authority. And just to keep the two kinds of backup clear: an Orange Plan data backup doesn't restore a Bitcoin wallet.
+We're preparing the custody part of the handoff here. Keep any missing contact or provider instruction as the next action. In the family walkthrough, we'll connect this same map to the person's legal authority and first-page instructions, then rehearse the complete route once it's ready.

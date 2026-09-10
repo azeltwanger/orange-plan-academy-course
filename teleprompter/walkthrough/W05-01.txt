@@ -1,7 +1,5 @@
-Let's look at a sale before placing it. I'm opening the taxable holding and its purchase details so we can see which units we own, when we acquired them and what they cost.
+Let's open the taxable holding and its purchase details before placing a sale. I'm checking the units available, their acquisition records and supported cost.
 
-In our separate illustration, selling 0.2 Bitcoin produces $20,000 before fees. The three purchase-price examples give $11,600, $3,200 or $10,400 of basis. That changes the gain to $8,400, $16,800 or $9,600 even though the sale proceeds are the same.
+Now we can follow the proposed sale from proceeds through basis and gain to estimated tax and cash left for its purpose. The tax estimate needs the rest of the year's income; the gain alone doesn't tell us the bill.
 
-The gain still isn't the tax bill. We need the rest of the tax year's information to estimate that, and we need tax and costs accounted for before treating the proceeds as spending money.
-
-Here, I'm checking which units are actually available and how they must be identified for this transaction. If a cost is missing, we leave it unknown and find its source record before relying on the comparison. Previewing the lot doesn't place a trade or notify the custodian. Once the records support it, we can compare the sale in the context of the year's income.
+If a cost is missing, we leave it unknown and find the source before relying on that comparison. Previewing a lot doesn't notify the custodian or place a trade. If we're preparing the transaction, we'll take the supported choice into the records lesson next.

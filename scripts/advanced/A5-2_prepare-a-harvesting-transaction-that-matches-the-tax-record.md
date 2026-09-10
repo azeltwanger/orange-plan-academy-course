@@ -29,13 +29,13 @@ Gifts and inheritance bring their own basis rules and records. They aren't ordin
 
 Past sales and filed returns help establish what's still available. Units sold earlier can't remain in the list for another sale. A capital-loss carryforward is an unused realized tax loss carried into a later year. Its remaining amount comes from the returns and subsequent activity, not a screenshot of an investment that once fell in value.
 
-With that history in place, the lot comparison becomes usable. The course's $20,000 sale can produce $8,400, $16,800 or $9,600 of gain, depending on the available lot. If the preferred lot lacks evidence, the choices are to obtain it or compare a supported lot. An unknown cost doesn't become reliable because it creates the smallest gain.
+With that history in place, return to the lot comparison from the main lesson. If the preferred lot lacks evidence, obtain it or compare a supported lot. An unknown cost doesn't become reliable because it creates the smallest gain.
 
 The identification has to happen through the process and deadline that apply to the asset, custodian or wallet and transaction year. A choice in Orange Plan doesn't itself notify a broker. The actual instruction acknowledgment or required contemporaneous identification record is what supports the transaction. Temporary relief isn't permanent permission to pick any lot after the fact.
 
 For a loss harvest, the replacement is part of that preparation. Automatic purchases, another account and relevant spouse activity can affect a securities wash-sale analysis. A replacement in your IRA or Roth IRA can make the securities loss permanent because the usual replacement-basis adjustment doesn't apply. Direct Bitcoin and Bitcoin funds need their own current-rule review.
 
-For a gain harvest, the same-year income picture matters. Other gains, business income or a conversion can use room that looked available earlier. State tax, healthcare costs, fees and price movement between sale and replacement also affect what the transaction gives the household.
+Before a gain harvest, update the year's income and costs from the main comparison. A later gain or conversion may have used room that appeared available when you first planned the sale.
 
 After execution, the trade confirmation lets us check what actually happened: the identified units, time, proceeds and fees. The remaining lots need to agree with the current holding, and any replacement purchase gets its own record. That continuity matters next time you sell.
 
@@ -61,7 +61,7 @@ In the walkthrough, we'll prepare that packet and follow the transaction back to
 
 September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../../delivery/consolidation.md). Financial source review remains in [the technical review](../../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Retains source reconstruction, 0.1 BTC transfer, original three lots, carryforward continuity, timely identification and securities IRA-replacement consequence. The September 8/10 technical record governs existing temporary broker-held identification relief; no date-specific relief is extended in evergreen speech. Provider behavior and tax-data export coverage need actual capture evidence.
+Retains source reconstruction, the 0.1 BTC same-owner transfer illustration, carryforward continuity, timely identification and the securities IRA-replacement consequence. The three-lot calculation is taught once in 5.1; this lesson applies its choice to supported units and transaction records. The September 8/10 technical record governs existing temporary broker-held identification relief; no date-specific relief is extended in evergreen speech. Provider behavior and tax-data export coverage need actual capture evidence.
 
 ### Member checkpoint
 

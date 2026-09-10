@@ -2,4 +2,4 @@ Here we're looking at one account from the money category on Home. Before gettin
 
 The client's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
 
-After a correction is saved, I'll reopen the account beside the same statement. That lets us see whether the record now describes what the household actually owns.
+After saving, I'll reopen the account beside the statement to check the result. The next three takes handle specific record questions: what a connection supplies, a balance without holdings, and purchase history. Use the ones that apply. If your accounts are already explained, continue to chapter six for the monthly picture.

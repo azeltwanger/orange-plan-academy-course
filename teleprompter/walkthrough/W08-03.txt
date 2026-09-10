@@ -1,5 +1,5 @@
-This is the page someone may read when they're already under a lot of stress. In Instructions for your family, we're keeping the opening straightforward: the first person to contact, how to verify that contact and where to start with household payments. The supporting account and document references can sit in the packet.
+In Instructions for your family, write the page someone can use when they're already under stress: the first person to contact, how to verify that contact and where to begin with household payments. Link the supporting account and document references from the existing packet.
 
-Let's read that first paragraph as the family would read it. Any wallet secret, password or exact secret-storage location belongs in its protected process. We'll date these instructions and identify who keeps them current so the family can tell what they're looking at.
+Keep passwords, wallet secrets, sensitive configurations and exact secret-storage locations in the protected recovery process. Date this page and identify who keeps it current.
 
-Then we'll try the first steps with the person who agreed to help. Can they find the letter, reach the first contact information and find the backup without asking the usual operator? If something stops them, we'll correct that instruction and repeat that part. The actual rehearsal result tells us more than the fact that we've written a letter.
+Now we'll rehearse the complete starting route. Let the agreed helper find the letter, first contact and backup without the usual operator coaching them. No credentials or money need to move. Correct an instruction that stops them and repeat that part; record the actual result or the step still pending.

@@ -1,7 +1,7 @@
-For an ordinary monthly check, Home is our starting point. Before interpreting a balance, let's look at its date. If an account needs attention, How this account updates tells us what's automatic and what still needs input. Seeing a provider's name doesn't tell us that its purchase history came through.
+Home is our starting point for the monthly check. Read any material issue and the source dates. How this account updates shows what still needs input.
 
-Then we're comparing this month's records with what we expected to happen. Did the contribution arrive, and was it invested as intended? In Cash Flow, we'll check the spending source, the cash Reserve and the next confirmed life event so the upcoming cash needs are still represented.
+Compare the records with what you expected: contributions received, investments purchased and debt payments made. In Cash Flow, check the spending source, Reserve and upcoming confirmed events so the near-term needs are covered.
 
-The saved Plan has its own date and status. Prices can be current while its calculation is older, so we need to read the result that belongs to the current inputs. A price move by itself isn't a reason to rewrite the assumptions.
+Then read the Plan's own date and status. Its result needs to include the current inputs before we interpret it.
 
-If those records are current and there's no new decision, we're finished with this month's check. We can keep the next reminder and close the plan.
+If the facts are current and nothing needs a decision, that's this month's review finished.

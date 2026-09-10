@@ -6,18 +6,14 @@ With a Bitcoin sale, the quantity, supported basis and tax determine how much ha
 
 Using another asset may preserve Bitcoin, but that money was doing something too. A stock fund might provide diversification, or Roth money might support a later period. Holding Bitcoin works when another source pays the bill or the expense can change. The effect on that other source belongs in the comparison.
 
-Borrowing brings forward the work from Debt: the loan size, rate, fees, collateral requirements and repayment date. I can see why someone would consider it to keep more Bitcoin invested. The payment still needs funding when employment income has stopped, and Reserve dollars already paying for life can't also be assigned to a collateral response.
+Borrowing brings forward the work from Debt: the loan size, rate, fees, collateral requirements and repayment date. The new question is whether those obligations fit after employment income stops. Interest paid from cash increases the year's funding need; interest added to the loan increases what must eventually be repaid.
 
-Let's use a simple $20,000 loan at a hypothetical 10% annual rate. With unchanged principal and simple annual interest, that's $2,000. Paying it from cash uses another $2,000. Adding it to the loan leaves $22,000 owed after the simplified year. The agreement tells us which treatment applies and whether other costs accrue.
-
-Now imagine Bitcoin stays flat or falls while that interest continues. We need the payment source, the Bitcoin available for a top-up and the time it takes to deliver it. Cold-storage Bitcoin affects lender LTV only when the lender credits it. Strong household net worth doesn't stop a lender acting on its own collateral threshold.
-
-That's why the Debt lesson sizes the full obligation, including accruing costs, against a severe decline before deciding what to post initially. Opening a pre-sized loan at 50% posted-collateral LTV can leave more Bitcoin under personal control. It also requires the supporting reserves and timely response; it isn't a safe borrowing limit. A stricter cure or maturity requirement may bind before liquidation.
+If you're considering borrowing, bring the completed loan review into this comparison. We need its funded payment, collateral response and exit, including a weak market. Reserve dollars already paying for life can't also supply that response. If those answers are missing, borrowing isn't ready to become the spending plan.
 
 We also need to follow the loan through its exit. That includes what repays principal, tax on a repayment sale and the resources left afterward. A larger balance at the end of a projection doesn't fix a forced sale or missed payment along the way. Avoiding today's sale doesn't guarantee avoiding a later one.
 
 In the comparison, we'll read the plan effect and added risk together. The spending, dates and market assumptions stay the same while we look at the first year, a difficult period and repayment. Tax, Bitcoin retained, loan balance, collateral and accessible cash all help explain the trade-off. A contract term the model doesn't represent still needs its own analysis before we rely on the borrowing result.
 
-Our example household doesn't have a Bitcoin-backed loan in the saved baseline. A possible one-time loan stays a separate comparison. Borrowing across retirement is a different strategy, and if it includes repeated draws, the Bitcoin-loan lesson follows each draw and accrued cost into the combined balance.
+Our example household has no Bitcoin-backed loan in the saved baseline. A possible one-time loan stays a separate comparison. Repeated retirement borrowing needs the conditional loan review to follow every draw and accrued cost into the combined balance.
 
 The walkthrough will put those funding routes beside the same spending need. You'll take forward the method you prefer and any repayment or response it requires. If borrowing is part of it, complete the conditional loan lesson before relying on that choice. Next, we'll work through how spending and the Reserve are reviewed as the retirement years unfold.

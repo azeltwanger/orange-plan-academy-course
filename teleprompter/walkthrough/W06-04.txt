@@ -1,9 +1,5 @@
-We know the year's cash need. Now let's follow the money that supplies it. I'm opening How retirement is funded in Retirement strategy and tracing the first year's withdrawal to its account.
+I'm opening How retirement is funded and tracing the first year's withdrawal to its account, the investment sold and the tax created.
 
-Inside that account, we also need to see the investment being sold and the tax created. Choosing an account order doesn't, by itself, tell us which investment supplies the cash.
+Required distributions stay accounted for. For the remaining spending, let's preview the account order or blend we're considering. I'll keep the other assumptions steady while reading cash for bills and balances left, then open a later funding year.
 
-Required distributions have their own rules, so those remain accounted for. For the remaining spending, we can preview another account order or blend when it addresses an actual tax or access need.
-
-I'm keeping the lifestyle and return assumptions steady while reading cash available for bills, tax paid and balances remaining. Then we'll open a later year to see the effect of that choice over time. If there's also a conversion, it still needs separate spending and tax sources.
-
-If the preferred order runs out of accessible money, we have a source or spending decision left to resolve. Once the funding works and we intend to use it, we can save the choice and read the same year again to confirm the plan reflects it.
+If that choice runs out of accessible money, we still have a source or spending decision to resolve. Once we intend to follow it, we can save the policy and read the same year again to confirm that the plan reflects it.

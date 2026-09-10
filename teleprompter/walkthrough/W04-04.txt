@@ -1,7 +1,5 @@
-We're back in Cash Flow, under Saving and investing, to connect the plan to this month's money. I'm using the reduced-spending version from our earlier comparison, so we need to keep that version consistent here.
+We're in Saving and investing, using the reduced-spending version from earlier. I'm checking the employee contribution, Reserve contribution and extra card payment against the same available money.
 
-The $2,475 before the client's contribution becomes $1,700 after their $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. The client is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
+In this version, those choices use the remaining household cash. The employer contribution adds retirement saving separately; it doesn't increase the money we can transfer from checking.
 
-Their employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
-
-The card payoff gives us a future decision to prepare for. The illustrated $1,605 becomes available only after those payments stop. When that happens, we'll check what was actually released and whether the other bills have changed before starting a new transfer. Reserve completion has its own condition as well. We can prepare those later choices now while keeping today's contribution instructions affordable.
+The card payoff is a future start condition. I'll keep the proposed new investment transfer inactive until the payments actually stop, then check the amount released and any changed bills. Today's instructions now fit today's cash.

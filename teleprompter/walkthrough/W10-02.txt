@@ -1,7 +1,7 @@
-This is where we turn the retirement plan into a picture of where the money to live on comes from. Let's start with the first retirement year and follow the money that pays the bills. We're looking at the income arriving, the complete spending need and the amount that has to come from assets. The source accounts, taxes and debt payments help explain that year's full requirement.
+Start with the first retirement year. Follow the income arriving, full spending need, taxes, debt payments and the amount that comes from assets. Read which accounts provide it and what remains afterward.
 
-Then we'll move to the next important change, perhaps a benefit starting or a major planned expense. The account paying for it needs to be accessible at that time. We also need to check that we've left enough for the other jobs assigned to those assets.
+Then move to the next important funding change: a benefit begins, a major cost arrives or account access changes. Check that the source is available then and still supports its other jobs.
 
-The Reserve and spending-response rules tell us how the plan responds if things weaken. As we read them, we're looking at what would change and what resources would remain afterward.
+Read the Reserve and spending-response rules alongside those years. They show what changes if the plan weakens and how the response is funded.
 
-If an account's access rule or a funding source is unresolved, we'll leave that gap visible and identify the next step to resolve it. The headline result can't supply evidence that we don't yet have.
+An unresolved access rule or funding source stays visible with the next step to resolve it. The headline result doesn't fill that gap.
