@@ -1,0 +1,5 @@
+I have the original source file beside this holding. Let's review what the import adds before accepting it.
+
+These overlapping entries need to match the events already present. I'm also checking that the exchange withdrawal and same-owner wallet receipt stay connected to the original purchase history.
+
+Now let's compare the remaining units with the holding. If they disagree, we'll trace fees, missing activity or duplicates. We leave an unresolved detail visible while obtaining the evidence. Once these agree, we can use the supported history for the sale without adding the holding a second time.

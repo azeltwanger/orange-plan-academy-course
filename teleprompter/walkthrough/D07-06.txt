@@ -1,0 +1,5 @@
+We're now using the recovery method specified for this isolated test. All private entry stays off camera. When the wallet opens, we'll compare its known identifier or address with our test record, then check for the expected test funds.
+
+Both parts matter. A valid empty wallet isn't enough, because a passphrase mistake can open another valid wallet. If the identity or funds don't match, we'll stop and leave the result unresolved.
+
+Successful recovery means the evidence matches this intended test wallet. It doesn't tell us that another wallet is recoverable. The family's funded wallet stays outside the test, and we never wipe it as part of this demonstration.

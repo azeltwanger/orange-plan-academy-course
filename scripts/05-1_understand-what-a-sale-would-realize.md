@@ -1,86 +1,62 @@
 # 5.1 — Understand a sale and choose the relevant tax action
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_RECORDING_REVIEW — complete teaching script; owner voice review and paired capture remain separate.
 Kind: teach
 Gate: TAX_REVIEW
 Sources: APP, BRAIN, CLIENT_THEMES, DICTATION, PRIMARY, TAX, TAX_DECK
 
+### Do this
+
+Establish the gain or loss a proposed sale would realize, then select the tax action worth preparing this year.
+
 ### Read aloud
 
-You may want to sell some Bitcoin to fund a purchase, build cash, or begin retirement. Before deciding how much to sell, you need to know how much of that sale is a taxable gain.
+We've worked through where new money is going. In this lesson, we're going to look at what happens when money comes out of an investment, especially when that means selling Bitcoin. The amount you sell, the gain you realize and the tax you owe can be very different numbers. Your purchase records are what let us separate them.
 
-Start with what the investment cost you. The tax record calls the amount used in the gain calculation your cost basis. Purchase costs, fees and other required adjustments can affect it, so use the records. A tax lot is a group of units acquired together. Different purchases can have different costs and purchase dates.
+I'd begin with the account or wallet holding the investment and the units you might sell. The purchase date and documented cost tell us what happened when you acquired them. An exchange export or trade confirmation is useful here because we're working from the transaction rather than a price we remember.
 
-Start with a simple sale. Let's say an investment sells for $20,000 and your records establish a cost basis of $16,000. Subtract the $16,000 from the $20,000. The gain is $4,000 before fees or other adjustments. The sale money is called proceeds. The proceeds, the gain, and the tax bill are three different numbers.
+Cost basis is the supported cost used to calculate gain or loss. We subtract it from the sale proceeds, with the applicable adjustments. The gain still isn't the tax bill. That also depends on the holding period, other income and the rules that apply to the household.
 
-Now let's use the lots in the course example. One purchase was at $58,000 per Bitcoin, another at $16,000, and another at $52,000. Let's say we're comparing a sale of 0.2 Bitcoin at the example price of $100,000 per coin, ignoring fees for the illustration.
+The course's three-lot example shows why that history can change a decision. We're selling 0.2 Bitcoin at a hypothetical $100,000 per Bitcoin, so the proceeds are $20,000 before fees. If those units were purchased at $58,000 per Bitcoin, they have $11,600 of basis and $8,400 of gain. At a $16,000 purchase price, basis is $3,200 and gain is $16,800. At a $52,000 purchase price, basis is $10,400 and gain is $9,600.
 
-The sale brings in $20,000 in every version. What changes is the basis of the units sold.
+The same amount is sold at the same price. What changed was the purchase history attached to it. Those are only usable choices when you own the units and can meet the identification rules for the transaction. Selecting a preferred row in Orange Plan doesn't send an instruction to the broker.
 
-Using 0.2 Bitcoin from the $58,000 purchase gives $11,600 of basis. Subtract that from the $20,000 proceeds, and the gain is $8,400.
+Missing records are worth dealing with before the sale. You may know how much Bitcoin you own without knowing the cost of every purchase. We can keep those facts separate in the plan, but we can't rely on an unsupported cost to reduce a gain. If you can't substantiate claimed basis, the IRS may disallow it and treat the net proceeds as gain. The useful next step is finding the evidence or using another supported option, rather than entering a guess to clear the blank field.
 
-Using the same quantity from the $16,000 purchase gives only $3,200 of basis. The gain is $16,800.
+The account matters too. A taxable Bitcoin sale generally realizes gain or loss. A sale inside a retirement account is generally different; the withdrawal follows that account's rules. That's another reason to keep the actual account beside the tax comparison.
 
-They sold the same amount at the same Bitcoin price. The purchase they used changed the gain.
+Once the records are usable, we can look at whether a sale serves a tax purpose. A gain harvest deliberately realizes gain when paying its current cost may be worthwhile. If the exposure is repurchased, the new purchase has its own basis and holding period. The potential benefit needs to exceed tax, fees, market movement and any healthcare effect. A 0% federal rate doesn't mean the entire transaction costs nothing.
 
-That's why the purchase history matters before a tax-sensitive sale. But none of those gain amounts is the tax bill. The bill also depends on the holding period, other income, current tax rules, and the household's situation.
+A loss harvest deliberately realizes a loss. The loss isn't a matching refund; its value depends on what it can offset and the rules for using it later. A replacement starts with its own basis and can have a future gain. Harvesting can change timing without eliminating every future tax.
 
-A missing record means we don't know the cost yet. But if you can't substantiate the basis you claim, the IRS may disallow it and treat the basis as zero. Courts have upheld zero-basis treatment when taxpayers couldn't establish a basis above zero. That can leave the full net sale proceeds treated as gain. Recover the evidence instead of inventing a cost or assuming a blank software field is harmless.
+The replacement is part of the decision before the sale. Securities wash-sale rules can affect a loss, and direct Bitcoin and Bitcoin funds need their own current-rule review. If you're preparing a transaction, the separate lesson takes you through the replacement and identification requirements before you trade.
 
-Now ask which units would actually be sold. A default method, a valid specific identification, and an after-the-fact software preference are different things. You must follow the rules and recordkeeping that apply to the actual account or wallet and transaction date. We'll prepare that process before execution instead of selecting a convenient lot afterward.
+These choices also share the same tax year. Wages, business income, distributions, conversions, realized gains and losses, and supported loss carryforwards belong in one picture. A conversion can use income room that looked available for a gain harvest. Looking at both together gives us a more useful answer than treating each as the only transaction happening.
 
-A high-basis lot can reduce the gain on today's sale, but that doesn't make it the right choice every time. It leaves lower-basis units for later. A year with favorable gain treatment may be a reason to compare realizing more gain now. Look at the tax picture now and later, instead of automatically choosing the smallest gain today.
+You may find a sale worth preparing, or you may keep the investment because the benefit is small or the records don't support it yet. Either way, we're taking forward a decision with a reason. The transaction lesson and walkthrough handle the actual instructions and records when you need them.
 
-Account type changes the calculation too. Selling an investment inside a retirement account isn't generally the same tax event as selling personally held Bitcoin. The distribution from the retirement account has its own rules. A Roth or Traditional label shouldn't be ignored when a tax tool presents a list of trades.
+In the walkthrough, we'll follow one sale from proceeds through basis, gain, estimated tax and cash left for its purpose. If you're preparing a real tax-sensitive sale or missing its records, use the transaction lesson before execution. Otherwise, we'll move into tax timing and see how different income years can change the withdrawal or conversion worth considering.
 
-Some records won't be available immediately. Mark exactly what is missing. You may know the current quantity and custody location while the acquisition cost is still unresolved. Keep the known position and the unknown history separate.
+### Text overlays — not spoken
 
-Provider tax reporting is useful evidence, not proof every history detail is complete. A broker may report a sale without the full basis you need. Your responsibility to reconcile the transaction doesn't disappear because no complete form arrived.
+| Exact spoken cue | Overlay copy | Editor treatment |
+| --- | --- | --- |
+| I'd begin with the account or wallet holding the investment | 1 · Account / units / date / supported cost | Reveal source fields. |
+| The amount you sell, the gain you realize and the tax you owe | Proceeds − basis = gain or loss | Tax and usable cash shown as subsequent rows. |
+| The course's three-lot example shows why that history can change a decision. | Illustrative $20,000 sale: gains $8,400 / $16,800 / $9,600 | Three-lot table; omit fees only in labeled example. |
+| we can look at whether a sale serves a tax purpose. | 2 · Gain harvest / loss harvest / keep holding | Add actual-year income and replacement checks. |
+| we're taking forward a decision with a reason. | 3 · Prepare a sale / keep holding / resolve evidence | Transaction instructions and reconciliation follow in A5.2. |
 
-Once the records are usable, decide whether a sale serves a tax purpose as well as a spending purpose. Harvesting means choosing to realize a gain or loss; neither amount is the tax bill.
+### Walkthrough handoff — not spoken
 
-Return to the simple $20,000 sale and its $4,000 gain. In a year when that gain receives favorable tax treatment, intentionally realizing it may be worth comparing. If you buy back the exposure, the new purchase has its own basis and holding period.
-
-The potential benefit is reducing the gain embedded in the replacement position. The cost includes today's tax, fees, price movement, and any effect on other income-sensitive items. A 0% federal rate doesn't by itself establish that the complete transaction costs nothing.
-
-Now reverse the numbers for a separate example. An investment bought for $20,000 is worth $16,000. Selling it realizes a $4,000 loss before adjustments. That isn't a $4,000 refund. The value depends on what the loss can offset under the rules and when any unused amount can be used.
-
-If you later own a replacement investment with $16,000 of basis and it grows back to $20,000, that new position has a gain. Harvesting can change timing; it doesn't necessarily erase the tax you eventually pay.
-
-A replacement also raises a legal question. Stock and securities wash-sale rules can disallow or defer a loss when substantially identical exposure is acquired in the relevant window. Purchases in another account or by a spouse can matter. Direct Bitcoin and a Bitcoin fund aren't automatically governed identically, and current digital-asset rules must be checked instead of assumed from an older practice.
-
-So decide the intended exposure and verify the actual replacement before executing. A software button labeled tax-loss harvesting doesn't establish that the transaction qualifies.
-
-Now combine the proposed action with the rest of the year. A conversion, realized gain, bonus, business-income change, or required distribution can use the same income room. Don't review each one as though the others aren't happening.
-
-Prepare one working estimate of the year's income, realized gains and losses, verified carryforwards, distributions, and planned transactions. Then compare the proposed change. That gives the CPA enough context to review the decision instead of only one isolated sale.
-
-Choose the actions worth taking this year and note what must be checked before each deadline. Leave a small opportunity alone when the added work or cost outweighs the benefit.
-
-After a transaction, reconcile what actually happened. Keep the confirmation, units, proceeds, fees, identification evidence and remaining lots. Compare the reporting with the filed return and resolve differences. A tax-data export supports the process; it isn't the filed return or proof that every input was correct.
-
-For a real tax-sensitive sale, use the transaction lesson to prepare the identification, replacement and reporting checks before executing. It also shows how to rebuild missing purchase records. For now, compare the proceeds, gain or loss, tax, and cash left for the purpose you chose.
+[W05, chapter 1](working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md); use chapters 2 and 5–6 with [A5.2](advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md) when preparing a transaction or repairing its records.
 
 ### Source and production notes — not spoken
 
-Source-led condensation of lessons 5.1, 5.2, 5.5. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
-
-#### Retained 5.1 — Visual and source notes — not spoken
-
-Tax deck Step 1; source lots unchanged. 0.2 BTC at $100k gives $20k proceeds; bases $11,600/$3,200/$10,400 and gains $8,400/$16,800/$9,600. Different lots still available only if legally identified and evidenced; fees ignored only in illustration. Gain is not tax liability. Preserve source-specific identification rules, current-position versus history and unknown-basis safeguards.
-
-#### Retained 5.2 — Visual and source notes — not spoken
-
-Tax deck Step 1 operational reconstruction, not a repeat of 1.2 inventory. Generic 0.1 BTC purchase/transfer has no fees only to isolate the mechanism; not a new Reed record. Ownership changes and actual fees need proper review. IRS Jan 28, 2026 digital-asset reporting reminder confirms some statements lack full basis; a report is not completeness proof. Capture must show evidence improving history without duplicating current quantity.
-
-#### Retained 5.5 — Visual and source notes — not spoken
-
-Tax deck Steps6–8. New paired20k/16k gain/loss explanations are mechanisms, not recommended trades or new Reed lots. No perpetual direct-Bitcoin immediate-repurchase promise. Current IRS550 and digital-asset FAQs govern classification/identification; Notice2026-20 extends specified broker-held identification relief through2026 for eligible taxpayers and contemporaneous records, not all assets/wallets or retroactive choices. Keep this dated fact in production reference, not fixed evergreen speech. Form8949 TAX DATA export is not filedForm8949. Exact transaction terms and professional review remain required.
-
-September 10 follow-up: see [the targeted change record](../delivery/script-finishing-20260910.md) and [source verification](../reference/script-finishing-sources.md). This supplements, rather than re-dates, the earlier technical review.
+Tax deck steps 1, 6 and 8. The three-lot illustration owns the sale calculation; separate simple gain/loss examples were removed from speech. Missing basis remains unknown rather than silently zero in app records; failure to substantiate it can affect tax treatment. Asset/account/year-specific identification, replacement, confirmation and reporting rules belong to A5.2 and its W05 takes. Temporary digital-asset relief is not an evergreen immediate-repurchase or after-the-fact identification rule. See existing September 10 source verification for the missing-basis consequence.
 
 ### Member checkpoint
 
-Separate proceeds, documented gain or loss, tax and usable cash; decide whether a relevant sale or harvest serves the plan. Use the transaction lesson for actual identification and missing records.
+The sale comparison separates proceeds, supported basis, gain/loss, estimated tax and usable cash. It ends with one relevant action, a deliberate pass or a precise evidence gap.

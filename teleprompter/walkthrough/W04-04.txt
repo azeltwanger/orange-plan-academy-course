@@ -1,0 +1,5 @@
+We're in Saving and investing, using the reduced-spending version from earlier. I'm checking the employee contribution, Reserve contribution and extra card payment against the same available money.
+
+In this version, those choices use the remaining household cash. The employer contribution adds retirement saving separately; it doesn't increase the money we can transfer from checking.
+
+The card payoff is a future start condition. I'll keep the proposed new investment transfer inactive until the payments actually stop, then check the amount released and any changed bills. Today's instructions now fit today's cash.

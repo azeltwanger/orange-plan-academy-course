@@ -1,0 +1,5 @@
+With the starting facts in place, we can enter the work-change question you wrote down at the beginning. The client wants work to become optional at 52. That records their intention; the calculation will test whether it can be funded. Their partner's income stays on its own timeline.
+
+For retirement spending, we'll begin with current costs, remove the ones that really end and add healthcare or other costs that begin. The dollar units shown here matter, so we don't apply inflation twice. Any Social Security or pension estimate belongs to the right person and start date.
+
+Once this is saved, we have a question to test. A missing benefit estimate stays visible until there's a source for it. Next we'll read the assumptions the plan uses to look beyond today's facts.

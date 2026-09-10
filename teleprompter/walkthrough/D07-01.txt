@@ -1,0 +1,5 @@
+In this demonstration, we're checking recovery with a new, isolated test wallet. The device and small amount are set aside for this purpose. The wallet holding the family's savings stays out of the procedure.
+
+Before we begin, let's match the equipment to the official instructions for this exact model, software and backup format. A process for another device may have different requirements. Unexpected or prewritten recovery words are a reason to stop; we need a fresh wallet created through the verified process.
+
+The question this test can answer is whether we can recover and use this wallet through this procedure. It won't verify a different wallet holding the family's Bitcoin. Keeping that scope clear now will help us record an accurate result at the end.

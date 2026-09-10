@@ -1,0 +1,5 @@
+Let's use the recovery receipt to record the wallet checked, method, date and result.
+
+If this is the separate test wallet, its result stays with that wallet. The funded setup keeps its own status until its appropriate safe check is complete. Buying a device or validating a word list doesn't establish full recovery.
+
+For a funded setup with actual evidence, include the passphrase or multisig requirements covered by the check, without recording the sensitive material itself. Read the saved entry back: it needs to show what's verified and the safe next step for anything still open.

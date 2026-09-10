@@ -1,64 +1,63 @@
 # 7.1 — Choose a custody arrangement you can maintain
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice approval and actual capture remain separate.
+Status: RECORDING_DRAFT_REVIEW — step-by-step manuscript; owner voice review and actual capture remain separate.
 Kind: teach
 Gate: APP_CAPTURE, CUSTODY_REVIEW
 Sources: APP, BRAIN, CUSTODY, DICTATION, MAINTENANCE, OWNER, PRIMARY
 
+### Do this
+
+Choose how each significant Bitcoin holding will be held. Record the responsibility the household accepts and one action that addresses its largest shared failure.
+
 ### Read aloud
 
-Let's say the person who normally manages the Bitcoin is unavailable for six months. The hardware wallet still works. The family still owns the Bitcoin. But nobody knows how to begin.
+We've worked through how the money could support your retirement. Now we need to decide how to hold the Bitcoin, because the plan depends on being able to use it when you need it.
 
-Adding another device wouldn't necessarily solve that problem. The household needs an arrangement it can maintain, with a usable path when one person or provider is missing.
+Custody comes down to who controls each holding and what you're relying on. Direct Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a retirement account have different access processes. Your hardware-wallet backup won't recover the retirement account.
 
-Direct self-custody gives you control of the keys instead of relying on a company to permit a withdrawal. It also puts recovery, physical security and the family process on the household.
+I'd start with the job each portion does and who owns it. Some may be long-term Bitcoin you want to control yourself. Some may be in a retirement account for its tax treatment. Pledged Bitcoin has a loan attached to it. Those differences help us choose the responsibilities that fit.
 
-Professional custody can provide administration and support. You accept the provider's control, terms, withdrawal process and counterparty risk. A professional arrangement isn't a promise that every loss is insured or recoverable.
+With self-custody, you control the signing keys and can move the Bitcoin without a company approving the withdrawal. The household takes responsibility for protecting those keys, recovering the wallet and keeping the family process usable.
 
-Collaborative multisig can share the authorization process across independent keys, with support for part of the arrangement. A two-of-three setup can tolerate certain single-key failures. It still needs the correct configuration, enough independent keys and people able to operate it.
+Professional custody moves more of that work to a provider. Support can be helpful, especially for someone who doesn't want to operate a wallet. You still depend on the ownership terms, withdrawal process and what happens if the owner or provider becomes unavailable. Don't assume every possible loss is insured.
 
-These are trade-offs, not levels you're supposed to progress through as you own more Bitcoin. A complicated arrangement that nobody can maintain may be less useful than a simpler one whose recovery and family process work.
+Collaborative multisig shares signing responsibility across independent keys. A two-of-three arrangement needs two of those keys, along with the correct configuration and people who can use it. We'll compare that and passphrases in the related lesson if either addresses a problem you've identified.
 
-Start with each holding's job. Personally controlled long-term Bitcoin, retirement-account exposure and pledged collateral can require different access processes. A Bitcoin fund in an account doesn't use the recovery backup for your personally held coins.
+There isn't a ladder you have to climb as your balance grows. More direct control gives you more operating responsibility. More support creates dependence on someone else's process. A combination can fit, but every arrangement gives the household something else to maintain.
 
-Then decide which control you require. Some households want a meaningful portion accessible without provider permission. Others place more weight on support and family simplicity. The choice can differ for different portions of the portfolio.
+So include the people in this decision. Who will handle the ordinary work, and who has agreed to help if that person is unavailable? They need a process they can follow, even if they don't share your interest in Bitcoin.
 
-A split can combine those purposes, but each extra arrangement adds work. Choose it to reduce a named risk, instead of assuming more accounts automatically means more protection.
+Then test the arrangement by taking away one thing: the operator, a device, a location or a provider. Which holdings would become difficult to access?
 
-Now match the responsibilities to actual people. Who maintains the secure login? Who knows how to verify a receive address? Who keeps the protected recovery instructions current? Which tasks need professional or technical help?
+Two devices can share the same backup. Several accounts can share one recovery email. Different providers can even use the same custodian. Suppose 30% is with one provider and 30% with another, and both use that custodian. Then 60% shares that dependency. That's exposure, not a prediction that all 60% would be lost; the actual terms determine the remaining rights and risks.
 
-Your spouse doesn't need your level of Bitcoin interest to know which arrangements exist and where the safe process begins. A technical helper can supply specialized support while the family retains the responsibilities it's prepared to carry.
+The other 40% offers a separate route only if its control and recovery work without those providers. Calling it self-custody doesn't establish that the backup works.
 
-Also separate technical ability from legal authority. Someone who can operate a wallet isn't automatically entitled to use the assets. The Family section connects those roles.
+Choose one improvement that addresses the largest failure you found. It might be protecting the recovery email, agreeing on a backup person or checking a recovery route. You don't need to move everything to improve one weak point.
 
-Then run the one-failure comparison. What happens if the device is lost, the provider becomes unavailable, a location is inaccessible or the normal operator can't help?
+In the walkthrough, we'll attach that decision to the right holding and prepare its safe family starting route. The map describes the process; recovery words, private keys, passphrases and exact secret locations stay in protected records outside Orange Plan.
 
-Two devices with the same backup are copies of the same keys, not independent signers. Several accounts may depend on the same email or recovery phone. Materials kept together can disappear together.
+If you're considering passphrase, multisig or professional support, use the related lesson before moving meaningful funds. Then we'll check recovery and account security for the arrangement you're going to rely on.
 
-Different company names can share a custodian too. In a hypothetical split, 30% with one provider and 30% with another could expose 60% to a shared custodian. That's shared exposure, not a prediction that 60% will be lost. Check the actual arrangement and rights.
+### Text overlays — not spoken
 
-The remaining directly held portion only supplies a separate route when its recovery and control really are usable without that provider. A label saying self-custody doesn't prove the backup works.
+| Exact spoken cue | Overlay | Editor treatment |
+| --- | --- | --- |
+| I'd start with the job each portion does and who owns it. | Holding / owner / purpose / custody method | Use the existing holdings; no additional example portfolio. |
+| Then test the arrangement by taking away one thing: the operator, a device, a location or a provider. | Operator / device / location / provider | Mark one unavailable dependency at a time. |
+| Then 60% shares that dependency. | Hypothetical: 30% + 30% = 60% shared exposure | Connect two providers to one custodian; label exposure, not loss. |
+| Choose one improvement that addresses the largest failure you found. | Custody direction / agreed person / next action | End on the non-secret custody record. |
 
-Find the failure that could interrupt too much of the plan, then make a targeted improvement. It might be a separate recovery route, a smaller provider exposure, verified support or instructions a backup person can actually follow.
+### Walkthrough handoff — not spoken
 
-Paying for support can be worthwhile when it fixes an important gap. It doesn't remove the provider's own risk. Doing everything yourself may avoid fees while asking more of the household's time and continuity.
+[W07 chapter 1](working/W07_document-the-custody-choice-and-actual-recovery-status.md#chapter-1--choose-custody-for-the-household-job) records the arrangement; [chapter 3](working/W07_document-the-custody-choice-and-actual-recovery-status.md#chapter-3--fix-one-important-account-or-shared-dependency-gap) handles the selected security gap. Use [A7.1](advanced/A7-1_compare-passphrase-multisig-and-professional-support.md) when considering a more involved arrangement. Continue to 7.2 for recovery.
 
-If you're comparing a passphrase, multisig or a professionally supported structure, use the related custody lesson before moving meaningful funds. It explains the additional recovery requirements and what must be independent.
+### Source and production notes — not spoken
 
-For your current plan, identify the custody method, owner, intended role and first unfinished protection step for each significant holding. Use non-secret information only. Keep recovery words, private keys and precise secret-storage details out of the app and shared documents.
+Source-led rewrite of consolidated 7.1, 7.4 and A7.3. Historical scripts and hashes remain in [the consolidation record](../production/consolidation.json). New speech is editorial adaptation, not prior Austin dictation. The [August 26 custody decision framework](../source-material/2026-08-26-custody-decision-framework.md) supersedes the older slide wealth ladder. Example household holdings are unchanged. The 30%/30%/40% comparison is hypothetical shared exposure, not loss probability.
 
-You don't need to move everything while deciding. Prepare and verify the chosen destination first. The next lesson explains how to check recovery safely and secure the accounts around it.
-
-The result should be a custody arrangement the household understands and can maintain, including the risks it still carries. Keep it as simple as you can while addressing the risks you've identified.
-
-### Production notes — not spoken
-
-Record the narration first. Text, graphics and supporting footage are added during editing. No slides, homework, quizzes, practice portfolio, submitted explanation or required post. The member applies the teaching to their own Orange Plan. Actual app and provider actions remain separate from a recorded intention.
-
-Consolidated from [7.1](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md), [7.4](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/07-4_record-a-usable-custody-plan-without-exposing-secrets.md), [A7.3](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/advanced/A7-3_test-correlated-failures-across-providers-and-methods.md), using the later owner-delivered script-only pass for wording where relevant. The author supplied new transitions and shortened examples; this is not prior Austin dictation. The complete mapping, source hashes and retained qualifications are in [../delivery/consolidation.md](../delivery/consolidation.md) and [../production/consolidation.json](../production/consolidation.json).
-
-The existing [technical review](../delivery/professional-topic-review.md) and primary-source record retain their dated scope. This consolidation is source-based editing, not a fresh financial/legal research pass or licensed approval. All example terms are hypothetical unless explicitly identified as a source fact. No current rate, product quote, model outcome or successful device/learner test is invented. Specific financial and operational safeguards remain beside the decision they affect.
+Preserve provider terms, independent-key requirements, sensitive configuration privacy and actual recovery scope. The [dated technical review](../delivery/professional-topic-review.md) retains its scope. PR #227's Protect → Bitcoin access and Trusted people are future capture references; supported fields and save behavior need verification. This manuscript changes no holdings or provider arrangements.
 
 ### Member checkpoint
 
-Choose custody by control, responsibilities and named failure; record non-secret current status in Orange Plan and use relevant implementation help.
+Each significant holding has an owner, purpose and custody direction. The largest shared failure has a named action and responsible person. Planned changes remain distinct from completed transfers or verified recovery.

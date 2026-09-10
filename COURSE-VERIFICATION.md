@@ -1,9 +1,9 @@
 # Course verification
 
-The current compiler checks the 77-component inventory, exact generated-copy parity, fictional arithmetic, preserved original dictation and historical-copy hashes, plus complete recovery-manifest coverage of the prior 255-file preservation chain. Existing mutation tests also reject a missing history entry or changed retained source copy. Member-deliverable tests remain part of the same verification.
+Run the commands in README.md from a full-history checkout. The compiler verifies 44 active components, generated-copy parity, all 65 predecessor mappings, fictional arithmetic and preserved source records. The filming checks additionally verify exact spoken overlay anchors, complete chapter fields, sequential takes and clean walkthrough exports.
 
-`python tools/guided_course.py history` independently reads every removed file from the pinned Git commit and checks both its Git blob and SHA-256. It requires a full-history checkout and does not pretend the old files are still in the current tree.
+The original Reserve, W02, D07 and insurance narration remain at their exact prior hashes. New owner direction authorizes the active rewrite. The revised Reserve, W02 and D07 have separately recorded hashes; mutations to either source generation fail. Financial-content assertions continue to run against active speech. The historical capture register, source household and member deliverables remain protected.
 
-Exact successful runs and tested final heads are recorded on PR #15 only after actual readback. A prepared workflow or this description is not itself a passing result. The one-shot writer/migration workflows are retired; normal verification has read-only repository permissions.
+`python tools/guided_course.py history` verifies retired files against their pinned Git blobs and SHA-256 values. It requires full Git history. Unit and mutation tests reject missing lessons, stale generated copies, altered examples, missing recovery entries, invalid situational routes, stale overlay cues and incomplete walkthrough speech.
 
-These checks verify structure, preservation, calculation examples and synchronization. They do not establish Austin's voice approval, a usable app demonstration, legal/tax/insurance advice, device recovery or learner success. Those gates remain in FINALIZATION-STATUS.md and CAPTURE-RECEIPTS.md.
+These checks establish manuscript consistency and preservation. They do not certify the app's financial engine, a recorded device recovery, Austin's personal voice approval, professional advice or learner success. Exact successful runs are recorded in the current change's delivery report and pull request after execution.

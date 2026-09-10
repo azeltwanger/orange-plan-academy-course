@@ -1,0 +1,5 @@
+We've entered the monthly picture. Now let's compare the income and deductions with their source records, then follow the money the plan says is left. In the original illustration that was $500; the app's actual amount needs to agree with its actual inputs.
+
+I'll look for that remainder in checking, savings or a cost we haven't included. If it doesn't agree, we correct the underlying record before assigning another transfer. A tax payment set aside for later still has that job even if it's sitting in savings.
+
+Once the income and deductions reconcile, we'll check the spending period and bill timing. That's where annual costs or a short week before payday can explain why a monthly total hasn't worked in practice.

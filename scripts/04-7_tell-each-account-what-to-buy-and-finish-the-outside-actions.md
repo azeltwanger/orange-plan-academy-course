@@ -1,102 +1,61 @@
 # 4.7 — Choose where new money goes and what it buys
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_RECORDING_REVIEW — complete teaching script; owner voice review and paired capture remain separate.
 Kind: teach
 Gate: APP_CAPTURE, OWNER_REVIEW
 Sources: ALLOCATION, ALLOCATION_DECK, APP, BRAIN, CASHFLOW, CLIENT_THEMES, DEBT, OWNER
 
+### Do this
+
+Give each affordable contribution an amount, start condition, receiving account and purchase instruction; identify the provider changes needed to put it into operation.
+
 ### Read aloud
 
-A portfolio target tells you what you want to own. It doesn't tell you how much money is available to buy it this month.
+We've chosen a portfolio mix and looked at the accounts that can hold it. Now we're going to connect that plan to the money coming in each month. We'll follow each contribution from the amount you can afford, through the receiving account, to the investment you intend it to buy.
 
-For Alex and Morgan's reduced-spending example, $2,475 remains after the listed costs but before Alex's employee contribution. His $775 leaves $1,700. The $500 Reserve contribution and $1,200 extra card payment use it all.
+The amount comes first, because a target percentage doesn't tell us what we can afford to buy. In our example household's reduced-spending comparison, the Reserve and extra card payment already use the available money. Payroll investing continues, with the employer contribution separate. There's no additional household transfer available in that version.
 
-There's no additional monthly household investment to assign in this phase.
+So the order we're using begins with the necessary Reserve pace, an available employer match and the extra-debt choice. Any remainder can go toward the first funding need that still has a gap. Those things can receive money together. We don't have to finish every earlier item before anything reaches the next one.
 
-That doesn't mean they have stopped investing. Alex's contribution continues, and the employer adds $387.50 under the fictional match formula. Employer money belongs in the retirement-saving total, not in the cash available for another transfer.
+If the gap is in the early retirement years, accessible saving may be more useful than another contribution to an account you can't yet use. If the early years are covered and the money is for later, we have the retirement-account choices from the last lesson. College and other commitments also need to fit before that remainder becomes available.
 
-If you don't have enough cash for essentials, use the pace chosen in the Reserve lesson. Check the employer match when available, then carry through the chosen extra-debt amount. Any remainder goes toward the funding need identified in Allocation. The order is a starting framework, not a requirement to fully finish each item before any money reaches the next.
+This changes when a payment ends. After our example household's card is actually paid off, the illustrated $405 required payment and $1,200 extra could release $1,605 a month. That's future money. We'd check what stopped and what else changed before starting the new contribution. The same applies when the Reserve reaches its target: its build contribution may move somewhere else, while the Reserve balance keeps its protection job.
 
-When a match is relevant, read the formula. Alex contributes 6% of a $155,000 salary. The employer matches half of that under the example's terms. It isn't another 6% of salary. Check vesting too: the conditions for keeping the employer contribution. Don't assume every dollar is immediately yours.
+Once we have an affordable amount, the target helps us choose what it buys. Our example household is comparing 60% Bitcoin, 34% stocks and 6% cash in the $1,307,000 portfolio. Sixty percent is $784,200, compared with their current $728,000 of Bitcoin exposure. The difference is $56,200.
 
-For any money left, ask which part of the plan isn't funded yet. If you don't have enough available for the years before you can use retirement accounts, adding to an accessible account may help more. If those early years are funded and this money is for later, compare the retirement-account choices. The question is whether usable money covers those years.
+That difference can guide new purchases, but it doesn't create $56,200 of cash. New money directed toward a shortfall can move the mix without a taxable sale. If an existing holding creates an immediate funding problem, a trade may still deserve a comparison with its tax, fees and effect on the approaching payment.
 
-When the card payments actually end, the illustrated $405 required payment plus $1,200 extra could release $1,605 a month. That's a condition for a new contribution, not additional income today. Check the real payments that ended and the other cash-flow changes at that time.
+Now we can use the receiving accounts chosen in the last lesson, keeping the early-access money available for its intended years.
 
-The Reserve reaching its target is another condition. Its build contribution can then go somewhere else. The Reserve balance itself doesn't automatically become available to invest; it still has its original job.
+One future route for our example household's $1,605 is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution continues separately. We're comparing that route after payoff; it isn't running today. Another commitment could use part of the released money and change the split.
 
-You can use the same order for a bonus or a strong business month. Allow for its taxes and commitments, then choose the use of the actual remainder. Don't turn one good month into a permanent transfer you can't afford in a quieter month.
+The last part of that instruction is the actual investment. A spot Bitcoin fund, a leveraged fund and a company associated with Bitcoin do different things. Use the investment you've checked against the job, rather than choosing from the name alone.
 
-Sending money to an investment account doesn't always mean it has been invested. A transfer may arrive as cash. A retirement contribution may follow an old election. The last step is connecting the amount, the account, and the actual purchase.
+Now we can connect the full instruction: the amount, where it comes from, when it begins, the receiving account, tax election and investment. A payroll change may need both a contribution election and an investment election. A bank transfer may arrive as cash and need a separate recurring buy.
 
-Then place investments where the account's access, tax treatment and menu support their job. A workplace plan without a Bitcoin option could hold stock funds wanted in the overall portfolio. Another account could supply Bitcoin exposure. A Roth with a long runway may suit growth, while taxable investments may be needed to fund earlier years.
+That's why the first deposit and purchase are worth checking. The right amount arriving doesn't prove it bought what you intended. Cash left over may be correct, or it may be an unfinished instruction. Changing future purchases also leaves the investments you already own unchanged.
 
-Tax placement has trade-offs. An investment that produces taxable income can create ongoing tax in a taxable account. A retirement account changes that treatment. But putting every growth asset behind retirement-account rules doesn't help when the plan needs accessible money sooner. Check where you hold the investments as part of the funding plan, alongside the tax benefit.
+The walkthrough will help you put the chosen contribution route into Orange Plan and identify the provider actions that make it happen. After that, we're moving into Tax, starting with the purchase records that explain what a sale would actually realize.
 
-Now return to the Reeds, instead of the $1 million household. They're comparing 60% Bitcoin, 34% stocks, and 6% cash across $1,307,000. Sixty percent of that total is $784,200. They currently have $728,000 of Bitcoin exposure, so the difference is $56,200. That tells us how far they're from the proposed target. It doesn't tell us to buy that amount today.
+### Text overlays — not spoken
 
-Compare directing new money first. That can move the portfolio toward the intended mix without immediately selling an appreciated taxable holding. If existing money has the wrong job now, a trade may still be worth evaluating. Put the tax, cost and funding consequence beside the benefit.
+| Exact spoken cue | Overlay copy | Editor treatment |
+| --- | --- | --- |
+| The amount comes first | 1 · Use the available cash once | example household reduced-spending state badge. |
+| That's future money. | 2 · Set the start condition | After actual card payoff: $1,605; not available today. |
+| the target helps us choose what it buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
+| the first deposit and purchase are worth checking. | 4 · Confirm deposit AND purchase | Two completion checks; leave unverified outside actions open. |
 
-Changing future purchases usually doesn't rebalance holdings already in the account. Moving an investment between account types is another transaction again. Personally held Bitcoin doesn't become a Roth holding because that would be a preferred location; the actual contribution, rollover or transfer rules must allow the action.
+### Walkthrough handoff — not spoken
 
-After that card payoff, the $1,605 could go toward a new contribution. One route we compare is $1,000 to personally held Bitcoin and $605 to a stock fund in the taxable brokerage account. Both build accessible investments; the $500 Reserve contribution continues separately.
-
-That split is a teaching comparison, not a recommendation or a transfer already running. If another commitment needs part of the released money, change the split. Check the actual cash flow at payoff before beginning it.
-
-What the next contribution buys may differ from the final mix you want. If you own less of one investment than your target calls for, new money can go toward that gap. Prices and the rest of the portfolio change too, so dividing today's gap by a monthly contribution won't tell you the exact date you'll reach the target.
-
-In your plan, connect each contribution to its amount, source, start date, receiving account, and intended investment. Include the tax election where it applies. Choosing a category such as stocks is a start, but you'll need to check and select the actual investment before arranging the purchase.
-
-Check what the selected product owns, how it's managed, its costs, and any material overlap with other holdings. A spot Bitcoin fund isn't a leveraged fund, a covered-call strategy, or shares in a Bitcoin-related company. A stock allocation isn't automatically a concentrated technology bet.
-
-For payroll, confirm both the contribution election and the investments purchased by new money. For a bank transfer, confirm the timing works around bills. For a brokerage purchase, check whether the buy is a separate instruction after the cash arrives.
-
-Then verify the first result with the provider. Did the right amount arrive? Did it buy what you intended? Money left in cash might be correct for a spending job, or it might show an unfinished purchase instruction. Read it in context.
-
-For a large amount already available, you can also choose between investing it at once and buying in stages.
-
-Here is a deliberately simple example with no fees. A household has $20,000 earmarked for Bitcoin. At a hypothetical price of $100,000, investing all of it buys 0.2 Bitcoin.
-
-Instead, it could invest $10,000 now and keep $10,000 for later. If the later price were $50,000, those purchases would total 0.3 Bitcoin. If the later price were $200,000, they would total 0.15 Bitcoin.
-
-Buying in stages gives you more Bitcoin in the falling-price example and less in the rising-price example. That doesn't tell us which price path to expect. It shows what waiting with part of the money changes.
-
-Someone may choose staging because it makes a large change easier to maintain. Another may choose the lump sum because the allocation and purpose are settled and they prefer immediate exposure. The process should fit the person's decision, not claim timing skill the example doesn't establish.
-
-A recurring contribution already funded by ordinary cash flow doesn't need a new market thesis every payday. Use this check for a large change. You don't need to rethink routine saving every day.
-
-A sale has its own constraint. A committed payment next month may need dependable funding even when you expect Bitcoin to rise. A flexible expense has a different decision window. Don't give money with a fixed bill the same freedom as uncommitted long-term investments.
-
-Market indicators and valuation models can provide context. Record what the indicator measures, its date and its limits. A relationship can change, and a signal can remain extreme much longer than expected. It can't tell you the exact day the market turns.
-
-Choose the amount, destination and purchase in Orange Plan. Then arrange the actual contribution with the provider and verify the first result. Future cash stays tied to its real start condition; a target percentage doesn't create another transfer.
-
-Next is Tax. Before making a sale, we'll check the purchase history and compare what you would owe.
+[W04, chapters 4 and 7–8](working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md): funded current route, intended purchases and outside execution.
 
 ### Source and production notes — not spoken
 
-Source-led condensation of lessons 4.4, 4.7, A4.1. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
-
-#### Retained 4.4 — Visual and source notes — not spoken
-
-Deck Step 6. Read existing Reserve and Debt choices rather than reteach their justification. All reduced-state numbers and conditional $1,605 release preserved. Match and vesting depend on actual plan evidence. No new bank routing or automated waterfall capability asserted.
-
-#### Retained 4.7 — Visual and source notes — not spoken
-
-Deck Step 10 and asset-location principles. Preserve different-size account weighting and $56,200 target difference. The future $1000/$605 illustration is not optimal or active. W04 must finish all applicable instructions, not only one sample, while verification of outside execution remains pending. No staged receipt, automatic target-to-trade behavior or fake product identity.
-
-#### Retained A4.1 — Visual and source notes — not spoken
-
-Newgeneric20k allocationtimingmechanics:100kprice lump=.2BTC;halfnow+half50k=.3;halfnow+half200k=.15. Nofees,marketprobabilities,currentpriceorperformanceclaim. Sourcecontext notliveprediction. Clarifyordinaryrecurringcontributionsdonotrequireconstantindicatorchecks.
-
-#### Retained A4.1 — Demonstration plan — not spoken
-
-Use separate no-fee20k/100kgraphic and two laterprices50k/200k;tieproposedpacebacktoactualcashpurpose. Narration: “Waiting buys more in this path and less in the other. The decision is which timing exposure you are choosing, not a guaranteed better entry.” Noactualtradeorforecast.
-
-The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+Allocation deck steps 6, 7 and 10 retained. This lesson owns recurring contribution amounts, accounts, purchases and start conditions. The one-time purchase-timing illustration and market-indicator aside were removed from this recording to keep that decision focused; their original source remains preserved. Cash-flow and employer-match arithmetic are callbacks to their earlier teaching, with unchanged $775 employee, $387.50 employer, $500 Reserve and $1,200 extra card amounts retained in the W04 source state. Preserve conditional $1,605/$1,000/$605 in this lesson. Future Plan → Portfolio and allocation previews direction; Cash Flow → Saving and investing owns contribution saves. No automated broker execution, exact routing engine or current target adoption is claimed.
 
 ### Member checkpoint
 
-Assign each available dollar once to a receiving account and investment. Compare a new-contribution route with any tax-aware one-time shift; implement only the chosen real contribution.
+Every current contribution is funded once and has a receiving account and investment; future contributions have real start conditions, and provider changes have evidence or a dated next action.

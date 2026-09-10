@@ -1,58 +1,71 @@
-# A3.2 — Compare unusual financing terms
+# A3.2 — Read the terms of the loan you are considering
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: CONVERSATIONAL_VOICE_REVIEW — revised spoken manuscript; Austin voice approval and capture remain separate.
 Kind: conditional
 Gate: LENDING_REVIEW
 Sources: DEBT, OWNER, PRIMARY
 After lesson: 3.4
-Use when: You are comparing an unusual financing agreement or a structure with nonstandard terms.
+Use when: You are comparing a financing offer; use only the contract sections relevant to that offer.
 Complete before: Complete before relying on the proposed payment or exit.
 Return to: Set borrowing limits and a repayment plan
 
+### Do this
+
+Trace the payment and final settlement of a financing offer, using the terms relevant to its structure and separate analysis where needed.
+
 ### Read aloud
 
-Two offers can have similar starting payments and very different final obligations. This lesson is for a financing proposal with terms a simple monthly-payment comparison doesn't capture.
+This lesson is for the loan you're actually considering. We need to understand what it costs, what could change and how it ends before relying on the payment in the plan. You can use the contract section that matches your offer; you don't need to learn every lending product.
 
-Start with the purchase price, the cash needed, and the date you need it. Keep those the same across the alternatives. Then follow the payments from the start of the agreement until it ends.
+Start with cash needed at the beginning, the payments over time and the final amount owed. Fees may be paid upfront or added to the loan. The rate or payment may change, and ending the loan early may cost something. Even a zero-interest promotion needs its full terms, including what happens when it ends.
 
-Include the cash paid upfront, fees, interest rate, any rate changes, and the payments over time. Finish with the amount still owed, including a balloon payment or other final settlement. A low monthly payment can leave a large bill at the end.
+One payment comparison is worth seeing. Say you borrow $20,000 at 8% over five years, with no fees. A fully amortizing loan would require about $406 a month. That means the scheduled payments clear the balance by the end if you follow the terms.
 
-The earlier interest-only example makes the point. Paying interest on $20,000 for five years leaves the $20,000 principal outstanding. If the planned exit is another loan, add the case where refinancing is declined. The payment schedule hasn't become workable until the household has an acceptable response.
+An interest-only version at the same rate would cost about $133 a month, with $20,000 still owed. Over five years, the amortizing version costs about $4,332 in interest. The interest-only version costs $8,000, and then you still need to repay the original $20,000.
 
-For a cash-out refinance, compare the entire replacement mortgage. A household might want a relatively small amount of new cash but have to reprice a much larger existing balance. Compare that with keeping the old mortgage and financing only the new need separately.
+The lower payment hasn't made the principal disappear. It has moved that decision to the end. A balloon is a larger final payment due under the agreement. If the exit depends on refinancing, include the case where another lender declines. The schedule needs an acceptable response to that outcome.
 
-A seller-financed purchase may use a low starting payment and a large balance due later. Read the security interest, guarantees, restrictions and default remedies. For a business purchase, compare the debt service with cash after payroll, operating needs, maintenance and taxes, not with sales alone.
+Now look at the terms specific to your offer. For a home-equity loan or line, your home is part of the agreement. A line may have a draw period followed by repayment, and its rate and payments may change. Access to further borrowing can be reduced under the terms, so unused capacity isn't a guaranteed fallback.
 
-A home-equity investment or shared-appreciation agreement needs its actual settlement formula. It isn't a zero-rate loan just because no monthly interest payment appears. Calculate what would be owed under lower, unchanged and higher home values at the relevant dates. Include valuation adjustments, fees, sale or refinancing triggers and other conditions from the contract.
+A cash-out refinance can replace the existing mortgage itself. The new rate may apply to a much larger balance than the additional cash you wanted. Compare the entire replacement mortgage with keeping the old mortgage and financing only the new need. A conventional mortgage isn't normally subject to a Bitcoin-style collateral call just because the home price falls, but its payment and default terms still matter.
 
-Then ask where the settlement money comes from. A favorable-looking paper gain doesn't provide cash unless a sale or another funded route is available. The agreement may influence when you can move or refinance, which belongs in the life comparison.
+A seller-financed purchase may also have a low starting payment and a large balance due later. Read the security interest, guarantees, restrictions and default remedies. For a business purchase, compare debt service with cash after payroll, operating needs, maintenance and taxes. A personal guarantee may make the household responsible if the activity fails.
 
-Securities-backed credit adds a use restriction check. A non-purpose line generally can't fund purchases or trading of securities; a margin loan is a different arrangement. Neither should be substituted for the other simply because both use an investment account as collateral.
+A home-equity investment or shared-appreciation agreement needs its actual settlement formula. No monthly interest payment doesn't make it a zero-rate loan. Calculate what would be owed under lower, unchanged and higher home values at the relevant dates. Include valuation adjustments, fees and sale or refinancing triggers from the contract.
 
-Retirement-plan loans add employment and plan-rule consequences. Read what happens if the job ends or payments fail, and how repayment affects other saving. Interest returning to the plan doesn't make the lost flexibility and investment exposure irrelevant.
+Then identify the money for that settlement. A paper gain doesn't provide cash by itself. The agreement may affect when you can move or refinance, so it belongs in that life decision too.
 
-For the Reeds' project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment isn't funded. They may decide not to do the project for now.
+A non-purpose securities-backed line generally can't be used to buy or trade securities. It isn't interchangeable with a margin loan. Both may involve collateral demands or forced sales, but their permitted uses and terms differ. Check that your intended use is permitted and how much time you'd have to respond to a demand.
 
-When Orange Plan doesn't represent a contract term, keep its actual payment and settlement schedule alongside the app comparison. Don't substitute an ordinary loan and call the full agreement modeled.
+With an employer retirement-plan loan, first check whether the plan permits it. Then read the repayment terms and what happens if employment ends. Failure to repay can produce a taxable distribution and possibly additional tax. Interest paid back to your retirement account doesn't make the arrangement cost-free: the money is no longer invested in the same way, and repayment can affect ongoing saving.
 
-Read the comparison from the first payment through the final settlement. What do you pay, what remains owed, and how does the household fund it? Get any missing contract answer before choosing the offer.
+Tax treatment also follows the actual transaction. Whether interest is deductible depends on the use of the money and the applicable rules, not simply the asset securing the loan. Later sales, collateral liquidation or forgiven debt can have tax consequences. Resolve the specific question before relying on a tax benefit.
 
-### Source and production notes — not spoken
+You only need to bring the relevant terms into your comparison. Keep the same purchase amount and date across the alternatives, and follow the cash left, payments and final repayment. If an important contract term isn't represented in Orange Plan, keep separate analysis beside the scenario; an ordinary-loan substitute won't explain a different agreement.
 
-Source-led condensation of lessons A3.2. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../../delivery/consolidation.md](../../delivery/consolidation.md) and the source hashes in [../../production/consolidation.json](../../production/consolidation.json).
+The walkthrough will follow your offer through those points. If a contract answer is missing, the proposal stays open. Then return to the borrowing-rules lesson with the payment source, principal exit and fallback. If Bitcoin is the collateral, complete its separate loan lesson as well before depending on that arrangement.
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+### Text overlays — not spoken
 
-#### Retained A3.2 — Visual and source notes — not spoken
+| Exact spoken cue | Overlay copy | Editor treatment |
+|---|---|---|
+| A fully amortizing loan would require about $406 a month. | Generic: $20,000 · 8% · 5 years · no fees | Scheduled payments clear principal under the example terms. |
+| about $133 a month, with $20,000 still owed. | Interest only: about $133/mo; $20,000 principal remains | Keep the ending balance beside the lower payment. |
+| the amortizing version costs about $4,332 in interest. | Five-year interest: about $4,332 vs $8,000 + principal due | Separate teaching graphic; no loan offer. |
+| Compare the entire replacement mortgage | Cash-out refinance reprices existing debt too. | Compare old mortgage with full replacement. |
+| needs its actual settlement formula. | Shared appreciation: lower / unchanged / higher home values | Use the actual contract formula. |
+| keep separate analysis beside the scenario | Unsupported contract term → separate analysis before choosing | Do not stage a complete-model claim. |
 
-Existingadvancedcontractscope;nowfullschedule/exit/refinancingrefusal isjobnotrepeatingCoremenu. HELOC/HEI/SBLOC/planloan mechanism references remaininprimarysourceindex; actuallegalagreementcontrol. No unsupportedapp modeling or producthierarchy.
+### Walkthrough handoff — not spoken
 
-#### Retained A3.2 — Demonstration plan — not spoken
-
-Build one reviewed offer from closing to finalsettlement,comparekeepingexistingfinance,andshowrefinanceunavailable. Narration: “The small payment ends here. This is what is still owed. Show the source that pays it.” Unsupportedterms useexistingexternalworksheetnotfakefields.
-
-The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+[W03, chapter 4](../working/W03_set-debt-jobs-and-test-one-financing-decision.md): compare the whole agreement, then return to 3.6 before recording ordinary repayment and fallback in W03 chapter 6. Use A3.1 and W03 chapter 5 before relying on Bitcoin collateral.
 
 ### Member checkpoint
 
-Explain all payment phases and final settlement under a weaker case before choosing the complex financing proposal.
+The actual offer has a complete payment/settlement schedule, relevant stress cases and a feasible exit. Unsupported terms are separately analyzed or remain specific blockers to choosing it.
+
+### Source and production notes — not spoken
+
+Debt Strategy financing steps and existing dated lending-source review. Preserve SBLOC use restrictions, employer-plan consequences, personal guarantees and home-equity/shared-appreciation settlement conditions. No lender terms, security value, quote or approval is invented. The separate $20,000/8%/five-year/no-fee amortizing-versus-interest-only illustration moved here from 3.4 without changing its arithmetic: $405.5279/month and $4,331.6735 interest versus $133.3333/month, $8,000 interest and $20,000 principal due. Offer-specific mechanics formerly in main 3.4 now belong here.
+
+Source provenance remains in [../../production/consolidation.json](../../production/consolidation.json), the original source-material and the dated [../../reference/script-finishing-sources.md](../../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).

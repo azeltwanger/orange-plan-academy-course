@@ -1,123 +1,166 @@
 # D07 — Prove a wallet backup with a safe test setup
 
-Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: WALKTHROUGH_REWRITE_REVIEW — complete manuscript; actual app/device capture remains unverified.
 Kind: demo
 Gate: DEVICE_CAPTURE
 Sources: CUSTODY, PRIMARY
 
 ### Run sheet
 
-No hardware procedure is approved by this manuscript. Before filming, record exact manufacturer/model, firmware, wallet software, backup standard, official procedure URL/date, authorized trivial amount and independent security review. Preserve all working access until the reviewed procedure permits otherwise. Secrets remain off camera and out of intermediate recordings.
+Use only a fresh isolated test wallet and separately authorized trivial inbound and outbound transfers. No funded household wallet is reset. Before filming, record the manufacturer/model, firmware, wallet software, backup standard, current official procedure URL/date and independent security reviewer. Preserve working access until the reviewed procedure permits otherwise. Capture must stop before any secret generation or entry; do not rely on blurring. No device procedure is approved by this manuscript.
 
-Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
+Only Narration blocks are spoken. All actions use authorized fictional or test data. Read actual evidence; no staged result counts as a successful action.
 
 #### Chapter 1 — Identify the isolated practice setup
 
-**Show and do:** Verify manufacturer, model, firmware, wallet software, backup standard and official current procedure. Show only the non-secret equipment and stated purpose. Use an independently reviewed test plan and a separately authorized trivial amount.
+**Show:** After 7.2, show only the non-secret equipment and the exact official procedure. Confirm the device is for a newly created isolated wallet, with no household savings. Record the verified model/firmware/software/backup format in the production receipt.
 
 **Narration:**
 
-“This is a practice setup, separate from the wallet holding the family's savings. We are learning the process and checking what this particular recovery would prove. Start with the official instructions for this exact device and backup format.”
+In this demonstration, we're checking recovery with a new, isolated test wallet. The device and small amount are set aside for this purpose. The wallet holding the family's savings stays out of the procedure.
 
-**Verify before recording:** Authenticity and procedure must match the actual equipment. Unexpected or prewritten recovery material is a stop. No funded household wallet or universal reset sequence. Receipt records official URL/date and reviewer.
+Before we begin, let's match the equipment to the official instructions for this exact model, software and backup format. A process for another device may have different requirements. Unexpected or prewritten recovery words are a reason to stop; we need a fresh wallet created through the verified process.
 
-**Member finish:** The safe scope and exact procedure are known before setup.
+The question this test can answer is whether we can recover and use this wallet through this procedure. It won't verify a different wallet holding the family's Bitcoin. Keeping that scope clear now will help us record an accurate result at the end.
+
+**Overlay:** New isolated test wallet / exact model + format / no household savings
+
+**Verify:** Authenticity and current instructions match equipment; no prewritten secret, funded wallet, assumed word count or universal reset sequence. Record reviewer and URL/date.
+
+**Capture dependency:** Select and independently review the actual device-specific procedure, including test scope and authorized amounts. No model, firmware, backup format or compatible spare is supplied by the manuscript.
 
 #### Chapter 2 — Create the test wallet off camera where secrets appear
 
-**Show and do:** Create a fresh isolated wallet only within the reviewed process. Stop screen and device capture during generation and recording of every secret; do not rely solely on later blurring.
+**Show:** Follow the verified new-wallet procedure. Stop every camera, screen recorder and intermediate capture before secret generation, display, recording or entry. Record recovery material through the approved offline process. Resume only on a non-secret screen.
 
 **Narration:**
 
-“The recovery information is private. We are not recording it or putting it in a course file. I will show the non-secret result of the setup, not the material that could let someone control the wallet.”
+We're at the point where the new wallet creates private recovery information. Before any of that appears, the camera and screen recording need to stop. The recovery words, private keys and any passphrase belong in the private offline process, including while they're being recorded or entered.
 
-**Verify before recording:** No usable seed, private key, passphrase or sensitive recovery configuration enters distributable footage or intermediate recordings. Never use a pre-populated practice secret copied from a tutorial.
+The wallet is generated through the trusted device process in the official instructions. A secret from a tutorial or prewritten recovery material would give someone else a way to control it, so neither belongs in this setup.
 
-**Member finish:** The wallet is established with secret material confined to the approved offline process.
+Once the secret screens are closed, we can resume on a non-secret screen. That lets us continue explaining the test without putting the material that controls the wallet into the footage. A later blur wouldn't remove it from the original recording.
+
+**Overlay:** Capture stopped during secret generation and entry
+
+**Verify:** No usable secret or sensitive recovery configuration exists in raw, intermediate or published recordings. A later blur does not satisfy this check.
+
+**Capture dependency:** Verify which exact screens expose secrets and how all capture devices are stopped. Independently inspect raw footage before retaining or distributing it.
 
 #### Chapter 3 — Explain the recovery requirements
 
-**Show and do:** Use labels, not actual values, to distinguish PIN, backup and any passphrase. If multisig or another standard is involved, use its separately reviewed complete requirements instead of pretending a word list alone suffices.
+**Show:** Use generic labels beside the exact reviewed backup format. Distinguish device PIN, backup, any passphrase and, only for an independently reviewed applicable setup, multisig keys/configuration. Show no actual values.
 
 **Narration:**
 
-“The PIN protects access to the device. The backup restores the corresponding keys. A passphrase can select a different wallet, so the exact passphrase is part of that recovery. These pieces do different jobs.”
+Before the recovery check, let's be clear about what each piece does. The PIN unlocks the device. The backup recreates the corresponding keys. If this wallet uses a passphrase, the exact passphrase selects the intended wallet.
 
-**Verify before recording:** Verify actual backup standard and compatible recovery method. Valid words are not proof of the intended passphrase wallet; no universal secret split or assumption all devices use the same word count.
+Those different jobs explain why one piece can't simply replace another. Knowing the PIN doesn't replace a missing backup. And a correct word list doesn't prove that we've recovered a passphrase wallet; we still need the exact passphrase and the intended-wallet check.
 
-**Member finish:** The operator knows which information the actual setup requires and what each item does.
+Multisig has additional independent-key and configuration requirements, which need the complete reviewed procedure for that arrangement. Here we're covering only the requirements recorded for this test wallet. These labels explain the pieces without showing their private values.
+
+**Overlay:** PIN: device access / backup: keys / passphrase: intended wallet
+
+**Verify:** Requirements match actual standard; no universal 12/24-word assumption, secret split or multisig inference. Configurations and extended keys remain sensitive.
+
+**Capture dependency:** Verify exact supported backup and passphrase behavior, compatible restoration tools and any separately scoped multisig procedure.
 
 #### Chapter 4 — Receive a small authorized test amount
 
-**Show and do:** Verify a receive destination through the official trusted device process. Conduct only the explicitly approved small test transfer and wait for the appropriate confirmation. Keep unnecessary identifiers out of the camera frame.
+**Show:** Verify the receive destination using the actual trusted-device process. Perform only the explicitly authorized trivial inbound transfer. Wait for the appropriate actual confirmation; keep unnecessary addresses and identifiers off capture.
 
 **Narration:**
 
-“Check the destination on the trusted device, not just on the computer. This small amount gives the recovery test something real to verify without putting meaningful savings into the experiment.”
+Now we're giving this test wallet a small, known amount that we can look for after recovery. In the receive process, we'll verify the destination through the trusted device, rather than relying only on the computer display. The network and amount also need to match the transfer authorized for this test.
 
-**Verify before recording:** Correct network, destination and amount; no live household transfer authorization implied. Record only non-secret expected-wallet evidence and actual test confirmation.
+After the transfer, we need the required actual confirmation before continuing. We'll keep that receipt and a non-secret way to recognize the intended wallet for the recovery comparison.
 
-**Member finish:** The intended practice wallet and its test receipt are identified.
+If the destination or received amount is unexpected, this is where we stop and investigate. Adding meaningful funds wouldn't resolve that uncertainty. The test stays limited to the small amount set aside for it.
+
+**Overlay:** Verify destination + network + authorized test amount
+
+**Verify:** Actual destination, network, amount and confirmation agree. No implied authority to transfer household savings or unrelated funds.
+
+**Capture dependency:** Confirm inbound-transfer authorization, current receive-verification procedure and required confirmation standard for the selected setup.
 
 #### Chapter 5 — Check the backup before any destructive step
 
-**Show and do:** Use the supported non-destructive backup check or safely prepared compatible spare-device process first. Keep the working source intact. Stop when any check fails.
+**Show:** Use the supported non-destructive backup check, or a safely prepared compatible spare process, first. Preserve the working source. All secret-entry capture remains stopped. Stop on any failure or mismatch.
 
 **Narration:**
 
-“Before removing anything, check the recovery material through the official process. If this check fails, the next step is to understand why—not wipe the only working access and hope the recovery succeeds.”
+Before any destructive step, we need to know that the backup can support the recovery. We're keeping the working device intact while we use its official backup-check process. If the reviewed procedure uses a compatible spare, the original remains available while we check it.
 
-**Verify before recording:** Exact manufacturer procedure, genuine app, backup validity and passphrase/configuration requirements verified. No secret disclosure to support. Failure or mismatch means no reset, no new meaningful funds and no success status.
+The check includes any passphrase or configuration requirements for this wallet. Recording stops before private information is entered, just as it did during setup.
 
-**Member finish:** The next step is justified by actual safe evidence, or the test stops with a controlled recovery plan.
+If the check fails, we stop here and preserve the working access. Verified official instructions or support may help us investigate, but support doesn't need the secret. Resetting the device or sending more funds would add risk while the mismatch is still unresolved. A successful, supported check is what lets us consider the next part of this isolated test.
+
+**Overlay:** Working access intact / failed check: stop
+
+**Verify:** No reset after failed check; no meaningful funds added; no secret shared with support. A supported safe check must justify the next step.
+
+**Capture dependency:** Verify the actual non-destructive or spare-device procedure and failure handling. If unsupported or unclear, keep the test stopped rather than inventing menu steps.
 
 #### Chapter 6 — Recover the intended wallet within the reviewed test
 
-**Show and do:** Only if explicitly included in the approved isolated procedure, perform the test reset/restore or use a compatible spare. Keep all secret-entry capture off. Verify a known non-secret wallet identifier/address and the expected test funds.
+**Show:** Perform the reviewed recovery on a compatible spare or, only if expressly part of the isolated test procedure, reset/restore the test device. Never wipe the funded primary wallet. Stop all capture during secret entry. Compare known wallet evidence and test funds afterward.
 
 **Narration:**
 
-“We are checking for the intended wallet. Opening a valid empty wallet is not enough. Compare the expected identifier and the small test position before calling this a successful recovery.”
+We're now using the recovery method specified for this isolated test. All private entry stays off camera. When the wallet opens, we'll compare its known identifier or address with our test record, then check for the expected test funds.
 
-**Verify before recording:** No funded primary device wiped as a first test. Exact device, format, passphrase and configuration supported. Mismatch aborts the procedure; do not troubleshoot by moving meaningful funds.
+Both parts matter. A valid empty wallet isn't enough, because a passphrase mistake can open another valid wallet. If the identity or funds don't match, we'll stop and leave the result unresolved.
 
-**Member finish:** Actual recovery of this intended practice wallet is proven or accurately marked failed/pending.
+Successful recovery means the evidence matches this intended test wallet. It doesn't tell us that another wallet is recoverable. The family's funded wallet stays outside the test, and we never wipe it as part of this demonstration.
+
+**Overlay:** Intended wallet identity + expected test funds
+
+**Verify:** Actual identity and funds match or status is failed/pending. No funded wallet wipe, universal recovery sequence or troubleshooting through meaningful transfers.
+
+**Capture dependency:** Verify exact restore compatibility, trusted identifier check and authorized isolated reset if applicable. Device steps remain blocked until that procedure is reviewed.
 
 #### Chapter 7 — Verify controlled spending and the fee
 
-**Show and do:** Review a separately authorized small outbound practice transaction through the trusted device process. Read the actual fee and destination; no universal fee or dust threshold.
+**Show:** Review a separately authorized trivial outbound transaction using the recovered test setup and current trusted-device procedure. Read destination, amount and actual fee. Confirm only within the authorized test and wait for actual evidence.
 
 **Narration:**
 
-“Now confirm that this recovered setup can authorize the intended small transaction. Read the destination, amount and fee before confirming. A recovered balance and a verified spending operation tell us different parts of the result.”
+Seeing the expected balance is useful, but we also want to know whether the recovered setup can authorize a payment. That's the purpose of the small outbound transaction separately authorized for this test.
 
-**Verify before recording:** Explicit transaction authorization and current wallet procedure required. No publication of keys, private metadata or unnecessary addresses. Confirmation must actually exist before described as complete.
+Before confirming, we'll check the destination, amount and fee through the trusted device. If any detail differs from the intended transaction, we stop. The fee we use is the actual fee shown for this transaction; there's no universal fee or minimum-output amount to copy from a video.
 
-**Member finish:** The practice operation is verified under the exact test scope.
+Once the payment has the required confirmation, we'll keep that evidence with the test record. That lets us distinguish seeing funds from demonstrating controlled spending through the recovered setup.
+
+**Overlay:** Destination / amount / actual fee / actual confirmation
+
+**Verify:** Explicit outbound authorization, reviewed procedure and actual confirmation. No secret exposure, needless address publication, fee guarantee or implied household transaction authority.
+
+**Capture dependency:** Verify current spending workflow, authorized destination/amount, fee display and confirmation evidence for the chosen test setup.
 
 #### Chapter 8 — Record what was proved and what was not
 
-**Show and do:** Complete non-secret receipt: setup, method, date, actual outcome and limitations. Review all distributable footage and source recordings for secrets before release. Send only scoped status to W07.
+**Show:** Complete the non-secret test receipt with setup, exact method, date, actual outcome and limitations. Independently inspect all raw/intermediate/output footage for secrets. Hand only the scoped status to W07 chapter 2.
 
 **Narration:**
 
-“This proves the process for this practice wallet. It does not prove the backup of a different funded wallet. That setup needs its own appropriate safe verification. Record the difference so the family does not rely on a test that never covered its actual holdings.”
+Let's finish by recording exactly what this test showed. The receipt identifies the wallet, the recovery method, the date and the actual outcome. We'll include the receive, recovery and spending checks that completed, with anything unfinished left unresolved.
 
-**Verify before recording:** Independent security review, secret-free export and exact actual-wallet status required. No blanket recovery approval, implied manufacturer endorsement or app-plan export treated as a wallet backup.
+That receipt stays separate from the status of a different funded wallet. The funded wallet needs its own appropriate safe verification, even when this practice test succeeds.
 
-**Member finish:** A truthful practice-test receipt and a separate status for each actual holding.
+In Bitcoin access, we can now record the scoped result and the next action without storing the recovery material. An Orange Plan data backup concerns plan information; it doesn't recover Bitcoin signing keys. We'll take this receipt into the custody walkthrough so the family can see what's been checked and what still needs attention.
+
+**Overlay:** This setup / this method / actual outcome / remaining work
+
+**Verify:** Independent secret-free raw/output review and truthful test scope. No manufacturer endorsement, blanket recovery certification or funded-wallet claim.
+
+**Capture dependency:** Obtain actual hardware evidence, independent security review and exact safe record fields before footage release. No capture approval or learner completion is established by this manuscript.
 
 ### Readback and finish
 
-An actual safe test of the intended practice wallet is documented with its limits. The actual household wallet remains separately verified or pending. No usable secret material or sensitive recovery metadata appears in the distributable footage; without hardware evidence, filming approval remains open.
+The non-secret receipt identifies the exact isolated wallet, reviewed procedure and actual receive, recovery and spending outcomes. Any mismatch remains failed or pending. Raw and published capture contain no secrets. A different funded wallet retains its own verified or unverified status; this test does not certify it.
 
-### Production notes
+### Source and production notes — not spoken
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+Step-by-step adaptation of the prior chapters and current owner decisions. Original attribution remains in delivery/consolidation.md and production/consolidation.json; earlier manuscript bytes remain in Git history. New wording is editorial, not prior Austin dictation. The September 10 STEPWISE-SCRIPT-STANDARD supersedes the earlier narration-only restriction.
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
-This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
+PR #227 contracts describe future flow, not shipped capability. The reviewed source reference is 21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2; directive 5618008737 is implementation context only and was not executed. Device/provider facts, calculated results, save/reopen, export and delivery need actual capture evidence. This manuscript sends no message, moves no money and creates no legal or professional approval.

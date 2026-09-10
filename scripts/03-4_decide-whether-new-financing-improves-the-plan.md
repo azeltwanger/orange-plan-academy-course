@@ -1,102 +1,61 @@
 # 3.4 — Decide whether financing is worth it
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: CONVERSATIONAL_VOICE_REVIEW — revised spoken manuscript; Austin voice approval and capture remain separate.
 Kind: teach
 Gate: LENDING_REVIEW
 Sources: BRAIN, CLIENT_THEMES, DEBT, OWNER, PRIMARY
 
+### Do this
+
+When financing is a real option, compare its obligation with cash, a sale and a smaller or delayed purchase. Continue without a proposal if you are not considering borrowing.
+
 ### Read aloud
 
-A financing offer can look attractive because of the monthly payment. But a small payment doesn't tell you how much the arrangement costs, how long you'll carry it, or what you still owe at the end.
+We've looked at the debt you already have. Now let's consider a new loan. Borrowing can keep cash available or let you avoid a sale, but the retained money comes with payments and an eventual repayment. I want you to be able to explain why taking on that obligation helps your plan.
 
-For the course example, say Alex and Morgan are comparing a $30,000 project. Start with paying cash.
+If you aren't considering financing, you don't need to go looking for a loan to complete this section. Keep your existing debt choices and move on to the borrowing-rules lesson, where we'll check what those obligations need. This comparison is here when you have a real decision to make.
 
-They have $32,000 assigned to the reserve. Taking the full project cost from that money would leave $2,000 there. We have avoided a new loan, but we've also used money that was supposed to keep the household going through an interruption.
+Let's use one proposed project. Our example household is considering spending $30,000. We'll compare paying cash, selling an investment and one relevant financing offer, with a smaller project or a delay available too.
 
-That consequence belongs in the comparison. “We have enough in the account” isn't the same as “we can use it without affecting anything else.” They might have another resource available, but we need to identify it and its other commitments instead of assuming every account balance is spare cash.
+They have $32,000 assigned to the Reserve. Taking the full project cost from that money would leave $2,000 there. Avoiding a loan would also use most of the cash meant to protect the household through an interruption.
 
-Selling an investment is another option. In a taxable account, look at the gain and any tax associated with the sale. The amount sold may need to be larger than the $30,000 needed for the project. It depends on the actual purchase history and the household's tax situation; we shouldn't make up a tax cost to finish the example.
+A sale needs a different check. In a taxable account, the amount sold may need to cover both the purchase and tax on the gain. Use the actual purchase history and tax situation; don't invent a tax cost to finish the comparison.
 
-In the reduced-spending example, the available $1,700 is already being compared as $500 for the reserve and $1,200 for extra card payments. Another loan payment needs room. Which spending amount, contribution, or project choice would change to make that possible?
+Financing preserves cash initially, but another loan payment needs room. The proposed $500 Reserve and $1,200 extra-card plan already use the example's $1,700 available. They'd have to change a commitment or identify another source before adding a payment.
 
-For now, they may decide to leave the project as a possibility or do it later. Borrowing doesn't have to come out ahead.
+And the retained money needs to keep doing the job that justified borrowing. Preserving a Reserve and then investing all of it in Bitcoin changes the protection while leaving the debt in place.
 
-Be clear about what the cash you're keeping is for. Borrowing to preserve a reserve and then investing that entire reserve in Bitcoin aren't the same plan. In the second version, you've kept the debt but changed the protection you said the borrowing was supposed to preserve.
+You may expect Bitcoin to earn more than the loan costs. The return still won't arrive on the lender's schedule. Before relying on it, work out what pays the loan through a decline or several weak years. Borrowing to buy Bitcoin doesn't itself produce the dollars for those payments.
 
-You may believe your long-term Bitcoin return will exceed the interest on a loan. That's one reason a high-conviction household might prefer to keep an affordable loan and invest instead of paying it down early.
+The same applies to a business purchase. Look at cash after operating needs, maintenance and taxes, including a weaker period. If a personal guarantee makes the household responsible, that risk belongs in the household decision too.
 
-The important word is expected. The investment return isn't arriving on the same schedule as the loan payment.
+A lower payment doesn't settle the comparison. It might mean a longer term or principal still owed at the end. Read the fees, changing rates, final balance and repayment source together. The contract lesson works through those payment structures and the differences between specific lending products. Use the branch that matches your offer before relying on it.
 
-Bitcoin could do well over several years and still be worth much less next month. The loan still needs support during that period. So ask where the payments come from while you wait, and how long you could keep making them without relying on a sale at a price you don't like.
+Borrowing may postpone a taxable sale, but it adds interest, fees and other risks. Later repayment may still require a sale. We'll compare selling and borrowing across retirement in the income section; here we're deciding whether this particular obligation is worth taking on.
 
-Borrowing can also let you avoid selling an appreciated investment today. That can postpone realizing a gain from that sale. But we still need to compare the interest, fees, collateral risk, and eventual repayment with the cost of selling.
+We'll put the relevant alternatives beside each other in the walkthrough, keeping the amount and date of the need consistent. Any contract term the app doesn't represent needs separate analysis. A smaller purchase, a delay or keeping the current plan can be the complete answer.
 
-Avoiding a sale now isn't the same as making the tax disappear forever. If you later sell to repay the loan, the sale still needs to be considered. We'll build the fuller sell-versus-borrow comparison in the retirement-income session. Here, the useful question is whether preserving the asset is worth the new obligation.
+If you do choose financing, bring back the payment source and the way it gets repaid. That's what we'll turn into usable borrowing rules next.
 
-You might finance equipment, a business, or another productive asset because you expect it to help generate cash. Start with the money left after the costs of operating it, not the total sales you hope it will produce.
+### Text overlays — not spoken
 
-Would that cash cover the payment? What if the equipment needs a repair, a customer pays late, or sales are lower than planned? You may need working capital as well as money for the purchase. Using every available dollar for the down payment can leave the new activity short of cash before it has had time to work.
+| Exact spoken cue | Overlay copy | Editor treatment |
+|---|---|---|
+| Taking the full project cost from that money would leave $2,000 | Proposed project: $32,000 Reserve − $30,000 = $2,000 left | The project is still a comparison. |
+| another loan payment needs room. | Proposed $500 Reserve + $1,200 extra card = $1,700 | No unassigned payment capacity in this illustration. |
+| Read the fees, changing rates, final balance and repayment source together. | Payment + final balance + repayment source | Full amortizing/interest-only example lives in A3.2. |
+| A smaller purchase, a delay or keeping the current plan | A financing comparison can end with no new loan. | Show alongside the actual alternatives. |
 
-Also find out who is responsible if it fails. A personal guarantee can bring the obligation back to the household. The fact that the money went into a business doesn't necessarily limit the consequences to that business.
+### Walkthrough handoff — not spoken
 
-If you borrow to buy Bitcoin, the Bitcoin itself doesn't provide the dollars for the loan payment merely because you own it. The repayment has to come from income, other resources, a sale, or another financing arrangement. State which one you're relying on.
-
-For the intended repayment source, check how certain its amount and date really are. What would you do if the payment arrived late or was smaller? A temporary loan needs a repayment plan. Repeatedly borrowing to cover a continuing gap between income and spending is a different problem.
-
-Now let's look at how the loan's structure changes the payment, using a separate example.
-
-Let's say you borrow $20,000 at 8% and repay it over five years, with no fees. A fully amortizing loan would require about $406 a month. Fully amortizing just means the scheduled payments pay off the balance by the end, assuming the terms and payments are followed.
-
-An interest-only version at the same rate would cost about $133 a month while the balance stays at $20,000.
-
-Why is the payment so much lower?
-
-Because you haven't been paying back the $20,000 as you go. After five years of interest-only payments, that principal is still owed. You need to have it available or have a workable way to repay it at the agreed time.
-
-In the amortizing example, total interest is about $4,332 over five years. In the interest-only example, keeping the full balance for all five years costs $8,000 in interest, and you still need to repay the original $20,000. Those are simplified examples, not loan offers. They show why we need the ending balance beside the payment.
-
-When you compare offers, include the fees and check whether they're paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
-
-For a home-equity loan or line, your home is part of the agreement. A line may have a period when you can draw money and a later period when the balance must be repaid. The rate and payment can change, and access to further borrowing can be reduced under the terms. Read those parts before treating unused capacity as your fallback.
-
-A cash-out refinance is different from keeping the existing mortgage and adding a separate loan. It can replace the old mortgage itself. That means the new rate may apply to a much larger balance than the extra cash you wanted.
-
-For someone with a low fixed mortgage rate, compare the full new mortgage with the old mortgage plus the alternative funding arrangement. Looking only at the new cash misses the cost of changing the financing you already had.
-
-A non-purpose securities-backed line generally can't be used to buy or trade securities. It isn't interchangeable with a margin loan. Both can involve collateral requirements and forced sales, but their permitted uses and terms differ. A familiar brokerage name doesn't mean every loan against the account works the same way. Don't assume another intended investment purchase is permitted without checking the agreement.
-
-A loan from an employer retirement plan has its own rules as well. First check whether the plan allows it, then the repayment terms and what happens when employment ends. Failure to repay can produce a taxable distribution and possibly additional tax.
-
-Even when interest goes back into the retirement account, the arrangement isn't cost-free. The borrowed amount is no longer invested in the same way, payments need room in cash flow, and the effect on ongoing retirement saving matters. “I'm paying myself interest” doesn't answer all of those questions.
-
-Tax treatment needs to fit the actual transaction too. Keeping an investment avoids selling it at that moment, but later sales, collateral liquidation or forgiven debt can have consequences. Whether interest is deductible depends on the use of the money and the applicable rules, not simply which asset secured the loan. Bring that specific question to the tax review before relying on a benefit.
-
-Let's compare one relevant financing option with paying cash or selling an investment. Keep a smaller project or a delay beside them. For each version, check the cash left, the payments, the balance still owed, and how you repay it. Any important contract term the app doesn't represent needs separate analysis.
-
-When the offer uses a large final payment, seller financing or a shared-appreciation formula, use the unusual-financing lesson before depending on the comparison. For Bitcoin collateral, use the Bitcoin-loan lesson. You don't need to research every loan type; you need to understand the one you might actually use.
-
-Choose the option that fits, or get the specific contract question answered before choosing. Comparing an offer doesn't mean you've applied or qualified. Next we'll write the repayment and response rules you'd need to follow.
-
-### Source and production notes — not spoken
-
-Source-led condensation of lessons 3.4, 3.5. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
-
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
-
-#### Retained 3.4 — Visual notes — not spoken
-
-Reuse the original deck's liquidity / expected return spread / sale-and-tax-timing concepts, with the actual trade-off beside each. Do not use the old headline as proof that borrowing creates a tax saving or increases wealth. Show a retained cash cushion with its purpose unchanged, versus cash later invested with a different risk.
-
-Keep renovation, additional Bitcoin and productive-asset examples separate. A business example must distinguish sales, operating needs, available cash and debt service; no invented Reed business revenue or guarantee is supplied. Use purpose → repayment source → disappointment case as a visual aid, not a spoken list to recite mechanically. The numerical project comparison is in 3.5.
-
-#### Retained 3.5 — Visual notes — not spoken
-
-Keep the $30,000 project comparison separate from the $20,000 repayment illustration. Project cash option: $32,000 assigned Reserve − $30,000 = $2,000; other resource availability and tax are not assumed. The $1,700 reduced cash-flow pool is already claimed in the existing Reserve/card comparison.
-
-For the separate repayment graphic, use principal $20,000; fixed nominal annual rate 8%; monthly rate 0.08/12; 60 end-of-month payments; no fees. Payment = P*r/(1-(1+r)^(-60)) = $405.527885768…; total interest $4,331.673146… before display rounding. Interest-only payment $133.333…; 60 months' interest $8,000; ending principal $20,000. Show ending principal prominently. Neither is a Reed loan quote or an engine result.
-
-Introduce funding structures in small groups, with only the relevant distinguishing term on screen. A comparison row needs upfront cash, fees, payments, rate changes, ending balance/settlement, collateral and permitted use. Do not present a universal safest/cheapest ladder or pretend every contract can be modeled in the app.
+[W03, chapter 4](working/W03_set-debt-jobs-and-test-one-financing-decision.md): compare the same purchase and timeline, inspect terms and repayment. Use A3.2 for the payment structure and contract sections matching your offer; use A3.1 before relying on Bitcoin collateral. If no financing is proposed, continue to 3.6 without this capture.
 
 ### Member checkpoint
 
-Compare cash purchase, financing and waiting with the same purchase and resources. Choose a funding route that still works under its actual payment and exit terms.
+One funding choice has an identified cash source, affordable payments, ending balance, repayment source and fallback—or a specific contract answer still needed. A smaller or deferred purchase is a complete possible decision.
+
+### Source and production notes — not spoken
+
+Debt Strategy source steps and existing dated lending/tax research. $30,000 project is a proposal; $20,000 at 8% for 60 months is a separate no-fee illustration. Amortizing payment $405.5279, interest $4,331.6735; interest-only $133.3333/month, $8,000 over five years, $20,000 still owed. Actual SBLOC permitted uses, plan-loan rules, guarantees, fees, tax basis and current contract terms require their sources. No offer, approval or loan execution is implied.
+
+Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

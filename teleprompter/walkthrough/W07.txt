@@ -1,0 +1,21 @@
+We're in Bitcoin access, connecting each holding to its custody arrangement. Start with the owner, what the money is for and who controls it today.
+
+Put an intended move beside the current arrangement so the family can tell which process applies now. Then connect the person handling the ordinary work and the agreed backup from Trusted people.
+
+Let's save and reopen the record to check it belongs to the right holding. Provider questions can stay with the next action. This map points to the protected recovery process without containing its secrets.
+
+Let's use the recovery receipt to record the wallet checked, method, date and result.
+
+If this is the separate test wallet, its result stays with that wallet. The funded setup keeps its own status until its appropriate safe check is complete. Buying a device or validating a word list doesn't establish full recovery.
+
+For a funded setup with actual evidence, include the passphrase or multisig requirements covered by the check, without recording the sensitive material itself. Read the saved entry back: it needs to show what's verified and the safe next step for anything still open.
+
+Let's work on one dependency from the custody map. In this example, several accounts rely on the same recovery email. That gives us a useful place to start: protecting that email affects the access route for more than one account.
+
+We're using the provider's verified security settings to see which sign-in and recovery methods it supports. Where a security key or passkey is available, that's the option we're looking at first. Before removing working access, we need the backup method set up and tested. Passwords, recovery codes and private setup screens stay out of the recording.
+
+Back in the map, we'll record the change only once it's actually completed. A provider question or an agreement we're still waiting for stays open. This improves account access, but the company's custody risk is still there, so that dependency remains in the map.
+
+Before we leave Bitcoin access, let's make this holding's starting route clear. The family needs the legitimate process, first contact and agreed backup if the usual operator is unavailable.
+
+We're preparing the custody part of the handoff here. Keep any missing contact or provider instruction as the next action. In the family walkthrough, we'll connect this same map to the person's legal authority and first-page instructions, then rehearse the complete route once it's ready.

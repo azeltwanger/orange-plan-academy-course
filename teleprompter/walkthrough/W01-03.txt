@@ -1,0 +1,5 @@
+This account is connected, but let's look at what that connection actually supplies. The balance tells us the total. Holdings explain what's inside it. Activity and purchase details answer different questions about how it got there.
+
+If the total arrived without investments, that doesn't mean the balance is cash. The statement can help explain the composition in the next take. Missing purchase history stays with the question it needs to answer. We're also checking when the financial information was last confirmed; opening the page today doesn't make an older balance current.
+
+If the account still needs its investments explained, the next take shows how to do that. If the holdings are complete, use the history take only for relevant records; otherwise, continue to the monthly cash-flow setup.

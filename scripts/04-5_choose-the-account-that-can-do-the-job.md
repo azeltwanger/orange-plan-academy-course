@@ -1,110 +1,66 @@
 # 4.5 — Choose accounts and compare Traditional with Roth
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_RECORDING_REVIEW — complete teaching script; owner voice review and paired capture remain separate.
 Kind: teach
 Gate: TAX_REVIEW
 Sources: ALLOCATION, ALLOCATION_DECK, APP, OWNER, PRIMARY, TAX
 
+### Do this
+
+Choose an eligible receiving account and its tax election, using the date you need the money, available investments and actual take-home cost.
+
 ### Read aloud
 
-You can choose a good investment and put it in an account that doesn't fit when you need the money. You can also choose an account for its tax benefit and discover it can't hold the investment you intended to buy.
+Now that we have a reason for the investments in your plan, we need somewhere to hold them. This lesson is about choosing the account and, for retirement contributions, deciding between Traditional and Roth. The account affects what you can buy, when you can use the money and when you pay tax.
 
-Begin with the job of this new saving, which we call a contribution. Is it for an early work change, later retirement, or a specific cost such as healthcare? Compare the accounts you could actually use. Can you get the money when needed? Can the account hold the investment? What costs and tax rules go with it?
+I think it's helpful to start with when you need the money. If you're trying to fund the years before you can use retirement accounts, another tax deduction may leave the actual gap untouched. Taxable savings, a brokerage account or personally held Bitcoin can give you access for those years. A sale may create tax, but you generally don't need an early-retirement exception just to use taxable proceeds.
 
-A taxable brokerage account provides investment access without making ordinary withdrawals depend on reaching a retirement age. Personally held Bitcoin belongs to that taxable planning picture too. A sale may have a tax cost, but an early-retirement account-access exception isn't normally needed just to use your taxable investments.
+For later money, start with the workplace plan you already have. Check its investment menu, fees, match and withdrawal rules. The client's fictional plan permits a Bitcoin fund. If yours only offers stock and bond funds, it can hold that part of the allocation while Bitcoin is held elsewhere.
 
-That flexibility can be the point. If later retirement looks funded but the first years after leaving work don't, a tax deduction on another retirement contribution may leave the real problem untouched.
+An IRA is worth comparing when its menu, cost or contribution treatment gives you something useful. Eligibility to contribute doesn't establish eligibility to deduct a Traditional contribution. Roth IRA contributions have income limits too. Use the contribution year's rules and include what you've already contributed.
 
-For later money, a workplace plan can provide payroll convenience, contribution room, and a match. We already reviewed the match. Now check the investments, costs, and access rules. A plan with a limited menu may still hold the stock exposure you want while another account holds Bitcoin.
+For long-term money, we can start by comparing an eligible HSA, then an IRA, then additional workplace saving. The HSA is a health savings account, so it can help with qualified medical expenses. An IRA may give you more investment choice, and a workplace plan may give you additional contribution room. That's a starting sequence. A cheaper workplace plan, a missing eligibility requirement or an early-access gap can change it.
 
-Alex's workplace account in our example holds 70% stocks and 30% Bitcoin-fund exposure. His Roth IRA has a different mix. The accounts can hold different proportions and still work together toward the household target.
+With an HSA, the coverage and other insurance determine whether you qualify to contribute. Medical records matter as well. Tax-free reimbursement needs a qualified expense incurred after the HSA was established that hasn't already been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, although the additional 20% tax no longer applies. So we can consider the tax benefit while preserving the cash needed for care and checking the account's investment menu.
 
-The fictional workplace plan permits the example's Bitcoin-fund access. Your employer may not. Confirm the menu before routing money there for a purchase it can't make.
+The college money already assigned to a 529 keeps that job. If you're self-employed, a Solo 401(k) or SEP may fit, but compensation, employees and other plans affect the rules. Their limits can't simply be added to every other plan's maximum. These are checks for the account you're considering; you don't need to open one of everything.
 
-An IRA may provide more investment choice or control than a workplace plan. Compare the fees and actual menu instead of assuming an IRA always improves the arrangement. Eligibility to contribute and eligibility to deduct a Traditional contribution are different questions. Roth contributions have their own income conditions. Check the relevant tax year's rules before relying on unused room.
+Self-directed Bitcoin IRAs need particular care with the transaction and custody arrangement. Personally held Bitcoin doesn't become an IRA asset because we would prefer its tax treatment. Selling your own Bitcoin to your IRA or pledging IRA Bitcoin for a personal loan can trigger distributions or loss of tax treatment. The administrator and permitted process need to be established before assets move.
 
-For self-directed Bitcoin retirement arrangements, account administration and custody still matter. It isn't a personal wallet with an IRA label. Contributions, transfers, distributions, and permitted transactions have to follow the retirement arrangement. The account's tax benefit doesn't remove those responsibilities.
+Once we know which account can do the job, Traditional and Roth let us compare the timing of tax. Traditional may give a deduction now, with tax when money comes out. Roth uses money after tax and can provide tax-free qualified withdrawals. The fair comparison starts with the same household cost.
 
-For an IRA, don't use the Bitcoin as collateral for a personal loan or sell your personally owned Bitcoin to your own IRA. Those transactions can trigger distributions or loss of IRA tax treatment. Direct control doesn't turn retirement assets into unrestricted personal property.
+Let's say you have $1,000 of pretax earnings and the tax rate is a hypothetical 20%. A deductible Traditional contribution invests the full $1,000. Roth pays $200 first and invests $800. If both double, Traditional has $2,000 and Roth has $1,600. At the same 20% withdrawal tax, Traditional leaves $1,600 to spend. A qualified Roth withdrawal also provides $1,600.
 
-An HSA is a health savings account. If you qualify to contribute, it can give tax benefits when saving and when paying qualified medical expenses. Those are expenses that meet the tax rules. First check whether your coverage makes you eligible, and keep the records for the medical costs you plan to pay from it.
+Now change the later tax rate. At 30%, Traditional leaves $1,400. At 10%, it leaves $1,800. That's why current and later tax costs matter. Bitcoin growing faster doesn't, by itself, make Roth win when both accounts own the same investment.
 
-For tax-free reimbursement, the medical expense must qualify, have been incurred after the HSA was established, and not already have been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, but the additional 20% tax no longer applies. The account isn't limited to medical spending forever.
+Your real comparison uses working income, later benefits and required distributions, along with healthcare and other income-sensitive costs. A mix can give you some deduction now and some qualified Roth spending later. You don't have to make one tax choice for every contribution forever.
 
-Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional HSA saving. Compare the tax benefit, menu, access, and purpose together.
+Qualified Roth IRA earnings generally require age 59½ and the five-tax-year period beginning with the first tax year you funded any Roth IRA, unless another qualifying circumstance applies. Contributions, conversions and workplace Roth distributions differ. If you need retirement money earlier, we'll verify the actual route in the early-access lesson before relying on it.
 
-For long-term money, that gives us reasons to compare an HSA, then an IRA, then additional workplace saving. An HSA may help with healthcare taxes. An IRA may offer the investments you want. A workplace plan may provide more contribution room. Use the order as a starting point, then check which accounts actually fit your situation.
+There's one immediate effect to check before we finish: the paycheck. If the client keeps sending $775 but switches from pretax to Roth, their take-home pay may fall. That extra tax has to fit beside the Reserve and debt choices. Changing the election affects new contributions; moving an existing Traditional balance into Roth is a separate conversion that we'll cover in Tax.
 
-For a household without HSA eligibility, that step disappears. An inexpensive workplace plan might be preferable to an expensive IRA arrangement. And an accessible funding gap can redirect the next dollar before the retirement sequence is complete.
+In the walkthrough, we'll compare the relevant accounts and the actual household cost of your election. If an existing account fits, you can keep it. Once those choices are clear, the next lesson connects the amount you can afford to the account and the investment it will actually buy.
 
-Education accounts have a dedicated job as well. A 529 may fit the college commitment you chose. It doesn't turn that money into unrestricted early-retirement funding while tuition remains promised. Check owner, beneficiary, investment menu, and the rules for its intended use.
+### Text overlays — not spoken
 
-A self-employed person may have additional options, such as a Solo 401(k) or SEP. Business structure, employees, compensation and plan terms affect eligibility and contribution calculations. Identify the relevant option and verify its room; don't add every advertised maximum together as though the limits never interact.
+| Exact spoken cue | Overlay copy | Editor treatment |
+| --- | --- | --- |
+| The account affects what you can buy | 1 · Job → access → investment menu | Three-column decision row. |
+| we can start by comparing an eligible HSA | 2 · Compare HSA → IRA → workplace | Add: eligibility, fees and early access can change the order. |
+| Traditional and Roth let us compare the timing of tax. | 3 · Compare Traditional and Roth | Show equal household cost, not equal deposits. |
+| Let's say you have $1,000 of pretax earnings | Illustration: $1,000 Traditional / $800 Roth | Animate tax now, doubling, tax later. |
+| There's one immediate effect to check before we finish: the paycheck. | 4 · Confirm take-home cost | Show the tax difference beside the same cash-flow budget. |
 
-Check access separately from when you'd like to spend the money. A taxable account can hold a twenty-year investment. A retirement account can hold cash for a permitted withdrawal soon. Age 59½ is an important landmark, not a universal statement that every retirement dollar is locked until then. Special routes need their own conditions verified; Retirement Income handles that where it applies.
+### Walkthrough handoff — not spoken
 
-An existing account may already do the job at an acceptable cost. Opening another one adds records and maintenance, so be clear about what it would improve.
-
-For a retirement contribution, there's another choice: pay income tax before investing, or when you use the money later? That's the Traditional-versus-Roth decision.
-
-A withdrawal is money you take out of an account. Roth can provide tax-free withdrawals when they meet the rules. Those are called qualified withdrawals; not every Roth withdrawal qualifies. Traditional may reduce the income taxed now, with tax due when the money comes out. Let's count the tax on both sides before choosing.
-
-Let's start with the same $1,000 of pretax earnings and a hypothetical 20% tax rate. We're assuming a deductible Traditional contribution and no other complications for this illustration.
-
-Traditional can invest the full $1,000 before that income tax. Roth pays $200 first, leaving $800 to invest.
-
-So we begin with $1,000 in Traditional or $800 in Roth. We haven't put $1,000 in both. Equal contributions would require different amounts of household money to pay for them.
-
-Now let's say both investments double. Traditional has $2,000 before withdrawal tax. Roth has $1,600.
-
-The Traditional account is larger, but the comparison isn't finished. With the same hypothetical 20% tax on the withdrawal, $400 goes to tax and $1,600 is available to spend. The qualified Roth withdrawal also provides $1,600.
-
-At those equal rates and assumptions, the results match. Stronger investment growth alone doesn't make the Roth win; both versions participate in that growth.
-
-Now change the future tax rate while leaving the rest alone. At 30%, the Traditional account provides $1,400 after tax. Roth still provides the qualified $1,600. At 10%, Traditional provides $1,800 instead.
-
-Your real life isn't one constant bracket. You may contribute during high-income working years and withdraw during a lower-income period. Or future pensions, Social Security, business income and required distributions may leave you facing substantial taxable income later. Those changes are why we use the timeline instead of assuming retirement always means lower tax.
-
-Look at the tax on the dollars you're contributing or withdrawing, instead of the average across your whole return. Other income, deductions, credits, and healthcare effects can change that cost. Check the full calculation with your tax professional.
-
-Roth also provides flexibility when qualified withdrawals don't add taxable income. That may help when another income-sensitive decision matters. Traditional may let you keep more current cash available or invest a larger amount for the same take-home cost. Compare those jobs, not just the final account balances.
-
-A mix can be deliberate. You may want some tax benefit today and some money with qualified Roth treatment later. You don't have to make the same tax choice for every contribution forever.
-
-Check the paycheck as well. Let's say Alex keeps contributing $775 a month but changes a pretax workplace contribution to Roth. He may take home less, even though the same amount reaches the retirement account. That difference needs to come from somewhere. This is a comparison, not a statement about his current election.
-
-For a Traditional IRA, first check whether you can deduct the contribution. A contribution that isn't deductible creates records you'll need for later withdrawals or conversions. Also use the rules for the account you actually have. A Roth workplace plan and a Roth IRA don't share every withdrawal rule.
-
-For ordinary retirement use, qualified Roth IRA earnings generally require both age 59½ and the five-tax-year period beginning with the first tax year for which you contributed to any Roth IRA. Other qualifying circumstances exist. This is separate from withdrawing regular contributions or checking a conversion's five-year rule.
-
-This lesson is about new contributions. Moving an existing Traditional balance into Roth is a conversion, with a separate tax and cash-funding decision. We'll compare that in Tax instead of treating a payroll election as a conversion of everything already invested.
-
-Choose the Traditional, Roth, or mixed contribution that fits today's cost and how you expect to use the money later. Compare its effect on your cash flow. A change in income, taxes, or the timing of withdrawals may give you a reason to revisit it.
-
-Choose the account and tax election together. Check the actual take-home cost before we assign the rest of your contribution budget.
+[W04, chapters 5–6](working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md). If access before 59½ is required, use [A6.3](advanced/A6-3_verify-an-early-retirement-account-access-route.md) before a dependent rollover or distribution.
 
 ### Source and production notes — not spoken
 
-Source-led condensation of lessons 4.5, 4.6. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
-
-#### Retained 4.5 — Visual and source notes — not spoken
-
-Deck Steps 7 and 9. Conditional account comparisons, not a generic tax-wrapper hierarchy. Original HSA→IRA→additional workplace sequence remains qualified by eligibility, menu, actual costs and early-access need. Current IRS 590-A/590-B/969/560 and plan terms govern mechanics; no annual limits or provider availability invented. HSA/education remain dedicated, 59½ is not an absolute lock, native self-directed retirement custody is not unrestricted personal access.
-
-#### Retained 4.5 — Source-based technical check — not spoken
-
-September 8, 2026: P01/P03; S1, S3, S4. Distinguish a pledged-portion deemed distribution from the separate loss-of-IRA-status rule. HSA later nonmedical use is taxable; Medicare eligibility months and 2026 coverage changes need the exact facts. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
-
-#### Retained 4.6 — Visual and source notes — not spoken
-
-Deck Step 8 and existing same-economic-budget example. Preserve qualified Roth and assumed deductible Traditional conditions. Exact arithmetic: 1000T versus800R, both double; T after20%=1600,after30%=1400,after10%=1800. Growth alone does not establish superiority. Reconcile payroll cash impact before carrying Reserve/debt amounts forward. Contributions, conversions, IRA and workplace distribution rules stay distinct.
-
-#### Retained 4.6 — Source-based technical check — not spoken
-
-September 8, 2026: P02; S1, S14. The ordinary Roth IRA qualification description does not replace other qualifying events or IRA contribution/conversion ordering. Workplace nonqualified Roth distributions follow their own rules. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
+Allocation deck steps 7–9 and conditional HSA → IRA → workplace sequence retained. The $1,000/$800 comparison assumes deductible Traditional, qualified Roth, equal returns and stated hypothetical marginal rates. No annual limit or provider availability is asserted. IRA pledging and prohibited-transaction consequences remain distinct. Relevant IRS Publication 590-B and Publication 969 pages re-opened September 10; use the existing technical review for source scope and transaction-specific facts.
 
 ### Member checkpoint
 
-Choose eligible receiving accounts and compare Traditional and Roth at equal household cost, while preserving early-access funding.
+The receiving account can hold the intended investment, meets eligibility and access requirements, and the Traditional/Roth election fits the same household cash flow.

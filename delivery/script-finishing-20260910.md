@@ -15,7 +15,7 @@ New regression checks cover the sizing condition at its point of use, the numeri
 
 ## Read the current version
 
-[All recording scripts](../ALL-SCRIPTS.md) · [25-video reading order](../DICTATION-ORDER.md) · [Dated source checks](../reference/script-finishing-sources.md).
+[All recording scripts](../ALL-FILMING-SCRIPTS.md) · [25-video reading order](../filming/DICTATION-ORDER.md) · [Dated source checks](../reference/script-finishing-sources.md).
 
 This updates the approved 25 main + 8 situation-specific course. It does not redesign the curriculum or add filming assignments. Record narration first; text and graphics are edited afterward. The application is the member's own Orange Plan, with app/device footage captured separately once verified.
 

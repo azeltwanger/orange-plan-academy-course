@@ -1,190 +1,138 @@
 # W03 — Set debt jobs and test one financing decision
 
-Status: WALKTHROUGH_REWRITE_REVIEW — all six chapters have replacement narration paired with individually rewritten 3.1–3.6. Voice review and actual app/contract evidence remain open.
-Adapted source: paired Debt lessons, original debt teaching and the unchanged Reed fixture. This replaces the duplicate summary/cue versions of W03.
-App references: accepted course direction only. Exact navigation, editable terms, schedules, outputs and saves require the approved redesign.
-
+Status: CONVERSATIONAL_CAPTURE_REVIEW — revised demonstration narration; actual app/device capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: DEBT, OWNER, APP
 
-### For your situation — recording route, not spoken
+### Production basis — not spoken
 
-- After 3.6, [A3.1](../advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md): You have, or are seriously considering, a Bitcoin-backed loan. Complete before borrowing or relying on a collateral-response plan. Return to W03 chapters 5–6, then lesson 4.1.
-- After 3.5, [A3.2](../advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md): A financing option includes a balloon, changing payment phases, shared appreciation, or another unusual contract term. Complete before choosing that financing or relying on its modeled cost. Return to W03 chapter 4, then lesson 3.6.
+Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged example household data and a separately reviewed synthetic extension supply all household facts. Use separate takes after the paired lessons. Chapter 4 is used only for a proposed financing decision; chapter 5 is only for Bitcoin collateral after A3.1. Ordinary debt repayment instructions remain in chapter 6. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
 
-### Run sheet
+#### Chapter 1 — Verify payments and changing terms · after 3.1
 
-Use the existing W01 debts. For current-payment pressure, identify the original cash-flow state. For the Reserve/extra-card comparison, use the explicitly named reduced-spending state from W02. Do not blend the original $500 available cash with the later $1,700 available amount or activate future post-card contributions early.
-
-Prepare the missing fictional capture inputs separately: payment dates, full debt schedules, mortgage escrow treatment, credit-card minimum/billing assumptions, maturity/reset dates, business guarantees and any actual financing offer used. The source fixture supplies none of those exact missing terms. Preserve it unchanged. All teaching calculations below are distinct from verified engine outputs.
-
-Record chapters separately after the relevant lessons. **Narration** is proposed speech; the rest is production instruction. Use the existing debt/financing worksheet for terms not represented in the app, with that limitation visible. No lender contact, application, live account, real transaction or hosted write is authorized by this course edit.
-
-#### Chapter 1, after 3.1 — verify the payments and what can change
-
-**Show:** One debt record at a time: balance, required payment, current rate and rate type. Then inspect the date/schedule and collateral or guarantee information where actually supported. Compare to the authorized fictional record; don't tour every available control.
+**Show:** Use Home → Your Money → Debt and open one existing debt detail at a time. Review the card, mortgage and interest-only HELOC against authorized fictional records. Read current balance, rate, required payment, rate-reset/maturity and security terms; use contextual Add or update only for a verified change.
 
 **Narration:**
 
-“Start with what the lender requires. Is this the payment due, or the amount you usually send because you've been paying extra? We'll keep the extra amount separate so we can decide whether to change it without losing track of the bill that still has to be paid.”
+Let's match each existing debt to the lender record before choosing extra payments. We're checking the balance, rate, required payment and any date when the terms change. I'll use the debts that apply to your household.
 
-For the HELOC, show the fixture's $46,000 and 8% example, with approximately $306.67 of monthly interest. Read the actual app calculation only after confirming its conventions.
+With the example card, the $405 minimum isn't all principal. The rough first-month illustration has about $235 of interest and $170 reducing the balance, before new purchases or fees. The real statement has its own billing rules.
 
-**Narration:**
+For the interest-only home-equity line, $46,000 at the example's 8% rate costs about $307 a month without clearing principal. The payment-change date and repayment source belong beside that figure. With the other example debts, the 6.7% auto loan has a $600 payment and the 7.4% equipment loan has a $480 payment; removing those payments uses different amounts of cash, and the business still has operating needs.
 
-“This payment covers the interest in our illustration. Look at the principal: the $46,000 hasn't been paid down. We need to know what happens at the end of this payment period and how that money gets repaid. A small payment today doesn't answer the later question.”
+The listed payments are about $3,342 against about $19,417 gross income, roughly 17%. That's payment pressure before tax and other deductions. We'll use the available cash verified earlier to decide about extra payments; the ratio doesn't provide another pool of money.
 
-**Show:** Required debt service beside the same current cash-flow view. The teaching ratio uses $3,341.67 / $19,416.67 ≈ 17.21%. The original example's cash remaining after costs and employee contribution is $500. An actual underwriting DTI may use different inclusions; don't call this a loan qualification.
+**Overlay:** Required payment → interest + principal; DTI does not equal surplus
 
-**Narration:**
+**Verify:** Correct debt record, source and terms survive readback. Required/extra payments remain separate. HELOC date or guarantee omissions remain missing facts rather than inferred defaults.
 
-“The percentage uses gross income. Now look at the money remaining after the rest of the household's costs. The ratio hasn't accounted for all those other uses, which is why we read both before considering a new payment.”
+**Capture dependency:** PR #227 Debt detail owner/contextual writer, payment schedule and source freshness. Exact card billing/minimum rules and HELOC maturity require the reviewed extension. No debt is duplicated or newly adopted by this review.
 
-Compare a weaker-income case only with reviewed assumptions. Morgan remains a variable-income second earner in the actual source; a single-income household is a verbal variation, not a changed fact. Keep the $7,200 essential outflow's included required payments from being added again.
+#### Chapter 2 — Separate household leverage from loan collateral · after 3.6
 
-**Screen checks:** Exact debt editing, source evidence, minimum versus extra, interest-only support, term/maturity/reset and current income/tax treatment; save/readback. Unknown terms stay identified. No invented amortization, maturity or guarantee.
-
-**Member finish:** Explain the payments, what they do to principal, what can change and the obligation most exposed to weaker income. No extra-payment choice is saved merely from reviewing the record.
-
-#### Chapter 2, after 3.2 — read household leverage separately from collateral
-
-**Show:** Included assets and total debt, then net worth as a separate subtraction. Use the source's $1,996,000 assets and $444,500 debt. Make the home and dedicated/restricted accounts visibly different from accessible cash. The simplified fixture omits vehicle/business values while including their debts.
+**Show:** Read included household assets and debt, with net worth separately. Use the unchanged balance-sheet and partial-stress graphics unless the exact app scenario is verified. Keep the household-resource comparison here; lender-specific LTV mechanics belong to A3.1 and conditional chapter 5.
 
 **Narration:**
 
-“Here is what is included in the asset total. We're comparing the debt with that value before subtracting what they owe. Net worth is the amount after the subtraction. Neither number tells us that all this money can be used tomorrow.”
+Here we're looking at the resources supporting the household's debt. The example includes $1,996,000 of assets before subtracting $444,500 owed. That's about 22% debt-to-assets; subtracting the debt leaves $1,551,500 net worth.
 
-**Show:** The same debt under the stated partial stress: Bitcoin exposure −70%, selected stocks −30%, home −20%, other included values unchanged. Assets become $1,217,200; DTA moves from 22.27% to 36.52%. Use a separate labeled graphic or worksheet unless the app demonstrably computes that exact scenario. Do not present it as an integrated worst-case result.
+Notice what those totals include. The home and retirement, education and health accounts have different access rules and other jobs. We also omitted vehicle and business-equipment values while including their debts. This is a teaching balance sheet, not a complete appraisal or a pile of accessible repayment cash.
 
-**Narration:**
+In the partial stress illustration, Bitcoin exposure falls 70%, selected stocks fall 30% and the home falls 20%. Education and health values are held unchanged. Included assets become $1,217,200, while debt is still $444,500. The ratio rises to about 37%.
 
-“The debt hasn't changed between these two views. The investments and home are worth less. That is why the ratio rises. Before reacting to that percentage, we'll ask whether the payments still fit and whether any particular lender has a right to act.”
+That shows what lower values do to the household measure. It doesn't test every bad outcome or tell us what one lender can require. For a collateral-backed loan, the actual agreement and accessible response money need a separate check. If Bitcoin backs your loan, complete the Bitcoin-loan lesson before the collateral walkthrough. We'll record ordinary repayment and fallback when we bring the debt choices back to Cash Flow.
 
-**Show:** Explain a collateral-specific LTV only in a distinctly labeled hypothetical case; the source has no Reed Bitcoin loan. Use the existing fixed-debt 50%-to-80% and 25%-to-80% threshold examples. Keep the share of total Bitcoin pledged separate.
+**Overlay:** Household DTA: 22.27% → 36.52% · One loan’s LTV uses pledged collateral
 
-**Narration:**
+**Verify:** Assets/debt/net-worth denominators remain distinct. Stress assumptions/exclusions are visible. No example household Bitcoin loan or integrated worst-case result is fabricated.
 
-“This loan is measured against its own collateral, not against the whole household. Home equity elsewhere doesn't stop the lender from acting here. What matters is the agreement and whether the household has an acceptable response available in time.”
+**Capture dependency:** Exact supported asset denominator and scenario fields. Source partial stress: BTC exposure −70%, selected stocks −30%, home −20%; education/health unchanged; vehicle/business values omitted while debts included. Preserve partial scope; no fixed-debt collateral threshold demonstration in this chapter.
 
-**Screen checks:** Actual denominator, precise supported stress, source/result identity and assumptions; no synthetic values pasted into a real result. Lender warning, call, liquidation and discretionary rights must be separate and contract-specific. The generic 80% line is not a current provider claim. Do not invent an existing loan or a provider connection for this recording.
+#### Chapter 3 — Choose and save affordable debt actions · after 3.1
 
-**Member finish:** Explain monthly payment pressure, household DTA and a loan's LTV as separate measures, plus the actual accessible resources for a response.
-
-#### Chapter 3, after 3.3 — choose each debt's next action
-
-**Show:** Start with the card, then contrast the mortgage before reviewing the other obligations. Read the fixture's rates as teaching values, not current offers. Existing vocabulary Eliminate / Evaluate / Strategic / Monitor can be shown as a teaching guide; don't stage automatic tags or universal thresholds.
+**Show:** In Plan → Scenarios, compare extra card payments against the same current inputs and Reserve claim. Inspect payoff/interest and Cash Flow effect. Use Debt detail’s approved save path only after choosing the action, then read it back. Contrast the low fixed mortgage and review the other debts without fabricating finalized choices.
 
 **Narration:**
 
-“This card is costing 20.9% in the example. We want to reduce that cost, but we also need to leave the household able to pay for an interruption. Let's put the extra payment beside the Reserve rather than decide those two amounts in separate places.”
+We're continuing the reduced-spending test. Your actual surplus stays unchanged until the spending changes happen. Here we're comparing the card with $500 going to the Reserve and $1,200 of extra card principal. The required $405 was already counted, so the total card payment is $1,605.
 
-**Show:** The reduced-spending state has $1,700 after existing costs and employee contribution. Proposed $500 Reserve plus $1,200 EXTRA card uses it once. The illustrated current $405 required card payment is already deducted, so card TOTAL is $1,605. The approximate first-month interest graphic ($235) is not an actual billing receipt.
+Let's read the payoff date and interest under that comparison, then see whether required payments and the Reserve still fit. With the mortgage, we're weighing interest avoided against cash becoming home equity. Extra principal may shorten the term without reducing next month's payment, and property costs continue after payoff.
 
-**Narration:**
+Once you've chosen an affordable action, we'll save it in Debt and reopen it to check the terms. Changing the lender payment is a separate outside step. The saved choice is what we carry back into Cash Flow, so it only uses the money once.
 
-“The required payment has already come out before this remaining amount. We're deciding on another $1,200 toward the card, while keeping $500 for the Reserve. Together they use the $1,700. We can't also treat that same money as a new investment contribution.”
+**Overlay:** Reduced example: $405 required + $1,200 extra = $1,605 card total
 
-Compare a faster Reserve/slower extra-debt variation verbally without selecting a new Reed amount: dependents, reliance on one income, existing accessible cash and reliable continuing income can change the pace; required payments continue and slower debt reduction costs interest.
+**Verify:** Comparison does not silently change Current; selected save is counted once in Debt and Cash Flow. Mortgage escrow/property costs remain correctly funded. Each other debt has a choice or precise unresolved term.
 
-**Narration for the mortgage:**
+**Capture dependency:** Approved future Scenario-to-owner decision flow, extra-payment capacity semantics, debt strategy save/preview behavior, payoff calculation and save/reload. Preserve separate source $500 Reserve and $1,200 extra. No predetermined app payoff date or automatic lender payment.
 
-“The mortgage is the larger balance, but it has different terms. Paying extra would use money that could stay accessible or serve another goal. We'll compare what the payoff improves and what it takes away, rather than make the largest balance the first priority automatically.”
+#### Chapter 4 — Compare one financing purpose through its exit · only for a proposal after 3.4 and relevant A3.2 sections
 
-**Show:** For each debt, record an action, reason and next review in actual supported fields or the existing worksheet. The source does not supply finalized keep/pay/refinance jobs for every non-card debt; proposed examples must be labeled as such. Keep equipment guarantees, HELOC maturity and any missing terms unresolved until supplied.
-
-Read the actual modeled card payoff schedule only with a reviewed minimum-payment policy, dates, fees and no-new-charges assumption. Explain scheduled versus extra payment and interest. Do not publish a guessed payoff month or set all card minima to $405 forever without identifying that modeling choice.
-
-**Screen checks:** Actual debt-job/extra-payment support; where extra cash comes from; save versus preview; amortization assumptions, interest calculation and readback. Extra principal doesn't automatically imply a lower next payment. Mortgage payoff must leave any continuing property taxes/insurance/upkeep in spending.
-
-**Member finish:** Each debt has a decision or a specific missing fact, and all proposed extra payments fit beside the Reserve. Actual lender-payment changes are outside actions, not something the course app has performed.
-
-#### Chapter 4, after 3.4 and 3.5 — compare one financing purpose on equal terms
-
-**Show:** One hypothetical $30,000 project at one reviewed date. Keep an additional Bitcoin purchase as a separate proposal. Compare cash, an eligible sale and one relevant faithfully modeled financing arrangement, with a smaller project or delay still visible. The original fixture does not establish exact project or offer terms.
+**Show:** Use Plan → Scenarios for one hypothetical $30,000 project at the reviewed date. Compare cash, a supported taxable sale and one eligible financing arrangement, plus smaller/delay. Read cash retained, payments, fees, collateral and ending principal. Use a separate graphic for $20,000/8%/60-month amortizing-versus-interest-only arithmetic.
 
 **Narration:**
 
-“We're comparing ways to fund the same project. First, see what paying cash would use. Taking $30,000 from the $32,000 assigned to the Reserve leaves $2,000 there. That's the trade-off we need to see, not just the fact that no new loan appears.”
+Use this take if you're comparing financing. Otherwise, continue to the repayment rules for your existing debts. We'll use the same purchase amount and date in each version. Paying $30,000 from the $32,000 Reserve leaves $2,000 for that job. A taxable sale needs enough proceeds after its actual tax cost. Financing keeps cash initially, but the payment has to fit beside the Reserve and card.
 
-**Show:** For financing, examine cash retained, fees, the required payment, ending principal/settlement and collateral. For a taxable sale, require genuine fictional basis/tax inputs; no invented zero basis or a predetermined tax saving. Read the actual cash source after any tax, not only gross sale value.
+The final balance is part of that comparison. In our separate $20,000 example, about $406 a month pays the loan down over five years; about $133 interest-only leaves the $20,000 owed. A refinance needs the full replacement mortgage priced, while unusual terms need their actual settlement formula, guarantees and use restrictions.
 
-**Narration:**
+We'll keep any contract term the app doesn't represent beside the comparison and resolve it before choosing. A smaller or delayed project may be the affordable answer. Whichever direction you choose, the payment and principal exit go into the debt rules next.
 
-“Financing leaves more cash at the start. Now look at the payment beside the money already going to the Reserve and card. What would change to make room? The proposal hasn't become affordable simply because we can enter a loan.”
+**Overlay:** Same need/date → cash left → payment → final balance → repayment source
 
-**Show separately:** The existing generic $20,000, 8%, 60-month repayment illustration. Approximately $405.53/month amortizing, $4,331.67 total interest; approximately $133.33/month interest-only, $8,000 interest over 60 months and $20,000 principal still owed. Use full-precision arithmetic before rounding. This is not the project's financing offer and must not be substituted for it.
+**Verify:** Equal need and dates, actual source tax, complete repayment shape and constraints. Proposal remains separate; no application or approval. Unsupported settlement terms prevent a model-complete conclusion.
 
-**Narration:**
+**Capture dependency:** Reviewed fictional offer/date, taxes/basis, permitted uses and guarantee terms; approved Scenario expressiveness. Generic arithmetic: $405.5279 amortizing, $4,331.6735 total interest; $133.3333 interest-only, $8,000 interest plus principal. HEI/shared appreciation requires its actual formula; do not approximate it as an ordinary loan.
 
-“This smaller payment is interest only. Follow the balance to the end: the principal is still there. We need to know where that repayment comes from before choosing it just because it costs less each month.”
+#### Chapter 5 — Size and operate a Bitcoin-backed loan · only after A3.1 when Bitcoin collateral applies
 
-**Show:** Inspect the terms relevant to the chosen source. A cash-out refinance changes the full mortgage, an SBLOC has permitted-use restrictions, a plan loan has employment/repayment consequences, and a shared-appreciation agreement has its own settlement. Use the existing worksheet and qualified review for unsupported terms. Do not run every financing structure as though it were the same loan with a different label.
-
-**Narration:**
-
-“Before we compare the outcome, check that the calculation represents the agreement. An interest-only loan, a loan with a final balloon, and a contract linked to the home's value can have very different amounts due later. If that term isn't included here, we need to analyze it separately before relying on this result.”
-
-Test weaker income, higher variable costs, lower investment/collateral values and unavailable refinancing only under stated assumptions. Explain the actual cash and balance consequences. A favorable retirement score doesn't certify repayment, collateral or provider safety.
-
-**Screen checks:** Same project/date, fee treatment, use of proceeds, source tax and holdings, payment shape, principal exit, collateral and return to Current. No application, provider quote, approval or executed loan. If an important term cannot be represented, hold the dependent conclusion. Smaller/delay may be the completed decision.
-
-**Member finish:** Explain cash afterward, payments, ending obligation, repayment source and the material trade-off, or identify the contract question preventing a choice.
-
-#### Chapter 5, after 3.6 — write the repayment and response rules
-
-**Show:** The existing debt/financing worksheet or supported record. Start with purpose and maximum intended borrowing, then monthly funding, principal exit and relevant dates. This is a course planning record, not a legal agreement or an automated control.
+**Show:** Conditional A3.1 capture only. Use the existing debt instructions/worksheet alongside Debt for an actual Bitcoin-backed loan or Plan → Scenarios for a proposal. Use a separate generic $50,000/3.5 BTC sizing graphic and authorized non-broadcast procedure diagram. Keep 50%/25% fixed-debt decline-to-threshold graphics here when explaining initial collateral; do not create an example household Bitcoin loan or initiate a real top-up. Ordinary debt instructions are in chapter 6.
 
 **Narration:**
 
-“Write the ordinary repayment first. Where do the payments come from, and how does the loan end? If that answer includes a sale or refinancing, name the amount, date and fallback rather than leaving it as something to decide later.”
+This take is for a Bitcoin-backed loan after you've completed its situation lesson. If that doesn't apply, go to chapter six. We'll use the actual contract and a separate sizing example here, with wallet secrets kept out of the record. We start with the full obligation before deciding how much collateral to post. This example dedicates 3.5 BTC to $50,000 of debt when Bitcoin is $100,000. After an 80% decline, those coins are worth $70,000. If posted in time, that's about 71.4% LTV. At the assumed 80% liquidation line, 3.125 BTC only reaches the boundary. The 3.5 BTC provides some room, but any stricter call-cure or maturity term still has to be met.
 
-For a collateral-based proposal, separate the personal review point, lender call/action rights and liquidation. Name the actual accessible response resource, transfer/access time and maximum further exposure. No new numeric safety limit is supplied by this lesson.
+The $50,000 opening amount assumes separately funded interest and fees. One hypothetical year of 12% capitalized interest makes it $56,000, exactly 80% of the stressed $70,000. So if costs accrue, the initial principal needs reducing or more Bitcoin needs dedicating before borrowing.
 
-**Narration:**
+After sizing the debt, posting 1 BTC starts it at 50% LTV and leaves 2.5 BTC reserved in cold storage. Posting all 3.5 starts the same loan at about 14.3%. The smaller initial deposit reduces lender exposure but needs a faster response. With fixed debt and our assumed 80% liquidation line, the 50% starting position reaches it after a 37.5% price fall. Posting enough for 25% initially allows a 68.75% decline to the same line; that comparison shows more upfront collateral, not a preferred starting level. Reserved coins only count for lender LTV after they arrive and are credited. That's why the top-up trigger, amount, access time and maximum collateral exposure belong here. An automatic feature can't reach into your cold wallet; the actual funding and confirmation requirements still apply.
 
-“Now imagine the review point has been reached. What would you do, and which money or collateral would you use? If that money is already needed for essential bills, we haven't found a spare resource. And if adding collateral would exceed the exposure we're comfortable with, the plan needs another response.”
+Repeat borrowing uses the same supporting resources too. In the recurring illustration, $25,000 becomes $28,000 after 12% interest. The next $25,000 draw makes $53,000, and another 12% makes $59,360. We can't reuse the same spare collateral for each draw. If the payment, timed response or final repayment still lacks a resource, the proposal stays unchosen. Once the rules are supported, we can carry the chosen obligation back into the household cash flow.
 
-**Show:** A maturity or refinance-unavailable case and an operator-unavailable case. Record the monitoring owner and backup without recovery words, private keys, passwords or exact secret locations. A conventional loan doesn't require a fictional Bitcoin monitoring setup.
+**Overlay:** Debt first → collateral placement second · Posted BTC and dedicated BTC have different jobs
 
-**Narration:**
+**Verify:** The Bitcoin loan's exit and unavailable-operator fallback are usable. Conditional worksheet preserves costs, exact boundary, stricter cure, timely crediting and combined repeated debt. No double-used BTC, automated cold-wallet claim or signed/executed loan.
 
-“Someone else should be able to see that this obligation exists and know where to begin if you're unavailable. They don't need all the calculations. They do need to know when an issue needs attention and whom to contact.”
+**Capture dependency:** Actual contract, advanced modeled terms, saved liquidation selection, cost-accrual rule, source identity and approved scenario receipt. D63 parity/fix-first gates remain app implementation work. Any provider procedure requires safe independently authorized capture with no broadcasting, credentials or secret exposure; illustration is not proof a lender accepts the arrangement.
 
-**Screen checks:** Actual contract language, recorded dates, supported notes/reminders and operator permissions. No guarantee that alerts prevent liquidation, that a grace period exists, or that another loan will be available. The source has no active Reed Bitcoin-backed loan; keep a new proposal in the comparison.
+#### Chapter 6 — Carry one debt decision into Cash Flow and Allocation · after 3.6
 
-**Member finish:** Usable repayment and response instructions appropriate to the debt, or no new borrowing. All unresolved contract facts remain open rather than marked completed.
-
-#### Chapter 6 — return the same money to Cash Flow and Allocation
-
-**Show:** Reconcile the same reduced-spending choices: $2,475 before Alex's $775 contribution; $1,700 after it; $500 Reserve plus $1,200 extra card; no remaining unassigned cash in that comparison. Read the one debt decision in Cash Flow, not an independently entered duplicate.
+**Show:** Return to Cash Flow → Debt payments and Saving and investing. Read the saved extra claim from Debt without entering it twice. Record ordinary debt payment source, principal exit, relevant dates, fallback and responsible/backup person in the instructions worksheet beside the debt record. Read the reduced-state assigned amount without replaying the gross-to-net bridge, then show the distinctly future payoff condition and hand current/future claims to W04.
 
 **Narration:**
 
-“We haven't created another pool of money on this page. The extra debt payment is the one we just chose. After the employee contribution, the Reserve and that extra payment use the remaining amount. This is the starting point Allocation needs.”
+Let's record the ordinary repayment instructions for each debt you carry or choose. If no debt applies, continue to Allocation with your available cash.
 
-**Show:** A distinctly future card-payoff point only after an actual supported schedule exists. The source's $405 required plus $1,200 extra gives $1,605 released if those payments were still being made at payoff; recheck actual amounts, other changes and any final residual charge. Keep the Reserve contribution separate. Don't increase present cash or assume an automatic brokerage transfer.
+For this obligation, we're naming what pays the regular bill and what repays principal. If a sale is the exit, record the amount, date and response to smaller or late proceeds. If refinancing is planned, include what you'd do if approval isn't available.
 
-**Narration:**
+Now put any payment-change, review and maturity dates with the person responsible. A trusted backup needs to recognize a time-sensitive problem and find the safe instructions if you're unavailable. Keep secrets out of this record. Collateral borrowers bring in the funded response already worked through in their contract lesson.
 
-“When the card is gone, the money that had been paying it can do something else. It isn't additional income today, and it doesn't mean every future month is identical to this one. We'll check the payments that actually ended, then decide where the released money should go.”
+Once the choice is saved, let's read it back in Cash Flow. The reduced-spending illustration assigns its $1,700 to $500 Reserve and $1,200 extra card; there's no additional investing amount in that split. Required payments and existing saving were already included.
 
-**Show:** A clean handoff of current extra-payment totals and separately labeled future routing conditions to W04. Changing a payment with a lender and arranging a bank transfer remain outside actions unless actually executed through a separately authorized system; no such action occurs in this course preparation.
+When the card is actually paid off, verify the payments that ended and any remaining charge. If the $405 required and $1,200 extra were still being paid, that releases $1,605. That future money needs a new decision; it doesn't automatically become an investment transfer today.
 
-**Screen checks:** One decision counted once, same saved input state, result freshness, current-versus-future timing, actual start/stop support and readback. Do not silently select a new future investment allocation; preserve the existing future illustration for W04.
+We'll take the chosen commitments and that future review condition into Allocation. Then we can choose where contributions go using the money actually available.
 
-**Member finish:** Explain today's Reserve/debt claims and the future condition that will reopen the contribution decision.
+**Overlay:** Today: $1,700 assigned once · After payoff: verify the released $1,605 before routing
 
-### Readback and finish
+**Verify:** Debt and Cash Flow read one saved state. Required payments, Reserve and payroll saving are not duplicated. Future payoff money does not appear in current surplus or an automatic transfer.
 
-The member can explain the payments, household leverage and any lender-specific exposure; give each existing debt a reasoned job; compare one potential financing decision; and describe a repayment/response plan. Current extra payments fit the same cash flow as the Reserve. Unchosen loans, future payoff money, missing terms, actual lender actions and recording evidence remain distinct. Allocation receives the real current claim, not a second version of the surplus.
+**Capture dependency:** D37 payoff/removal semantics and D32 saving owner; exact source state, schedule, future start/stop and readback. Preserve W04’s existing conditional allocation illustration. No bank or lender action is implied by the planning save.
 
-### Source and production notes
+### Member checkpoint
 
-This is one replacement recording plan, not a summary plus an alternate cue set. It pairs 3.1–3.6 without expanding or renumbering the course. Original source terms, purposes, debt tolerance and same-money logic are retained. The sources and narrow primary checks are in the paired lessons and HANDOFF.md. Original call content contributes teaching patterns only; no raw transcript, identifying client fact or past interface behavior is presented as current.
+Each debt has verified payment terms and a chosen job or a precise missing contract answer. Required payments, Reserve funding and extra debt use the monthly money once. When new financing is being considered, its comparison includes cash retained, affordable payments, ending principal and a funded repayment source; leaving the proposal unchosen is valid. Any chosen saved debt action reads back correctly, with ordinary repayment instructions in chapter 6 and lender or bank changes listed separately. With no debt or proposal, continue to Allocation. If Bitcoin collateral applies, the separate operating sheet covers full debt growth, dedicated versus posted collateral, contract triggers, timely response and the principal exit before the loan is used.
 
-Preserve the accepted Reserve lesson and all of W02, the Reed source fixture, member toolkit, original dictation, capture register and historical cleanup. This run sheet does not prove an app calculation, a signed loan, a provider/device operation, legal authority, learner comprehension or publication readiness. Final recording needs the approved build and real evidence for the behavior shown.
+### Source and continuity notes — not spoken
 
-### Application in the member's own plan — production guidance
-
-Use the member's own debts, current cash flow and chosen Reserve pace. Apply the existing comparisons only when a financing choice is relevant. The work is making a funded repayment choice in their plan, not reproducing the Reeds' split or passing a separate arithmetic test.
+The paired teaching scripts retain their deck/source IDs and dated research boundaries. Original dictation, accepted Reserve reference and prior manuscripts remain preserved; this stepwise rewrite follows Austin’s September 10 authorization. It changes no household fixture, financial model, provider state, learner account or real-world financial instruction. Build-dependent proof, final voice review and any qualified review remain separate.

@@ -1,155 +1,200 @@
 # W01 — Build the first working plan
 
-Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction for preparation only; no exact control or financial result is approved by this run sheet.
-
+Status: CONVERSATIONAL_CAPTURE_REVIEW — revised demonstration narration; actual app/device capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: FOUNDATION, DICTATION, APP
 
-### For your situation — recording route, not spoken
+### Production basis — not spoken
 
-- After 1.4, [A1.1](../../reference/custom-assumptions.md): You need custom assumptions or a holding-specific model to answer a planning question. Complete before relying on the custom assumption or override. Return to W01 chapter 8, then lesson 1.5.
+Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged example household data and a separately reviewed synthetic extension supply all household facts. Use [Client] and [Partner] as display labels throughout capture. [Client] owns the workplace plan and Roth IRA and has the age-52 work goal; [Partner] has the business income and a separate work timeline. Use these roles in account labels too. The original source identifiers are internal references, not filming labels. Use separate takes after the paired lessons. Chapters 3–5 are optional record-specific branches, not a mandatory cleanup project for every learner. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
 
-### Run sheet
+#### Chapter 1 — Find the first task · after 0.1
 
-Use the unchanged Reed fixture plus a separately reviewed capture extension for missing dates, tax jurisdiction and mapping, debt schedules, benefits, payroll election, security identities and event details. Never treat software defaults as source facts. Record each chapter after its paired lesson using an isolated, authorized demo environment. No hosted write or live provider operation is authorized by this manuscript.
-
-Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
-
-#### Chapter 1 — Find the first task
-
-**Show and do:** After 1.1, open the actual starting state. Orient only the next task and its owning screen. Use the existing mortgage, expected college and possible renovation to distinguish facts, events and scenarios; keep assumptions with the saved starting plan.
+**Show:** Open the intended Home → Your Plan entry, then Plan → Build & improve. Point to the next incomplete source record. Show the four destinations only as orientation. Use a separate three-line card for the existing mortgage, expected college support and possible renovation.
 
 **Narration:**
 
-“We are starting with what is true today. This is the next record to complete. The mortgage already exists; the college support is expected; the renovation is still a question. Keeping those separate gives us a starting point we can return to after a comparison.”
+We're going to start building the plan from the information you have today. Here on Home, I'll open the plan and use Build & improve to get to the next piece we need.
 
-**Verify before recording:** Verify Home, Plan, Cash Flow, Protect and the actual Build & improve entry and owning editor. The guide must not create a second fact store. Minimum inputs and any preliminary estimate must match the approved build; no invented success percentage.
+Before we add anything, notice the difference between these three examples. Our example household's mortgage already exists, so it's a debt. College support is a future commitment with dates attached. The renovation is still an idea, so we'll compare it separately.
 
-**Member finish:** Find the next task and classify a current fact, expected change and what-if.
+Let's begin with the first account that needs attention, with the latest statement beside it. We'll work through that record before moving on, so we can see where each number comes from.
 
-#### Chapter 2 — Review accounts and holdings
+**Overlay:** Current fact · Expected change · Possible choice
 
-**Show and do:** After 1.2, demonstrate one cash account, one investment account and direct Bitcoin. Use source checking $18,000, Alex Roth $145,000 and direct location 3.4 BTC at the frozen teaching price. Review existing records rather than duplicate accounts. Introduce the other accounts only as needed.
+**Verify:** The next task opens its actual owner, not a duplicate form. Starting Plan is clearly preliminary and has no success percentage. Return to the same task after viewing its record.
 
-**Narration:**
+**Capture dependency:** PR #227 foundation contract: Home/Plan/Build & improve and Starting Plan states on the approved implementation head. Confirm actual task ownership and empty-state behavior; no invented probability or minimum-input requirement.
 
-“This is who owns the account and how it is treated. These investments explain the balance inside it. Before moving on, compare the total with the statement. We want one account and one explanation of what it owns—not two copies of the money.”
+#### Chapter 2 — Review accounts and holdings · after 1.2
 
-**Verify before recording:** Verify entry, classification, owner, tax treatment, as-of and price handling and save/reload. Fixture categories are not exact fund identities. HSA/education holdings and provisional education owner require reviewed capture treatment. Do not infer native coins from fund exposure.
-
-**Member finish:** One record per account with supported owner, type, total and known holdings.
-
-#### Chapter 3 — Read connected-source coverage
-
-**Show and do:** Use an authorized synthetic connected-source example. Read actual coverage for balances, holdings, activity and purchase details, including an incomplete case.
+**Show:** Use Home → Your Money to open the category-filtered Accounts view and one account detail. Review the existing checking account ($18,000), [Client] Roth IRA ($145,000) and direct-Bitcoin location (3.4 BTC) in separate takes. Use the approved contextual add/update entry only where a record is missing.
 
 **Narration:**
 
-“The connection supplied this balance. Did it also identify the investments and purchase history? If the holdings are missing, don't call the balance cash. Check the statement to find what belongs inside the account.”
+Here we're looking at one account from the money category on Home. Before getting into what it owns, I'm matching its name, owner and account type to the statement. If it's already entered, this is the record we're reviewing. Adding another would count the same money twice.
 
-**Verify before recording:** Verify actual capability receipt and freshness; do not infer Fully synced from the institution name. No real client credentials, provider connection or paid refresh is authorized by this writing.
+The client's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
 
-**Member finish:** Explain what arrived and the supported next completion step.
+After saving, I'll reopen the account beside the statement to check the result. The next three takes handle specific record questions: what a connection supplies, a balance without holdings, and purchase history. Use the ones that apply. If your accounts are already explained, continue to chapter six for the monthly picture.
 
-#### Chapter 4 — Explain a balance-only investment account
+**Overlay:** One account · Correct owner/type · Holdings explain the balance
 
-**Show and do:** For the same account total, demonstrate the accepted multi-position entry or mutually exclusive Estimated mix. Use the source Roth category amounts $116,000 spot-fund exposure and $29,000 stocks only as categories unless a reviewed security extension supplies exact holdings. Confirm genuine cash independently and leave unresolved remainder unknown.
+**Verify:** One record per account. Quantity, total, owner/type and source date survive the saved readback. Direct Bitcoin and fund exposure retain different identities.
 
-**Narration:**
+**Capture dependency:** Foundation account-detail and maintenance writer paths, scoped ownership and truthful update dates. Fixture amounts require frozen-price treatment; actual holdings, HSA/education composition and any missing owners require a separately reviewed capture extension. Do not choose example tickers to fill gaps.
 
-“We know the total. Now we are explaining what is inside it. These amounts should add up to the same account value, counted once. Money we have not identified is a question to resolve; calling the remainder cash would answer that question without evidence.”
+#### Chapter 3 — Read what the connection supplies · only for a connected account after 1.2
 
-**Verify before recording:** Verify actual Holdings needed state, Add investments action, Shares/Current value or Estimated mix path, lookup, classifications, unknown basis/date, discrepancy handling, atomic save receipt and reload. No single-security shortcut, fake purchase or invented ticker. Hold this chapter when the complete accepted path is unavailable.
-
-**Member finish:** Explain the saved composition mode, total, confirmed cash and remaining unknowns.
-
-#### Chapter 5 — Attach history without another holding
-
-**Show and do:** Use a reviewed fictional purchase-and-transfer chain, plus a deliberate overlap. Compare the current quantity before and after accepted historical evidence. Keep unknowns visible.
+**Show:** Open account detail → How this account updates in an authorized synthetic connected-source case. Read the actual capability receipt for balance, holdings, activity and purchase details, including an incomplete case and its supported next step.
 
 **Narration:**
 
-“This tells us how the existing position got here. We are not buying it again. Follow the transfer from the old location to the new one, then check that adding the history has not increased what the household owns.”
+This account is connected, but let's look at what that connection actually supplies. The balance tells us the total. Holdings explain what's inside it. Activity and purchase details answer different questions about how it got there.
 
-**Verify before recording:** Verify certified import/mapping, actual transfer and deduplication behavior, retained basis and current-position reconciliation. No sale/repurchase substitute for unsupported transfers. Missing history does not block unrelated cash-flow work.
+If the total arrived without investments, that doesn't mean the balance is cash. The statement can help explain the composition in the next take. Missing purchase history stays with the question it needs to answer. We're also checking when the financial information was last confirmed; opening the page today doesn't make an older balance current.
 
-**Member finish:** History explains the current position without duplicate assets or invented basis.
+If the account still needs its investments explained, the next take shows how to do that. If the holdings are complete, use the history take only for relevant records; otherwise, continue to the monthly cash-flow setup.
 
-#### Chapter 6 — Enter the starting monthly picture
+**Overlay:** Balance · Holdings · Activity · Purchase details
 
-**Show and do:** After 1.3, review income meaning, current living costs, required debts and employee contribution. Show the original source bridge as a separate graphic where needed: $19,416.67 gross, $4,000 tax provision, $10,800 living, $3,341.67 required debt, $1,275 before employee, $775 employee, $500 remaining; $387.50 employer separate.
+**Verify:** The receipt describes the actual supplied products and timestamps. Missing positions are not shown as cash, zero holdings or fully synced; one supported next action is identified.
 
-**Narration:**
+**Capture dependency:** D34/D62 capability receipts and financial-fact freshness. Capture requires certified synthetic evidence and the approved receipt/recovery UI. No live credentials, provider connection, paid refresh or staged provider response.
 
-“Follow what has already come out. Alex is already contributing through work. The $500 is what remains after that contribution, not the total being saved. If the result differs from the bank records, we will investigate the difference in Cash Flow before assigning another transfer.”
+#### Chapter 4 — Explain a balance-only investment account · only when holdings are missing after 1.2
 
-**Verify before recording:** Verify gross/net fields, business operating costs and equipment payment treatment, payroll election, required-debt source, provision versus calculated liability and result update. Round only after full-precision calculation. Do not force the app to $500 with an unexplained override or activate reduced spending early.
-
-**Member finish:** Explain the initial income, costs and commitments and identify a real mismatch for W02.
-
-#### Chapter 7 — State the retirement question
-
-**Show and do:** Record preferred Alex age 52 and each person's separate intended work change. Use reviewed capture dates, adopted spending, healthcare, benefits and horizon; no exact birth date or benefit quote is supplied by the fixture.
+**Show:** At the same $145,000 Roth account, use Holdings needed → Add investments. Enter verified positions or use the accepted mutually exclusive Estimated mix path. Where identities are unresolved, show the source $116,000 spot-fund exposure/$29,000 stocks only as the estimated categories they support.
 
 **Narration:**
 
-“This is when Alex would like work to become optional. It is a question for the plan, not a result. Now check what spending and income describe that life, and which estimates still need work.”
+We know this Roth account is worth $145,000. What we're doing here is explaining that balance, so the plan knows how the money is invested.
 
-**Verify before recording:** Verify owners, age/date conventions, income end/start, today's/future-dollar units, horizon and saved readback. The source $96,000/$12,000/$40,000 retirement illustration is not automatically adopted. Missing material inputs prevent claiming a complete valid result.
+When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. In our example, there's $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
 
-**Member finish:** The intended life is recorded, with precise remaining input questions.
+Any cash needs to come from the statement too. We won't make an unexplained remainder into cash just to finish the record. After saving, let's reopen the account and make sure the composition explains the same total once. Any remaining difference stays visible until we can explain it.
 
-#### Chapter 8 — Read and test the assumptions
+**Overlay:** Fictional categories: $116,000 + $29,000 = one $145,000 account
 
-**Show and do:** After 1.4, read the actual chosen path in an early and later year. Compare one less-favorable growth assumption while keeping spending, contributions and work choices fixed; return to Current without adoption.
+**Verify:** Exact positions or Estimated mix is the saved composition, never both added together. Unknown basis/date remains unknown; no fake purchase, cash remainder or extra balance appears.
 
-**Narration:**
+**Capture dependency:** D65 complete balance-only workflow, multi-position entry, classification, estimated/exact mutual exclusion, discrepancy state, atomic save and reload. Keep this chapter pending if the approved implementation cannot perform the full path.
 
-“This is the assumption we changed. These household choices stayed the same. Now look at the year where funding differs. We want to know which decision depends on this belief, not just whether the headline moves.”
+#### Chapter 5 — Attach history to what you already own · when relevant records are available after 1.2
 
-**Verify before recording:** Verify preset path, units, supported custom periods and overrides, classifications, Current/Preview identity, freshness, cancel/save/reload. No old preset rates, return guarantee or unsupported security simplification.
-
-**Member finish:** Explain the model and the consequence of one controlled sensitivity.
-
-#### Chapter 9 — Read the first complete result
-
-**Show and do:** After 1.5, use the actual approved input/result receipt. Read intended and calculated dates, percentage, exact count and horizon, then inspect one meaningful funding year. Show a below-standard date honestly when it occurs.
+**Show:** In one account detail, use Upload account activity or the supported purchase-details route for a reviewed fictional buy/transfer chain. Show an overlap already present and its deduplication treatment. Record a transfer to self-custody through the accepted transfer flow, not a sale/repurchase substitute.
 
 **Narration:**
 
-“This is the date they chose, and this is what this calculation supports. Let's open the first year after work changes. What income arrives, what needs paying, and which account supplies the remainder? That is where we find the next useful comparison.”
+Use this take when you have purchase or transfer records for holdings already in the plan. Gather the exchange or brokerage records you can access; the price paid and relevant costs help establish purchase history for later tax work. If those records don't apply or aren't available, note what's missing and continue to chapter six. You don't need to repair an unrelated old purchase first.
 
-**Verify before recording:** Verify preliminary-to-full transition, actual standard and advanced settings, input completeness, freshness and save/reload. The 79% illustration remains outside the interface. Do not assert 800/1,000 as the actual default until verified. No preselected winning Reed result.
+Here, the purchase explains Bitcoin already in today's holdings. It isn't a new purchase today, so we don't invent today's date and price. The transfer from exchange to wallet moves the same position and history; it doesn't create a sale and repurchase. If the purchase is already here, accepting it again would duplicate it.
 
-**Member finish:** Explain the actual starting answer and one next accuracy check or realistic choice.
+For a Roth account, you don't need every internal trade just to identify today's holdings. Contribution, conversion and distribution records have separate jobs when we examine access and taxes.
 
-#### Chapter 10 — Ask about the populated plan
+I'll compare the household quantity before and after the history is attached. It only changes if we've identified a real position that was missing. Otherwise, we've learned more about the same Bitcoin. Unsupported purchase details stay unknown, and we can move on to the monthly starting picture.
 
-**Show and do:** After 0.2, ask one question about the actual number already shown. Trace the real response back to the relevant rows. Demonstrate market-report and outside-AI-summary inserts only after proving availability and content.
+**Overlay:** Existing holding + supporting history = the same Bitcoin counted once
+
+**Verify:** No duplicate quantity, transaction or lot; transfer retains history and basis without a taxable-sale substitution. Deliberate overlap is recognized; unresolved discrepancy remains visible.
+
+**Capture dependency:** Certified upload adapter, scoped mapping, transfer ledger, history/position reconciliation and deduplication receipt. A safe synthetic fixture needs dates, fees and provenance supplied before capture. Missing history does not block unrelated cash-flow work.
+
+#### Chapter 6 — Enter the starting monthly picture · after 1.2
+
+**Show:** Open Cash Flow → Income, Taxes and withholding, Everyday spending, Debt payments and Saving and investing as needed. Enter original source state only. Present the exact example household cash bridge as a separate teaching graphic, never a fabricated app result.
 
 **Narration:**
 
-“We have one question and the numbers behind it. Check whether the explanation uses the same date and inputs. If it does not, stop there rather than changing the plan to agree with it. Once the number is clear, choose the next check or comparison.”
+Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. The client's gross pay is before deductions. Their partner's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
 
-**Verify before recording:** Verify Ask context/permissions, source links, no implicit adoption, report dates/sources and actual summary-export schema/privacy. A restoration backup is not an AI summary. No staged AI response, assumed anonymization or silent omission of a promised unavailable feature.
+In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. The client's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
 
-**Member finish:** Explain one answer independently and handle any sharing or next action deliberately.
+Let's follow the app's actual result from its income and tax inputs. If it differs from the illustration, we need to understand those inputs before assigning another transfer. That's the monthly picture we'll use when we record the retirement question next.
 
-### Readback and finish
+**Overlay:** Fictional bridge: $1,275 before employee − $775 = $500; employer $387.50 separate
 
-The current facts, initial retirement question and assumptions produce an answer the member can explain. Known limitations remain named. The next work is the fuller cash-flow review, not a claim that every later planning decision is complete.
+**Verify:** Original spending remains $10,800. Required payments and payroll deductions are counted once. The source provision is distinguished from calculated tax and any genuine discrepancy is explained.
 
-### Production notes
+**Capture dependency:** D32/D48 income and withholding semantics, payroll election, business-loan inclusion, debt source and employer-match route. Exact inputs: $19,416.67 − $4,000 provision − $10,800 − $3,341.67 = $1,275. No balancing override to force the app to $500; approved tax jurisdiction and payroll details are required.
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+#### Chapter 7 — Record each person’s retirement question · after 1.2
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+**Show:** Use Plan → Build & improve to reach the accepted retirement timing and spending owners. Enter [Client]’s intended age 52, [Partner]’s separately supported timeline and the reviewed fictional spending/benefit/horizon extension. Show each date and dollar basis before saving.
 
-This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
+**Narration:**
 
-### Application in the member's own plan — production guidance
+With the starting facts in place, we can enter the work-change question you wrote down at the beginning. The client wants work to become optional at 52. That records their intention; the calculation will test whether it can be funded. Their partner's income stays on its own timeline.
 
-Use the member's own information throughout the existing setup and result review. Show how to find the source of a surprising number and how to compare a real question without silently replacing Current. Continue when the relevant step is understood and completed; do not insert a second household, quiz or answer-reveal task.
+For retirement spending, we'll begin with current costs, remove the ones that really end and add healthcare or other costs that begin. The dollar units shown here matter, so we don't apply inflation twice. Any Social Security or pension estimate belongs to the right person and start date.
+
+Once this is saved, we have a question to test. A missing benefit estimate stays visible until there's a source for it. Next we'll read the assumptions the plan uses to look beyond today's facts.
+
+**Overlay:** Work date · Spending basis · Each person’s income · Horizon
+
+**Verify:** Saved timing affects the correct person once. Spending units, horizon and sourced benefits survive readback; no missing benefit is replaced with invented income.
+
+**Capture dependency:** Approved timing/spending owners and date conventions. Source fixture supplies age-52 intent, not birth dates or a final benefit quote. Do not automatically adopt the separate $96,000/$12,000/$40,000 retirement illustration as the baseline.
+
+#### Chapter 8 — Read assumptions and test one change · after 1.4
+
+**Show:** Open Plan → Overview → Assumptions to identify the approved build's actual new-plan standard preset and read its saved path, inflation, income growth and horizon. Retain it unless a reasoned change is being demonstrated. Use Plan → Scenarios for one less-favorable growth comparison with all household choices unchanged. Inspect early/later path years, then return to Current without adopting it.
+
+**Narration:**
+
+These are the assumptions behind the plan we just built. We'll start with the app's standard preset for a new plan and read what it means. You can keep it while you learn; changing it needs a reason beyond making the result look better.
+
+I'm looking at the return path in an early year and a later year, then inflation and the planning horizon. A declining growth path can be quite different from one fixed annual rate. Now we'll make a separate weaker-growth comparison with retirement timing, spending and contributions unchanged.
+
+Let's follow the first year where the funding differs and see which income or account has to do more. That tells us which household decision becomes harder under this assumption. Then we'll return to the current plan. Testing a weaker path doesn't choose it as the new starting assumption, and we can read the main result with that distinction clear.
+
+**Overlay:** One changed assumption · Same household choices
+
+**Verify:** Current and comparison identities remain explicit; only the selected assumption changes. Results are current for that comparison; returning leaves saved Current unchanged.
+
+**Capture dependency:** Approved Assumptions and Scenarios owners, actual new-plan preset identity, custom-path availability, holding classification and result-receipt identity. Confirm the standard preset exists and show its real name/values; do not infer a default risk level. No preset percentages or calculated outcome is supplied by the script; show the actual approved build.
+
+#### Chapter 9 — Read the first complete result · after 1.5
+
+**Show:** Read Plan → Overview’s full-Plan receipt: chosen timing/spending/horizon, displayed percentage and exact successful count. Open the first year after the work change and its funding detail. If the plan is still preliminary, demonstrate the specific missing input instead of presenting full results.
+
+**Narration:**
+
+Here we're ready to read the first complete result. I'll start with the work date, spending and horizon, because the percentage describes that question. The successful-path count tells us how many modeled futures funded it under these rules; it doesn't promise what happens to this family.
+
+Let's open the first year after work changes and follow the income, costs and taxes, then what investments have to supply. If that withdrawal is surprising, the event or obligation behind it is what we need to understand.
+
+From there, we can choose a fact to correct or a realistic change to compare. If the starting plan fits, keeping it is a valid result too, with its important limitation still visible. In the next take, we'll use Ask to help trace one of these numbers back to its source.
+
+**Overlay:** Question tested → successful paths → funding year → next action
+
+**Verify:** Percentage/count use the same full-Plan receipt, inputs and horizon. No chosen age is passed off as a calculated result. The year detail supports the explanation and no illustration is inserted into the interface.
+
+**Capture dependency:** D16/D50 preliminary-to-full states, exact standard, successful count, missing-input gating and automatic result currentness. The generic 790/1,000 teaching example must remain outside the app. No invented Refresh/Recalculate shell control.
+
+#### Chapter 10 — Trace an Ask explanation · after 1.5
+
+**Show:** Open Ask with the populated plan and ask a specific question about a visible result. Follow the actual response back to its source rows. Add a separately captured current market-report or outside-AI-summary demonstration only after availability and content verification.
+
+**Narration:**
+
+Let's use Ask for a question we can check against the plan. I'm asking it to walk from income to the monthly amount remaining and explain what's already been deducted. That gives us something concrete to compare with the cash-flow rows.
+
+The date, income, taxes and existing contribution all need to match. If they don't, we keep that question open and find the difference before changing the plan. We can use the same approach for a retirement withdrawal or a missing tax input.
+
+If you use an outside AI review, read the actual summary before sharing it. A restore backup has a different purpose, and removing a name doesn't remove every private detail. What we're taking forward is the fact or choice we need to work on. Next we'll go into Cash Flow and check how the monthly amount matches your records.
+
+**Overlay:** Ask for the source · Match the date and inputs · Choose the action yourself
+
+**Verify:** Actual response is traceable and no saved input changes implicitly. Export is identified correctly and inspected; no wallet secrets, credentials or assumed anonymization.
+
+**Capture dependency:** Approved Ask route/context/permissions and source links. Market report requires real date and sources; external AI feature requires actual availability and reviewed export schema/privacy. No staged AI answer, connected account action or outside message is authorized by this manuscript.
+
+### Member checkpoint
+
+Accounts and holdings reconcile to the available records without duplicate assets or invented history. Income, deductions, living costs, required debt and existing saving explain the starting monthly amount. Each person's work timing and the spending question are saved, the starting assumptions are identified, and one weaker comparison has been reviewed. You can trace the first complete result to its inputs and name the next improvement. If a missing source prevents that result, record the exact source and next action instead of treating the preliminary plan as complete.
+
+### Source and continuity notes — not spoken
+
+The paired teaching scripts retain their deck/source IDs and dated research boundaries. Original dictation, accepted Reserve reference and prior manuscripts remain preserved; this stepwise rewrite follows Austin’s September 10 authorization. It changes no household fixture, financial model, provider state, learner account or real-world financial instruction. Build-dependent proof, final voice review and any qualified review remain separate.

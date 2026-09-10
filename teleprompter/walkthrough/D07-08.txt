@@ -1,0 +1,5 @@
+Let's finish by recording exactly what this test showed. The receipt identifies the wallet, the recovery method, the date and the actual outcome. We'll include the receive, recovery and spending checks that completed, with anything unfinished left unresolved.
+
+That receipt stays separate from the status of a different funded wallet. The funded wallet needs its own appropriate safe verification, even when this practice test succeeds.
+
+In Bitcoin access, we can now record the scoped result and the next action without storing the recovery material. An Orange Plan data backup concerns plan information; it doesn't recover Bitcoin signing keys. We'll take this receipt into the custody walkthrough so the family can see what's been checked and what still needs attention.

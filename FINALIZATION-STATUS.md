@@ -1,27 +1,13 @@
-# Status — consolidated scripts for recording review
+# Filming package status
 
-The written consolidation is complete: **25 main scripts plus eight situation-specific scripts**. The 32 other recording drafts use condensed or retained source teaching; the accepted Reserve retains its example and reasoning with limited language edits. The former 65 teaching topics are accounted for in `production/consolidation.json`. Thirty-two old files are retired from the active script and generated reading trees, not hidden as another required course.
+The written package contains 25 main teaching scripts, eight situational scripts, ten separate app walkthroughs and one device walkthrough. [All scripts in one file](ALL-FILMING-SCRIPTS.md) includes the complete spoken teaching and walkthroughs with overlays and filming cues. Use [START-FILMING.md](START-FILMING.md) for recording order and [COURSE-METRICS.md](filming/COURSE-METRICS.md) for measured manuscript lengths.
 
-The main recordings retain the sequence: get started and build the first plan; cash flow and Reserve; debt; allocation and contributions; tax; retirement income; custody; family protection; maintenance and final review. Consecutive lessons that were working toward one decision now form one explanation. New introductions and repeated recaps are cut rather than concatenated.
+The subsequent [tightening pass](delivery/tightening-review.md) gives repeated explanations one primary lesson, makes examples selective, moves detailed borrowing mechanics into the conditional material and removes repeated family/maintenance tasks. The finished-plan lesson connects the retirement question, funding years, response and next action.
 
-The work uses the existing source-led technical corrections and the most recent owner-delivered script-only drafts. YouTube materials guide delivery only; their financial formulas and guarantees are not imported. Examples stay illustrative, with the actual Reeds' source data unchanged. The one new numerical extension in the Bitcoin-loan lesson is explicitly hypothetical and arithmetically checked, not a new contract or source fact.
+Austin found the first stepwise pass too much like an instruction manual. The subsequent conversational revision adds lesson introductions, connected explanations, transitions and spoken handoffs, using his original dictation and privately supplied coaching-call journey. His “yes” approved the example and delivery direction; it does not certify every rewritten line. The supplied calls are delivery references, not current app evidence or a pilot of this course. Raw transcripts and client details remain outside the public repository. A natural correction during recording can be folded back into the source and regenerated.
 
-## Member flow
+The walkthrough scripts use the future PR #227 direction. Capture each chapter after its named flow is verified against the actual redesigned build. The device demonstration also requires the exact safe procedure. [WALKTHROUGH-CAPTURE-DEPENDENCIES.md](filming/WALKTHROUGH-CAPTURE-DEPENDENCIES.md) carries the current chapter checks; the historical capture-evidence register is unchanged.
 
-Learn the decision, follow the app walkthrough, and apply it to your own plan. No separate homework, quiz, practice portfolio, submitted explanation, required post or instructor permission step. Real outside implementation such as payroll, provider, safe recovery or legal execution still requires the actual action; recording an intention does not perform it.
+The member flow is teaching, implementation and a completed decision in the member's own plan. No new worksheet, quiz, submission or practice portfolio is required. A saved plan choice, a funded reserve, a provider transaction and a legally effective document are different completion states. Each lesson identifies the applicable next action.
 
-## Production flow
-
-**Scripts → Austin records → text and graphics in editing.** No slide-deck prerequisite. Ten app working files and one device demonstration are kept as separate capture work, with their updated placement in FILM-ORDER.md. W02 and D07 retain their exact bytes and safety content; the new map supersedes their old lesson labels without claiming their behavior is verified.
-
-The previous capture register remains an unchanged evidence record. Current script IDs and chapter groupings are mapped in FILM-ORDER.md; removed IDs are historical labels, not more recordings. No hold has been marked passed by this edit.
-
-## What remains
-
-Austin's final spoken read-through and any specific voice/judgment corrections, actual recording, and later editing. Product-dependent teaching and walkthrough footage need the relevant approved build, inputs and real results. Device instructions need the exact safe procedure and scoped evidence. Targeted transaction, account, coverage or legal facts still need their applicable review.
-
-No new person has independently taken this course or built a plan during this pass. Source-based editing and software checks do not establish a sixth-grade reading certification, learner outcome, $3,000 value claim or released course-platform experience. Current references and the technical report retain their actual review dates; no new licensed approval is claimed.
-
-## September 10 targeted follow-up
-
-The borrowing and insurance passages now use Austin's latest approved reasoning. The annual spending lesson demonstrates the risk-based review through spending and Reserve decisions; hypothetical solver results remain labeled. Remaining voice edits, missing-basis consequences and security ordering are patched. [What changed and what Claude should cross-check](delivery/script-finishing-20260910.md). The source household, original dictation, toolkit and app/device capture evidence remain unchanged. This is the owner-review manuscript, not new footage or student launch approval.
+No beginner has completed the rewritten course with the finished app during this pass. Manuscript and software checks do not establish learner success. The focused pilot in [the course review](delivery/stepwise-course-review.md) is the next evidence needed before promising a confusion-free experience or a particular runtime. No source record has been marked as captured, professionally signed off or released by this edit.

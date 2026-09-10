@@ -1,0 +1,5 @@
+Seeing the expected balance is useful, but we also want to know whether the recovered setup can authorize a payment. That's the purpose of the small outbound transaction separately authorized for this test.
+
+Before confirming, we'll check the destination, amount and fee through the trusted device. If any detail differs from the intended transaction, we stop. The fee we use is the actual fee shown for this transaction; there's no universal fee or minimum-output amount to copy from a video.
+
+Once the payment has the required confirmation, we'll keep that evidence with the test record. That lets us distinguish seeing funds from demonstrating controlled spending through the recovered setup.

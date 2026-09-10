@@ -1,68 +1,64 @@
 # 6.3 — Budget healthcare and its tax effects
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice approval and actual capture remain separate.
+Status: STEPWISE_RECORDING_REVIEW — complete teaching script; owner voice review and paired capture remain separate.
 Kind: teach
 Gate: HEALTH_REVIEW, HEALTH_TAX_REVIEW
 Sources: BRAIN, OWNER, PRIMARY, RETIREMENT, TAX
 
+### Do this
+
+Choose a coverage path for each retirement period and enter its full cost, income effects and enrollment dates.
+
 ### Read aloud
 
-A lower health premium doesn't always mean a lower healthcare budget. Let's say one option has $12,000 of annual premiums and $3,000 of expected additional costs. That's $15,000.
+Healthcare deserves its own pass through the retirement plan because leaving a job can change both the coverage and the amount you pay for it. In this lesson, we're going to work out the coverage available in each period, what it could cost and how a withdrawal or conversion might change that cost.
 
-Another has $8,000 of premiums and $8,000 of expected additional costs. That's $16,000, despite the cheaper premium.
+The first date I'd want is when the current coverage ends. Your employer or provider can confirm it. From there, the relevant choices might include a spouse's plan, continuation coverage, Marketplace coverage or another eligible arrangement. We only need to compare options you can actually use.
 
-Those are example amounts, not insurance quotes. They show why we need the full cost before deciding how much retirement spending requires.
+A monthly premium is only part of the budget. Deductibles, copayments, coinsurance and prescriptions also affect the ordinary year. The network determines whether your clinicians and facilities are available. A difficult year can cost more, and an out-of-pocket limit may leave some services or out-of-network costs outside it.
 
-Start with what is actually available after work changes. A spouse's employer plan, continuation coverage, a Marketplace plan or another eligible arrangement may apply. Confirm when existing coverage ends and replacement coverage can begin.
+Compare the complete annual cost from the actual quotes, along with the cash you'd need in a difficult year. The cheaper premium may leave you paying more for the care you use.
 
-Then compare premiums with deductibles, copayments, coinsurance, network and prescriptions. Look at the ordinary year and a difficult year. An out-of-pocket maximum may exclude some services or out-of-network costs, so it isn't always a cap on everything the household could spend.
+If you're considering healthcare sharing or crowdfunding, read the member agreement separately. These aren't insurance, payment isn't guaranteed and the member remains responsible. Compare the exclusions and retained risk as well as the monthly contribution.
 
-Check the clinicians, facilities, medicines and treatment you expect to use. A low price doesn't solve the problem if important care isn't covered or accessible under the arrangement.
+The tax lesson connects directly to this budget. A gain, Traditional withdrawal or conversion can affect healthcare costs as well as tax. In a separate illustration, a $10,000 conversion adds $2,000 of tax and $1,500 of coverage cost. Together, that's $3,500, or 35% of the conversion. Looking only at the 20% income tax would miss $1,500.
 
-Separate the premium from the risk you're still carrying. Decide which cash or other resources would cover that difficult-year cost. Don't count a Reserve dollar for a medical obligation and another simultaneous commitment without checking the combined need.
+For Marketplace coverage, the income measure begins with adjusted gross income and adds tax-exempt interest, nontaxable Social Security and excluded foreign income under the program's rules. The standard deduction doesn't reduce that measure. The correct household members and coverage year belong in the estimate too.
 
-Healthcare sharing or crowdfunding arrangements are different from insurance contracts. CrowdHealth is one example of a noninsurance approach; its member guide doesn't guarantee bill payment, and members remain responsible.
+That means cash spent and income reported can differ. A taxable sale includes basis and gain; a fully taxable Traditional withdrawal adds a different amount of income. Qualified Roth money and cash already held differ again. If income changes, updating the estimate matters because advance premium assistance is reconciled. A late gain or conversion can create a repayment bill, even after earlier premiums have been paid.
 
-A household may value its services or cost structure. It also needs to understand eligibility, limits, exclusions, existing-condition treatment and the unfunded costs it may retain. Entering a monthly contribution doesn't establish that every future bill is covered.
+Medicare uses a different income calculation and timing. Income-related premiums generally use adjusted gross income plus tax-exempt interest from two tax years earlier. A qualifying life event may allow reconsideration. We need both years visible so the later premium effect doesn't disappear from today's conversion comparison.
 
-Once the coverage choices are clear, check the income used to price or subsidize them. A retirement withdrawal, gain or conversion can change more than the tax line.
+When the model doesn't calculate an applicable coverage effect, we still need the estimate and its cost in the plan. Leaving out the calculation doesn't keep the subsidy or premium unchanged.
 
-Consider a separate calculation for that interaction. A $10,000 conversion adds $2,000 of income tax under hypothetical circumstances. Let's say it also increases net coverage cost by $1,500. The combined current cost is $3,500, or 35% of the conversion amount, instead of the 20% suggested by tax alone.
+The enrollment dates are the other part I wouldn't leave until the last minute. Each person may reach Medicare at a different time. Once you're Medicare-eligible, COBRA or retiree coverage doesn't extend the normal active-employment-based Part B enrollment window. That deadline needs checking when employment or its coverage ends.
 
-These aren't current tax rates or subsidy estimates. They demonstrate why a conversion comparison must use the same income picture as the healthcare budget. A smaller conversion may have a different total cost.
+Premium-free Part A can be backdated up to six months when you apply after 65, but not before eligibility. Its effective date affects HSA contribution eligibility, including employer contributions. A high deductible alone doesn't establish eligibility. The last eligible month needs to be confirmed before contributions continue.
 
-For Marketplace coverage, the income measure starts with adjusted gross income and adds tax-exempt interest, nontaxable Social Security and excluded foreign income. The standard deduction doesn't reduce that measure. Include household members under the program's rules.
+And Medicare doesn't remove every expense. Premiums, prescriptions, supplemental or alternative coverage and cost sharing still need funding. One spouse may have those costs while the other remains on a different arrangement for several years.
 
-The cash you spend isn't necessarily the income you report. A taxable sale includes supported basis and gain. A fully taxable Traditional withdrawal has different treatment. Qualified Roth money and cash already held differ again.
+The walkthrough puts the selected costs and dates into those retirement periods and connects them to the same income estimate used for tax. You'll take forward a coverage path and the enrollment confirmations still needed. Then we'll compare the ways to fund the remaining spending, including a Bitcoin sale, another available asset or borrowing.
 
-Use the rules for the actual coverage year. Update the income estimate when circumstances change, and account for reconciling advance premium assistance. A late-year gain or conversion can require repayment of assistance already received. That cash belongs in the cost of the decision, not just next month's premium.
+### Text overlays — not spoken
 
-Medicare uses a different income calculation and timing. Its income-related premiums generally use adjusted gross income plus tax-exempt interest from two tax years earlier. Identify both the income year and the premium year, and check whether a qualifying life event permits reconsideration.
+| Exact spoken cue | Overlay copy | Editor treatment |
+| --- | --- | --- |
+| The first date I'd want is when the current coverage ends. | 1 · Coverage end → replacement start | Separate dates for each person. |
+| A monthly premium is only part of the budget. | 2 · Premiums + expected costs + retained risk | Compare the complete costs from reviewed quotes. |
+| The tax lesson connects directly to this budget. | 3 · Tax change + coverage change | Illustration: $2,000 + $1,500 = $3,500. |
+| The enrollment dates are the other part | 4 · Confirm enrollment and HSA dates | COBRA / Part B; Part A effective date / HSA eligibility. |
+| The walkthrough puts the selected costs and dates | 5 · Fund each coverage period | Show annual cost and any outstanding confirmation. |
 
-If the app doesn't calculate a relevant coverage effect, keep the verified coverage estimate beside the comparison and include its cost in the plan. If the model doesn't calculate a subsidy, don't assume the subsidy stays the same.
+### Walkthrough handoff — not spoken
 
-Finally, plan enrollment and coverage transitions. Many people become Medicare-eligible around 65. Eligibility, active employment coverage, enrollment and the effective date need coordination for each person.
+[W06, chapter 3](working/W06_build-and-test-the-retirement-paycheck.md), with W05 chapter 4 when a conversion changes the same income estimate.
 
-COBRA or retiree coverage doesn't extend the normal active-employment-based Part B enrollment window once you're Medicare-eligible. Check the deadline when employment or its coverage ends, instead of waiting for COBRA to run out.
+### Source and production notes — not spoken
 
-Applying for premium-free Part A after 65 can backdate coverage by up to six months, but not before eligibility. That effective date matters for permitted HSA contributions. Include employer contributions when checking the amount.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-More generally, a high deductible or a low premium alone doesn't establish HSA eligibility. The coverage and other insurance matter, including Medicare enrollment.
-
-Medicare also doesn't make healthcare free. Budget relevant premiums, supplemental or alternative coverage, prescriptions, cost sharing and other costs. One spouse may reach Medicare while the other needs a different arrangement for several more years.
-
-In Orange Plan, use the coverage costs and income belonging to each period. Check the dates and the cash needed for ordinary costs, retained risk and any assistance repayment. Compare a tax decision with its complete coverage effect before adopting it.
-
-That gives you a healthcare budget for each stage of retirement, based on the coverage and costs that apply then.
-
-### Production notes — not spoken
-
-Record the narration first. Text, graphics and supporting footage are added during editing. No slides, homework, quizzes, practice portfolio, submitted explanation or required post. The member applies the teaching to their own Orange Plan. Actual app and provider actions remain separate from a recorded intention.
-
-Consolidated from [6.3](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/06-3_price-healthcare-before-leaving-employer-coverage.md), [A6.1](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/advanced/A6-1_compare-healthcare-and-tax-decisions-in-the-same-year.md), using the later owner-delivered script-only pass for wording where relevant. The author supplied new transitions and shortened examples; this is not prior Austin dictation. The complete mapping, source hashes and retained qualifications are in [../delivery/consolidation.md](../delivery/consolidation.md) and [../production/consolidation.json](../production/consolidation.json).
-
-The existing [technical review](../delivery/professional-topic-review.md) and primary-source record retain their dated scope. This consolidation is source-based editing, not a fresh financial/legal research pass or licensed approval. All example terms are hypothetical unless explicitly identified as a source fact. No current rate, product quote, model outcome or successful device/learner test is invented. Specific financial and operational safeguards remain beside the decision they affect.
+Ordinary-year and difficult-year cost checks remain; the $10,000 conversion/$3,500 combined-cost illustration is the lesson's numerical example. The simple premium-addition example and named noninsurance provider were removed from speech. Healthcare.gov income guidance, IRS Publication 969 and Medicare enrollment guidance re-opened September 10. No new year-specific subsidy threshold, premium or contribution limit introduced. Model coverage gaps and actual quoted costs remain capture dependencies; any noninsurance arrangement needs its actual agreement.
 
 ### Member checkpoint
 
-Choose a coverage path and coordinated income/cost assumptions in the actual plan, with enrollment and HSA timing confirmed.
+Each retirement period has a priced coverage path, ordinary and retained-risk funding, relevant tax/coverage effects and confirmed enrollment dates or a specific pending confirmation.

@@ -1,0 +1,5 @@
+Here's the first year after work stops. I'm opening living costs, healthcare, required debt, tax and dated events to check that each appears once. The spending describes the life we're funding; it doesn't carry retirement contributions forward as living costs.
+
+Now let's read the income arriving in that year and the gap the accounts need to supply. I'm checking what that displayed gap includes, especially tax and debt.
+
+If something is missing or duplicated, we'll correct its source and wait for the updated result. Once the income, withholding and full costs agree, we can follow the money available for this year.

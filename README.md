@@ -1,46 +1,28 @@
-# Orange Plan Academy — recording scripts
+# Orange Plan Academy — filming scripts
 
-## [Start with the 25 main scripts](DICTATION-ORDER.md)
+**[Open the current course: all filming scripts in one file](ALL-FILMING-SCRIPTS.md)**
 
-**Consolidated September 9, 2026:** 25 main teaching videos and eight **For your situation** videos replace the former 65-script teaching inventory. Related explanations are combined, repeated openings and recaps are cut, and the useful examples and qualifications are retained. The accepted Reserve retains its example and judgment, with only the September 10 language edits. Internal lesson IDs are retained where useful for source tracing; they are not additional videos.
+The complete manuscript contains 25 main lessons, eight situational lessons, and 72 separately filmed app/device walkthrough takes, with spoken text, overlays, and production cues.
 
-Record the script first. Text, graphics and supporting footage are added afterward. **No slides, homework, separate practice portfolio, quiz, submission or required community post.** Learn the decision, follow the relevant walkthrough, and apply it to your own Orange Plan. Keep an existing choice when it already fits.
+The teaching is conversational, uses examples where they help, and hands each decision off to its walkthrough. Members build and maintain their own Orange Plan as they go.
 
-| What you need | Open |
-|---|---|
-| Main recording order | [25 main scripts](DICTATION-ORDER.md) |
-| Clean spoken text in one reading copy | [All scripts](ALL-SCRIPTS.md) |
-| Additional teaching for a particular decision | [Eight situation-specific scripts](ADVANCED-DICTATION-ORDER.md) |
-| Separate app recording and application | [Walkthrough mapping](FILM-ORDER.md) |
-| What was combined and where details went | [Consolidation record](delivery/consolidation.md) |
-| Actual lengths and scope | [Metrics](COURSE-METRICS.md) · [Status](FINALIZATION-STATUS.md) |
+[Start filming](START-FILMING.md) explains the two recording sessions. [Filming aids](filming/README.md) has the editor's overlays, pairing map, clean-take links, and capture checklist. Teaching can be filmed while the redesign finishes; walkthrough footage depends on verifying the relevant PR #227 flow.
 
-Ten app working-session files and one device demonstration remain separate production work. These are not eleven more talking-head lectures or homework. Exact screens, results, provider processes and safe device procedures still need actual verification before capture. The written course does not promise a particular retirement result.
+<details>
+<summary>For contributors: source files and checks</summary>
 
-## One editing source
-
-Edit `scripts/`. Only `### Read aloud` is spoken; the individual teleprompter files contain that text and nothing else. Production notes and member application directions remain separate. Indexes, section views and masters are generated from the same source. Read a For your situation lesson only when its condition applies.
+Edit teaching and walkthrough content in `scripts/`. The filming master, recording aids, and individual `teleprompter/` files are generated from those canonical scripts.
 
 ```sh
 python tools/guided_course.py build
 python tools/guided_course.py check
 python tools/guided_course.py test
-python -m unittest discover -s tests -p test_member_deliverables.py -v
+python -m unittest discover -s tests -p 'test_*.py' -v
 python tools/guided_course.py history
 ```
 
-These checks establish source mapping, synchronization, arithmetic and preservation—not independent learner comprehension, Austin's voice approval or licensed sign-off. History checks need a full checkout.
+Checks cover script completeness, generated-copy parity, arithmetic, cue matching, and source preservation. Use a full-history checkout for the history check. Actual filming, Austin's delivery review, and learner testing are separate.
 
-The earlier recording-only draft was never pushed. Its useful wording is incorporated where applicable and it is superseded by this consolidation, not a competing active master. Original materials, the fixed Reed fixture, member toolkit and actual capture evidence are preserved. Retired scripts remain recoverable from pinned Git history. The three retained task references are not further launch-filming assignments.
+The [current owner direction](reference/owner-stepwise-direction-20260910.md), [focused-script pass](production/FOCUSED-SCRIPT-PASS.md), and [future-app alignment](V1-COURSE-ALIGNMENT.md) guide later edits. Original dictation, reviewed source material, fixture data, capture evidence, and member toolkit remain preserved.
 
-The old Allocation slide package is historical and optional for a later editor. It is not the recording workflow. No new slides or graphics are produced in this pass.
-
-[Current handoff](HANDOFF.md) · [Technical source review](delivery/professional-topic-review.md) · [Historical recovery](ARCHIVE-RECOVERY.md).
-
-Publication on main is for owner recording review. It does not publish to a student platform, alter the app, move money, change commercial terms or certify personal financial decisions.
-
-## September 10 targeted follow-up
-
-The subsequent bounded review is addressed in three narration files: borrowing-interest headroom and the 14.3% comparison, the illustrative 25% distinction, and the restored warning about choosing optimistic returns. [Current first-party authority and the remaining external-source update](reference/owner-decisions-20260910.md) distinguish Austin's approved insurance/reviewer position from a historical quote and unedited upstream Claude files.
-
-The borrowing and insurance passages now use Austin's latest approved reasoning. The annual spending lesson demonstrates the risk-based review through spending and Reserve decisions; hypothetical solver results remain labeled. Remaining voice edits, missing-basis consequences and security ordering are patched. [What changed and what Claude should cross-check](delivery/script-finishing-20260910.md). The source household, original dictation, toolkit and app/device capture evidence remain unchanged. This is the owner-review manuscript, not new footage or student launch approval.
+</details>

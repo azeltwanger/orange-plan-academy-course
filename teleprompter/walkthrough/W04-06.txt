@@ -1,0 +1,5 @@
+Here's the contribution election we're comparing. First, I'm checking whether the comparison holds the household cost equal or keeps the deposits equal. That changes what the numbers mean.
+
+Now let's read the take-home effect beside the Reserve and debt payments. If switching to Roth reduces the paycheck, that cost needs to fit here before we save it.
+
+Once the cost and access needs fit, we can save Traditional, Roth or the intended mix. This changes new contributions. An existing Traditional balance requires the separate conversion decision from Tax.

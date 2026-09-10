@@ -1,108 +1,73 @@
 # 8.1 — Make it possible for someone else to manage the plan
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: RECORDING_DRAFT_REVIEW — step-by-step manuscript; owner voice review and actual capture remain separate.
 Kind: teach
 Gate: APP_CAPTURE, ESTATE_CUSTODY_REVIEW, ESTATE_REVIEW
 Sources: APP, CUSTODY, DICTATION, ESTATE, ESTATE_DECK, MAINTENANCE, OWNER, PRIMARY
 
+### Do this
+
+Connect the people, documents and account processes your family would use if you were unavailable. Write the safe first instructions and verify the intended person can find them.
+
 ### Read aloud
 
-Your family can know where the assets are and still be unable to act when you're unavailable. The documents and people need to match the ownership and the situation.
+Up to this point, you've been putting the plan together. Now we're going to make it usable for someone else if you're unable to manage it.
 
-There are two different questions. Who can help while you're alive but unable to manage things? And who is authorized after you die?
+The custody map gives us a starting point, but knowing how a wallet works doesn't give someone authority to use the assets. Having legal authority doesn't guarantee they can reach them either. We're going to connect both parts and give your family a clear place to begin.
 
-A financial power of attorney names someone to act under its terms while you're alive. For incapacity planning, confirm that it's durable, when it takes effect, and which powers it actually grants. Healthcare decisions use separate authority. After death, the estate, trust and beneficiary processes apply instead. One person can hold several roles, but each role needs its own authority.
+Start with the people. You may need someone for financial decisions while you're alive, someone for healthcare and someone to handle the estate after death. One person can have several roles, but each needs the appropriate authority.
 
-Start with the people you would want involved. For financial decisions, choose someone reliable, willing, and able to follow the process. They can seek professional help; they don't have to be the household's best investor. For healthcare, choose someone who understands your wishes and can handle the responsibility.
+Choose people who are willing and able to follow the process, and ask them before treating it as settled. They can use technical or professional help. Include a backup, and if you have children, distinguish caring for them from managing their money.
 
-For children, discuss guardianship and how assets would be managed for them with an estate attorney. The person who cares for a child and the person managing money for that child don't necessarily need to be the same person.
+Now look at the current signed documents: the will, financial power of attorney, healthcare documents and any trust. Check whether they still reflect your wishes.
 
-Name backups. A plan depending on one helper can fail when that person is also unavailable or no longer willing to act. Ask the people before treating their names as a completed arrangement.
+A financial power of attorney gives someone authority under its terms while you're alive. For incapacity, check that it's durable, meaning the authority can continue when you're unable to manage your affairs. Confirm when it takes effect and what powers it grants. Healthcare authority is separate. After death, estate, trust and beneficiary processes apply instead.
 
-Now review the documents you already have. Is there a current will? Appropriate financial and healthcare authority? Any trust already in use? Are the signed versions findable, and do they reflect current wishes?
+An executor you've nominated may still need formal appointment. A trust depends on its terms and the assets it actually holds. The records need to show which arrangements are in effect and which still need work.
 
-Check that the documents were properly signed and put into effect; an old draft in a folder isn't enough. A nominated executor may still need a formal appointment before acting. A trust applies according to its terms and the ownership of the assets. Listing someone's role in Orange Plan doesn't give them legal authority.
+Check beneficiaries against the institution's current record. Some accounts and policies pass under their own ownership or beneficiary rules, which a will may not change. The primary beneficiary is the first recipient named. The contingent beneficiary is the backup if the primary can't receive under those rules.
 
-Check the beneficiaries separately. Some accounts and policies transfer through their own beneficiary or ownership rules instead of following the will in the way you expect. Compare primary and contingent beneficiaries with the intended estate plan and get discrepancies reviewed.
+A trusted contact is different. The institution may contact them if it can't reach you or is concerned about exploitation. That role doesn't automatically permit trading or withdrawals.
 
-A trusted contact on an account can be useful when the institution is concerned about exploitation or can't reach the owner. It doesn't automatically give that contact authority to trade or withdraw money. Verify the actual role before relying on it.
+Then connect each asset to the person authorized for the situation and the process they would use. Direct Bitcoin needs a lawful route to protected recovery. Professional custody uses the provider's process. A retirement account follows its beneficiary and distribution rules. Don't make the instruction to impersonate the owner with their login.
 
-Don't leave the instruction “use my login.” The provider may require proof of identity, legal status, and specific documents. An authorized person should use the correct process instead of impersonating the owner or improvising around access controls.
+The family will also need to pay bills while the full process is underway. Confirm which cash and payment arrangements would be legally available, so immediate spending doesn't depend on an account they can't yet use.
 
-With direct Bitcoin, legal authority is only part of what the person needs. The person responsible needs a lawful route to the required keys and configuration, with appropriate technical help. A will by itself doesn't recreate a missing backup. A backup by itself doesn't settle who owns the assets.
+With that settled, write the first page someone would read. The Heir Letter can hold the opening instructions, with the inventory and document references in the Executor Packet. Reuse the custody map you've already built.
 
-Ask what money is available while a longer process is underway. Immediate household bills shouldn't depend on a complicated recovery being completed that day. Check the legally available cash and payment arrangements in the actual household plan instead of assuming every joint or individual account can be used in the same way.
+Keep the opening practical: who to contact first, how to verify that contact, where the supporting instructions begin and which bills need attention. Recovery words, private keys, passphrases, passwords, PINs, exact secret locations and sensitive wallet configurations stay in the protected recovery process.
 
-Now connect that authority to a short, non-secret map of the accounts. A family member needs to know where to start, not memorize your setup.
+Your heir may want help selling Bitcoin. The instructions need to support that lawful choice without requiring them to share your investment preferences.
 
-For each meaningful holding, record what it is, who owns it, the custody method, its role in the plan, the relevant contact or process, and the status of the supporting work. Use non-secret identifiers that let the family distinguish one arrangement from another.
+Then rehearse the first steps with the intended person. Let them find the page, first contact and backup without you explaining every move. Fix the instruction they couldn't follow and repeat that part. No money or credentials need to move during the rehearsal.
 
-Don't put recovery words, private keys, passphrases, passwords, PINs, or precise secret-storage locations in this map. The map points to the protected process. It doesn't replace that process or make every reader able to move the funds.
+If you use a check-in or delayed-message service, it's an optional way to deliver these safe instructions. Check its timing, recipient, cancellation and false-alarm process, and agree on a harmless test. Never send secrets or a false emergency. Keep another way to find the instructions if the service is unavailable.
 
-Consider Alex and Morgan's different holdings. Personally controlled Bitcoin needs a recovery and authorization process. Professionally custodied Bitcoin needs the provider's access and family procedures. A Bitcoin fund in a retirement account uses that account's ownership and beneficiary process.
+In the walkthrough, we'll build this handoff from the records you already have and perform that rehearsal. Any missing authority, access or instruction stays assigned to a person and next step.
 
-Writing “Bitcoin” on three lines would miss those differences. We want the family to know which kind of help applies to each one.
+If a trust might solve a specific problem, use the related lesson before finishing that arrangement. Otherwise, continue to insurance, where we'll look at the financial losses your household can carry and those you may want to transfer.
 
-Describe what you've actually done. “Backup exists” is different from “backup checked.” “Practice recovery succeeded” is different from “this funded setup has been verified.” “Provider contacted” is different from “family access process confirmed.” Record what actually happened.
+### Text overlays — not spoken
 
-Also plan for a family member who doesn't want to keep the same Bitcoin allocation. They need a safe, lawful path to review or liquidate it, not a document that works only if they adopt your conviction. We can protect against rushed mistakes without requiring the heir to become a Bitcoin expert.
+| Exact spoken cue | Overlay | Editor treatment |
+| --- | --- | --- |
+| Start with the people. | Financial / healthcare / estate role / agreed backup | Show roles without invented household appointments. |
+| After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document inventory. |
+| Check beneficiaries against the institution's current record. | Provider record: primary + contingent beneficiaries | Highlight the actual provider record. |
+| Reuse the custody map you've already built. | Existing custody map → family instructions | Connect the records; do not create a second map. |
+| Then rehearse the first steps with the intended person. | Find page → first contact → backup → repair unclear step | One rehearsal after the complete handoff is ready. |
+| Any missing authority, access or instruction stays assigned to a person and next step. | Open item / responsible person / next step | End on actual status. |
 
-A folder full of estate documents can still leave your family asking, “What do I do first?” The Heir Letter and Executor Packet are there to answer that without turning the family into a financial or technical expert overnight.
+### Walkthrough handoff — not spoken
 
-The letter is the starting point. The packet carries the supporting information. Neither replaces properly prepared legal documents or grants authority on its own.
-
-Start the letter with what the reader should do and what they should avoid rushing. Use ordinary language. They need a calm first step, not an explanation of every investment you've ever made.
-
-Here's an example:
-
-“If I'm unavailable, start with the family contact list and speak with the person authorized for this situation. The attorney listed there can help confirm the legal steps. Our custody map describes the accounts and which provider or technical helper applies to each one. Do not share wallet recovery words or follow links from someone claiming urgent action is required. Check the household payment list so essential bills and time-sensitive obligations receive attention. You do not have to make every long-term investment decision immediately.”
-
-Adapt that wording to your family's legal arrangements. The letter isn't a complete legal instruction and doesn't give someone authority.
-
-Then explain where the supporting records begin. The Executor Packet can include the safe account inventory, ownership and beneficiary information, legal-document locations, professional contacts, regular obligations, and relevant tax-record references. Keep full sensitive records in the appropriate protected place, shared only through the agreed process.
-
-The Family Custody Map remains the guide to Bitcoin arrangements. Don't duplicate recovery secrets into the letter to make it seem complete. A document that helps an heir find the legitimate process shouldn't become a shortcut for anyone who finds the document.
-
-Date the documents and identify who maintains them. A contact who moved, an account that closed, or a changed beneficiary can make an old packet misleading even when most of it remains accurate.
-
-Now test delivery, not just wording. Can the intended person find the letter when needed? Do they know it exists? Is the backup contact also prepared? The letter won't help if it stays on a locked laptop nobody can open.
-
-Any check-in or delayed-notification service is only an additional communication layer. It needs consent, reliable contact details, a false-alarm process and a test of what is actually delivered. It doesn't replace legal authority or safe custody, and it shouldn't automatically distribute secrets.
-
-Agree on a harmless test message with the recipient before trying a notification service. Check that it arrives and that they can open it. Never use a false emergency or send recovery secrets as part of the test.
-
-Read the first page with the person who would use it. Ask them to describe the first action back to you. Then ask what they would do if the primary contact didn't answer. Their hesitation tells you where the explanation is missing.
-
-Fix the step they couldn't follow, then try it again.
-
-Use the records and templates that help your household; don't recreate information you already keep clearly. In Orange Plan, identify the arrangements, the responsible people and any unfinished action. The real-world finish is checking that the people can find and follow the safe first steps. A saved contact isn't legal authority, and a written recovery instruction isn't proof the wallet was tested.
+[W08 chapters 1–4](working/W08_build-and-rehearse-the-family-handoff.md#chapter-1--connect-people-documents-and-beneficiaries) connect authority, access, instructions and any communication backstop. Chapter 3 owns the single family-handoff rehearsal. Reuse the custody portion prepared in [W07 chapter 4](working/W07_document-the-custody-choice-and-actual-recovery-status.md#chapter-4--finish-the-family-starting-map); do not request a separate earlier rehearsal. [A8.1](advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md) applies when a trust has a specific job.
 
 ### Source and production notes — not spoken
 
-Source-led condensation of lessons 7.4, 8.1, 8.2, 8.3. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+Consolidated 7.4, 8.1, 8.2 and 8.3 remain recoverable through [source mapping](../production/consolidation.json). The first-page guidance organizes safe instructions; it is not a legal instrument or an approved household arrangement. The [dated technical review](../delivery/professional-topic-review.md), P11/S28, covers the POA/trusted-contact distinctions within its recorded scope. Actual law, instruments, appointment, provider acceptance and trust funding determine authority.
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
-
-#### Retained 7.4 — Visual and source notes — not spoken
-
-Use existing FamilyCustodyMap, notanotherworkbook. Preserveownership,custodymethod,providerandlegalroutes,scopeofrecoveryproof,operatorbackup,andprivacy ofxpub/configmetadata. Mainmapscontainno secretsorexactsecretlocations. A familyintenttoliquidate is legitimate;noforcedconvictionstory. Tabletopnoactualtransfer.
-
-#### Retained 8.1 — Visual and source notes — not spoken
-
-Estate deck basicroles/documents/beneficiaries and currentlegalboundaries. CFPB POA and trust definitions checked;jurisdiction-specific execution/authority remainattorneyreview. Nominatedexecutor≠currentlyappointed;beneficiarydesignation≠will;trustfundingmatters. No draftedlegalinstrument,chosenReedguardianorautomatictrustrecommendation.
-
-#### Retained 8.1 — Source-based technical check — not spoken
-
-September 8, 2026: P11; S28. Durability and scope need applicable state law and the actual instrument. No estate document, authority or institution acceptance was created or approved. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
-
-#### Retained 8.2 — Visual and source notes — not spoken
-
-Estateauthority pluscustodyoperationalaccess;incapacityversusdeathseparate. PrimaryCFPB trustedcontact/POA guidance;actualdeathauthority/providerrequirements dependonlawanddocuments. Neveruseownerloginasdefault or bypasssecurity;technicalhelpernotlegalowner. Immediatecashlegallyaccessiblemustbechecked. Read existing source framework notguaranteeallassetsavailable.
-
-#### Retained 8.3 — Visual and source notes — not spoken
-
-Existing HeirLetter/ExecutorPacket examplesandnonssecret deliverystructure. Quoted paragraph is NEW illustrativeletterlanguage forlegal/familyadaptation,notlegaladviceorapprovedReedprocess. No privateclientfacts. Delivery/check-in remainsoptionalproof-requiredactualcapability;harmlessconsentedtestonly;nosecretsorfalseemergencysent.
+The September 10 owner ruling excludes a categorical will-drafting instruction and an invented reviewer gate. The older Estate deck's fixed 90-day promise and universal seed/passphrase split are not teaching defaults. No notification is sent or legal status changed by this manuscript. PR #227 preserves Protect's seven sections; actual fields, packet generation and Check-in plan delivery require capture evidence.
 
 ### Member checkpoint
 
-Connect ownership, legal authority, beneficiaries and non-secret custody instructions. Make the starting process findable and identify who completes unfinished legal or provider actions.
+People and backups have agreed to their roles. The family can find its safe first instructions, or the exact missing step is assigned. Document execution, beneficiaries, access, rehearsal and message delivery each show their actual status.

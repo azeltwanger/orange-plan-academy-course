@@ -1,0 +1,5 @@
+Here's the Reserve amount we already chose, followed by the approaching expenses that need separate funding. I'm using those amounts to check the cash in the proposed mix.
+
+Now let's look at the first important payment during a difficult market. I want to see the asset that supplies it and what remains afterward. If that payment is unfunded, we can adjust the mix or its funding source and compare again.
+
+Once the proposed mix fits those jobs and we're willing to follow it, we can save the target and read it beside Current. That saves our intention; it doesn't trade the holdings.

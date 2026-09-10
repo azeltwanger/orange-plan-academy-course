@@ -6,7 +6,7 @@ The guided course now addresses the Academy's stated outputs: an honest position
 
 ## Update before publishing the landing page
 
-Replace the FAQ's **28 lessons / about 150 minutes / 10 captures** with: **“51 core teaching clips, a conditional Advanced library, ten app working sessions and a separate wallet-recovery demonstration. Work through one decision at a time; gathering information and completing outside actions will take additional time.”** Use measured edited runtimes later. Do not add an arbitrary shorter cap.
+Replace the FAQ's **28 lessons / about 150 minutes / 10 captures** with: **“25 main teaching lessons, eight lessons for particular situations, ten separately recorded app walkthroughs and a separate wallet-recovery demonstration. Each lesson gives you a task, explains the decision and points to the matching implementation step. Gathering records and completing outside actions will take additional time.”** Use measured edited runtimes later. The previous 51-clip draft is superseded by the current recording order.
 
 Replace the old curriculum counts and order: Debt is Session 3, Allocation is 4, Maintenance is 9, and reading/sharing the completed plan is 10. College is optional in Session 2; core debt, healthcare, tax and account-access explanation is no longer hidden behind an optional library.
 

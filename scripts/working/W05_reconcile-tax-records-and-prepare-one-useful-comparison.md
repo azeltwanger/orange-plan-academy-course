@@ -1,121 +1,140 @@
 # W05 — Reconcile tax records and prepare one useful comparison
 
-Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: STEPWISE_WALKTHROUGH_REVIEW — complete separate spoken scenes; approved-build capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: TAX, TAX_DECK, APP, PRIMARY
 
 ### For your situation — recording route, not spoken
 
-- After 5.4, [A5.1](../advanced/A5-1_build-a-multi-year-conversion-comparison.md): You are considering Roth conversions across several years. Complete before relying on a multi-year conversion schedule. Return to W05 chapter 4, then lesson 5.5.
-- After 5.5, [A5.2](../advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md): You intend to harvest a gain or loss through a specific sale. Complete before executing the harvesting transaction. Return to W05 chapters 5–6, then lesson 6.1.
-- After 5.3, [A5.3](../../reference/state-move.md): A possible state move could affect your spending or the tax on a planned sale or withdrawal. Complete before relying on the move’s tax treatment; residency still needs professional review. Return to W05 chapter 3, then lesson 5.4.
+- After 5.1: chapter 1. Use [A5.2](../advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md) with chapters 2 and 5–6 for a real intended tax-sensitive transaction or its missing records.
+- After 5.4: chapters 3–4; use [A5.1](../advanced/A5-1_build-a-multi-year-conversion-comparison.md) for a multiyear schedule, returning to retirement paycheck lesson 6.1.
+- [State-move task reference](../../reference/state-move.md) applies only when relocation changes the comparison; it is not an additional launch lesson.
 
-### Run sheet
+### Run sheet — not spoken
 
-Use the unchanged source lot example plus reviewed synthetic acquisition/transfer/overlap records and a separate fictional tax-year extension. No real client tax records or transactions. The new conversion opportunity-cost and gain/loss graphics are labeled educational assumptions, not engine outputs. Preserve supported account-activity, identification and tax-data export boundaries.
+Use the unchanged three-lot teaching source and a separately reviewed synthetic record extension for imports/transfers, income dates and transaction confirmations. The three-lot and $30,000 conversion/$6,000 tax illustrations stay in teaching 5.1 and 5.4. Walkthroughs apply supported inputs and read actual approved results; no teaching arithmetic is presented as an example household tax result. Future Tax is reached contextually from Plan; purchase details belong to the actual holding/account, conversion strategy has one Tax owner, and withholding/payments remain in Cash Flow. No new fifth primary navigation destination is implied.
 
-Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
+Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional household source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
 
-#### Chapter 1 — Understand the gain on one sale
+Only each **Narration:** block is spoken. Record the chapter as a separate take; show the action as its instruction is spoken. Other fields are editing and verification instructions.
 
-**Show and do:** After 5.1, reveal the same hypothetical 0.2 BTC sale at $100,000 per coin. Proceeds stay $20,000; source allocated bases $11,600/$3,200/$10,400 produce gains $8,400/$16,800/$9,600. Identify what records establish each lot and what remains unknown.
+#### Chapter 1 — Read the gain on a proposed sale — after 5.1
 
-**Narration:**
-
-“The cash from the sale is the same in these rows. What changes is the cost of the units being sold. Subtract that supported cost to find the gain. The next calculation is the tax—not every dollar of the proceeds is gain, and the gain itself is not the tax bill.”
-
-“Before choosing a row, check whether those units can actually be identified and sold under the relevant rules. A smaller gain on a screen is useful only when the record supports it.”
-
-**Verify before recording:** Verify current lot availability, quantity, basis, dates, fee treatment, account/wallet and timely identification. No dropdown equals legal compliance; no missing basis silently zero. Keep source quantities/categories unchanged and do not execute a sale.
-
-**Member finish:** Explain proceeds, allocated basis and gain separately, with the actual prerequisite to use the preferred lots.
-
-#### Chapter 2 — Reconcile the purchase and transfer history
-
-**Show and do:** After 5.2, use one accepted source file, one overlapping upload, one transfer and one unknown detail. Compare the account position before and after history. Use the generic no-fee 0.1 BTC example only as a separate illustration unless a reviewed capture extension supplies it.
+**Show:** Open the applicable taxable holding's Purchase details and a supported sale Preview. Trace actual available units, acquisition records, supported basis, gain/loss, estimated tax and usable cash. Keep the full three-lot illustration in teaching 5.1; do not fabricate app units or results.
 
 **Narration:**
 
-“Here is the purchase. These two records move that position from one location to another. We do not create a second purchase at the destination. Now compare the quantity before and after adding the evidence: the household should not own more Bitcoin just because we explained its history.”
+Let's open the taxable holding and its purchase details before placing a sale. I'm checking the units available, their acquisition records and supported cost.
 
-“This detail is still missing. We know the current position, but we cannot yet rely on its tax cost for a sale. Name the record needed instead of filling the gap with zero.”
+Now we can follow the proposed sale from proceeds through basis and gain to estimated tax and cash left for its purpose. The tax estimate needs the rest of the year's income; the gain alone doesn't tell us the bill.
 
-**Verify before recording:** Verify Account detail and actual Upload account activity, certified native adapter or current supported guided mapping, duplicate receipt, missing basis/date/fee handling and transfer reconciliation. No universal source coverage or fabricated sale-and-repurchase workaround.
+If a cost is missing, we leave it unknown and find the source before relying on that comparison. Previewing a lot doesn't notify the custodian or place a trade. If we're preparing the transaction, we'll take the supported choice into the records lesson next.
 
-**Member finish:** The history needed for the decision reconciles, or the precise evidence gap remains visible without duplicate assets.
+**Overlay:** Cue “from proceeds through basis and gain” → Proceeds → basis → gain → tax → usable cash; cue “doesn't notify the custodian” → Preview only.
 
-**Technical check before filming:** P10: A UTXO choice or consolidation does not alone establish tax-lot identification. Preserve acquisition histories and the current quantity. Use the actual asset/custody/year identification rules; do not treat the 2026 broker relief as an unhosted-wallet default.
+**Verify:** The quantity and available lots match source records; missing slices are not silently consumed and gross proceeds are not labeled tax or spending cash.
 
-#### Chapter 3 — Find the actual tax window
+**Capture dependency:** D54/D58 purchase details and lot-method confirmation, supported sale Preview, current holding identity and tax output with fees/basis coverage.
 
-**Show and do:** After 5.3, open supported contextual Tax strategy and year detail. Show each person's employment and benefit dates, taxable-account sources and later required distributions. Identify one bounded income window and all other transactions using it.
+#### Chapter 2 — Repair the relevant purchase history — after A5.2
 
-**Narration:**
-
-“This is where the income picture changes. Look at what funds spending during the gap and what taxable income it produces. Now we can ask a specific question: would using some Traditional money here improve the plan compared with waiting until later?”
-
-**Verify before recording:** Verify jurisdiction, tax year, actual income types, withholding/estimated payments versus liability, account access and roadmap coverage. No assumed low-income Reed window before spouse dates and benefits are provided. No old-video bracket threshold or current default imported.
-
-**Member finish:** A particular year or period and a transaction worth comparing, with any missing facts identified.
-
-#### Chapter 4 — Compare conversion, withdrawal and no change
-
-**Show and do:** After 5.4, show the separate $30,000 Traditional plus $6,000 outside-tax-funding example, including opportunity cost and 20/30/10% later-tax variants. Then compare Current with one reviewed bounded conversion schedule and an accessible spending withdrawal where relevant, holding the funded life constant.
+**Show:** Use reviewed synthetic source records: one relevant import, overlapping events, a same-owner transfer and an unresolved detail. Show position/history before and after. Preserve original files without exposing private identifiers. Demonstrate actual deduplication and transfer reconciliation, not the teaching arithmetic.
 
 **Narration:**
 
-“The converted amount goes into Roth; it does not also pay the bills. This other money pays the tax. Compare what remains in both versions at the same date, including the money we would have kept if we had not paid the conversion tax.”
+I have the original source file beside this holding. Let's review what the import adds before accepting it.
 
-“Now look at the first affected year. Can the household still fund spending and the Reserve? Then read a later year. A larger Roth balance alone is not the decision—we want the after-tax benefit and the current cost together.”
+These overlapping entries need to match the events already present. I'm also checking that the exchange withdrawal and same-owner wallet receipt stay connected to the original purchase history.
 
-**Verify before recording:** Verify actual incremental tax, outside tax source, lost investment opportunity, healthcare effects only where modeled, RMD exclusion, pro-rata basis, access clocks and planned/completed status. External calculation must be labeled. No fixed favorable Reed result or lifetime-tax-only ranking.
+Now let's compare the remaining units with the holding. If they disagree, we'll trace fees, missing activity or duplicates. We leave an unresolved detail visible while obtaining the evidence. Once these agree, we can use the supported history for the sale without adding the holding a second time.
 
-**Member finish:** A justified amount/range or decision not to convert, with separate spending and tax funding and specific review prerequisites.
+**Overlay:** Cue “connected to the original purchase history” → Same-owner transfer preserves history; cue “without adding the holding a second time” → Reconcile history; count assets once.
 
-**Technical check before filming:** P04: Show gross distribution, amount actually reaching Roth, withholding and external replacement/tax cash separately. For IRA basis, gather the owner's combined relevant Traditional/SEP/SIMPLE IRA values and Form 8606 history; do not aggregate spouses or substitute one selected account. Preserve RMD exclusion and actual early-access conditions. Unsupported calculations remain a labeled reviewed worksheet, not a claimed app result.
+**Verify:** Overlaps deduplicate, same-owner transfer retains quantity/history, and any unresolved evidence stays explicit. No invented historical transaction makes balances agree.
 
-#### Chapter 5 — Prepare one harvesting action or deliberate pass
+**Capture dependency:** Certified import event coverage, duplicate and transfer reconciliation, fees, unknown slices and before/after quantity proof.
 
-**Show and do:** After 5.5, review a real supported fictional candidate against the rest of the tax year. Contrast the separate $20,000/$16,000 gain and loss graphics. Prepare timely identification, replacement exposure, costs and current-rule checks before external execution.
+#### Chapter 3 — Find an actual income window — after 5.4
 
-**Narration:**
-
-“This loss is not a refund of the same amount. Check what it can offset and what the replacement changes. For a gain, check the other income using the same favorable room. We are choosing a transaction that serves a purpose, not just reacting to the color of the return on screen.”
-
-**Verify before recording:** Verify current asset/account/year rules, identification evidence, securities wash-sale interactions, relevant spouse/accounts, supported carryforwards and fees. Direct Bitcoin is not automatically a security fund; no permanent immediate-repurchase assurance. No proposed trade shown as completed.
-
-**Member finish:** One reviewed proposal with prerequisites and deadline, or an explained decision to pass.
-
-**Technical check before filming:** P05: Check substantially identical replacement activity in the owner's IRA/Roth IRA and other relevant accounts before a securities harvest. The IRA replacement exception can permanently lose the loss deduction. Preserve the distinction between directly held Bitcoin, funds and other securities; no universal immediate-repurchase rule.
-
-#### Chapter 6 — Finish the professional and reporting packet
-
-**Show and do:** Produce the supported FORM8949 TAX DATA CSV and inspect its actual coverage. Package only relevant records, transaction proposal, income context, uncertainty and the exact CPA question. Show post-transaction reconciliation as a labeled synthetic example only when reviewed.
+**Show:** Open the contextual Tax strategy/roadmap and a relevant year. Inspect both people's work/benefit dates, distributions, supported loss carryforward and planned transactions against their source evidence. Compare the next material income change with actual approved outputs.
 
 **Narration:**
 
-“Give the tax professional the relevant records and the question you need answered. Check what this export includes and what is missing. It is tax data for preparation and review, not a filed return.”
+Here's the tax roadmap. I'm opening the year we're considering, with each person's work income, benefits and planned transactions.
 
-**Verify before recording:** Verify exact export schema and values, missing records, safe handling and next-year lot continuity. No message sent, tax return filed or professional approval implied. Actual financial/tax records stay private.
+Let's compare it with the next important income change. We need the household's full picture, including distributions, gains and any supported loss carryforward, before calling this a useful window.
 
-**Member finish:** A usable handoff for a specific tax decision and a way to reconcile the executed result with the return.
+If an income or filing record could change that picture, that's the fact to obtain first. Otherwise, we'll use this year to compare one conversion amount, the cash paying its tax and the option of leaving the plan as it is.
 
-### Readback and finish
+**Overlay:** Cue “the household's full picture” → One tax-year picture; cue “compare one conversion amount” → Bounded comparison.
 
-The member understands the tax consequences of the proposed action, has the evidence needed to compare it, and can hand a specific question to the appropriate professional. A record, modeled result, reviewed proposal, executed transaction and filed return remain different states.
+**Verify:** Year, owner, income sources, RMD dates and transaction state are consistent. No fixed-age RMD assumption or fabricated tax window.
 
-### Production notes
+**Capture dependency:** Contextual Tax route, year-detail parity, actual birth-year/account inputs, loss carryforward persistence and saved-result freshness.
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+#### Chapter 4 — Compare conversion, withdrawal and no change — after 5.4 / A5.1
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+**Show:** Start with Current and preview a reviewed bounded conversion, smaller amount and accessible spending withdrawal where relevant. Trace actual conversion dollars, tax source, first-year liquidity and later after-tax resources. For A5.1 extend the same comparison through the bounded years and material income transitions. Do not replay the teaching opportunity-cost graphic.
 
-This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
+**Narration:**
 
-### Application in the member's own plan — production guidance
+I'm keeping spending and return assumptions the same while comparing this conversion with no added conversion and a smaller amount.
 
-Go directly from the explanation to the member's records and the sale, withdrawal or conversion relevant to their plan. Keep current tax funding and later resources visible in the actual comparison. Missing consequential facts remain specific tasks; professional confirmation must not replace teaching the comparison. No practice sale or case worksheet is required.
+Here's what moves to Roth, the cash paying the tax and the separate source for living expenses. Let's read the first affected year's accessible money, then the later after-tax resources, including the outside money retained if we don't convert.
+
+An accessible Traditional withdrawal may instead supply the spending needed in this window. For a multiyear schedule, we'll check each material income transition and set the annual review.
+
+If conversion tax leaves the early years short, the amount or timing needs work. Once it fits, we can save the intended strategy. The custodian transaction and tax payment remain separate actions.
+
+**Overlay:** Cue “the cash paying the tax and the separate source for living expenses” → Conversion / tax / spending; cue “outside money retained if we don't convert” → Compare total after-tax resources.
+
+**Verify:** After-tax and liquidity comparison includes outside assets, same lifestyle and assumptions. RMD exclusion, basis, healthcare and access prerequisites are recorded; saving does not fabricate execution.
+
+**Capture dependency:** Sole conversion writer, Current/Preview and scenario isolation, total after-tax result, tax-payment source, supported schedule, healthcare scope and save/reload receipt.
+
+#### Chapter 5 — Prepare a tax-sensitive sale or deliberate pass — after A5.2
+
+**Show:** Use the supported synthetic transaction candidate and its current-year comparison. Show timely lot-identification evidence and reviewed replacement instructions, including applicable automatic/spouse/IRA activity. Use the private packet for requirements the app does not represent; do not place a trade.
+
+**Narration:**
+
+Here is the supported sale candidate and the reason for it. I'm putting the lot-identification instruction beside the process and deadline required for this account. We need the provider acknowledgment or applicable contemporaneous record.
+
+For a loss sale, let's check the replacement review, including automatic purchases and relevant spouse or IRA activity. For a gain harvest, let's confirm the remaining income room after other planned transactions.
+
+If the benefit no longer justifies the costs, we can keep the investment and record that reason. If we proceed, the proposal stays pending until the actual trade is executed. Then we reconcile what happened.
+
+**Overlay:** Cue “the process and deadline required for this account” → Timely identification; cue “stays pending until the actual trade is executed” → Proposed / executed.
+
+**Verify:** Candidate has supported basis/units, current identification process, replacement review, income context and intended exposure. No app selection is presented as legal execution.
+
+**Capture dependency:** Actual supported candidate calculation, asset/account/year-specific identification, replacement tax review, transaction evidence and honest execution status.
+
+#### Chapter 6 — Finish the professional and reporting packet — after 5.1 / 5.4 / A5.2
+
+**Show:** Assemble the focused private/synthetic packet for the actual decision. For a conversion, include income/account records, applicable IRA basis and required-distribution records, proposed amount, tax-payment source and custodian instructions. For a taxable sale, inspect the actual FORM 8949 TAX DATA export's columns, dates and coverage when relevant. Demonstrate post-trade/remaining-lot reconciliation only for that sale route, with labeled synthetic confirmation and no real financial action.
+
+**Narration:**
+
+Let's put together the records for the decision you're actually making, along with the unresolved question.
+
+For a conversion, bring the income and account records, the amount under consideration, the tax-payment source and the custodian's instructions. You can finish that packet without preparing a taxable-sale export.
+
+For a taxable sale, open the relevant export and check its coverage. FORM 8949 TAX DATA supports the tax professional's work; it isn't a filed form. After an actual trade, compare its confirmation with the used units and remaining holdings, then reconcile provider reporting and the filed return.
+
+Whichever route applies, keep the proposal separate from the confirmed transaction. Then return to tax timing or bring the chosen funding approach into the retirement paycheck.
+
+**Overlay:** Cue “it isn't a filed form” → Tax data for review; cue “the used units and remaining holdings” → Confirmation → remaining lots → filed record.
+
+**Verify:** Packet matches the decision; conversion-only work does not require a taxable-sale export or lot reconciliation. Relevant export scope and omissions are visible; proposed/completed states remain separate; no full sensitive backup, filing claim or invented confirmation.
+
+**Capture dependency:** Approved export content, source/realized/remaining-lot consistency, private sharing workflow and reviewed synthetic confirmation.
+
+### Readback and finish — not spoken
+
+One useful tax decision has the relevant records and same-year context. A selected conversion has separate spending/tax funding; a selected sale has timely identification and replacement review. Completed provider actions and filed-return continuity require actual evidence.
+
+### Source and production notes — not spoken
+
+September 10 action-first revision based on the paired current teaching scripts, supplied slide steps and original dictation. Prior narrative and exact source mapping remain in [the consolidation record](../../delivery/consolidation.md). Historical app labels are superseded by the current chapter pairing here. Product contracts are reference evidence, not permission to change the app or to reproduce private technical documents. Keep every unsupported field, missing source fact and unperformed outside action visible. Record an actual capture pass only from observed evidence.

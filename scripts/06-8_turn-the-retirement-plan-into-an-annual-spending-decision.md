@@ -1,82 +1,68 @@
 # 6.8 — Manage spending and the Reserve through changing markets
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_RECORDING_REVIEW — complete teaching script; owner voice review and paired capture remain separate.
 Kind: teach
 Gate: APP_CAPTURE, OWNER_REVIEW
 Sources: APP, BRAIN, CASHFLOW, FOUNDATION, MAINTENANCE, RETIREMENT, RETIREMENT_DECK
 
+### Do this
+
+Set the coming year’s spending and Reserve refill using the updated plan, a spending review rule and an affordable response to a weak market.
+
 ### Read aloud
 
-Two portfolios can experience the same returns and end with different amounts when money is being withdrawn. The order matters because assets sold for spending are no longer there for the recovery.
+Once retirement begins, we need a way to decide what to spend next year without rebuilding the whole plan every time the market moves. In this lesson, we're going to work through that annual decision and connect it to the Reserve. The spending amount and the cash used to support it need to agree.
 
-Start with $1 million and withdraw $50,000 at the beginning of each year. One version loses 20% in year one and gains 25% in year two. The other gets the same returns in the opposite order.
+We begin with the budget already saved in the plan and the facts that changed. Inflation gets applied once. While we're comparing spending, the retirement date, return assumptions and other choices stay the same so we can understand what the spending change does.
 
-In the first version, the initial withdrawal leaves $950,000. A 20% decline leaves $760,000. Take the next $50,000, then apply the 25% recovery, and the balance ends at $887,500.
+There are two different numbers you may see in this process. A standing portfolio guardrail is a portfolio level that tells us spending needs review. It isn't the amount you can spend. The annual review separately compares a budget for next year.
 
-In the other version, the first $950,000 grows by 25%. After the next withdrawal and a 20% decline, the ending amount is $910,000.
+Underneath that review, Orange Plan uses an 80% target, with triggers at 60% or below and 95% or above. Between the triggers, the normal suggestion is the inflation-adjusted amount. At a trigger, it moves toward spending associated with the target, with the suggested annual correction capped at 10% of the inflation-adjusted amount. These percentages describe model runs meeting the funding test, not a guaranteed outcome. Other spending methods use different rules from Orange Plan, so we don't combine their starting rates and adjustment percentages with this policy.
 
-Both started with the same money, took the same withdrawals, and had the same two returns. Changing the order leaves a $22,500 difference. Without withdrawals, the two returns would take $1 million back to $1 million in either order.
+Let's follow a separate household through the dollars. Last year's budget was $100,000. With 3% inflation, the starting amount becomes $103,000. Suppose that amount gives a 55% result and the model finds $86,000 at the 80% target. Those two results are made up to explain the process; they aren't our example household's results.
 
-That's sequence-of-returns risk. An average return can't tell you by itself whether the retirement paycheck works.
+The lower trigger is crossed. Ten percent of $103,000 is $10,300, which gives a capped suggestion of $92,700. That's $7,300 below last year's budget and $10,300 below the inflation-adjusted budget. The cap hasn't restored 80% confidence; the example's target amount is still lower. We need to read the remaining difficult years, rather than apply the annual correction several times in one sitting.
 
-We can respond with cash available for a difficult period and a rule for reviewing spending. The rule matters. Research on Kitces.com compared a stock-and-bond household retiring before the global financial crisis. Its risk-based method produced a 3% reduction in inflation-adjusted spending, compared with 28% under classic Guyton-Klinger guardrails.
+Now that number becomes a household conversation. If essentials already cost more than $92,700, the suggestion hasn't funded the bills. We need a different source, more income or another change to the plan. If there are flexible expenses the household can postpone, we can identify those and compare the budget they'd actually follow.
 
-That was a historical simulation with different rules from Orange Plan, not a Bitcoin result or a forecast. It shows why we should examine how a spending rule changes someone's life, instead of assuming all guardrails do the same thing.
+At the upper trigger, the same process can suggest an increase within the annual limit. Within the triggers, the normal suggestion stays at the inflation-adjusted amount unless another household change gives us a reason to reconsider it. In each case, we still choose the amount after reading what it funds.
 
-Morningstar has also found that flexible withdrawal methods can support higher starting withdrawals in its stock-and-bond research. The trade-off is accepting changes in income. Neither study gives a Bitcoin household permission to copy a withdrawal rate.
+The Reserve follows from that spending decision. In retirement, its job is based on the gap after reliable income, along with any separate bills it needs to cover. Let's give this example $40,000 of spendable income after its tax, with withdrawal taxes funded separately. At $92,700 of spending, the lifestyle gap is $52,700 a year.
 
-Here's the method we're using for the annual review. Start with the current plan and your saved spending amount. Update the information that has changed, then apply the plan's inflation assumption. Check that amount against the remaining years, income and investments.
+This household chooses twelve months of that gap as its cash target and six months as its review floor. That gives a $52,700 target and a $26,350 floor. With $45,000 already assigned, they're $7,700 below target and still above the floor, with about ten months of the gap available. Those months are their example choices, not automatic answers for another household.
 
-Orange Plan's default uses an 80% confidence target, with review triggers at 60% or below and 95% or above. Confidence describes the share of model runs that meet the plan's funding test under its assumptions. It's a planning result, not a guarantee about your life.
+If the market is weak, they can compare using some existing cash with refilling now. Waiting needs a funded response before the balance reaches the floor: an available asset, a controlled sale, different spending or changed income. Borrowing needs its own loan decision. A hoped-for recovery doesn't supply the next bill.
 
-Between those triggers, the normal suggestion is the inflation-adjusted amount. At a trigger, compare the spending amount associated with the target confidence. Move toward it, with the suggested correction capped at 10% of the inflation-adjusted amount for that annual review.
+A refill also has costs to include. Moving $7,700 from investments into cash doesn't create $7,700 of new wealth. The Reserve stays inside existing assets, and any sale tax and fees belong beside the cash being raised. That keeps the same dollars from doing two jobs.
 
-Those are Orange Plan's settings. They aren't the original Guyton-Klinger rules or a requirement to start withdrawals at 8%. A dollar value shown as a portfolio guardrail is a review threshold, not your spending budget. Don't mix the percentages from different methods.
+This is where the order of returns matters. When investments are sold after a decline to pay for life, those units aren't there to participate in a recovery. The Reserve gives us another source for a period, with the refill decision we've just worked through.
 
-Let's follow one separate household through it. Last year's spending target was $100,000. With a 3% inflation adjustment, next year's starting amount is $103,000.
+In your own plan, we'll look at the weak year's cash, sale and remaining investments. Less favorable return assumptions can be tested separately. Raising growth to undo an uncomfortable result would hide the funding issue we're trying to understand.
 
-For this illustration, imagine the updated calculation gives that $103,000 amount a 55% confidence result. Imagine it also finds $86,000 at the 80% target. Those model results are made up to explain the decision; they aren't results from the Reeds' plan.
+The walkthrough connects the annual budget to its income, Reserve and refill source, then saves the amount you actually choose. You'll also have a next review date, with income loss, a major bill or a loan threshold handled sooner when necessary. After that, we're moving into custody: who controls the Bitcoin behind this plan and what that arrangement requires from you.
 
-The 55% result crosses the lower trigger. But moving straight from $103,000 to $86,000 would exceed the annual correction cap. Ten percent of $103,000 is $10,300. Subtract it and the suggestion is $92,700.
+### Text overlays — not spoken
 
-That's $7,300 less than last year's $100,000 budget, and $10,300 less than the new inflation-adjusted budget. The difference matters when you're working out what to cut.
+| Exact spoken cue | Overlay copy | Editor treatment |
+| --- | --- | --- |
+| We begin with the budget already saved in the plan | 1 · Update facts; apply inflation once | Current versus proposed spending. |
+| A standing portfolio guardrail is a portfolio level | 2 · Portfolio guardrail → spending review | Keep standing levels separate from annual budget. |
+| Underneath that review, Orange Plan uses an 80% target | Policy detail: 60 / 80 / 95; annual correction cap 10% | Secondary explanatory insert, not first-layer dashboard. |
+| The lower trigger is crossed. | Illustration: $103,000 − $10,300 = $92,700 | Label invented solver results; cap does not restore target. |
+| The Reserve follows from that spending decision. | 3 · Spending gap → target / floor / refill | Illustration: $52,700 / $26,350 / $7,700. |
+| Waiting needs a funded response before the balance reaches the floor: | 4 · Fund the refill before the floor | Show source and tax separately. |
+| The walkthrough connects the annual budget | 5 · Adopt the budget and review date | No automatic spending change. |
 
-The cap hasn't restored 80% confidence. It's moved partway toward the $86,000 amount in this example. Recheck the proposed budget and the years that remain difficult. Repeating the annual correction several times in one sitting would defeat the limit.
+### Walkthrough handoff — not spoken
 
-Now make it a household decision. Could they actually live on $92,700? If they can postpone flexible spending, the change may fit. If essentials already cost more than that, the suggestion hasn't solved the problem. They need a different funding or income response. An annual cap can't promise that any particular spending level will be enough.
-
-If the confidence result had stayed between the triggers, the normal suggestion would have remained $103,000. At the upper trigger, the same process can suggest an increase toward the target, within the correction cap. You can accept the suggestion or choose a different amount after comparing it. Nothing should change merely because a new result appeared.
-
-Next, connect the spending decision to the Reserve. During work, the reserve mainly supports an income interruption. In retirement, size it from the spending gap after reliable income, plus any separate bills it needs to cover.
-
-For our household, assume $40,000 of annual income is available after its tax, and taxes on investment withdrawals are funded separately. At $92,700 of spending, the lifestyle gap is $52,700 a year. That's down from $63,000 under the $103,000 budget.
-
-For this example, they've chosen twelve months of that gap as the cash target and six months as the review floor. The target is $52,700; the floor is $26,350. These are example choices, not automatic answers for your household.
-
-They have $45,000 already assigned to that cash. It's $7,700 below the target and still above the floor. They could compare a refill now with using existing cash while checking the balance regularly. At this spending pace, $45,000 covers about ten months of the gap, so waiting still needs a funding plan.
-
-If the market is weak, they may choose to delay a refill while cash remains adequate. Before reaching the floor, they need a funded response: another available asset, a controlled sale, lower flexible spending or changed income. Borrowing needs its own loan decision. A hoped-for recovery isn't a refill source.
-
-A stronger market may make refilling easier. Compare the actual cash needed, the tax on the sale and what remains invested. Count the Reserve inside existing assets. Moving $7,700 into cash doesn't create another $7,700 of wealth. Add any withdrawal tax or other cost this simplified example left out.
-
-Keep the spending choice and refill together so the same cash isn't assigned twice. I want this review to help you use the money for your life, while making clear what you'd change when the plan weakens.
-
-Change one thing first. Hold returns and the other household choices steady while comparing spending. Look at when funding becomes difficult, not just the ending balance. Then separately test less favorable returns. Raising an assumption to undo an uncomfortable result hides the issue.
-
-You don't have to push confidence to 100%. Compare the extra margin with the spending or working years you'd give up. The right target depends on consequences and flexibility. The model doesn't certify a lender, tax rule or custody arrangement.
-
-Income loss, a large unexpected bill or a loan near its contractual threshold can require attention before the annual review. A yearly rhythm doesn't postpone those obligations.
-
-Use your own updated plan to compare next year's spending and its funding. Save the amount and strategy you actually choose, then check income, withdrawals and the Reserve refill together. The walkthrough connects that decision to the app. Your plan should show how next year's bills will be paid.
+[W06, chapters 5 and 7–8](working/W06_build-and-test-the-retirement-paycheck.md): sequence and Reserve, one changed decision, annual budget and refill. Product-policy explanations can be captured as separate inserts after verifying the accepted build.
 
 ### Source and production notes — not spoken
 
-September 10 follow-up. The current narration supersedes the prior demonstration notes for this lesson; old text remains recoverable in Git history. [Owner decisions and change record](../delivery/script-finishing-20260910.md) separate Austin's approved reasoning from editorial examples and outside research. [Dated verification](../reference/script-finishing-sources.md) records the source boundaries.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Record the script first; text and graphics come afterward. The application is the member's own Orange Plan, with no separate homework or submitted explanation. Capture the app or provider procedure only after verifying the relevant workflow, inputs and outputs. Nothing in this pass changes the app, moves funds or supplies a licensed approval.
-
-Use the source-backed 60 / 80 / 95 confidence framework and a single annual correction capped at 10% of the inflation-adjusted amount. The $103,000 / 55% / $86,000 solver example is explicitly invented for arithmetic, not a run from any app build. $100,000 × 1.03 = $103,000; capped suggestion $92,700 does not establish restored 80% confidence. With $40,000 spendable income and withdrawal taxes funded separately, the annual lifestyle gap is $52,700, the chosen twelve-month target $52,700, six-month review floor $26,350, and deficit against $45,000 cash $7,700. Verify actual calculations and controls before app filming; a confidence trigger, spending amount and portfolio-value display are distinct.
+Retirement deck spending/sequence/Reserve actions retained; old fixed-withdrawal and generic 10% interpretations do not override accepted current policy. The separate two-year sequence calculation was removed; this recording follows one annual spending and Reserve case. Research-performance exposition remains outside speech; dated research remains in reference/script-finishing-sources.md. Preserve invented $103,000/55%/$86,000 example, $92,700 cap, $52,700 gap, $26,350 floor and $7,700 refill. Dollar guardrail inverse calculation, denominator, annual cap/inflation semantics and same-result save receipt require approved-build evidence before footage. No invented solver result is shown as an app output.
 
 ### Member checkpoint
 
-Choose a retirement Reserve and refill approach, spending strategy and review rule. Compare the effects of a difficult market without counting the same money twice.
+The chosen annual spending amount funds the household, the Reserve target and floor use the same spending gap, and any refill has a source, costs and review date.

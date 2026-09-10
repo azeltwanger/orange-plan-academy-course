@@ -1,0 +1,5 @@
+Now we're giving this test wallet a small, known amount that we can look for after recovery. In the receive process, we'll verify the destination through the trusted device, rather than relying only on the computer display. The network and amount also need to match the transfer authorized for this test.
+
+After the transfer, we need the required actual confirmation before continuing. We'll keep that receipt and a non-secret way to recognize the intended wallet for the recovery comparison.
+
+If the destination or received amount is unexpected, this is where we stop and investigate. Adding meaningful funds wouldn't resolve that uncertainty. The test stays limited to the small amount set aside for it.
