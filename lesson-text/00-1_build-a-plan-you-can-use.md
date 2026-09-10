@@ -1,23 +1,21 @@
 # 0.1 — Build your retirement plan
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_SCRIPT_REVIEW — complete teaching manuscript; final voice approval and capture remain separate.
 Kind: teach
 Gate: OWNER_REVIEW
 Sources: APP, DICTATION, FOUNDATION, LANDING, MASTER, OWNER
 
+### Do this
+
+Choose the work change and spending you want your retirement plan to support. Keep that question ready to enter after your starting facts.
+
 ### Read aloud
 
-You can believe in Bitcoin, keep buying it, and still be unsure whether your financial plan works.
-
-When can you stop working? How much can you spend? Is the money in the right accounts? And what happens if life changes before Bitcoin does what you expect?
+Start with the life you want this money to pay for. Choose an age when you'd like work to become optional and a first estimate of what that life would cost each year. We'll use those two numbers to start your retirement plan.
 
 It took me four years of holding Bitcoin to realize what I was missing. I had an investment strategy, but I didn't have a financial plan where I could see everything in one place. Owning Bitcoin doesn't tell you how it's going to pay for your life.
 
-We'll work through one decision at a time. I'll explain the choices and show why a household might prefer one. Then you'll compare the choices that fit your life. Your answer doesn't have to match the example.
-
-Keep Orange Plan open as you work through the course. The walkthroughs show you how to use your own numbers, read the results and make the decision. Pause when you need to; you don't need to do the calculations in your head.
-
-Start with what you want the money to make possible. You might want to retire, reduce your hours, change careers, or spend more time with your family. Give that goal an initial date and spending amount. Pick something specific so we have something to test. Then let the results show whether that date works.
+Each lesson gives you a decision to make. I'll explain the steps and use an example to show the trade-off. The separate walkthrough shows where that decision goes in Orange Plan. Pause there and enter your own information before moving to the next step.
 
 Our example household is Alex and Morgan Reed. They're fictional, and we'll use their situation throughout the course. Alex wants work to become optional at 52. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
 
@@ -31,22 +29,28 @@ This is financial education, not individual investment, tax, or legal advice. Yo
 
 Keep your source documents private. No lesson requires you to share account passwords, wallet recovery words, or private keys.
 
-Start with the question that brought you here: could you stop working at the age you have in mind and pay for the life you want? Use that date and spending amount in Orange Plan. As we build the plan, we'll see what works and what would need to change.
+Write down your initial work-change age and spending estimate now. After we enter your starting facts in the next lesson, the first-plan walkthrough will show you where to enter those two numbers. Keep the next missing statement or decision beside them so you know where to begin.
 
-### Source and production notes — not spoken
+### Text overlays — not spoken
 
-Source-led condensation of lessons 0.1, 1.1. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+| Exact spoken cue | Overlay copy | Editor treatment |
+|---|---|---|
+| Choose an age when you'd like work to become optional | Work optional at ___ · Annual spending ___ | Reveal two blanks; leave them unfilled. |
+| I had an investment strategy | An investment needs a plan for spending, access and time. | One line beside Austin; no stock footage of luxury retirement. |
+| Our example household is Alex and Morgan Reed. | Fictional household · Alex: work optional at 52 | Show the established household card. |
+| Some lessons are marked For your situation. | Use a strategy? Complete its situation lesson first. | Show the conditional lesson marker. |
+| You can choose a reserve target today | Decision → next action → date | Reveal the three items as the sentence continues. |
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+### Walkthrough handoff — not spoken
 
-#### Retained 0.1 — Visual and source notes — not spoken
-
-Orientation uses the preserved origin explanation and current ten-session structure. The uploaded YouTube script is delivery structure only. No financial formulas, returns, biography additions, outcome guarantee or service entitlement imported. Visual: one household question and the existing course tracker.
-
-#### Retained 1.1 — Visual and source notes — not spoken
-
-Visual: existing mortgage / expected college / possible renovation, with assumptions beside the saved starting picture. Uses original August 25 dictation and Foundation steps 1–3. Do not claim current editor behavior from old decks.
+[W01, chapters 1–2](working/W01_build-the-first-working-plan.md): find the first task and begin the account review. Chapter 7 records the retirement question after the starting facts are entered.
 
 ### Member checkpoint
 
-Begin your own Orange Plan with the retirement date and life you want to compare. Continue with your starting numbers.
+You have written down a starting work-change age and spending estimate, ready to enter in W01, chapter 7 after the starting facts. The next missing source or action is identified. You know which situational lessons apply before using their strategies.
+
+### Source and production notes — not spoken
+
+Foundation steps 1–3 and Austin's original orientation/dictation supply the sequence and origin story. The four-year holding account is retained from the historical source; no new biography is added. The latest course order places Debt before final contribution routing. Educational and US-example scope stays in the narration.
+
+Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

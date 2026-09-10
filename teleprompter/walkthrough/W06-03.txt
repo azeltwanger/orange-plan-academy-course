@@ -1,0 +1,7 @@
+Enter the healthcare cost for the period after employer coverage ends. Use the complete annual amount from the coverage comparison, including premiums and expected additional costs. Keep the difficult-year exposure and its funding visible.
+
+In the teaching example, $12,000 of premiums plus $3,000 of other costs totals $15,000; $8,000 plus $8,000 totals $16,000. Replace those illustrative amounts with the costs for the actual coverage choice.
+
+Check any income change from the withdrawal or conversion against the same coverage year. Include a verified assistance repayment or premium effect when it applies.
+
+Set each person’s transition date. Confirm Part B timing and the Part A effective date before relying on ongoing HSA contributions. Keep enrollment as a separate outside action until coverage is confirmed.

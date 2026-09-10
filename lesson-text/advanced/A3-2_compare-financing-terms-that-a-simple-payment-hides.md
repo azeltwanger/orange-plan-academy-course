@@ -1,6 +1,6 @@
 # A3.2 — Compare unusual financing terms
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_SCRIPT_REVIEW — complete teaching manuscript; final voice approval and capture remain separate.
 Kind: conditional
 Gate: LENDING_REVIEW
 Sources: DEBT, OWNER, PRIMARY
@@ -9,9 +9,13 @@ Use when: You are comparing an unusual financing agreement or a structure with n
 Complete before: Complete before relying on the proposed payment or exit.
 Return to: Set borrowing limits and a repayment plan
 
+### Do this
+
+Trace the complete payment and settlement schedule of an unusual agreement, including terms the app cannot represent.
+
 ### Read aloud
 
-Two offers can have similar starting payments and very different final obligations. This lesson is for a financing proposal with terms a simple monthly-payment comparison doesn't capture.
+Put the proposed agreement beside the amount and date you need to fund. Follow every payment through the final settlement, and write down any term that changes the balance, your ability to exit, or the assets exposed.
 
 Start with the purchase price, the cash needed, and the date you need it. Keep those the same across the alternatives. Then follow the payments from the start of the agreement until it ends.
 
@@ -25,7 +29,7 @@ A seller-financed purchase may use a low starting payment and a large balance du
 
 A home-equity investment or shared-appreciation agreement needs its actual settlement formula. It isn't a zero-rate loan just because no monthly interest payment appears. Calculate what would be owed under lower, unchanged and higher home values at the relevant dates. Include valuation adjustments, fees, sale or refinancing triggers and other conditions from the contract.
 
-Then ask where the settlement money comes from. A favorable-looking paper gain doesn't provide cash unless a sale or another funded route is available. The agreement may influence when you can move or refinance, which belongs in the life comparison.
+Next, identify the settlement money and when it becomes available. A favorable-looking paper gain doesn't provide cash unless a sale or another funded route is available. The agreement may influence when you can move or refinance, which belongs in the life comparison.
 
 Securities-backed credit adds a use restriction check. A non-purpose line generally can't fund purchases or trading of securities; a margin loan is a different arrangement. Neither should be substituted for the other simply because both use an investment account as collateral.
 
@@ -35,24 +39,29 @@ For the Reeds' project illustration, keep a smaller project and a delay alongsid
 
 When Orange Plan doesn't represent a contract term, keep its actual payment and settlement schedule alongside the app comparison. Don't substitute an ordinary loan and call the full agreement modeled.
 
-Read the comparison from the first payment through the final settlement. What do you pay, what remains owed, and how does the household fund it? Get any missing contract answer before choosing the offer.
+Record the first payment, ongoing payments, final amount owed and the resource funding each part. Get any missing contract answer before choosing the offer, then carry the repayment and fallback into your debt instructions.
 
-### Source and production notes — not spoken
+### Text overlays — not spoken
 
-Source-led condensation of lessons A3.2. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../../delivery/consolidation.md](../../delivery/consolidation.md) and the source hashes in [../../production/consolidation.json](../../production/consolidation.json).
+| Exact spoken cue | Overlay copy | Editor treatment |
+|---|---|---|
+| A low monthly payment can leave a large bill at the end. | Upfront cost → payments → final settlement | Keep final balance visible throughout. |
+| leaves the $20,000 principal outstanding. | Interest-only example: $20,000 still due after five years | Recall the separate generic example; no new offer. |
+| compare the entire replacement mortgage. | Cash-out refinance changes the existing debt too. | Show old mortgage beside full replacement. |
+| needs its actual settlement formula. | Shared appreciation: lower / unchanged / higher home values | Leave formula terms sourced to the contract. |
+| another payment isn't funded. | Same monthly cash; no second pool for financing. | Retain smaller project and delay. |
+| keep its actual payment and settlement schedule alongside the app comparison. | Unmodeled term → separate analysis before choosing | No staged model-complete badge. |
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+### Walkthrough handoff — not spoken
 
-#### Retained A3.2 — Visual and source notes — not spoken
-
-Existingadvancedcontractscope;nowfullschedule/exit/refinancingrefusal isjobnotrepeatingCoremenu. HELOC/HEI/SBLOC/planloan mechanism references remaininprimarysourceindex; actuallegalagreementcontrol. No unsupportedapp modeling or producthierarchy.
-
-#### Retained A3.2 — Demonstration plan — not spoken
-
-Build one reviewed offer from closing to finalsettlement,comparekeepingexistingfinance,andshowrefinanceunavailable. Narration: “The small payment ends here. This is what is still owed. Show the source that pays it.” Unsupportedterms useexistingexternalworksheetnotfakefields.
-
-The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+[W03, chapter 4](../working/W03_set-debt-jobs-and-test-one-financing-decision.md): compare the whole agreement; chapter 5 records the chosen repayment and fallback. Return to 3.6 afterward.
 
 ### Member checkpoint
 
-Explain all payment phases and final settlement under a weaker case before choosing the complex financing proposal.
+The actual offer has a complete payment/settlement schedule, relevant stress cases and a feasible exit. Unsupported terms are separately analyzed or remain specific blockers to choosing it.
+
+### Source and production notes — not spoken
+
+Debt Strategy financing steps and existing dated lending-source review. Preserve SBLOC use restrictions, employer-plan consequences, personal guarantees and home-equity/shared-appreciation settlement conditions. No lender terms, security value, quote or approval is invented. The separate $20,000 interest-only illustration remains unchanged.
+
+Source provenance remains in [../../production/consolidation.json](../../production/consolidation.json), the original source-material and the dated [../../reference/script-finishing-sources.md](../../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).

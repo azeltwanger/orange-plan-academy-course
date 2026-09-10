@@ -1,4 +1,4 @@
-A financing offer can look attractive because of the monthly payment. But a small payment doesn't tell you how much the arrangement costs, how long you'll carry it, or what you still owe at the end.
+Write the purchase amount and date, then compare how you'd fund that same need. Start with cash, a sale and one relevant financing offer. Keep a smaller purchase or a delay in the comparison so borrowing has to earn its place.
 
 For the course example, say Alex and Morgan are comparing a $30,000 project. Start with paying cash.
 
@@ -8,7 +8,7 @@ That consequence belongs in the comparison. “We have enough in the account” 
 
 Selling an investment is another option. In a taxable account, look at the gain and any tax associated with the sale. The amount sold may need to be larger than the $30,000 needed for the project. It depends on the actual purchase history and the household's tax situation; we shouldn't make up a tax cost to finish the example.
 
-In the reduced-spending example, the available $1,700 is already being compared as $500 for the reserve and $1,200 for extra card payments. Another loan payment needs room. Which spending amount, contribution, or project choice would change to make that possible?
+In the reduced-spending example, the available $1,700 is already being compared as $500 for the reserve and $1,200 for extra card payments. Another loan payment needs room. Name the spending, contribution or project choice that would change to fund it.
 
 For now, they may decide to leave the project as a possibility or do it later. Borrowing doesn't have to come out ahead.
 
@@ -18,7 +18,7 @@ You may believe your long-term Bitcoin return will exceed the interest on a loan
 
 The important word is expected. The investment return isn't arriving on the same schedule as the loan payment.
 
-Bitcoin could do well over several years and still be worth much less next month. The loan still needs support during that period. So ask where the payments come from while you wait, and how long you could keep making them without relying on a sale at a price you don't like.
+Bitcoin could do well over several years and still be worth much less next month. The loan still needs support during that period. Name the source of payments while you wait and how long it can support the debt during a weak market.
 
 Borrowing can also let you avoid selling an appreciated investment today. That can postpone realizing a gain from that sale. But we still need to compare the interest, fees, collateral risk, and eventual repayment with the cost of selling.
 
@@ -26,7 +26,7 @@ Avoiding a sale now isn't the same as making the tax disappear forever. If you l
 
 You might finance equipment, a business, or another productive asset because you expect it to help generate cash. Start with the money left after the costs of operating it, not the total sales you hope it will produce.
 
-Would that cash cover the payment? What if the equipment needs a repair, a customer pays late, or sales are lower than planned? You may need working capital as well as money for the purchase. Using every available dollar for the down payment can leave the new activity short of cash before it has had time to work.
+Test whether that cash covers payments after a repair, delayed customer payment or lower sales. You may need working capital as well as money for the purchase. Using every available dollar for the down payment can leave the new activity short of cash before it has had time to work.
 
 Also find out who is responsible if it fails. A personal guarantee can bring the obligation back to the household. The fact that the money went into a business doesn't necessarily limit the consequences to that business.
 
@@ -34,19 +34,19 @@ If you borrow to buy Bitcoin, the Bitcoin itself doesn't provide the dollars for
 
 For the intended repayment source, check how certain its amount and date really are. What would you do if the payment arrived late or was smaller? A temporary loan needs a repayment plan. Repeatedly borrowing to cover a continuing gap between income and spending is a different problem.
 
-Now let's look at how the loan's structure changes the payment, using a separate example.
+Next, read the payment schedule and ending balance together. Use this separate example to see what the structure changes.
 
 Let's say you borrow $20,000 at 8% and repay it over five years, with no fees. A fully amortizing loan would require about $406 a month. Fully amortizing just means the scheduled payments pay off the balance by the end, assuming the terms and payments are followed.
 
 An interest-only version at the same rate would cost about $133 a month while the balance stays at $20,000.
 
-Why is the payment so much lower?
-
-Because you haven't been paying back the $20,000 as you go. After five years of interest-only payments, that principal is still owed. You need to have it available or have a workable way to repay it at the agreed time.
+The interest-only payment is lower because you haven't been paying back the $20,000 as you go. After five years of interest-only payments, that principal is still owed. You need to have it available or have a workable way to repay it at the agreed time.
 
 In the amortizing example, total interest is about $4,332 over five years. In the interest-only example, keeping the full balance for all five years costs $8,000 in interest, and you still need to repay the original $20,000. Those are simplified examples, not loan offers. They show why we need the ending balance beside the payment.
 
-When you compare offers, include the fees and check whether they're paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
+Then read the actual offer. Include the fees and check whether they're paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
+
+The next checks depend on the offer you're considering. Follow the one that applies; you don't need to compare or research every product to make this decision.
 
 For a home-equity loan or line, your home is part of the agreement. A line may have a period when you can draw money and a later period when the balance must be repaid. The rate and payment can change, and access to further borrowing can be reduced under the terms. Read those parts before treating unused capacity as your fallback.
 
@@ -66,4 +66,4 @@ Let's compare one relevant financing option with paying cash or selling an inves
 
 When the offer uses a large final payment, seller financing or a shared-appreciation formula, use the unusual-financing lesson before depending on the comparison. For Bitcoin collateral, use the Bitcoin-loan lesson. You don't need to research every loan type; you need to understand the one you might actually use.
 
-Choose the option that fits, or get the specific contract question answered before choosing. Comparing an offer doesn't mean you've applied or qualified. Next we'll write the repayment and response rules you'd need to follow.
+Record the cash left, affordable payment, ending obligation and repayment source for the option you prefer. If a contract term changes the answer, get it resolved before choosing. Comparing the offer doesn't mean you've applied or qualified.

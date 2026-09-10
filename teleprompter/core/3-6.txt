@@ -1,6 +1,6 @@
-You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation, even though you haven't borrowed more.
+Write the rules you would follow before taking on more debt: the amount you're willing to owe, where the payments come from, how the principal gets repaid, and what would make you act sooner. We'll test those rules against the assets and cash you could actually use.
 
-Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the assets. That's your debt-to-assets ratio.
+First, check the household resources. Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the assets. That's your debt-to-assets ratio.
 
 Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
@@ -22,7 +22,7 @@ The stress example we've just used is deliberately limited. It holds the educati
 
 A fast price decline is also not the only difficult case. You might handle a brief drop but struggle if returns stay weak for several years while interest and payments continue. Or business income could weaken at the same time as investments. That's why we need more than today's asset total.
 
-A lender's collateral test is separate from that household total. Loan-to-value, or LTV, compares one loan with the assets pledged for it.
+Next, check each secured loan's own requirements. A lender's collateral test is separate from that household total. Loan-to-value, or LTV, compares one loan with the assets pledged for it.
 
 For a Bitcoin-backed loan, I'd size the debt against a severe decline first, including the extra Bitcoin available for top-ups. Then I might start the chosen loan at 50% LTV to put less Bitcoin with the lender. That leaves less time to respond to a drop. The Bitcoin-loan lesson works through the reserve calculation before you borrow.
 
@@ -40,11 +40,11 @@ A strong household balance sheet doesn't override the lender's calculation. You 
 
 Different loans also behave differently. A conventional mortgage isn't normally subject to a Bitcoin-style margin call just because the home price falls. A home-equity line can lose available borrowing capacity under its terms. A securities-backed loan may allow a collateral demand or sale. Don't apply one loan's rules to all three.
 
-Now use those limits to choose what you would actually do. A review point is useful only when you have the resources and time to respond.
+Now write the response you could fund if the position worsens. A review point is useful only when you have the resources and time to respond.
 
 First, write what the money is for and the most you're prepared to borrow for that purpose. Then name what will pay the interest and what will repay the principal.
 
-Those may be different answers. You could cover monthly interest from income while planning to repay the principal from a sale. In that case, the sale has an amount and a deadline. What happens if you receive less than expected, or it takes longer?
+Those may be different answers. You could cover monthly interest from income while planning to repay the principal from a sale. In that case, the sale has an amount and a deadline. Include the response if the proceeds are smaller or arrive later.
 
 “We'll refinance” is something to investigate, not a complete fallback. You may be able to replace the loan, but the new lender, terms and approval still need to exist when you need them. Check what the household would do if they don't.
 
@@ -72,4 +72,4 @@ For Alex and Morgan, the Reserve and high-rate card still need funding. They hav
 
 Then bring the current debt decisions back to Cash Flow. Required payments have already been counted. The extra payments need to fit beside the reserve amount and the other commitments. Keep any proposed new loan separate until you deliberately choose it, and don't start using money that becomes available only after a future payoff.
 
-Allocation starts with the money left after these decisions. We'll choose what it buys now and what changes when a debt is actually paid off.
+Save the payment source, principal exit, response point and person responsible. Keep any proposed loan in the comparison until those rules work. Allocation receives the cash left after the debts you've actually chosen.

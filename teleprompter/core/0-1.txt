@@ -1,14 +1,8 @@
-You can believe in Bitcoin, keep buying it, and still be unsure whether your financial plan works.
-
-When can you stop working? How much can you spend? Is the money in the right accounts? And what happens if life changes before Bitcoin does what you expect?
+Start with the life you want this money to pay for. Choose an age when you'd like work to become optional and a first estimate of what that life would cost each year. We'll use those two numbers to start your retirement plan.
 
 It took me four years of holding Bitcoin to realize what I was missing. I had an investment strategy, but I didn't have a financial plan where I could see everything in one place. Owning Bitcoin doesn't tell you how it's going to pay for your life.
 
-We'll work through one decision at a time. I'll explain the choices and show why a household might prefer one. Then you'll compare the choices that fit your life. Your answer doesn't have to match the example.
-
-Keep Orange Plan open as you work through the course. The walkthroughs show you how to use your own numbers, read the results and make the decision. Pause when you need to; you don't need to do the calculations in your head.
-
-Start with what you want the money to make possible. You might want to retire, reduce your hours, change careers, or spend more time with your family. Give that goal an initial date and spending amount. Pick something specific so we have something to test. Then let the results show whether that date works.
+Each lesson gives you a decision to make. I'll explain the steps and use an example to show the trade-off. The separate walkthrough shows where that decision goes in Orange Plan. Pause there and enter your own information before moving to the next step.
 
 Our example household is Alex and Morgan Reed. They're fictional, and we'll use their situation throughout the course. Alex wants work to become optional at 52. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
 
@@ -22,4 +16,4 @@ This is financial education, not individual investment, tax, or legal advice. Yo
 
 Keep your source documents private. No lesson requires you to share account passwords, wallet recovery words, or private keys.
 
-Start with the question that brought you here: could you stop working at the age you have in mind and pay for the life you want? Use that date and spending amount in Orange Plan. As we build the plan, we'll see what works and what would need to change.
+Write down your initial work-change age and spending estimate now. After we enter your starting facts in the next lesson, the first-plan walkthrough will show you where to enter those two numbers. Keep the next missing statement or decision beside them so you know where to begin.

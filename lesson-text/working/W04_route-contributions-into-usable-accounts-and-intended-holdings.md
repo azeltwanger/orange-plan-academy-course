@@ -1,139 +1,171 @@
 # W04 — Route contributions into usable accounts and intended holdings
 
-Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted preparation direction only; final controls, eligible assets, contributions, taxes, results and saves require the approved redesign.
-
+Status: STEPWISE_WALKTHROUGH_REVIEW — complete separate spoken scenes; approved-build capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
 ### For your situation — recording route, not spoken
 
-- After 4.7, [A4.1](../04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md): You are about to make a large investment purchase, sale, or allocation change and need to choose its timing. Complete before the large transaction; routine funded contributions do not need this detour. Return to W04 chapters 7–8, then lesson 5.1.
+- After 4.3: chapters 1–3.
+- After 4.5: chapters 5–6.
+- After 4.7: chapters 4 and 7–8. Large-purchase timing is now within 4.7, not an additional A4.1 recording.
+- Use [A6.3](../advanced/A6-3_verify-an-early-retirement-account-access-route.md) before a contribution/rollover decision that depends on early retirement-account access.
 
-### Run sheet
+### Run sheet — not spoken
 
-Carry forward W01 facts and the named reduced-spending W02/W03 comparison. Do not recreate accounts, revise the accepted Reserve, invent available cash or silently adopt a loan. The whole-portfolio illustration is separate from the unchanged Reeds. Actual account/target/contribution support and results must be verified on the approved redesign.
+Carry forward W01 current holdings and the explicitly named reduced-spending W02/W03 comparison. Keep original $500 surplus distinct from reduced-state $1,700. General allocation subset: $1,307,000; native Bitcoin $410,000 (4.1 BTC), Bitcoin funds $318,000, stocks $504,000, cash/Treasury category $75,000. Excluded home/HSA/education still exist elsewhere. The separate $1 million illustration never changes the Reed fixture. Future owner: Plan → Portfolio and allocation for target/strategy; Cash Flow → Saving and investing for saved contributions; Cash Flow → Cash reserve for Reserve sources.
 
-Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
+Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional Reed source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
 
-#### Chapter 1 — Read the current whole portfolio
+Only each **Narration:** block is spoken. Record the chapter as a separate take; show the action as its instruction is spoken. Other fields are editing and verification instructions.
 
-**Show and do:** After 4.1, show one account then the combined general subset: $1,307,000, native Bitcoin value $410,000, spot-fund $318,000, stocks $504,000 and cash/Treasury category $75,000. Native quantity remains 4.1 BTC. Home/HSA/education stay on the balance sheet but outside this target subset.
+#### Chapter 1 — Read the current whole portfolio — after 4.3
 
-**Narration:**
-
-“The wallet is only part of the Bitcoin exposure. These funds add another part, while remaining securities in their accounts. Now read the other holdings. Which job is each doing, and is there one mismatch we should solve before buying anything else?”
-
-**Verify before recording:** Verify eligible denominator and source classifications without adjusting balances to force a percentage. Current-value/Estimated mix is distinct from known security positions. Current purchases and account ownership need evidence.
-
-**Member finish:** Explain current exposure and the non-Bitcoin holdings with the portfolio scope clear.
-
-#### Chapter 2 — Choose Bitcoin's intended role
-
-**Show and do:** After 4.2, use the original four-path slide and indicative ranges as orientation. Record the household's preferred role or starting range, not a final target or an automatic app suitability result.
+**Show:** Open Plan → Portfolio and allocation. Expand the included-assets explanation and one account’s holdings. Show the Reed general-subset arithmetic only when the approved app denominator matches it; otherwise show it as a labeled separate teaching graphic and state the actual app scope.
 
 **Narration:**
 
-“Which description fits why you own Bitcoin? You may already be comfortable with the current position. Write that starting intention down. We will decide what the other money needs to provide before treating the percentage as a finished portfolio.”
+Open Plan, then Portfolio and allocation. Start with Current. Open the assets included in this percentage and check that every holding is counted once.
 
-**Verify before recording:** No repeated drawdown arithmetic, no target save here, no mandatory bands or custody/wealth ladder. The role may be documented in the existing worksheet when there is no corresponding app field.
+In our Reed example, direct Bitcoin is worth $410,000 and the spot Bitcoin funds are worth $318,000. Add those for $728,000 of exposure. The funds remain investments inside their accounts; the direct quantity is 4.1 Bitcoin.
 
-**Member finish:** State the intended role and the question the remaining holdings must answer.
+Read the dollar totals before comparing percentages. Check the cash and stock holdings as well. Keep dedicated education and healthcare money attached to their jobs. Use the same included portfolio when you move from Current to Target.
 
-#### Chapter 3 — Build the non-Bitcoin portion and combine the target
+**Overlay:** Cue “Start with Current.” → Current holdings; cue “Add those” → $410,000 + $318,000 = $728,000, labeled Reed illustration.
 
-**Show and do:** After 4.3, use a separate $1 million teaching graphic. $500,000 BTC preference; prior $60,000 Reserve plus distinct $40,000 purchase produce $100,000 cash; remaining $400,000 long-runway stocks because this hypothetical household wants broad business ownership rather than individual-stock concentration. Compare cash arrangements, stock coverage/cost, and a relevant bond alternative by job—not by current yield or product recommendation.
+**Verify:** Holdings and totals reconcile without duplicate account balances. Any app denominator difference is explicitly explained; no $1,307,000 total is forced onto an incompatible screen.
 
-**Narration:**
+**Capture dependency:** Approved Portfolio and allocation route, eligible-assets denominator, spot-fund classification and exact account/holding composition readback.
 
-“The Reserve and purchase need this amount in cash. That is where the cash percentage came from. This household chose stocks for the remaining long-term money because it wanted business ownership alongside Bitcoin.”
+#### Chapter 2 — Choose Bitcoin’s intended role — after 4.3
 
-“Now add two separate $50,000 retirement payments that this household wants available in cash. Keeping Bitcoin unchanged leaves less for stocks. Their conviction stayed the same; the spending job changed. Which version better fits the life they intend, and what growth exposure are they giving up?”
-
-**Verify before recording:** Show first 50/40/10 then 50/30/20; all amounts and preferences are explicitly invented instructional assumptions, not Reed outputs or recommendations. The earlier $500k weighting-only example is superseded in this recording. Return to actual Reed jobs and supported sources before any target save. No per-bucket editor, second ledger, automatic recommendation, verified securities or cash eligibility inferred. Check first funding date/access and costs; an unavailable app feature remains held.
-
-**Member finish:** Explain the whole chosen mix, why each amount and investment type fits, a meaningful alternative and the first payment source.
-
-**Technical check before filming:** Desk review supports the instrument distinctions, not an exact cash-access promise. When TreasuryDirect is the chosen route, verify new-issue transfer holding requirements and the sale route; distinguish deposit insurance from money-market-fund protection. See report S15–S17.
-
-#### Chapter 4 — Fit current contributions and future milestones
-
-**Show and do:** After 4.4, use the actual reduced-spending state: $2,475 before employee − $775 = $1,700; $500 Reserve plus $1,200 extra card use it all. Read employer $387.50 separately. Show the conditional card-payment release $1,605 and later Reserve-completion milestone, not current additional money.
+**Show:** Display a separate four-path orientation graphic, then the existing target choice in Portfolio and allocation. Do not stage an automatic risk-profile score or add an unimplemented notes field.
 
 **Narration:**
 
-“These are the decisions already made. They fit in one available amount, so there is no additional transfer to add now. We can prepare where the payment goes after payoff, but first the payment has to end and the cash flow has to be checked again.”
+Choose the role you want Bitcoin to have before entering a target. Use the four descriptions as orientation: Foundation, Integration, Optimization and Sovereign. The ranges describe different roles; they aren't levels you need to progress through.
 
-**Verify before recording:** Verify actual contribution and extra-debt owners, current/future conditions, match formula and vesting, supported date behavior, no automatic bank routing and save/readback. Required debt is already deducted. A tax-election change later must reconcile this budget.
+Keep your spending dates and the other household member in this decision. Choose a starting amount to test, then leave room to fund the Reserve and approaching expenses. We’ll test that amount against those jobs before saving the target.
 
-**Member finish:** Every current contribution is funded once and later contributions have real start conditions.
+**Overlay:** Cue “Use the four descriptions” → Four illustrative paths; cue “before saving the target” → Starting choice → funding check → target.
 
-#### Chapter 5 — Select the relevant accounts
+**Verify:** The role/range remains a proposed preference; no arbitrary suitability recommendation or saved target is fabricated.
 
-**Show and do:** After 4.5, show the funding job first, then only relevant account alternatives. Compare actual access, eligibility, remaining room, menu, fees and tax treatment. Include HSA/529/business arrangements only when purpose and eligibility apply.
+**Capture dependency:** Target Current/Preview availability, existing choice provenance and absence of automatic save during the orientation scene.
 
-**Narration:**
+#### Chapter 3 — Build the target from funding needs — after 4.3
 
-“Which account can do this job? If we need the money in the early years, verify the access route. For later money, compare the tax treatment and menu. This workplace plan can hold part of the portfolio even if another account is the better place for Bitcoin.”
-
-**Verify before recording:** Verify per-person access and current rule/plan evidence. HSA/education are not unrestricted bridge money; self-directed retirement custody is not a personal account. Fictional workplace menu is not a real provider promise. New account opening stays an outside task.
-
-**Member finish:** Choose the receiving account or a precise prerequisite, rather than copying the whole example account list.
-
-**Technical check before filming:** P01/P03: Verify that IRA assets are not used for a personal borrowing transaction. Distinguish HSA contribution eligibility, substantiated medical reimbursement and later nonmedical distributions. Do not assume every expense predating the HSA is reimbursable, or that age 65 makes nonmedical distributions tax-free. Apply current 2026 coverage rules when relevant; no new member account or transaction is assumed.
-
-#### Chapter 6 — Compare the tax election fairly
-
-**Show and do:** After 4.6, show the separate $1,000 pretax example: $1,000 Traditional versus $800 Roth at 20%, both double, after-tax Traditional $1,600/$1,400/$1,800 at 20/30/10%. Then compare the actual reviewed payroll choices on a clearly specified equal-contribution or equal-household-cost basis.
+**Show:** Show separate $1 million arithmetic graphic, then the approved funding rows and target Preview. Read canonical Reserve assignment; identify accessible early-retirement funding. Use a supported stress comparison only after input/result review.
 
 **Narration:**
 
-“Traditional has more invested initially because the income tax has not been paid yet. Finish the comparison by taking withdrawal tax out. Now check the current paycheck: if this election leaves less cash, which existing contribution changes to keep the plan affordable?”
+Bring forward the Reserve you already chose, then add committed expenses with separate funding needs. In this separate $1 million illustration, $500,000 goes to the proposed Bitcoin position. The $60,000 Reserve and $40,000 purchase use $100,000. That leaves $400,000 for long-term stock exposure: 50% Bitcoin, 40% stocks and 10% cash.
 
-**Verify before recording:** No assumed Reed current election, bracket, deduction, qualified-distribution status or after-tax result. Use actual model support; external budget reconciliation is separately labeled. New contributions are not conversions, and IRA rules are not automatically workplace rules. Verify save/readback without a provider election claim.
+Add two unfunded $50,000 retirement payments that this household wants in cash. Cash becomes $200,000 and stocks become $300,000. Read what the additional cash protects and what it takes out of long-term growth.
 
-**Member finish:** Explain present cost, later purpose and affordability of the proposed election or mix.
+Return to your target comparison. Confirm the first important payment still has a source through a difficult market. Save only the target you intend to follow, then read it back beside the same Current holdings.
 
-**Technical check before filming:** P02: Confirm the qualified Roth condition and actual account type. Workplace pretax deferral is not an additional personal IRA deduction. Preserve equal-household-cost versus equal-contribution comparisons and the existing current cash-flow reconciliation.
+**Overlay:** Cue “In this separate” → Hypothetical household, not Reeds; cue “Cash becomes” → 50/30/20 versus 50/40/10.
 
-#### Chapter 7 — Tell each account what to buy
+**Verify:** Near-term costs are counted once, Reserve uses the same source as Cash Flow, target totals 100%, and save/readback preserves the intended target without trading assets.
 
-**Show and do:** After 4.7, read differently sized Alex accounts: $239,000 combined fund exposure within $555,000, not an average of 30% and 80%. Return explicitly to the Reed 60/34/6 comparison and $56,200 BTC difference. Compare new purchases before a cost-bearing taxable sale where appropriate. Future-only $1,000 BTC plus $605 taxable stocks uses the conditional $1,605 once.
+**Capture dependency:** Canonical Reserve reader, early-access row attribution, target writer, Current/Preview isolation, supported stress and saved-target receipt.
 
-**Narration:**
+#### Chapter 4 — Fit current contributions and future milestones — after 4.7
 
-“The household target is not the purchase instruction for every account. Read the dollar holdings together, then decide what new money should buy here. This future route needs the card payments to end; it is not a funded purchase today.”
-
-**Verify before recording:** Preserve current holdings/target/current contributions/future contributions/executed history separately. Verify menu, asset-class versus exact-security input, fees, overlaps, and the actual investment editor. No automatic target-to-trade, fake basis, in-kind retirement contribution or exact target-date guarantee.
-
-**Member finish:** Each applicable current and future contribution has an amount, purpose, account, tax election and intended holding.
-
-#### Chapter 8 — Complete the outside instructions
-
-**Show and do:** Use the existing action list for payroll, account opening, transfer and recurring purchase. Confirm start conditions and who acts. Read actual authorized example confirmations only when they exist; otherwise keep the outside action pending.
+**Show:** Open Cash Flow → Saving and investing with the reviewed reduced-spending state. Show employee, employer, Reserve and extra-card claims separately. Show future-only conditions using supported controls or existing toolkit notes when absent.
 
 **Narration:**
 
-“Check both instructions when the first contribution arrives. Did the right amount reach the account, and did it buy the intended investment? If it is still cash, check whether the purchase instruction is missing.”
+Open Cash Flow, then Saving and investing. Use the reduced-spending version from our earlier comparison. The $2,475 before Alex’s contribution becomes $1,700 after his $775. The $500 Reserve contribution and $1,200 extra card payment use that entire amount.
 
-**Verify before recording:** Verify all applicable instructions, not merely one sample. No live trade, bank transfer, payroll change or provider receipt is fabricated. Operational cash retains its job. Save and source/readback reflect the same chosen plan; a tax-sensitive sale with missing history goes to W05, not a made-up record.
+Keep the employer’s $387.50 separate from spendable cash. There’s no additional investment transfer to assign today.
 
-**Member finish:** The complete portfolio and contribution plan can be explained and implemented through dated, verifiable outside actions.
+Mark the card-payoff condition for a later review. The illustrated $1,605 becomes available only after those payments stop. At that point, verify the actual released amount and the other bills before starting a new transfer. Keep Reserve-completion routing tied to its own condition too.
 
-### Readback and finish
+**Overlay:** Cue “use that entire amount” → $500 + $1,200 = $1,700; cue “only after” → Future condition, not today’s cash.
 
-The member can explain the whole portfolio, including why the non-Bitcoin portion exists, and trace every applicable contribution through purpose, amount, account and holding to an outside instruction. Target choice, verified access, executed action and actual result evidence remain separate.
+**Verify:** Current household outflows are affordable once. Employer money is not spendable; future $1,605 is not active and no assumed payoff date is invented.
 
-### Production notes
+**Capture dependency:** Cash Flow contribution treatment, existing savings and employer match, Reserve/extra-debt integration, timing controls and save/readback.
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+#### Chapter 5 — Select a receiving account — after 4.5
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+**Show:** Start with the funding job, then open the appropriate existing account and relevant private/synthetic provider terms. Verify menu/access/eligibility outside the app where necessary. Do not imply that every account has a Bitcoin option.
 
-This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
+**Narration:**
 
-### Application in the member's own plan — production guidance
+Select the account that will receive this contribution. Start with the date you need the money. For an early-retirement gap, confirm access before choosing a tax benefit that leaves the dollars unavailable.
 
-Keep the demonstration's teaching examples, then go directly to the member's holdings, spending dates and contribution plan. Show where their chosen mix and routing affect their own plan. Do not add a separate practice portfolio, require two alternatives when no genuine choice is open, or request a written explanation or submission.
+Open the provider’s investment menu and check the holding you intend to buy. Then check contribution eligibility, remaining room and fees. Include the HSA, education or self-employed account only when it serves your actual commitment and you qualify.
+
+Keep the account you already have when it meets those conditions. If a new account is needed, record opening it as an outside action. The contribution destination is ready when both the account rules and intended investment are supported.
+
+**Overlay:** Cue “Start with the date” → Access date; cue “Then check” → Eligibility / room / menu / fees.
+
+**Verify:** Receiving account supports the actual purpose, allowed investment and timing; missing eligibility/provider facts are explicit.
+
+**Capture dependency:** Actual account type, owner, menu, contribution limits for the applicable year and supported future receiving-account selection.
+
+#### Chapter 6 — Compare the tax election at equal cost — after 4.5
+
+**Show:** Use separate $1,000 pretax teaching graphic, followed by a reviewed contribution Preview and payroll-cost evidence. State whether actual comparison keeps contributions or household cost equal.
+
+**Narration:**
+
+Compare Traditional and Roth using the same household cost. In this hypothetical example, $1,000 of pretax earnings puts $1,000 into deductible Traditional or $800 into Roth after 20% tax. If both double and the Traditional withdrawal also costs 20%, both leave $1,600 available under the stated rules.
+
+Now read the actual payroll effect of the election you're considering. Keeping the same contribution amount while switching to Roth can reduce take-home pay. Put that cost beside the Reserve and debt payments before saving.
+
+Select Traditional, Roth or the intended mix only after the full contribution remains affordable. This election concerns new money; it doesn't convert the balance already invested.
+
+**Overlay:** Cue “same household cost” → Equal-cost comparison; cue “new money” → Contribution election ≠ conversion.
+
+**Verify:** Comparison basis is clear, required qualification assumptions are present, and updated payroll cash reconciles with the same plan.
+
+**Capture dependency:** Applicable payroll tax/election evidence, equal-cost versus equal-contribution treatment, contribution Preview and save owner.
+
+#### Chapter 7 — Tell each account what to buy — after 4.7
+
+**Show:** Read target/Current in Portfolio and allocation, then receiving amount/investment in Cash Flow → Saving and investing. Show future $1,000/$605 route as a future comparison. Select actual reviewed fictional holdings without inventing security identity.
+
+**Narration:**
+
+Read the target gap, then return to the money you can actually contribute. The Reeds' 60% Bitcoin comparison is $784,200 against $728,000 currently held. The $56,200 difference helps direct purchases; it isn't cash available to invest today.
+
+For the future card-payoff example, $1,000 goes to personally held Bitcoin and $605 to a taxable stock fund. Keep the $500 Reserve contribution separate and the new investment route inactive until payoff.
+
+For each contribution, choose the receiving account and the investment it will buy. Check the product’s holdings, fees and strategy. Changing the future purchase instruction doesn't rebalance existing holdings. Review a taxable sale separately if one is needed.
+
+**Overlay:** Cue “isn’t cash available” → Target gap ≠ available contribution; cue “inactive until payoff” → Conditional $1,000 + $605.
+
+**Verify:** Amount/account/investment/start condition agree; target-to-trade automation is not invented and currently unavailable cash is not routed.
+
+**Capture dependency:** Supported holding selection, target calculation denominator, next-dollar precision, future conditions and contribution save/readback.
+
+#### Chapter 8 — Complete and verify provider instructions — after 4.7
+
+**Show:** Use existing action list with payroll election, account opening, transfer and recurring purchase instructions. Show an authorized synthetic confirmation only if available, otherwise leave the outside action pending. No provider mutation during course preparation.
+
+**Narration:**
+
+Finish the provider instructions for each chosen contribution. For payroll, set the amount and tax election, then confirm what new contributions buy. For a bank transfer, choose a date that fits the bills. If the brokerage requires a separate purchase after cash arrives, complete that instruction too.
+
+Record who will do each action and when. After the first contribution, compare the provider confirmation with your plan: amount, receiving account and holding purchased.
+
+If the money arrived but stayed in cash, finish the purchase instruction unless cash was the intended holding. Mark the action complete only when that evidence exists. Keep future changes tied to the condition that funds them.
+
+**Overlay:** Cue “amount, receiving account and holding purchased” → Deposit ✓ Purchase ✓; cue “evidence exists” → Planned / confirmed.
+
+**Verify:** Every current provider action has confirmation or a specific owner/date. Future conditions remain future and a saved app choice is not presented as an executed investment.
+
+**Capture dependency:** Safe synthetic/private evidence workflow, actual provider requirements and a supported non-secret action-status location.
+
+### Readback and finish — not spoken
+
+Current target and contributions agree with the same funded household state. Each contribution has an amount, account, investment, tax election and timing; provider execution has evidence or a dated pending action. No claim that the Reed target or future split is prescribed for another household.
+
+### Source and production notes — not spoken
+
+September 10 action-first revision based on the paired current teaching scripts, supplied slide steps and original dictation. Prior narrative and exact source mapping remain in [the consolidation record](../../delivery/consolidation.md). Historical app labels are superseded by the current chapter pairing here. Product contracts are reference evidence, not permission to change the app or to reproduce private technical documents. Keep every unsupported field, missing source fact and unperformed outside action visible. Record an actual capture pass only from observed evidence.

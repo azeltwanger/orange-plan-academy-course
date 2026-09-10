@@ -1,0 +1,5 @@
+Open the holding you intend to sell, then its purchase details. Confirm the units, date and source cost before using a lot in the comparison.
+
+Our illustrative 0.2 Bitcoin sale produces $20,000 before fees. The three supported purchase-price examples give $11,600, $3,200 or $10,400 of basis. The corresponding gains are $8,400, $16,800 and $9,600.
+
+Keep proceeds and gain separate from estimated tax. Confirm which units are actually available and which identification process applies. If a cost is missing, leave it unknown and find the source record before relying on that sale. Previewing a lot here doesn't execute the trade or notify the custodian.

@@ -1,108 +1,69 @@
 # 4.3 — Build the whole portfolio around your life
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_RECORDING_REVIEW — complete teaching script; owner voice review and paired capture remain separate.
 Kind: teach
 Gate: OWNER_REVIEW, TAX_REVIEW
 Sources: ALLOCATION, ALLOCATION_DECK, APP, BRAIN, OWNER, PRIMARY
 
+### Do this
+
+Set a portfolio target that funds your near-term commitments and gives the remaining investments a clear job.
+
 ### Read aloud
 
-You may already know what percentage you want in Bitcoin. But that leaves another question: what should the rest of your portfolio do?
+Start with your current allocation. Add the dollar value of each holding across your accounts, then group those values by investment type. Include Bitcoin funds when measuring Bitcoin exposure.
 
-Your portfolio is the group of investments we're reviewing. Add up what you own across its accounts. Bitcoin exposure means the amount whose value is tied to Bitcoin. Looking only at your wallet misses that exposure when retirement accounts also hold Bitcoin funds.
+The Reeds have $410,000 of Bitcoin and $318,000 of spot Bitcoin-fund exposure. Together, that's $728,000 out of the $1,307,000 portfolio used in this example, or about 56%. They own 4.1 Bitcoin outside the funds: 3.4 in self-custody and 0.7 with a professional custodian. The funds remain securities in their retirement accounts.
 
-For Alex and Morgan, the investments we're using in this allocation example total about $1.3 million. They have $410,000 of direct Bitcoin value and $318,000 of spot Bitcoin-fund exposure in retirement accounts. Together, that's $728,000, or about 56% of this group of assets.
+Keep the same group of assets when comparing current and target percentages. This example excludes the home and dedicated HSA and education accounts. Those assets still exist; they have other jobs. Add account dollars before calculating the percentage. Averaging two account percentages gives the wrong answer when the accounts are different sizes.
 
-That isn't the number of coins they control directly. The fund is still a security in its account. We combine its dollar exposure when looking at the investment mix and keep its ownership and custody arrangements separate.
+Next, choose the role you want Bitcoin to have. These four paths give you a starting point. Foundation describes a small learning position, illustrated at 1% to 5%. Integration puts Bitcoin alongside other long-term investments, illustrated at 10% to 20%. Optimization gives it a larger role, illustrated at 25% to 50%. Sovereign describes using it as the main long-term store of purchasing power, illustrated at 50% or more.
 
-Check what is included in the percentage. Here we're leaving out the home and dedicated education and health accounts. Those haven't disappeared from the family's balance sheet. They have other jobs, so they aren't included in this particular target comparison.
+Use those ranges to describe your intention. You don't have to move up through them. Your income, spending needs, other assets and ability to hold through a decline determine whether that intention fits your life. Talk through the consequences with anyone sharing the money.
 
-You could measure Bitcoin against all assets, net worth, or a defined investment portfolio and get three different percentages. Choose the group that answers your question and keep it the same when comparing today with your target.
+Now assign the money you'll need soon. Bring forward your Reserve target. Add committed expenses that aren't already covered, with their dates and funding sources. A purchase funded from future pay doesn't also need its full price deducted from today's portfolio. Money committed to college can't fund retirement at the same time.
 
-First, decide the role you want Bitcoin to play. We use four descriptions, not a ladder you have to climb: Foundation is a smaller learning position, illustrated at 1% to 5%. Integration is a place alongside other long-term investments, illustrated at 10% to 20%. Optimization gives Bitcoin a larger role, illustrated at 25% to 50%. Sovereign describes using Bitcoin as the main long-term store of purchasing power, illustrated at 50% or more. These are discussion ranges, not recommended allocations or precise dividing lines.
+Use Reserve, Bridge and Forever as reminders of when money is needed. The rough ranges are zero to three years, four to ten years, and ten years or more. They don't require three years of cash or put every retirement account in the same category. One brokerage account can hold next year's spending and investments for twenty years from now.
 
-For example, someone may choose to test 50% Bitcoin because they want it to be a major long-term holding while retaining substantial ownership of other investments. That doesn't tell them to put the other 50% in cash. Another person may want a much smaller Bitcoin position and use other assets for most of the long-term growth.
+For each approaching payment, choose assets you can use on that date without depending on a favorable market. Savings, a Treasury bill maturing in time, and a money market fund have different access and protection. A money market fund isn't an FDIC-insured deposit. Read the terms and costs before treating them as equivalent.
 
-Discuss that intention with anyone sharing the consequences. Your spouse doesn't have to know every technical detail of Bitcoin to understand why it has this role and what the household will use for spending. An unexplained position can become a much harder conversation during a decline.
+Then choose what the longer-term money provides. Stocks give you ownership of businesses alongside Bitcoin. A broad fund can spread that ownership across many companies. Compare its holdings, concentration, geographic coverage and fees. Several overlapping technology funds can leave you concentrated even with several account lines.
 
-Start with the spending jobs. Bring forward the Reserve amount you already chose. Then add known expenses that aren't covered by the Reserve: a purchase, a tax payment, or the first retirement withdrawals you want available without depending on a favorable sale.
+Bonds can provide interest and another source of investment returns. Check their sensitivity to interest rates and the borrower's ability to repay principal, the amount originally lent. An individual bond has a maturity; a bond fund doesn't give your whole investment one repayment date. A long-term bond fund can fall substantially, so don't assign it an approaching bill merely because it isn't a stock.
 
-Count the part of each expense that expected income won't cover, and keep its date in mind. If future pay will cover a purchase, you don't also need to reserve the full price from today's savings unless you choose to. And money you've already committed to college can't also fund retirement at the same time.
+For property or a business, use the cash available after operating costs, debt and interruptions. The home's value becomes retirement funding only when you have a workable plan to use it. You don't need every asset type. Keep the investments that serve a purpose you can explain.
 
-We use Reserve, Bridge, and Forever to help think about when money will be used. The rough zero-to-three, four-to-ten, and ten-plus-year ranges are starting guides, not rules. You don't automatically need three years of expenses in cash.
+Here's the allocation process with a separate $1 million household. They want to test $500,000 in Bitcoin. Their Reserve target is $60,000, and a purchase next year needs another $40,000 from existing savings. That assigns $100,000 to cash. The remaining $400,000 has a long runway; this household chooses broad stock funds after reviewing coverage and costs. The proposed mix is 50% Bitcoin, 40% stocks and 10% cash.
 
-These are timeframes, not three account types. One brokerage account might hold cash for a purchase and stock funds for much later. First decide what each amount is for. Then we can choose where to hold it.
+Now put two unfunded retirement payments on the timeline: $50,000 in each of the first two years. This household wants those payments in cash too. Cash rises to $200,000. Holding Bitcoin at $500,000 leaves $300,000 for stocks: 50%, 30% and 20%. More near-term cash means less money invested for growth. Test the later years before adopting that change.
 
-A bank savings account may fit money you need to reach quickly, with deposit insurance subject to its limits and ownership rules. A short Treasury bill can fit a known date when its maturity and access arrangements match the payment. A money market fund may offer convenient cash management inside a brokerage account, but it's an investment fund, not an FDIC-insured bank deposit.
+Finally, test the proposed allocation through a severe decline. In a simplified 75% Bitcoin decline with everything else unchanged, a 50% Bitcoin position reduces the portfolio by 37.5%. Other investments can fall at the same time. Read the dollar loss and identify which assets still pay your bills. Include income loss when that would make the same period harder.
 
-These aren't interchangeable just because each displays a yield. Check when you can use the money, what happens before maturity, the protection that actually applies, and the costs. A slightly higher yield isn't useful when it leaves the bill without cash on the day it's due.
+If that leaves a payment unfunded or creates a position you couldn't maintain, reduce the exposed amount, change the commitment or identify another real source. Raising the assumed future return doesn't solve that immediate funding problem.
 
-For longer-term money, stocks give you ownership of businesses. That's a different source of value from holding Bitcoin. A household may want both because it wants Bitcoin exposure without making every long-term outcome depend on that one asset.
+Set the target you can explain by amount, purpose and downside. The walkthrough will put that choice beside your current holdings and show which funding needs still need attention.
 
-You don't have to choose individual winning companies to get stock exposure. A broad fund can hold many companies under one investment. An index fund follows a defined market or group of securities. An actively managed fund gives a manager discretion to choose holdings. Read what either fund actually owns, instead of assuming the label tells you whether it fits.
+### Text overlays — not spoken
 
-Compare the coverage, concentration, and cost. A broad US fund is different from a technology-sector fund. An international or global fund adds a different geographic mix. Owning several overlapping funds can leave you with many names on the statement but little additional variety underneath.
+| Exact spoken cue | Overlay copy | Editor treatment |
+| --- | --- | --- |
+| Start with your current allocation. | 1 · Add holdings across accounts | Step title; show account dollars before percentages. |
+| Together, that's $728,000 | Reed illustration: $728,000 ÷ $1,307,000 ≈ 56% | Keep direct Bitcoin / funds separate in two rows. |
+| Next, choose the role you want Bitcoin to have. | 2 · Choose Bitcoin's role | Show four named discussion ranges, labeled illustrative. |
+| Now assign the money you'll need soon. | 3 · Fund dated commitments | Show Reserve + distinct expenses; avoid duplicate totals. |
+| Then choose what the longer-term money provides. | 4 · Choose the remaining investments | Show purpose / access / risk / cost. |
+| Finally, test the proposed allocation through a severe decline. | 5 · Test the loss and the bills | Illustration: 50% × 75% = 37.5%; other assets unchanged. |
 
-For someone who wants straightforward non-Bitcoin growth, broad stock exposure is an alternative to concentrating the rest in a handful of companies. It still has market risk. It isn't the substitute for cash needed next year, and there is no promise it rises when Bitcoin falls.
+### Walkthrough handoff — not spoken
 
-Bonds have another role. Instead of owning part of a business, you're lending money under stated terms. They can provide scheduled payments and, for an individual bond held to maturity, a stated principal repayment subject to the issuer meeting its obligation.
-
-That doesn't make every bond holding stable. A long-term bond or bond fund can lose value when rates rise. A high-yield bond takes more credit risk. A bond fund doesn't give your entire investment one fixed maturity date in the way an individual bond does.
-
-Don't rely on a bond fund for an approaching bill just because it isn't a stock. What do you want it to provide: scheduled cash, less exposure to stock-market movements, or another investment return? Then compare its sensitivity to interest rates, the risk that borrowers won't repay, its fees, and access to the money. Bonds are an option to understand, not a required percentage for every Bitcoiner.
-
-Property or a business can also be part of the picture. Separate the value you own from the cash it can provide. Rent before repairs, debt service, and vacancies isn't the amount available for your household. Your home isn't available to pay retirement expenses unless the plan includes a workable way to use its value.
-
-You don't need every type of investment. Choose the ones that do something useful for your plan, and account for their cost and the work they add.
-
-Let's work through a simpler household with round numbers, separate from Alex and Morgan.
-
-They have $1 million of financial assets and want to test keeping $500,000 in Bitcoin. Their previous Reserve decision is $60,000. They also plan a $40,000 purchase next year, funded from existing savings. The purchase isn't included in that Reserve.
-
-The $60,000 Reserve plus the $40,000 purchase need $100,000 in cash arrangements that fit those dates. Start with the $1 million, subtract the $500,000 Bitcoin choice, then subtract this $100,000. There's $400,000 left for the longer-term investments.
-
-The cash comes to 10% because of those commitments. We didn't start with a 10% target.
-
-This household expects the remaining $400,000 to stay invested for at least ten years. It wants ownership of businesses alongside Bitcoin and doesn't want the work and concentration of picking a few individual stocks. For the illustration, it chooses broad stock funds for that amount after checking coverage and costs.
-
-Now the proposed mix is 50% Bitcoin, 40% stocks, and 10% cash. Each part has a reason: Bitcoin for the role they chose, stocks for other long-term business ownership, and cash for identified spending and protection.
-
-Now change one fact. Let's say the household is about to stop working. Its plan shows $50,000 a year for the first two years that income won't cover, after allowing for the costs included in that spending gap. It wants those two payments available in cash, separately from the Reserve and purchase.
-
-That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, there is now $200,000 in cash and $300,000 available for stocks: 50% Bitcoin, 30% stocks, 20% cash.
-
-This household chose 20% cash because it wanted those payments available. Another retiree could choose differently. Keeping more in cash means less is invested for growth, so we need to test what that changes later. Choosing only the first year's payment in cash would produce a different trade-off.
-
-That's how we choose the amounts. Work out the spending commitments first, then decide what the remaining money needs to provide. If keeping your starting Bitcoin percentage leaves an important bill without funding, revisit that choice too. Compare a different purchase, a later date, another available source, or a smaller Bitcoin position. Test that percentage against the rest of your life before committing to it.
-
-The long-runway portion also changes as time passes. Retirement isn't one deadline for all the money. The first year's spending and money intended for twenty years later can have different investments even after work stops.
-
-Then add the dollar positions to see the household mix. Don't average percentages from accounts of different sizes, and don't put the household percentage into every account. An account for a near-term bill may hold no Bitcoin even when Bitcoin is half the overall portfolio.
-
-Now open your own plan. Start with your spending commitments and the money left for longer-term investing. For that remainder, compare the investments you're seriously considering. What do they own? What do they cost? What would a bad result mean for the spending you need to fund?
-
-Use those answers to choose the mix, instead of copying the example's percentages. Two households can use the same method and choose different portfolios. An existing holding that fits may not need to change.
-
-Next we'll choose the accounts that can hold those investments and provide the access you need.
+[W04, chapters 1–3](working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md): current holdings, Bitcoin role, timeframe needs and target comparison.
 
 ### Source and production notes — not spoken
 
-Source-led condensation of lessons 4.1, 4.2, 4.3. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
-
-#### Retained 4.1 — Visual and source notes — not spoken
-
-Deck Step 1, current holdings and their jobs. Preserve general subset $1,307,000, native $410,000, fund $318,000, aggregate $728,000; excluded home/HSA/education remain on balance sheet. No new current facts or exact securities.
-
-#### Retained 4.2 — Visual and source notes — not spoken
-
-Deck Step 2 four original paths and indicative ranges retained as orientation, not recommendations or wealth/custody rankings. No repeated drawdown arithmetic or premature target save. The requested whole-portfolio question is handed to 4.3.
-
-#### Retained 4.3 — Visual and source notes — not spoken
-
-Deck Steps 3–5 govern jobs, timeframe and the final funding test. The non-Bitcoin investment explanation is a clearly identified editorial expansion requested by Austin; the deck itself says balanced mix but does not select funds, geographies or weights. No security picks or inferred Austin preferences. Generic $1m example: $500k BTC; $60k previously chosen Reserve+$40k planned purchase=$100k cash; $400k long-runway stocks =>50/40/10. Two separately unfunded $50k retirement payments desired in cash add $100k =>50/30/20. All chosen amounts/preferences are hypothetical, not Reed or app outputs. The choice explains why broad stock exposure rather than individual concentration; bonds/property are meaningful alternatives, not prescribed additions. This supersedes the old $500k weighting-only example in the narration and W04; old arithmetic checks can remain historical examples but must not be presented as current lesson outputs. Primary mechanism checks: Investor.gov asset-allocation, bond-funds-and-income-funds, updated money-market-fund investor bulletin and cash-sweep bulletin; FDIC financial-products-not-insured; TreasuryDirect selling-marketable-securities. Exact yields, deposit coverage, custody and access are provider-specific and require final checking.
+Allocation deck steps 1–5 retained. Four path ranges are orientation, not suitability rankings. Preserve the $1,307,000 Reed subset and separate $1 million teaching household. The 75% drawdown is a hypothetical partial stress, not a frequency claim or full model run. Future Plan → Portfolio and allocation reads the canonical Reserve assignment; next-dollar amounts and the eligible denominator require actual build verification.
 
 ### Member checkpoint
 
-Choose the whole portfolio by timeframe, account access and each asset’s job. Explain what the non-Bitcoin portion supplies and check whether the mix fits the household.
+The proposed household target uses the same portfolio scope as Current; each amount has a spending or investment purpose, and the downside test identifies the available funding or the change needed.

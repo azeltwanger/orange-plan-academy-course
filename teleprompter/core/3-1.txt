@@ -1,14 +1,12 @@
+Open your existing debts and confirm the balance, interest rate and required payment from each lender. Then choose which debt receives extra money, which stays on its agreed payments, and which needs a repayment date or missing term resolved.
+
 Alex and Morgan owe $13,500 on a card at 20.9%. Their current minimum is $405, but that doesn't mean the balance falls by $405.
 
 Using a rough monthly calculation, interest is about $235. Only about $170 remains to reduce principal, before any new purchases or fees. The real statement uses its own billing rules, but the example shows why the payment can feel substantial while the balance barely moves.
 
 They also owe $318,000 on a fixed 3.25% mortgage. It's a much larger balance with a different cost and purpose. We shouldn't treat those two debts as the same decision.
 
-Let's check what each payment does, choose which balances deserve extra money, and set a pace the cash flow can support.
-
-Open the existing debt records instead of adding them again. Confirm the current balance, rate, required payment and any date when the terms change. A variable rate or an introductory offer may differ from what you remember.
-
-Separate the required payment from the extra you choose to send. Required payments belong in the regular cash need. Extra payments compete with other goals, including the Reserve.
+First, separate the required payment from the extra you choose to send. Required payments belong in the regular cash need. Extra payments compete with other goals, including the Reserve.
 
 Then check how the payment affects principal, the amount still owed. On a loan that pays down over time, part covers interest and part reduces principal. An interest-only payment can keep the loan current while leaving the original amount outstanding.
 
@@ -18,9 +16,9 @@ Now add the required payments and put them beside income. Their listed payments 
 
 That debt-to-income ratio describes payment pressure before tax and other deductions. It doesn't tell us what is left. Their original cash-flow example leaves only $500 after living costs, taxes and Alex's existing contribution. A low-looking ratio doesn't create money for another payment.
 
-Check the actual available amount and the difficult period. If one income stops, which bills continue and which resources pay them? In the Reserve example, the $7,200 essential-spending amount already includes required debt payments. Don't add those payments again.
+Check the available amount during a difficult period too. Identify the bills that continue if one income stops and the accessible money that pays them. In the Reserve example, the $7,200 essential-spending amount already includes required debt payments. Don't add those payments again.
 
-Once the obligations are clear, decide which extra payment helps most.
+Now choose where extra money goes, using the available cash after required payments and existing saving.
 
 I'd give expensive card debt priority instead of assuming Bitcoin's future return will take care of the interest. A market gain is uncertain and may arrive long after the next payment is due.
 
@@ -48,4 +46,4 @@ When a payment ends, check the money it actually releases. The example's $405 mi
 
 In Orange Plan, apply the chosen extra payments and read their effect beside the Reserve and existing saving. Required payments remain covered. If that money would do more for the household elsewhere, keep paying the agreed amount and use the extra money there.
 
-Next, we'll compare whether a new borrowing decision is worth taking on at all.
+Save each selected action and any payment-change or maturity date. Record a missing contract fact instead of marking that debt settled. Then arrange any chosen extra payment with the lender; entering the plan doesn't send it.

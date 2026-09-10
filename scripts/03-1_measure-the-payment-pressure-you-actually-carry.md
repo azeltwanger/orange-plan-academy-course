@@ -1,11 +1,17 @@
 # 3.1 — Choose which debts to pay down
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice approval and actual capture remain separate.
+Status: STEPWISE_SCRIPT_REVIEW — complete teaching manuscript; final voice approval and capture remain separate.
 Kind: teach
 Gate: OWNER_REVIEW
 Sources: APP, BRAIN, CLIENT_THEMES, DEBT
 
+### Do this
+
+Give each existing debt an affordable next action. Separate required payments from extra payments and reconcile the choice with your Reserve.
+
 ### Read aloud
+
+Open your existing debts and confirm the balance, interest rate and required payment from each lender. Then choose which debt receives extra money, which stays on its agreed payments, and which needs a repayment date or missing term resolved.
 
 Alex and Morgan owe $13,500 on a card at 20.9%. Their current minimum is $405, but that doesn't mean the balance falls by $405.
 
@@ -13,11 +19,7 @@ Using a rough monthly calculation, interest is about $235. Only about $170 remai
 
 They also owe $318,000 on a fixed 3.25% mortgage. It's a much larger balance with a different cost and purpose. We shouldn't treat those two debts as the same decision.
 
-Let's check what each payment does, choose which balances deserve extra money, and set a pace the cash flow can support.
-
-Open the existing debt records instead of adding them again. Confirm the current balance, rate, required payment and any date when the terms change. A variable rate or an introductory offer may differ from what you remember.
-
-Separate the required payment from the extra you choose to send. Required payments belong in the regular cash need. Extra payments compete with other goals, including the Reserve.
+First, separate the required payment from the extra you choose to send. Required payments belong in the regular cash need. Extra payments compete with other goals, including the Reserve.
 
 Then check how the payment affects principal, the amount still owed. On a loan that pays down over time, part covers interest and part reduces principal. An interest-only payment can keep the loan current while leaving the original amount outstanding.
 
@@ -27,9 +29,9 @@ Now add the required payments and put them beside income. Their listed payments 
 
 That debt-to-income ratio describes payment pressure before tax and other deductions. It doesn't tell us what is left. Their original cash-flow example leaves only $500 after living costs, taxes and Alex's existing contribution. A low-looking ratio doesn't create money for another payment.
 
-Check the actual available amount and the difficult period. If one income stops, which bills continue and which resources pay them? In the Reserve example, the $7,200 essential-spending amount already includes required debt payments. Don't add those payments again.
+Check the available amount during a difficult period too. Identify the bills that continue if one income stops and the accessible money that pays them. In the Reserve example, the $7,200 essential-spending amount already includes required debt payments. Don't add those payments again.
 
-Once the obligations are clear, decide which extra payment helps most.
+Now choose where extra money goes, using the available cash after required payments and existing saving.
 
 I'd give expensive card debt priority instead of assuming Bitcoin's future return will take care of the interest. A market gain is uncertain and may arrive long after the next payment is due.
 
@@ -57,16 +59,30 @@ When a payment ends, check the money it actually releases. The example's $405 mi
 
 In Orange Plan, apply the chosen extra payments and read their effect beside the Reserve and existing saving. Required payments remain covered. If that money would do more for the household elsewhere, keep paying the agreed amount and use the extra money there.
 
-Next, we'll compare whether a new borrowing decision is worth taking on at all.
+Save each selected action and any payment-change or maturity date. Record a missing contract fact instead of marking that debt settled. Then arrange any chosen extra payment with the lender; entering the plan doesn't send it.
 
-### Production notes — not spoken
+### Text overlays — not spoken
 
-Record the narration first. Text, graphics and supporting footage are added during editing. No slides, homework, quizzes, practice portfolio, submitted explanation or required post. The member applies the teaching to their own Orange Plan. Actual app and provider actions remain separate from a recorded intention.
+| Exact spoken cue | Overlay copy | Editor treatment |
+|---|---|---|
+| Their current minimum is $405 | Fictional card: $13,500 · 20.9% · $405 minimum | Keep statement approximation separate from app calculation. |
+| Only about $170 remains to reduce principal | Approximate first month: $405 − $235 interest ≈ $170 principal | Before new purchases or fees. |
+| or roughly 17%. | Required payments ÷ gross income ≈ 17% | Label teaching ratio; not underwriting approval or surplus. |
+| They're considering $500 for the Reserve and $1,200 extra for the card. | $1,700 = $500 Reserve + $1,200 extra card | Reduced-spending example only. |
+| Adding $1,200 produces a $1,605 card payment | $405 required + $1,200 extra = $1,605 total | Minimum was already deducted before available cash. |
+| Extra principal may shorten the loan | Mortgage payoff: principal ends; taxes, insurance and upkeep continue. | Show the continuing costs separately. |
+| That's future available money | After payoff: verify released cash, then choose its next use. | No automatic contribution arrow. |
 
-Consolidated from [3.1](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/03-1_measure-the-payment-pressure-you-actually-carry.md), [3.3](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/03-3_give-every-existing-debt-a-job.md), using the later owner-delivered script-only pass for wording where relevant. The author supplied new transitions and shortened examples; this is not prior Austin dictation. The complete mapping, source hashes and retained qualifications are in [../delivery/consolidation.md](../delivery/consolidation.md) and [../production/consolidation.json](../production/consolidation.json).
+### Walkthrough handoff — not spoken
 
-The existing [technical review](../delivery/professional-topic-review.md) and primary-source record retain their dated scope. This consolidation is source-based editing, not a fresh financial/legal research pass or licensed approval. All example terms are hypothetical unless explicitly identified as a source fact. No current rate, product quote, model outcome or successful device/learner test is invented. Specific financial and operational safeguards remain beside the decision they affect.
+[W03, chapters 1 and 3](working/W03_set-debt-jobs-and-test-one-financing-decision.md): verify terms, compare and save the selected action. Chapter 6 reconciles Cash Flow and the future payoff handoff.
 
 ### Member checkpoint
 
-Choose an affordable action for each actual debt, applying the Reserve decision and future payoff conditions once.
+Every debt has a chosen action or one specific missing fact. Total extra payments fit the same available money as the Reserve and existing saving. Required payments and future payoff money are counted once.
+
+### Source and production notes — not spoken
+
+Debt Strategy deck and consolidated 3.1/3.3 source material. Preserve all Reed balances/rates/payments and $500 Reserve/$1,200 extra-card comparison. Approximate card interest uses balance × APR / 12; actual billing, changing minimums, fees and payoff outputs need verified terms. HELOC maturity and equipment guarantees are unresolved source facts, not defaults. Mortgage principal repayment is distinct from continuing property costs. Historical tier labels are screening categories, not universal instructions.
+
+Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

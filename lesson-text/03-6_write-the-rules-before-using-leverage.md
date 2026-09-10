@@ -1,15 +1,19 @@
 # 3.6 — Set borrowing limits and a repayment plan
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_SCRIPT_REVIEW — complete teaching manuscript; final voice approval and capture remain separate.
 Kind: teach
 Gate: LENDING_REVIEW, OWNER_REVIEW
 Sources: APP, BRAIN, DEBT, OWNER, PRIMARY
 
+### Do this
+
+Write the borrowing limit, payment source, principal exit and response rules before taking new debt. Test household resources and each loan’s actual collateral terms separately.
+
 ### Read aloud
 
-You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation, even though you haven't borrowed more.
+Write the rules you would follow before taking on more debt: the amount you're willing to owe, where the payments come from, how the principal gets repaid, and what would make you act sooner. We'll test those rules against the assets and cash you could actually use.
 
-Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the assets. That's your debt-to-assets ratio.
+First, check the household resources. Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the assets. That's your debt-to-assets ratio.
 
 Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
@@ -31,7 +35,7 @@ The stress example we've just used is deliberately limited. It holds the educati
 
 A fast price decline is also not the only difficult case. You might handle a brief drop but struggle if returns stay weak for several years while interest and payments continue. Or business income could weaken at the same time as investments. That's why we need more than today's asset total.
 
-A lender's collateral test is separate from that household total. Loan-to-value, or LTV, compares one loan with the assets pledged for it.
+Next, check each secured loan's own requirements. A lender's collateral test is separate from that household total. Loan-to-value, or LTV, compares one loan with the assets pledged for it.
 
 For a Bitcoin-backed loan, I'd size the debt against a severe decline first, including the extra Bitcoin available for top-ups. Then I might start the chosen loan at 50% LTV to put less Bitcoin with the lender. That leaves less time to respond to a drop. The Bitcoin-loan lesson works through the reserve calculation before you borrow.
 
@@ -49,11 +53,11 @@ A strong household balance sheet doesn't override the lender's calculation. You 
 
 Different loans also behave differently. A conventional mortgage isn't normally subject to a Bitcoin-style margin call just because the home price falls. A home-equity line can lose available borrowing capacity under its terms. A securities-backed loan may allow a collateral demand or sale. Don't apply one loan's rules to all three.
 
-Now use those limits to choose what you would actually do. A review point is useful only when you have the resources and time to respond.
+Now write the response you could fund if the position worsens. A review point is useful only when you have the resources and time to respond.
 
 First, write what the money is for and the most you're prepared to borrow for that purpose. Then name what will pay the interest and what will repay the principal.
 
-Those may be different answers. You could cover monthly interest from income while planning to repay the principal from a sale. In that case, the sale has an amount and a deadline. What happens if you receive less than expected, or it takes longer?
+Those may be different answers. You could cover monthly interest from income while planning to repay the principal from a sale. In that case, the sale has an amount and a deadline. Include the response if the proceeds are smaller or arrive later.
 
 “We'll refinance” is something to investigate, not a complete fallback. You may be able to replace the loan, but the new lender, terms and approval still need to exist when you need them. Check what the household would do if they don't.
 
@@ -81,28 +85,30 @@ For Alex and Morgan, the Reserve and high-rate card still need funding. They hav
 
 Then bring the current debt decisions back to Cash Flow. Required payments have already been counted. The extra payments need to fit beside the reserve amount and the other commitments. Keep any proposed new loan separate until you deliberately choose it, and don't start using money that becomes available only after a future payoff.
 
-Allocation starts with the money left after these decisions. We'll choose what it buys now and what changes when a debt is actually paid off.
+Save the payment source, principal exit, response point and person responsible. Keep any proposed loan in the comparison until those rules work. Allocation receives the cash left after the debts you've actually chosen.
 
-### Source and production notes — not spoken
+### Text overlays — not spoken
 
-Source-led condensation of lessons 3.2, 3.6. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+| Exact spoken cue | Overlay copy | Editor treatment |
+|---|---|---|
+| That puts debt at about 22% | Fictional included assets $1,996,000 · Debt $444,500 · DTA 22.27% | Net worth shown separately: $1,551,500. |
+| about 37% of the assets instead of 22%. | Partial stress: assets $1,217,200; debt unchanged; DTA 36.52% | BTC exposure −70%; selected stocks −30%; home −20%; named exclusions. |
+| A lender's collateral test is separate | Household DTA  /  One loan’s LTV  /  Accessible response money | Separate denominators. |
+| That's a 37.5% decline. | Fixed debt: 50% initial LTV → 80% at −37.5% price | Generic threshold, not a current lender term. |
+| a 68.75% decline reaches the same assumed 80% line | 25% initial LTV → 80% at −68.75% price | Comparison of more posted collateral; no recommended level. |
+| Putting 20% of your Bitcoin with a lender | Share of total BTC pledged ≠ loan-to-value | Two labeled denominators. |
+| Monitoring helps you notice a problem. | Response requires resources + access + time | Keep consequences in narration. |
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+### Walkthrough handoff — not spoken
 
-#### Retained 3.2 — Visual notes — not spoken
-
-Use the Debt Strategy deck's two-ratio and drift visuals. Show one unchanged debt amount across two asset columns: $1,996,000 → $1,217,200; debt $444,500 in both; DTA 22.27% → 36.52%; original net worth $1,551,500. Label the scenario partial, hypothetical and non-time-based. HSA/529 unchanged, omitted business/vehicle values and included related debts stay explicit. Do not label the result worst case or a full app stress proof.
-
-Show LTV separately from total household DTA and percent of Bitcoin pledged. Preserve the existing fixed-debt formula 1 − starting LTV / threshold: 50% to 80% gives 37.5% price room; 25% to 80% gives 68.75%. A separate 50%-collateral-value drop doubles 50% LTV to 100%; it is explanatory arithmetic, not an executed loan. No universal contract thresholds.
-
-#### Retained 3.6 — Visual notes — not spoken
-
-Use the existing debt/financing worksheet rather than add a new member workbook. Reveal purpose and amount, monthly funding, principal exit, relevant dates, personal action point, actual lender rights, response resources, maximum additional collateral, operator and backup as the explanation reaches each one. For a plain fixed loan, don't imply the member needs a Bitcoin collateral-monitoring setup.
-
-Use a response example with no invented LTV threshold: action point reached → named available resource → response time → remaining exposure/household cash. Show a limit on further collateral separately from the current LTV. Record actual contract numbers only when verified; no automatic app monitoring or safe default is implied.
-
-September 10 follow-up: see [the targeted change record](../delivery/script-finishing-20260910.md) and [source verification](../reference/script-finishing-sources.md). This supplements, rather than re-dates, the earlier technical review.
+[W03, chapters 2 and 5–6](working/W03_set-debt-jobs-and-test-one-financing-decision.md): distinguish leverage measures, write funded rules and reconcile the remaining cash. Chapter 5 includes the conditional A3.1 operating example.
 
 ### Member checkpoint
 
-Set household borrowing limits and a repayment source, with earlier action points and a usable response before the lender’s boundary.
+Your debt instructions identify ordinary payments, principal repayment, timing, fallback, monitoring owner and any additional collateral limit. Unfunded obligations or unresolved contract terms prevent adopting new borrowing.
+
+### Source and production notes — not spoken
+
+Debt Strategy balance-sheet and lender-limit steps; owner September 10 borrowing direction. Source assets omit vehicle/business value but include associated debts; partial stress leaves education/health accounts unchanged. Do not label it a complete worst case. Fixed-debt LTV illustrations use an assumed 80% line; calls/cure/maturity and provider rights remain distinct. 50% posted LTV follows sizing against all dedicated supporting BTC; it is not a stressed-LTV target. Current property/credit restrictions require the actual agreement.
+
+Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

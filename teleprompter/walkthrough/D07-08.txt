@@ -1,0 +1,5 @@
+Record the wallet tested, the recovery method, the date and the actual outcome. Include the receive, recovery and spending checks that really completed. Mark anything that didn't complete as unresolved.
+
+Keep this receipt separate from the status of a different funded wallet. That wallet needs its own appropriate safe verification.
+
+In the planning record, store the result and next action, never the recovery material. An Orange Plan data backup restores plan information; it doesn't recover signing keys. Carry the scoped result into Bitcoin access so the family knows exactly what has been checked.

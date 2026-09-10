@@ -1,93 +1,98 @@
 # W07 — Document the custody choice and actual recovery status
 
-Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: WALKTHROUGH_REWRITE_REVIEW — complete manuscript; actual app/device capture remains unverified.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: CUSTODY, OWNER, APP
 
-### For your situation — recording route, not spoken
-
-- After 7.1, [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professional-support.md): You are choosing or changing a passphrase, multisig, or professionally supported custody arrangement. Complete before moving meaningful funds into the new arrangement. Return to W07 chapter 1, then lesson 7.2 and its safe recovery work.
-- After 7.4, [A7.3](../07-1_choose-who-controls-each-part-of-the-bitcoin.md): Several providers, wallets, people, or recovery routes may share a failure that affects important holdings. Complete before treating those holdings as independent protection. Return to W07 chapter 4, then lesson 8.1.
-- After 7.2, [A7.4](../../reference/bitcoin-output-management.md): You are considering consolidating Bitcoin outputs or selecting outputs manually for a transaction. Complete before that wallet transaction; it is not a requirement to consolidate. Return to Finish the relevant safe wallet work, then lesson 7.3.
-
 ### Run sheet
 
-Use existing member deliverables and the unchanged fictional account inventory. Protect records non-secret facts and status, not recovery keys or an untested assurance. Architecture decisions, actual tests and user competence must be evidenced separately.
+Capture Protect → Bitcoin access and Trusted people using the existing Family Custody Map and the unchanged fictional holdings. PR #227 supplies the intended owner and navigation; fields, writes and receipts are capture dependencies. Use only supported non-secret fields and keep existing protected records outside the app when the app has no appropriate field.
 
-Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
+Only Narration blocks are spoken. All actions use authorized fictional or test data. Read actual evidence; no staged result counts as a successful action.
+
+### For your situation — recording route, not spoken
+
+After 7.1, use [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professional-support.md) only for a proposed passphrase, multisig or support arrangement; return to chapter 1 and 7.2. Shared-provider exposure is now in 7.1, implemented in chapter 3. After 7.2, use the [output-management reference](../../reference/bitcoin-output-management.md) only for the relevant transaction; return to the applicable safe wallet work. The former operator-absent exercise is part of chapter 4, then 8.1.
 
 #### Chapter 1 — Choose custody for the household job
 
-**Show and do:** After 7.1, use the existing Family Custody Map and fictional example. Review direct Bitcoin, professionally held Bitcoin and brokerage-fund exposure separately, with owner, job, desired control, responsibility and retained dependency.
+**Show:** After 7.1, open Protect → Bitcoin access beside the existing Family Custody Map. Select each fictional holding, identify owner and purpose, and record the current arrangement, intended direction and one responsible person. Use Trusted people for the agreed contact rather than creating another contact record.
 
 **Narration:**
 
-“What problem is this arrangement solving? This portion provides direct control; this other process provides support with different dependence. Name both the benefit and what the household still has to manage. More methods are useful only when they address a real gap.”
+Open Bitcoin access and start with the holding you want to review. Match it to the account that owns it. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Keep those access processes separate.
 
-**Verify before recording:** Verify actual supported Protect fields and current owner/account facts. No invented provider rights, insurance, wealth-tier recommendation or independent recovery claim. Dedicated account and fund rules remain distinct.
+Record what this portion is for and who controls it today. Then record the change you're considering, if there is one. A planned move stays separate from the current arrangement.
 
-**Responsibility check — show and discuss:** Use the existing custody map to assign the ordinary tasks and a backup: address verification, secure sign-in and recovery access, appropriate device/software updates, provider changes and current family instructions. Ask who is willing to do each task and where suitable help is needed. Practice technical steps only on the separately reviewed safe setup; do not risk funded holdings.
+Add the person who handles the ordinary tasks and the backup who has agreed to help. Include the first unfinished action, such as confirming a provider's recovery process. Save the non-secret record, reopen it and check that it still points to the correct holding. Leave recovery words and precise secret locations out.
 
-**Narration:**
+**Overlay:** Holding / owner / current method / intended change / agreed person
 
-“Who will keep each part working, and who can help when that person is unavailable? Ask them before assigning the role. If an ordinary task is too difficult to repeat reliably, simplify it, practice it safely, or arrange suitable help.”
+**Verify:** Saved record belongs to the correct holding; responsibility was actually agreed or is explicitly pending. No invented Reed contact, provider right, insurance or completed transfer.
 
-**Member finish:** An intentional arrangement, agreed operating responsibilities and backups, and the first protection action.
+**Capture dependency:** Verify Protect's Bitcoin access and Trusted people fields, ownership context, save/reopen behavior and the external map reference on the filming build. If a needed field is absent, show that part in the existing map without simulating an app control.
 
 #### Chapter 2 — Record actual recovery evidence
 
-**Show and do:** After 7.2 and D07, read the actual scoped receipt. Keep practice-wallet proof separate from verification relevant to a funded holding. Record dates/method/status only when supported.
+**Show:** After 7.2 and the applicable D07 test, open the actual non-secret test receipt. Show separate rows for the isolated test wallet and each funded setup. Record only the date, method, scope and actual outcome.
 
 **Narration:**
 
-“Which setup did this test cover? If it was the practice wallet, this funded wallet still needs its own check. We would rather keep one task visibly open than tell the family a backup was verified when it was not.”
+Read the receipt before changing recovery status. Identify which wallet was checked, the method used, the date and the outcome.
 
-**Verify before recording:** No checking Tested by default, no purchase-of-hardware equals recovery, no secrets or sensitive descriptor/xpub data in the ordinary record. Device-specific work stays in the reviewed procedure.
+If this was the separate test wallet, record the result for that wallet only. Leave the family's funded wallet unverified until its own safe check is complete. A new device or a valid backup word list doesn't establish the whole recovery result.
 
-**Member finish:** Recovery statuses and next actions match the actual evidence.
+For a funded setup that has been safely checked, enter only the proof that actually exists. Keep any passphrase or multisig requirements in that scope. Save the status and read it back. The next person needs to see what was tested and what remains to do, without seeing any recovery material.
+
+**Overlay:** Test setup ≠ funded setup / method / date / actual result
+
+**Verify:** Each status is scoped to actual evidence. No default Tested flag, secrets, descriptors, xpubs or hardware purchase treated as recovery.
+
+**Capture dependency:** Verify the precise Protect recovery fields and actual D07 or funded-wallet evidence. Device-specific verification remains separate; absent evidence must render pending.
 
 #### Chapter 3 — Fix one important account or shared-dependency gap
 
-**Show and do:** After 7.3, identify a shared recovery email, operator, provider or location. Choose one actual account-hardening action. Demonstrate only on an authorized example account and record the external confirmation or pending task.
+**Show:** After 7.1 and 7.2, use the existing map to identify one shared recovery email, provider or operator. On an authorized example account only, show a supported security change and legitimate backup-access check. Keep all authentication secrets off capture.
 
 **Narration:**
 
-“These logins share the same recovery route. Adding another account would not solve that failure. Let's fix the route we found, test the backup access, and then record what changed.”
+Start with the shared dependency you identified. These accounts use the same recovery email, so securing another account won't remove that dependence. Open the email provider's verified security settings and review the sign-in and recovery methods.
 
-**Verify before recording:** Verify actual passkey/security-key/allowlist features, backup recovery, provider terms and confirmation. No passwords, recovery codes, exact locations or live client credentials filmed. Hardening does not certify provider solvency.
+Choose a supported security key or passkey when available. Set up the backup access method and test it before removing the working one. Keep passwords, recovery codes and any private setup screens out of the recording.
 
-**Member finish:** One meaningful improvement with a named owner and evidence, plus remaining dependencies.
+Return to the custody map and record the change that actually completed. If you're still waiting for a provider answer or a backup person to agree, leave that task open. Account hardening doesn't change the company's custody risk, so retain that dependency in the map.
+
+**Overlay:** Shared dependency → supported change → backup-access check → actual status
+
+**Verify:** Actual confirmation exists for completed changes; pending work remains pending. No live client credentials, sensitive identifiers or claimed provider solvency.
+
+**Capture dependency:** Verify the chosen provider's current authentication and recovery controls on an authorized example account. No universal passkey, withdrawal allowlist or provider-independent recovery claim.
 
 #### Chapter 4 — Finish the family starting map
 
-**Show and do:** After 7.4, complete the non-secret first contact, lawful starting route, review triggers and outside task for each arrangement. Use a consented operator-unavailable tabletop and revise a specific unclear instruction.
+**Show:** Prepare the non-secret custody entries for W08. With an agreed helper, rehearse the first contact and backup contact while the usual operator stays silent. Correct and repeat only an unclear first step.
 
 **Narration:**
 
-“Show me where you would begin without asking the unavailable person. This map directs you to the legitimate process; it does not contain the keys. A financial-plan backup restores plan data, not access to the Bitcoin wallet.”
+Open the family custody map and read the starting instruction for this holding. It needs to identify the legitimate contact and which process applies if the usual operator is unavailable.
 
-**Verify before recording:** Verify actual read/export/restore scope separately. No exact secret storage, complete signing route or fabricated listener outcome. Qualified legal authority and operational help remain separate.
+Have the person who agreed to help find the first contact without asking the operator. Then have them find the backup contact. Keep this rehearsal to the safe first steps; don't enter credentials or move money.
 
-**Rehearsal detail — not spoken:** Fold the former A7.2 operator-absent exercise into this existing chapter. Let a consented helper attempt the non-secret first steps without coaching each response; verify the primary and backup contacts have agreed, record any missing instruction, correct it and repeat the affected step. No actual transfer, credential guessing, impersonation or legal authority is inferred from the exercise.
+Record the instruction they couldn't follow, correct it and repeat that part. If the rehearsal hasn't happened, keep it pending. Carry this same map into the family handoff so the authority and account instructions stay connected. A backup of Orange Plan data does not restore a Bitcoin wallet.
 
-**Member finish:** A dated custody map the intended helper can use, with actual rehearsal evidence or clearly recorded gaps and agreed tasks.
+**Overlay:** First contact / backup / unclear step / actual rehearsal date
+
+**Verify:** Actual rehearsal result or honest pending status; agreed contacts; no transfer, impersonation, guessed credentials, secret storage or inferred legal authority.
+
+**Capture dependency:** Verify supported Protect map/packet outputs separately from financial-data export and restoration. Confirm helper consent and actual rehearsal evidence before showing success.
 
 ### Readback and finish
 
-Custody direction, account security, recovery evidence and the family starting map describe the same holdings with their retained risks. All status claims are scoped to actual evidence.
+The custody map identifies each significant holding, its current method, the agreed operator and backup, and one actual protection action. Recovery evidence applies only to the setup tested. The family starting route has a dated rehearsal result or a precise unresolved step; planned changes and completed provider actions remain separate.
 
-### Production notes
+### Source and production notes — not spoken
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+Step-by-step adaptation of the prior chapters and current owner decisions. Original attribution remains in delivery/consolidation.md and production/consolidation.json; earlier manuscript bytes remain in Git history. New wording is editorial, not prior Austin dictation. The September 10 STEPWISE-SCRIPT-STANDARD supersedes the earlier narration-only restriction.
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
-This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
-
-### Application in the member's own plan — production guidance
-
-Apply the custody explanation to the member's actual arrangements and existing map. Preserve the scoped safe-recovery and security requirements. Remove the extra no-secrets case quiz; an actual check needed to protect the household is implementation, not an academic assignment.
+PR #227 contracts describe future flow, not shipped capability. The reviewed source reference is 21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2; directive 5618008737 is implementation context only and was not executed. Device/provider facts, calculated results, save/reopen, export and delivery need actual capture evidence. This manuscript sends no message, moves no money and creates no legal or professional approval.

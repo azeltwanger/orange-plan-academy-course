@@ -1,18 +1,20 @@
-# Member playback — 25 main decisions
+# Member playback — teaching followed by implementation
 
-Record clean narration first. Text and graphics are added after recording; do not use the old slide package as a prerequisite. Capture the app separately using verified workflows and results. Chapter numbers identify working segments, not additional talking-head videos.
+Record the teaching from its clean teleprompter file; use the source script for overlay cues. Film each paired app chapter as a separate take once the future PR #227 workflow is verified. Keep both recordings together on the lesson page.
+
+[All walkthrough scripts](WALKTHROUGH-SCRIPTS.md) · [Capture dependencies](WALKTHROUGH-CAPTURE-DEPENDENCIES.md).
 
 ## Start here
 
 ### 01 — [Build your retirement plan](scripts/00-1_build-a-plan-you-can-use.md)
 
-**Separate app capture:** Orientation; begin your own plan.
+**Separate app capture:** Choose age and spending now; enter them in W01 chapter 7 after the starting facts.
 
 ## First working plan
 
 ### 02 — [Put your starting numbers in one place](scripts/01-2_add-accounts-and-show-what-each-one-owns.md)
 
-**Separate app capture:** W01 chapters 1–7.
+**Separate app capture:** W01 chapters 1–7; chapter 5 is conditional history/transfer work.
 
 ### 03 — [Choose assumptions you understand](scripts/01-4_choose-assumptions-you-can-explain.md)
 
@@ -44,6 +46,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 >
 > **Return to:** the Debt section.
 
+**Separate walkthrough:** W02 chapter 7. [Script and overlay cues](scripts/02-5_decide-how-much-college-help-you-will-provide.md).
+
 ## Debt and leverage
 
 ### 08 — [Choose which debts to pay down](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md)
@@ -62,6 +66,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 >
 > **Return to:** Set borrowing limits and a repayment plan.
 
+**Separate walkthrough:** W03 chapters 4–5. [Script and overlay cues](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md).
+
 ### 10 — [Set borrowing limits and a repayment plan](scripts/03-6_write-the-rules-before-using-leverage.md)
 
 **Separate app capture:** W03 chapters 2 and 5–6.
@@ -73,6 +79,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 > Complete before pledging Bitcoin or relying on loan proceeds.
 >
 > **Return to:** your debt plan, then Allocation; revisit beside retirement funding when relevant.
+
+**Separate walkthrough:** W03 chapter 5; chapters 4 and 6 supply financing and cash-flow context. [Script and overlay cues](scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md).
 
 ## Allocation and the next dollar
 
@@ -102,6 +110,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 >
 > **Return to:** tax timing and Roth conversions.
 
+**Separate walkthrough:** W05 chapters 2 and 5–6; chapter 1 for the gain comparison. [Script and overlay cues](scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md).
+
 ### 15 — [Use tax timing to compare withdrawals and Roth conversions](scripts/05-4_compare-conversions-with-intentional-withdrawals.md)
 
 **Separate app capture:** W05 chapters 3–4; chapters 5–6 for a relevant transaction.
@@ -113,6 +123,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 > Complete before adopting or executing a conversion schedule.
 >
 > **Return to:** the retirement paycheck.
+
+**Separate walkthrough:** W05 chapter 4; chapter 6 for the professional handoff. [Script and overlay cues](scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md).
 
 ## Retirement paycheck
 
@@ -127,6 +139,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 > Complete before relying on the withdrawal or submitting a rollover that changes access.
 >
 > **Return to:** your retirement timeline, then healthcare.
+
+**Separate walkthrough:** W06 chapter 2. [Script and overlay cues](scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md).
 
 ### 17 — [Budget healthcare and its tax effects](scripts/06-3_price-healthcare-before-leaving-employer-coverage.md)
 
@@ -154,6 +168,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 >
 > **Return to:** Protect access and verify recovery.
 
+**Separate walkthrough:** W07 chapter 1; D07 only for its separately reviewed isolated setup. [Script and overlay cues](scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md).
+
 ### 21 — [Protect access and verify recovery](scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md)
 
 **Separate app capture:** W07 chapters 2–3 and D07 only for the applicable safe setup.
@@ -171,6 +187,8 @@ Record clean narration first. Text and graphics are added after recording; do no
 > Complete before choosing or funding a trust.
 >
 > **Return to:** family protection and the insurance decision.
+
+**Separate walkthrough:** W08 chapters 1–2. [Script and overlay cues](scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md).
 
 ### 23 — [Cover the risks your household cannot afford to carry](scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md)
 
@@ -202,4 +220,4 @@ Record clean narration first. Text and graphics are added after recording; do no
 - [W09 — Complete a monthly review and an annual review](scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md)
 - [W10 — Read, explain, and save the finished plan](scripts/working/W10_read-explain-and-save-the-finished-plan.md)
 
-W02 and D07 retain their exact accepted source bytes; the lesson grouping above supersedes old chapter-to-lesson labels. W04 runs chapters 1–3, then 5–6, then 4/7–8 to pair the new account and contribution lessons. W06 groups 1–2/4, then 3, then 6, then 5/7–8. These are recording routes, not claims of verified app behavior. The existing capture register is not cleared by this edit.
+W04 pairs chapters 1–3, then 5–6, then 4/7–8 with the teaching sequence. W06 pairs 1–2/4, then 3, then 6, then 5/7–8. The older accepted Reserve, W02 and D07 remain preserved as historical references. The active files implement Austin’s new step-by-step direction. No filming evidence is created by this edit.

@@ -1,10 +1,10 @@
-In this lesson, we're going to work out how much cash you want available when something goes wrong, how much you already have, and how you're going to close any gap.
+Work out your Reserve in five steps: essential monthly spending, months of cover, existing money available, the gap, and the pace for closing it. Start with the expenses your household would keep paying during an income interruption.
 
 When you believe in Bitcoin, holding cash can be frustrating. You look at that money and think about what you could be buying instead. But think about what happens if your income stops while Bitcoin is down. Your bills still need to be paid. A reserve gives you a cushion so an unexpected expense or a lost paycheck doesn't immediately become a decision to sell an investment.
 
 The amount should fit the problem you're trying to cover. More cash isn't automatically better. We want enough accessible money to handle a difficult period without leaving more out of the long-term plan than the household needs.
 
-Start with your bare-bones monthly spending. This is what your household could realistically run on during a job loss, a business slowdown, or another stressful period.
+First, calculate your bare-bones monthly spending. This is what your household could realistically run on during a job loss, a business slowdown, or another stressful period.
 
 Include housing, food, utilities, insurance, healthcare, and required debt payments. Some spending could pause temporarily. Other costs are going to continue whether the market is up or down.
 
@@ -16,7 +16,7 @@ Next, decide how many months you want that money to cover.
 
 Three, six, or twelve months or more are starting points. None of them is the automatic answer. A household with two very stable incomes and no dependents has a different decision from someone supporting a family on variable business income.
 
-Think about how long replacing lost income could take. Would another income continue? Are both jobs exposed to the same slowdown? How many people depend on the money, and how much of the monthly spending is difficult to change?
+Estimate how long replacing lost income could take. Include any income that would continue, whether both jobs face the same slowdown, the people who depend on the money, and the bills that are difficult to change.
 
 More income uncertainty, a longer job search, dependents, and higher fixed bills are reasons to compare more time. When income is reliable and the reserve already fits the household's needs, continuing to add cash may not be the most useful next step.
 
@@ -26,7 +26,7 @@ For Alex and Morgan, our fictional household, we're testing six months of essent
 
 Six months is the comparison used in this example. The calculation doesn't tell us that six is the right number for every household. The reason for choosing the months matters just as much as the multiplication.
 
-Now look at what they already have available for this job.
+Now assign the existing money available for this job.
 
 Alex and Morgan have $32,000 assigned to their reserve. Against the target we're testing, that leaves an $11,200 gap.
 
@@ -40,7 +40,7 @@ You might decide that only part of an account belongs to the reserve. What matte
 
 Next, connect the gap to the monthly cash flow we worked through earlier.
 
-At $500 a month, Alex and Morgan's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. Seeing the timeline gives them another decision: are they comfortable carrying the current gap for that long?
+At $500 a month, Alex and Morgan's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. Decide whether you could carry the current gap for that long while still covering an interruption.
 
 They're also working on expensive debt. We need to compare how quickly to build the reserve with the money being used for that debt. We can't assign the same monthly surplus to both.
 
@@ -60,8 +60,6 @@ While you're working, you're generally filling the reserve from available cash f
 
 We'll work through that retirement gap and the refill decision in the retirement-income session. Don't assume the working-years target and funding method carry over unchanged.
 
-For this step, you should be able to explain your target, why you chose it, what money counts, and the pace you're considering for the gap. You don't have to have the entire amount saved today. You do need to know what remains unfinished.
-
 When the funding choice is settled, the real-world step is arranging the transfer from the right account at a time that fits the bill cycle. Recording the plan and setting up that transfer are separate actions.
 
-Let's work through the numbers and record the reserve decision.
+Record the target, the existing money counted, and the proposed pace. If you choose a smaller milestone first, keep the full gap and its review date visible. Take that same monthly amount into the debt decision.

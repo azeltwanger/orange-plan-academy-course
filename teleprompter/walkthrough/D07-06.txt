@@ -1,0 +1,5 @@
+Use the recovery method specified for this isolated test. Keep all private entry off camera. Once the wallet opens, compare its known identifier or address with the test record, then check the expected test funds.
+
+A valid empty wallet isn't enough. A passphrase mistake can produce another valid wallet. If the identity or funds don't match, stop and leave the result unresolved.
+
+Record successful recovery only when the evidence matches this intended test wallet. The family's funded wallet stays outside this test.

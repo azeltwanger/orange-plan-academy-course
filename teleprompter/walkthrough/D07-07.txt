@@ -1,0 +1,5 @@
+Prepare the small outbound transaction authorized for this test. Check its destination, amount and fee through the trusted device before confirming. Stop if any detail differs from the intended transaction.
+
+This step checks whether the recovered setup can authorize a payment. Seeing the balance alone doesn't demonstrate that.
+
+Keep the actual confirmation with the test record. Use the fee the wallet shows for this transaction; there's no universal fee or minimum-output amount to copy from the video.

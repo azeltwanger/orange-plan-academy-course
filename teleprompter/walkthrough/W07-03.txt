@@ -1,0 +1,5 @@
+Start with the shared dependency you identified. These accounts use the same recovery email, so securing another account won't remove that dependence. Open the email provider's verified security settings and review the sign-in and recovery methods.
+
+Choose a supported security key or passkey when available. Set up the backup access method and test it before removing the working one. Keep passwords, recovery codes and any private setup screens out of the recording.
+
+Return to the custody map and record the change that actually completed. If you're still waiting for a provider answer or a backup person to agree, leave that task open. Account hardening doesn't change the company's custody risk, so retain that dependency in the map.

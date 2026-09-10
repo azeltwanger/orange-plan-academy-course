@@ -1,0 +1,5 @@
+Keep the working device intact and use the official backup-check process. If the reviewed procedure uses a compatible spare, keep the original available while you check the spare.
+
+Include the passphrase or configuration requirements that apply to this wallet. Stop recording before entering anything private.
+
+If the check fails, stop here. Keep the working access and investigate through verified official instructions or support without disclosing the secret. Don't reset the device or send more funds to try to make the mismatch disappear.

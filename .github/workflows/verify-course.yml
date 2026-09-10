@@ -17,6 +17,6 @@ jobs:
         run: |
           python tools/guided_course.py check
           python tools/guided_course.py test
-          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          python -m unittest discover -s tests -p 'test_*.py' -v
           python tools/guided_course.py history
           git diff --exit-code

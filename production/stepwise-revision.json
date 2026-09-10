@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "base_commit": "c3e08387c03e6c7236ec5ea798931ace81d4c1f5",
+  "authority": "reference/owner-stepwise-direction-20260910.md",
+  "preserved_originals": [
+    {
+      "path": "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md",
+      "archive": "source-material/pre-stepwise/02-3_size-the-reserve-for-the-job-it-has-to-do.md",
+      "sha256": "bcf42a95d1ee40e7e5164cf1e259a59ccc1d939d897af16cbcafa63a3728b8f7",
+      "git_blob": "94f7eca35936108d8acdf6849a9fcac7da342cfe"
+    },
+    {
+      "path": "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md",
+      "archive": "source-material/pre-stepwise/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md",
+      "sha256": "89113d92de60787c8c8740fd9a129ea221c501c43e6c38fd5e3bcc991bc1db33",
+      "git_blob": "728b5d2c2228301c656291d51c70a524a1e929f4"
+    },
+    {
+      "path": "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md",
+      "archive": "source-material/pre-stepwise/D07_prove-a-wallet-backup-with-a-safe-test-setup.md",
+      "sha256": "d6d3c952667f25383b19a9b8151a0c099f8a2bf257fcbf67c8263d1edbb28fa2",
+      "git_blob": "f712797b5baca100446734ffbfac6df0ebbae2ba"
+    },
+    {
+      "path": "teleprompter/core/8-4.txt",
+      "archive": "source-material/pre-stepwise/8-4.txt",
+      "sha256": "393118d5c8d582b77927138a5014e7ba2c41aa7e438574f287c5b314a8f96f1b",
+      "git_blob": "a2ae8db88aa22094aab9ae3679dde6bbe04be417"
+    }
+  ],
+  "active_protected": {
+    "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md": "9d93cca93bf324711b1e796144b9e0b6831d27242c66ec20451dff7a051e47f1",
+    "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md": "0d17a6a34f1e207ab2799d0b2f26ef5a66c05e6e757acdf9420527460d2503a0",
+    "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md": "dfb249bd18b6a2ccdb4abf7bf99ccbd9c134bf41a86f914e1d5bee3d7c47ca59"
+  },
+  "baseline_spoken_words": {
+    "scripts/00-1_build-a-plan-you-can-use.md": 520,
+    "scripts/01-2_add-accounts-and-show-what-each-one-owns.md": 1294,
+    "scripts/01-4_choose-assumptions-you-can-explain.md": 600,
+    "scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md": 828,
+    "scripts/02-1_find-the-amount-your-plan-actually-has-available.md": 1628,
+    "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md": 1139,
+    "scripts/02-4_put-future-changes-on-the-timeline.md": 1110,
+    "scripts/02-5_decide-how-much-college-help-you-will-provide.md": 1091,
+    "scripts/03-1_measure-the-payment-pressure-you-actually-carry.md": 913,
+    "scripts/03-4_decide-whether-new-financing-improves-the-plan.md": 1463,
+    "scripts/03-6_write-the-rules-before-using-leverage.md": 1654,
+    "scripts/04-3_match-the-money-to-when-you-will-use-it.md": 1677,
+    "scripts/04-5_choose-the-account-that-can-do-the-job.md": 1548,
+    "scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md": 1346,
+    "scripts/05-1_understand-what-a-sale-would-realize.md": 1091,
+    "scripts/05-4_compare-conversions-with-intentional-withdrawals.md": 1199,
+    "scripts/06-1_define-spending-reliable-income-and-the-gap.md": 1369,
+    "scripts/06-3_price-healthcare-before-leaving-employer-coverage.md": 795,
+    "scripts/06-6_compare-selling-borrowing-and-using-other-resources.md": 649,
+    "scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md": 1205,
+    "scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md": 727,
+    "scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md": 895,
+    "scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md": 1351,
+    "scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md": 786,
+    "scripts/09-1_keep-a-quiet-month-simple.md": 1228,
+    "scripts/10-1_read-the-completed-plan-in-a-useful-order.md": 795,
+    "scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md": 1054,
+    "scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md": 521,
+    "scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md": 489,
+    "scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md": 906,
+    "scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md": 622,
+    "scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md": 525,
+    "scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md": 455,
+    "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md": 0,
+    "scripts/working/W01_build-the-first-working-plan.md": 0,
+    "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md": 0,
+    "scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md": 0,
+    "scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md": 0,
+    "scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md": 0,
+    "scripts/working/W06_build-and-test-the-retirement-paycheck.md": 0,
+    "scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md": 0,
+    "scripts/working/W08_build-and-rehearse-the-family-handoff.md": 0,
+    "scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md": 0,
+    "scripts/working/W10_read-explain-and-save-the-finished-plan.md": 0
+  }
+}

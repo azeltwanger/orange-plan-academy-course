@@ -1,0 +1,5 @@
+Open the receive process for this test wallet. Verify the destination through the trusted device, rather than relying only on the computer display. Check the network and the small amount before authorizing the transfer.
+
+Wait for the required confirmation. Keep the actual test receipt and a non-secret way to identify the intended wallet for the recovery check.
+
+Stop if the destination or received amount is unexpected. Don't add meaningful funds while the test is unresolved.

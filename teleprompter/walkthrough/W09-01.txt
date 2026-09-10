@@ -1,0 +1,7 @@
+Start on Home and read the dates behind the current balances. If an account needs attention, open that account and read what updates automatically and what still needs your input. A provider name alone doesn't tell you whether purchase history arrived.
+
+Check the changes you expected this month. Confirm a contribution arrived and was invested as intended. Look at Cash Flow's spending source, the cash Reserve and the next confirmed life event.
+
+Then read the saved Plan's status and date. Account prices can be current while the Plan still reflects an earlier calculation. Don't change assumptions just because a price moved.
+
+If the records are current and there's no new decision, the monthly check is complete. Keep the next reminder and close the plan.

@@ -1,0 +1,5 @@
+Import the purchase records for this holding and review the events before accepting them. Keep the original file. Check whether an overlapping upload has already supplied the same purchases.
+
+Follow a transfer across both accounts. In our no-fee illustration, 0.1 Bitcoin leaves the exchange and reaches the same owner’s wallet. Preserve its purchase history; it doesn't become a second purchase or an automatic sale.
+
+Reconcile the remaining units against the current holding. Investigate fees, missing activity or duplicates when they differ. Keep the precise missing detail visible rather than creating a balancing purchase. Completing the history must not add the current position a second time.

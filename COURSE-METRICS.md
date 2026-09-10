@@ -1,9 +1,13 @@
-# Consolidated course
+# Filming manuscript lengths
 
-25 main teaching scripts, eight For your situation scripts. Ten app working-session files and one device demonstration remain separate production work.
+25 main teaching scripts, eight conditional teaching scripts, ten separate app walkthroughs and one device walkthrough.
 
-Main narration: 27,810 words, compared with 39,097 in the prior owner-delivered 50-script main path: 28.9% shorter. Situational narration: 5,663 words. Total: 33,473, compared with 47,815 across the prior 65 scripts.
+| Written speech | Before this revision | Revised |
+|---|---:|---:|
+| Main teaching | 27,810 words | 21,803 words |
+| Conditional teaching | 5,663 words | 5,161 words |
+| All teaching | 33,473 words | 26,964 words |
 
-At an illustrative 140 words/minute, the main text is about 199 minutes; situational text adds about 40 minutes if every extra were used. These are estimates from written words, not measured runtime, including no pauses or app footage. Do not publish a runtime promise before recording.
+Main teaching is 21.6% shorter than the September 10 starting manuscript. At an illustrative 140 words/minute it is about 156 minutes; conditional teaching adds about 37 minutes when all branches apply. Separate walkthrough speech is 8,276 words across 72 chapter takes. Editing directions and 195 teaching overlays are excluded from spoken counts.
 
-The earlier planning target was approximately 22,000–25,000 main words. This draft is longer because some combined decisions retain their technical conditions; it still reduces total narration rather than only renaming files. Lesson count alone is not a comprehension or value claim.
+These are manuscript estimates, not a published runtime promise. App use, pauses, recording delivery and outside implementation add time. Completion is the member's usable plan and decisions, not the lesson count or a particular simulation percentage.

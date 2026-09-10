@@ -1,0 +1,23 @@
+Open Bitcoin access and start with the holding you want to review. Match it to the account that owns it. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Keep those access processes separate.
+
+Record what this portion is for and who controls it today. Then record the change you're considering, if there is one. A planned move stays separate from the current arrangement.
+
+Add the person who handles the ordinary tasks and the backup who has agreed to help. Include the first unfinished action, such as confirming a provider's recovery process. Save the non-secret record, reopen it and check that it still points to the correct holding. Leave recovery words and precise secret locations out.
+
+Read the receipt before changing recovery status. Identify which wallet was checked, the method used, the date and the outcome.
+
+If this was the separate test wallet, record the result for that wallet only. Leave the family's funded wallet unverified until its own safe check is complete. A new device or a valid backup word list doesn't establish the whole recovery result.
+
+For a funded setup that has been safely checked, enter only the proof that actually exists. Keep any passphrase or multisig requirements in that scope. Save the status and read it back. The next person needs to see what was tested and what remains to do, without seeing any recovery material.
+
+Start with the shared dependency you identified. These accounts use the same recovery email, so securing another account won't remove that dependence. Open the email provider's verified security settings and review the sign-in and recovery methods.
+
+Choose a supported security key or passkey when available. Set up the backup access method and test it before removing the working one. Keep passwords, recovery codes and any private setup screens out of the recording.
+
+Return to the custody map and record the change that actually completed. If you're still waiting for a provider answer or a backup person to agree, leave that task open. Account hardening doesn't change the company's custody risk, so retain that dependency in the map.
+
+Open the family custody map and read the starting instruction for this holding. It needs to identify the legitimate contact and which process applies if the usual operator is unavailable.
+
+Have the person who agreed to help find the first contact without asking the operator. Then have them find the backup contact. Keep this rehearsal to the safe first steps; don't enter credentials or move money.
+
+Record the instruction they couldn't follow, correct it and repeat that part. If the rehearsal hasn't happened, keep it pending. Carry this same map into the family handoff so the authority and account instructions stay connected. A backup of Orange Plan data does not restore a Bitcoin wallet.

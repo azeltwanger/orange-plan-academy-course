@@ -1,8 +1,6 @@
-You might look at your income and think you should be saving more than you are. But then the end of the month comes, and there's less in checking than you expected. Before we decide how much to invest, we need to understand where that difference is coming from.
+Start with the spending estimate in your plan and compare it with your bank, card and pay records. We're going to account for the full month, including existing saving, and find the amount available for your next decision.
 
 Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. You could leave it out of eleven months and then feel like the twelfth month ruined your savings plan. Or you could account for it throughout the year and have the money ready when it's due.
-
-We entered a starting estimate earlier. Now compare it with your bank, card and pay records so the next contribution uses money that's really available.
 
 Check the payroll deductions first. If we start from gross income, account for taxes and other amounts withheld from pay. If we're looking at the deposit in your bank account, they have already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
 
@@ -24,19 +22,19 @@ Alex and Morgan earn about $19,417 a month between them. For this example, we're
 
 Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before Alex's retirement contribution.
 
-Alex contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
+The employer money adds retirement savings without adding money for bills. Alex contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
 
-If you expect money to be left over each month, where does it go? It may accumulate in checking, move into savings, or go toward something you haven't included. Look across a few months and account for those movements. A balance taken just before a paycheck arrives can look very different from the balance just after it, even when the monthly totals are right.
+Next, reconcile where the expected remaining money went. It may accumulate in checking, move into savings, or go toward something you haven't included. Look across a few months and account for those movements. A balance taken just before a paycheck arrives can look very different from the balance just after it, even when the monthly totals are right.
 
 If checking keeps falling or an unpaid card balance keeps growing, I'd find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
 
 Before setting up a transfer, look at when your pay arrives and when the larger bills leave. You might need to keep more money in checking between paydays, move a transfer to later in the month, or ask whether a bill's due date can change. Money you need for the bills before the next paycheck isn't spare money just because it's sitting in the account today.
 
-How much could you keep saving during a slow month? I wouldn't base a regular transfer on your best business month. Look at the range of income you've actually had and what expenses continue through the slower periods. You could choose a regular amount that fits those periods, then decide what to do with extra income after it arrives and the associated costs and taxes are covered. That lets a good month help the plan without making every month depend on one.
+Then choose a pace that survives a slower income month. I wouldn't base a regular transfer on your best business month. Look at the range of income you've actually had and what expenses continue through the slower periods. You could choose a regular amount that fits those periods, then decide what to do with extra income after it arrives and the associated costs and taxes are covered. That lets a good month help the plan without making every month depend on one.
 
 Once the starting number is right, look for spending changes you'd actually keep.
 
-I don't think the goal here is to make your spending as low as possible. You could make almost any plan look better by taking out vacations, hobbies, and everything else you enjoy. But then you've built a plan for a life you don't want to live.
+Keep the spending that makes the life worthwhile to you. Taking every vacation and hobby out may improve a projection, but you still have to live with that budget.
 
 Start with the spending records you just reviewed. We're going to use three choices: Keep, Cut, or Reduce.
 
@@ -64,4 +62,4 @@ Earning more is another option. Look at what the additional income would leave y
 
 One other item worth reviewing is money withheld from your paycheck for taxes. A larger paycheck after a withholding change isn't necessarily a tax saving. You may simply be paying less toward the same bill during the year. Check the expected tax obligation before treating the difference as money you can invest. We don't want to improve this month's cash flow by leaving a later tax payment unfunded.
 
-Compare changes that fit your life, then use the saving that actually shows up. The Reserve and Debt lessons will help you choose where that money goes. You don't have to promise every spare dollar to investments before we've checked those needs.
+Save a spending amount supported by the records and identify the changes you would actually make. Record any renewal date, cancellation or income step needed before the saving begins. Carry the available money into Reserve and Debt before setting another investment transfer.

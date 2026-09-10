@@ -1,0 +1,7 @@
+This example starts with an income change that has happened. Open Income in Cash Flow and update the actual source and timing. Keep the other facts unchanged so you can see what the income change does.
+
+Read the bills, required debt payments and Reserve against the new cash flow. Then open Saving and investing to compare an affordable contribution response. The income change is a fact; the contribution amount is a choice. Review Current and Preview before saving the choice you intend to follow.
+
+If the change was already listed as a future event, reconcile that event so the projection doesn't apply it again. Wait for the saved result to include the change before interpreting it.
+
+A possible career break stays in Scenarios. An unexplained number needs a source correction or a focused support question, not several compensating edits to recover an old percentage.

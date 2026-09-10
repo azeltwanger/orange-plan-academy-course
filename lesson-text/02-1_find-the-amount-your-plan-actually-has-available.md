@@ -1,17 +1,19 @@
 # 2.1 — Decide what you can afford to save
 
-Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
+Status: STEPWISE_SCRIPT_REVIEW — complete teaching manuscript; final voice approval and capture remain separate.
 Kind: teach
 Gate: OWNER_REVIEW
 Sources: APP, CASHFLOW, CLIENT_THEMES, DICTATION, MASTER
 
+### Do this
+
+Verify what a normal month costs and what remains after existing commitments. Choose only spending changes you could actually maintain.
+
 ### Read aloud
 
-You might look at your income and think you should be saving more than you are. But then the end of the month comes, and there's less in checking than you expected. Before we decide how much to invest, we need to understand where that difference is coming from.
+Start with the spending estimate in your plan and compare it with your bank, card and pay records. We're going to account for the full month, including existing saving, and find the amount available for your next decision.
 
 Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. You could leave it out of eleven months and then feel like the twelfth month ruined your savings plan. Or you could account for it throughout the year and have the money ready when it's due.
-
-We entered a starting estimate earlier. Now compare it with your bank, card and pay records so the next contribution uses money that's really available.
 
 Check the payroll deductions first. If we start from gross income, account for taxes and other amounts withheld from pay. If we're looking at the deposit in your bank account, they have already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
 
@@ -33,19 +35,19 @@ Alex and Morgan earn about $19,417 a month between them. For this example, we're
 
 Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before Alex's retirement contribution.
 
-Alex contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
+The employer money adds retirement savings without adding money for bills. Alex contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
 
-If you expect money to be left over each month, where does it go? It may accumulate in checking, move into savings, or go toward something you haven't included. Look across a few months and account for those movements. A balance taken just before a paycheck arrives can look very different from the balance just after it, even when the monthly totals are right.
+Next, reconcile where the expected remaining money went. It may accumulate in checking, move into savings, or go toward something you haven't included. Look across a few months and account for those movements. A balance taken just before a paycheck arrives can look very different from the balance just after it, even when the monthly totals are right.
 
 If checking keeps falling or an unpaid card balance keeps growing, I'd find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
 
 Before setting up a transfer, look at when your pay arrives and when the larger bills leave. You might need to keep more money in checking between paydays, move a transfer to later in the month, or ask whether a bill's due date can change. Money you need for the bills before the next paycheck isn't spare money just because it's sitting in the account today.
 
-How much could you keep saving during a slow month? I wouldn't base a regular transfer on your best business month. Look at the range of income you've actually had and what expenses continue through the slower periods. You could choose a regular amount that fits those periods, then decide what to do with extra income after it arrives and the associated costs and taxes are covered. That lets a good month help the plan without making every month depend on one.
+Then choose a pace that survives a slower income month. I wouldn't base a regular transfer on your best business month. Look at the range of income you've actually had and what expenses continue through the slower periods. You could choose a regular amount that fits those periods, then decide what to do with extra income after it arrives and the associated costs and taxes are covered. That lets a good month help the plan without making every month depend on one.
 
 Once the starting number is right, look for spending changes you'd actually keep.
 
-I don't think the goal here is to make your spending as low as possible. You could make almost any plan look better by taking out vacations, hobbies, and everything else you enjoy. But then you've built a plan for a life you don't want to live.
+Keep the spending that makes the life worthwhile to you. Taking every vacation and hobby out may improve a projection, but you still have to live with that budget.
 
 Start with the spending records you just reviewed. We're going to use three choices: Keep, Cut, or Reduce.
 
@@ -73,26 +75,30 @@ Earning more is another option. Look at what the additional income would leave y
 
 One other item worth reviewing is money withheld from your paycheck for taxes. A larger paycheck after a withholding change isn't necessarily a tax saving. You may simply be paying less toward the same bill during the year. Check the expected tax obligation before treating the difference as money you can invest. We don't want to improve this month's cash flow by leaving a later tax payment unfunded.
 
-Compare changes that fit your life, then use the saving that actually shows up. The Reserve and Debt lessons will help you choose where that money goes. You don't have to promise every spare dollar to investments before we've checked those needs.
+Save a spending amount supported by the records and identify the changes you would actually make. Record any renewal date, cancellation or income step needed before the saving begins. Carry the available money into Reserve and Debt before setting another investment transfer.
 
-### Source and production notes — not spoken
+### Text overlays — not spoken
 
-Source-led condensation of lessons 2.1, 2.2. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+| Exact spoken cue | Overlay copy | Editor treatment |
+|---|---|---|
+| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an added Reed expense. |
+| The groceries are spending. | Count the purchase once; the card payment settles it. | Connect one purchase to its settlement. |
+| The employer money adds retirement savings | Employer money stays outside the household spending pool. | Keep it outside the cash bridge. |
+| the amount left for their other priorities is $500. | Original example: $1,275 − $775 = $500 | Footnote the $4,000 teaching tax provision. |
+| We're going to use three choices: Keep, Cut, or Reduce. | Keep · Cut · Reduce | One example per choice; no category wall. |
+| bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Label “proposed reduction”; no invented cancellations. |
+| A larger paycheck after a withholding change | Withholding changes timing; verify the tax still due. | Small callout next to the relevant action. |
 
-Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+### Walkthrough handoff — not spoken
 
-#### Retained 2.1 — Visual notes — not spoken
-
-Use the existing Cash Flow + Reserve deck's income and usable-surplus sequence. Reveal the original Reed calculation one row at a time: $19,416.67 gross, $4,000 hypothetical tax provision, $10,800 living, $3,341.67 required debt service, $1,275 before Alex's contribution, $775 employee contribution, $500 remaining. Show $387.50 employer money separately. Round only for display. Do not show the reduced-spending example yet.
-
-Use a separate generic graphic for the $1,200 annual premium / 12 = $100 monthly allowance. It is new editorial arithmetic, not an added Reed bill. A pay-stub diagram, ordinary card purchase plus settlement, and bill/payday timeline should carry the visual explanation. No client records or invented Reed pay dates.
-
-#### Retained 2.2 — Visual notes — not spoken
-
-Use Keep / Cut / Reduce from the existing Cash Flow + Reserve deck. Show one ordinary decision for each, not a wall of categories. For Reduce, show old cost → new cost → what changed; distinguish a better price from less service or more risk retained. The generic $40 monthly / $480 annual illustration is not a Reed invoice.
-
-Show $10,800 original living versus $9,600 proposed living, and $500 versus $1,700 available after the same other costs and employee contribution. The source does not itemize the $1,200 reduction. Do not invent canceled services, quotes or a claim that a household implemented them. Keep normal living spending distinct from the $7,200 bare-bones amount including required payments in the accepted Reserve lesson.
+[W02, chapters 1–3](working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md): follow income, verify spending and timing, then compare a sustainable reduction.
 
 ### Member checkpoint
 
-Establish sustainable monthly surplus, separate payroll contributions and employer match, and choose a spending change only when it can really be made.
+Your spending method and source period are recorded. Monthly available money reconciles after payroll saving, annual costs and required payments. A proposed change has an amount, start condition and outside action—or remains unresolved.
+
+### Source and production notes — not spoken
+
+Cash Flow + Reserve deck: usable surplus and Keep/Cut/Reduce steps. The original $500 and proposed $1,700 are distinct states. The $1,200 reduction is not itemized in the source; no fictional cancellation history is added. Normal living ($10,800 or proposed $9,600) excludes separately counted required debt; Reserve essentials $7,200 includes required household debt. Generic $40/month = $480/year saving and annual-premium examples are not Reed invoices. Withholding is not calculated liability.
+
+Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

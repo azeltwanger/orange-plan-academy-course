@@ -1,0 +1,5 @@
+Open the insurance audit and name the event you're testing. Record the spending or loss the household would need to cover, then the accessible resources and policy benefits available for it.
+
+In the life-coverage example, the ten-year shortfall is $400,000 in today's dollars. The separately available $100,000 and $200,000 of coverage leave $100,000 to investigate. Keep the zero real-return assumption and separately funded later needs beside that calculation.
+
+For your own policy, read the benefit, term, waiting period and exclusions. Record what remains uncovered and whether you intend to carry it or investigate a change. Update related spending assumptions in Cash Flow, or an expected future cost in Life events. Complete any policy change with the provider and record its effective date separately.

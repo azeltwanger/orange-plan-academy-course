@@ -150,11 +150,13 @@ class MemberDeliverables(unittest.TestCase):
         for r in c['mapping']:
             if r['retired_active_file']:self.assertFalse((ROOT/r['old_path']).exists())
 
-    def test_accepted_reserve_is_still_exact_except_approved_language(self):
+    def test_preserved_accepted_reserve_is_exact_except_prior_approved_language(self):
         import sys
         sys.path.insert(0,str(ROOT/'tools'))
         from guided_course import accepted_reserve_bytes
-        current=(ROOT/'scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md').read_bytes()
+        # New owner direction authorizes the active rewrite; its predecessor stays exact.
+        # test_stepwise_filming separately pins and exercises the active scripts.
+        current=(ROOT/'source-material/pre-stepwise/02-3_size-the-reserve-for-the-job-it-has-to-do.md').read_bytes()
         self.assertEqual(blob_id(accepted_reserve_bytes(current)),'2c107a394a93cc877c73f011dfe37fb5ad3d94b1')
 
     def test_situation_and_reference_are_not_extra_main_videos(self):
@@ -218,11 +220,11 @@ class September10ScriptFinish(unittest.TestCase):
         self.assertLess(text.index('authenticator app'),text.index('SMS as a last resort'))
         self.assertNotIn('phishing-proof',text)
 
-    def test_reserve_only_allows_authorized_wording_changes(self):
+    def test_preserved_reserve_only_contains_prior_authorized_wording_changes(self):
         import sys
         sys.path.insert(0,str(ROOT/'tools'))
         from guided_course import accepted_reserve_bytes
-        p='scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md'
+        p='source-material/pre-stepwise/02-3_size-the-reserve-for-the-job-it-has-to-do.md'
         data=read(p).encode()
         expected='2c107a394a93cc877c73f011dfe37fb5ad3d94b1'
         self.assertEqual(blob_id(accepted_reserve_bytes(data)),expected)
@@ -272,10 +274,10 @@ class BoundedReviewFollowup(unittest.TestCase):
                      'scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md']:
             self.assertIn('owner-decisions-20260910.md', read(path))
 
-    def test_bounded_pass_preserves_insurance_narration_and_reserve(self):
+    def test_bounded_pass_original_insurance_and_reserve_remain_preserved(self):
         for path, expected in [
-            ('teleprompter/core/8-4.txt', '393118d5c8d582b77927138a5014e7ba2c41aa7e438574f287c5b314a8f96f1b'),
-            ('scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md', 'bcf42a95d1ee40e7e5164cf1e259a59ccc1d939d897af16cbcafa63a3728b8f7'),
+            ('source-material/pre-stepwise/8-4.txt', '393118d5c8d582b77927138a5014e7ba2c41aa7e438574f287c5b314a8f96f1b'),
+            ('source-material/pre-stepwise/02-3_size-the-reserve-for-the-job-it-has-to-do.md', 'bcf42a95d1ee40e7e5164cf1e259a59ccc1d939d897af16cbcafa63a3728b8f7'),
         ]:
             self.assertEqual(hashlib.sha256((ROOT / path).read_bytes()).hexdigest(), expected)
 

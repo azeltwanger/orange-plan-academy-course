@@ -1,141 +1,185 @@
 # W06 — Build and test the retirement paycheck
 
-Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: STEPWISE_WALKTHROUGH_REVIEW — complete separate spoken scenes; approved-build capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: RETIREMENT, RETIREMENT_DECK, APP, PRIMARY
 
 ### For your situation — recording route, not spoken
 
-- After 6.3, [A6.1](../06-3_price-healthcare-before-leaving-employer-coverage.md): A withdrawal, gain, or conversion could change the cost or eligibility of healthcare coverage. Complete before adopting the affected income and coverage plan. Return to W06 chapter 3, then lesson 6.4.
-- After 6.6, [A6.2](../advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md): You are considering borrowing in more than one year to fund retirement spending. Complete before relying on recurring borrowing, not after the first loan. Return to W06 chapter 6, then lesson 6.7.
-- After 6.2, [A6.3](../advanced/A6-3_verify-an-early-retirement-account-access-route.md): Your plan relies on using retirement-account money before 59½. Complete before counting on the access route or making a rollover that could change it. Return to W06 chapter 2, then lesson 6.3.
+- After 6.1: chapters 1–2 and 4. Use [A6.3](../advanced/A6-3_verify-an-early-retirement-account-access-route.md) for an early-retirement account-access dependency; return to chapter 2, then healthcare.
+- After 6.3: chapter 3, including tax/coverage interaction formerly labeled A6.1.
+- After 6.6: chapter 6. Use [A3.1](../advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md) before relying on repeated Bitcoin borrowing; it replaces the old A6.2 recording label.
+- After 6.8: chapters 5 and 7–8. Use the result literacy from 1.5 rather than adding a separate 6.7 lecture.
 
-### Run sheet
+### Run sheet — not spoken
 
-Complete the fictional capture extension before running the approved engine: as-of and each person's timeline, spending adoption, income/benefits, coverage, tax treatment, debt schedules, account access and return assumptions. Retain the original fixture untouched. There is no predetermined success percentage or retirement age. Individual chapter recordings need the actual input/result identity and approved behavior.
+Prepare the separately reviewed capture extension: as-of date, each spouse’s birth/work/benefit/access dates, adopted spending, coverage, tax source, debt schedules, funding and return assumptions. The source Reed fixture is unchanged and contains no verified retirement result. Future flow: Plan year detail for the funding readback; Retirement strategy for account/funding choices and Bitcoin borrowing; Cash Flow owns spending/Reserve facts; Scenarios holds a possible one-time loan or unchosen idea. Standing dollar guardrails and the annual spending proposal remain separate. No invented result is inserted into a real app screen.
 
-Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
+Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional Reed source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
 
-#### Chapter 1 — Build the complete retirement cash need
+Only each **Narration:** block is spoken. Record the chapter as a separate take; show the action as its instruction is spoken. Other fields are editing and verification instructions.
 
-**Show and do:** After 6.1, review the actual adopted lifestyle and healthcare spending, taxes, required debt and dated events, then expected income by person and date. Show the source rough $108,000 minus $40,000 = $68,000 separately from a completed net draw. The new hypothetical $126,000 total-cost/$86,000 gap extension is a teaching graphic only.
+#### Chapter 1 — Build the complete cash need — after 6.1
 
-**Narration:**
-
-“Start with what has to be paid, then the income already arriving. The rough subtraction helps us get oriented. This fuller view includes the costs it left out. Now identify exactly what the portfolio has to provide in this year.”
-
-“Now open the year this income begins. How much less do investments need to provide, after updating taxes and the other costs?”
-
-**Verify before recording:** Verify gross/net units, tax gross-up, deductions already counted, income reliability, investment distribution treatment, person dates and same input/result receipt. No imaginary benefit, adoption of generic tax figures or double-counted withholding. Complete capture input decisions first.
-
-**Member finish:** Explain one fully reconciled year and why another meaningful year needs a different draw.
-
-#### Chapter 2 — Fund the early years and compare benefit timing
-
-**Show and do:** After 6.2, show both adults' timelines. Alex's intended 52-to-59½ interval is 7.5 years; Morgan's own dates differ. Read actual income and usable accounts for every material interval and compare a supported benefit timing alternative.
+**Show:** Open the first retirement-year detail and drill into canonical spending/income records where corrections are needed. Show separate labeled $108,000/$68,000 and $126,000/$86,000 graphics, never as a Reed calculated result.
 
 **Narration:**
 
-“Which account pays for these early years, and can you use it at that time? If the benefit starts later, compare the extra withdrawals needed before it begins with the income it provides afterward.”
+Open the first year after work stops. Read living costs, healthcare, required debt, tax and dated events. Check that each cost appears once, then read the income that arrives in that year.
 
-**Verify before recording:** Verify individual SSA/pension estimates, earnings record, dollar convention and survivor/spousal effects where supported. Early access requires exact account/separation/Roth ordering/457/SEPP conditions. No universal claiming age or assumption all retirement dollars unlock together. Unmodeled benefits remain separately reviewed.
+The teaching illustration starts with $108,000 of living and healthcare costs minus $40,000 of gross income: a rough $68,000 gap. Adding $12,000 of hypothetical tax and $6,000 of debt changes the gap to $86,000. Use that distinction to check what your own calculation includes.
 
-**Member finish:** Every early interval has a supportable source or a clearly identified funding/access prerequisite.
+Correct any source record that is missing or duplicated. After saving it, wait for the updated result before reading the funding need again. Gross income and withholding need to reconcile with the complete tax cost.
 
-**Technical check before filming:** P06/P09: Own Social Security delayed credits stop at 70; household/survivor rules are separate. Employer-plan SEPP begins after separation from that employer; IRA SEPP has no such employment condition. Verify the exact person, dates, plan permission, method, modification rules and RMD applicability before claiming a funded access route.
+**Overlay:** Cue “each cost appears once” → Spending + healthcare + debt + tax + events; cue “rough $68,000 gap” → Illustration, not final withdrawal.
 
-#### Chapter 3 — Put coverage and healthcare costs on the timeline
+**Verify:** Income and complete outflow reconcile; tax/withholding, events, debt and portfolio distributions are counted once; calculation reflects saved changes.
 
-**Show and do:** After 6.3, compare relevant pre-Medicare options with actual private quotes or clearly invented teaching inputs. Show the $15,000 versus $16,000 ordinary-year illustration separately, then real difficult-year limits/exclusions and each person's transition.
+**Capture dependency:** Year-detail attribution, canonical income/spending owners, tax-dependent withdrawal math, automatic Plan updating and current result receipt.
 
-**Narration:**
+#### Chapter 2 — Fund the early intervals and benefit dates — after 6.1 / A6.3
 
-“The lower premium is only one part of what we pay. Add the other expected costs, then check what a difficult year could require. Who covers that amount, and what happens to the plan if this tax decision changes the net coverage cost?”
-
-**Verify before recording:** Verify provider networks/prescriptions, dates, exclusions, eligibility and enrollment, Marketplace income, Medicare lookback and HSA coordination. Noninsurance retains its actual unfunded-cost risk. No personal medical story, invented quote or unsupported subsidy engine; outside analyses labeled.
-
-**Member finish:** A funded coverage path and specific required confirmations before leaving current coverage.
-
-**Technical check before filming:** P07/P08: Use actual active-employment coverage end, Part B window, Part A effective date and HSA-eligible months. COBRA/retiree coverage does not extend the usual active-employment enrollment protection. Marketplace MAGI and IRMAA use different definitions/timing. For 2026, apply actual eligibility and full excess-APTC reconciliation without an old repayment cap. Do not reuse expired enhanced-assistance assumptions. Verify the new HSA coverage provisions separately. None of this establishes that the app calculates an unmodeled credit or premium.
-
-#### Chapter 4 — Choose account funding and asset sales
-
-**Show and do:** After 6.4, compare the current account order with a deliberate blend on the same spending and market assumptions. Show which asset is sold inside the account, required distributions, taxes, spending cash and any separate conversion.
+**Show:** Show both adults’ timelines and every material funding interval. Open underlying account-access evidence and a supported benefit-timing comparison. Use actual reviewed synthetic estimates and preserve their dollar convention.
 
 **Narration:**
 
-“First choose the account supplying the withdrawal. Then read what was sold inside it. The gross withdrawal and the amount available for bills may differ. Now compare the early year and a later distribution year so we can see why a blend might help—or why the simpler order is already sufficient.”
+Read Alex’s intended work-optional date at 52, then Morgan’s separate dates. Alex has seven and a half years to 59½; that doesn't determine access to Morgan’s accounts.
 
-**Verify before recording:** Verify actual withdrawal and asset-priority controls, lot evidence, access, cash gross-up, RMD compliance, dividend treatment and same-state results. No automatic optimal blend or never-sell-Bitcoin promise. Save only the deliberately adopted fictional choice.
+Open each interval before another benefit or access route begins. Identify the income that continues and the accessible money assigned to the remaining gap. Exclude the Reserve and committed expenses from money available for a second job.
 
-**Member finish:** Explain the next withdrawal, tax funding and asset sale and the relevant later-year consequence.
+If an interval relies on early retirement-account access, verify the account, owner, amount, dates and provider permission before counting it. Keep a dependent rollover pending until that review is complete.
 
-#### Chapter 5 — Use the Reserve through a weak sequence
+Compare benefit timing using the same spending and the actual estimates. Read the extra funding needed while waiting and the later income it buys. Finish each interval with a source or a specific gap to address.
 
-**Show and do:** After 6.5, show the exact separate sequence graphic: $1m, $50k beginning-year withdrawals, −20/+25 => $887,500, reverse => $910,000. Then read actual retirement cash target, source, use/refill rule and a weak year near the floor.
+**Overlay:** Cue “Morgan’s separate dates” → Two people, two timelines; cue “source or a specific gap” → Funding interval readback.
 
-**Narration:**
+**Verify:** All material early intervals have supported sources or explicit gaps; source ages, access evidence and inflation convention are correct.
 
-“The same two returns did not produce the same retirement outcome because withdrawals occurred along the way. Here is the cash already available to support spending. If we use it during the decline, how long does it last, and what is the response before it no longer covers the bills?”
+**Capture dependency:** Person/account access model, separation and distribution rules, actual benefit estimates, spouse/survivor support scope and interval funding output.
 
-**Verify before recording:** Verify actual reserve/refill implementation, finite floor, eligible funds, transfer counting and taxes. Cash remains inside the portfolio; no unsupported automatic pause/refill feature or video fair-value price trigger. Do not claim a reserve eliminates sequence risk.
+#### Chapter 3 — Enter coverage costs and transitions — after 6.3
 
-**Member finish:** A finite use/refill policy with an actual funding response and clearly retained uncertainty.
-
-#### Chapter 6 — Compare sale, another source and borrowing
-
-**Show and do:** After 6.6, compare the same net spending and date across sales, another available source and an actual supported borrowing policy. Read strategy, assumptions receipt, rate path, capitalized/paid interest, collateral and repayment. Generic $20k at 10% is a separate graphic, not a loan quote.
+**Show:** Show synthetic/private coverage quote inputs and existing expense/life-event owners. Compare ordinary/difficult-year costs, income effects and person-specific transition dates. Keep unsupported subsidy calculation outside app as a labeled estimate.
 
 **Narration:**
 
-“Keeping more Bitcoin initially is one possible benefit. Follow the obligation as well. What funds the interest, what remains owed after a weak year, and how does the loan end? Compare that with the sale's tax and the lender exposure it avoids.”
+Enter the healthcare cost for the period after employer coverage ends. Use the complete annual amount from the coverage comparison, including premiums and expected additional costs. Keep the difficult-year exposure and its funding visible.
 
-**Verify before recording:** Verify actual D63-supported policy and any Hybrid Sell within your tax limit, then borrow semantics. Default 50% initial LTV is not a recommendation. No new actual Reed loan, fabricated liquidation probability, provider assurance, estate guarantee or unsupported contract representation.
+In the teaching example, $12,000 of premiums plus $3,000 of other costs totals $15,000; $8,000 plus $8,000 totals $16,000. Replace those illustrative amounts with the costs for the actual coverage choice.
 
-**Member finish:** A considered funding policy with its weak-period and exit trade-off explained.
+Check any income change from the withdrawal or conversion against the same coverage year. Include a verified assistance repayment or premium effect when it applies.
 
-#### Chapter 7 — Test a decision rather than chase a score
+Set each person’s transition date. Confirm Part B timing and the Part A effective date before relying on ongoing HSA contributions. Keep enrollment as a separate outside action until coverage is confirmed.
 
-**Show and do:** After 6.7, compare Current with one realistic spending, work-date or funding change. Read actual percentage, count, horizon and freshness, then the year that explains the difference. Keep changed and inherited assumptions visible.
+**Overlay:** Cue “complete annual amount” → Premium + ordinary costs; cue “same coverage year” → Income and coverage use one estimate.
 
-**Narration:**
+**Verify:** Healthcare is neither omitted nor duplicated, transitions are person-specific, retained risk is funded and subsidy/premium omissions are explicit.
 
-“What did we change, what did it affect, and what did the household give up? If this result requires spending cuts the family would not make, a higher percentage has not finished the decision. Choose the version whose trade-off you understand.”
+**Capture dependency:** Supported expense/life-event timing, coverage calculation scope, actual quotes, Marketplace/Medicare income treatment and enrollment/HSA confirmation.
 
-**Verify before recording:** Verify actual same-state result, supported scenario behavior and current methodology. No hidden return/volatility edits, forced target score, fabricated Reed outcome or assumption all risks are modeled. Below-standard intended timing is an acceptable truthful demonstration.
+#### Chapter 4 — Choose the account and investment supplying cash — after 6.1
 
-**Member finish:** An adopted preference or specific gap, with realistic adjustment capacity and unmodeled risks understood.
-
-#### Chapter 8 — Finish the annual spending and refill decision
-
-**Show and do:** After 6.8, read standing guardrails separately from the current annual proposal. Compare next-year spending, inflation and change limit alongside the tax/withdrawal/refill effect. Use the separate $100k-to-$95k example only to explain the practical spending change.
+**Show:** Open Plan → Retirement strategy → How retirement is funded. Compare supported account order/blend in Current/Preview, then open the same year’s account and asset-sale rows. Show required distributions before discretionary order.
 
 **Narration:**
 
-“This portfolio level calls for a review. This other amount is the spending we are considering. What would actually change in the household budget? Then follow the money and decide whether the proposal, a different amount, or another response fits.”
+Open how retirement is funded. Read the current account order, then follow the first year’s withdrawal into the account that supplies it. Identify the investment sold inside that account and the tax created.
 
-“Finish with the next-year paycheck in ordinary language: what we will spend, what income arrives, which accounts provide the gap, and when we review it again.”
+Keep required distributions funded under their rules. For the remaining spending, preview a different account order or blend only when it addresses a tax or access need.
 
-**Verify before recording:** Portfolio-dollar thresholds require approved inverse calculation and denominator. Verify actual policy/annual window, cap, inflation, preview/adoption and save/reload; repeated saves cannot evade a cap. Do not substitute old slide percentages or label a confidence value as a portfolio dollar. Urgent debt/coverage events retain separate action rules.
+Hold the lifestyle and return assumptions steady. Read the cash available for bills, tax paid and balances remaining, then open a later year to see what changed. A separate conversion still needs separate spending and tax sources.
 
-**Member finish:** The chosen spending, income, withdrawals, Reserve, borrowing policy and review date describe one operating plan.
+Save the funding choice you intend to use. If the preferred order runs out of accessible money, revise that source or the spending before treating the paycheck as funded.
 
-### Readback and finish
+**Overlay:** Cue “investment sold inside” → Account order ≠ asset sale order; cue “cash available for bills” → After-tax spending cash.
 
-The household can explain the actual retirement paycheck across its important dates and a difficult period. The annual spending and Reserve decisions fit the same funding. All result values come from the approved saved example; unsupported financial or contract behavior remains explicitly unverified, not staged.
+**Verify:** Funding, RMDs, asset sales, conversion and taxes reconcile to the same year and save receipt; no unsupported universal order is staged.
 
-### Production notes
+**Capture dependency:** Supported account-order/blend and asset-sale controls, access conditions, RMD rules, Current/Preview calculation and saved policy/year detail parity.
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+#### Chapter 5 — Use the Reserve through a difficult sequence — after 6.8
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+**Show:** Use separate sequence arithmetic graphic, then actual retirement Reserve assignment, spending-gap basis, target/floor and supported use/refill behavior. The $52,700/$26,350/$45,000 figures remain a labeled separate teaching case unless explicitly loaded as an extension.
 
-This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
+**Narration:**
 
-### Application in the member's own plan — production guidance
+Read the Reserve basis and the income already covering retirement spending. Use the remaining gap and any separate bills to set the cash job.
 
-Build the member's own retirement paycheck from their spending, income, accounts and coverage dates. Use the actual supported result to compare relevant changes and finish the spending/Reserve decision. Do not insert fictional homework or a score to pass. Unsupported healthcare or contract effects stay clearly separate from app outputs.
+The return order matters while spending. In the separate illustration, $1 million with $50,000 beginning-year withdrawals ends at $887,500 after a 20% loss and 25% gain. Reversing those returns ends at $910,000. A later recovery doesn't restore assets already sold for bills.
+
+Now open a weak year in the actual plan. Follow cash used, the remaining Reserve and the next refill. Identify the source before cash reaches the chosen floor. Count sale tax and fees, and confirm that the same money isn't also committed to another payment. Keep the refill response funded even if recovery takes longer.
+
+**Overlay:** Cue “return order matters” → Same returns, different spending path; cue “source before cash reaches” → Floor → funded response.
+
+**Verify:** Reserve is an existing-asset role, gap excludes counted income/tax appropriately, floor is finite and use/refill money is assigned once.
+
+**Capture dependency:** Canonical Reserve source reader/writer, target/floor basis, modeled refill cadence, funded source/tax and actual weak-year result.
+
+#### Chapter 6 — Compare sale, other assets and borrowing — after 6.6
+
+**Show:** Open relevant Current/Preview retirement funding policy; a one-off possible loan stays in Scenarios, and real loans remain Debt. Read the supported assumptions receipt, plan effect and risk added through a weak year and repayment.
+
+**Narration:**
+
+Keep the spending amount and date unchanged. Start with the sale route and read tax, cash available and Bitcoin remaining. Then compare another available asset and identify what it would otherwise fund.
+
+For borrowing, open the terms and funding rules. Read interest treatment, collateral requirements, response resources and repayment. The simple $20,000 loan at 10% uses $2,000 of cash interest or becomes $22,000 of debt after the illustrative year. Use the actual modeled terms for this comparison.
+
+Open a weak period and the repayment year. Check the payment source, lender-specific collateral exposure, top-up and any sale used to repay. Read those risks beside the effect on the plan result.
+
+The Reeds have no current Bitcoin-backed loan. Save a retirement borrowing policy only if that's the chosen strategy; keep an unchosen one-time loan in its scenario.
+
+**Overlay:** Cue “Keep the spending amount” → Equal net spending; cue “beside the effect” → Plan effect + risk added.
+
+**Verify:** No new actual loan is created from a scenario; interest/debt/collateral/repayment, fallback and net-spending comparison remain consistent. Unmodeled terms are explicit.
+
+**Capture dependency:** Accepted borrowing parity: rate path, paid/accrued interest, caps, top-up/release, liquidation, closeout, fallback, collateral availability, Current/Preview and saved-policy evidence.
+
+#### Chapter 7 — Test one decision and read its cause — after 6.8, using 1.5 result literacy
+
+**Show:** Show Current versus one supported spending/work-date/funding change. Read actual percentage/count/horizon/freshness and affected year, using same assumptions except named decision. No illustrative percentage overlays on live result.
+
+**Narration:**
+
+Choose one decision to test: the spending amount, work date or funding choice that addresses the gap you found. Keep the other assumptions unchanged.
+
+Read the chance of success with the matching count and horizon, then open the year that explains the difference. Check the actual cost of the change: less spending, more work or a different funding obligation.
+
+If you correct a missing fact, let the result change honestly. Don't raise return assumptions to recover the previous percentage. Keep an uncomfortable result visible until a realistic decision addresses it.
+
+Adopt the change only if the household would follow it. Save that choice and confirm the updated result uses it. If you prefer Current, leave the comparison unapplied.
+
+**Overlay:** Cue “one decision” → One changed input; cue “year that explains” → Result → funding year → household trade-off.
+
+**Verify:** Percent/count share the same run; chosen and earliest dates stay separate; preview does not alter saved facts/strategy before Save.
+
+**Capture dependency:** Approved full-result standard, matching receipt/horizon, Current/Preview isolation, same seeded comparison path where supported and saved-result readback.
+
+#### Chapter 8 — Save annual spending and the refill decision — after 6.8
+
+**Show:** Open standing Spending guardrails and then separate annual review. Use approved actual dollar thresholds only after inverse-calculation proof. Show the exact accepted $103,000/55%/$86,000 → $92,700 arithmetic as a clearly separate illustrative graphic. Preview and save the actual selected spending and refill decision.
+
+**Narration:**
+
+Read the standing guardrail status, then open the annual spending review. A portfolio threshold tells you when to review; the proposed budget tells you what spending you're comparing.
+
+Start with the saved budget and apply inflation once. In our separate illustration, $100,000 becomes $103,000. A made-up 55% result crosses the lower trigger, while the made-up target amount is $86,000. The 10% correction cap produces $92,700. The cap hasn't restored 80% confidence, so read the remaining difficult years before adopting it.
+
+Choose the expenses that would actually change. Then update the Reserve from the same budget. With $40,000 of spendable income and separately funded withdrawal tax, the example’s gap is $52,700. Its chosen twelve-month target is $52,700, six-month floor $26,350 and gap against $45,000 cash is $7,700.
+
+Read the actual refill source and its tax beside your proposed budget. Save the spending you choose, verify the saved amount and set the next review. Urgent income or loan changes need attention sooner.
+
+**Overlay:** Cue “separate illustration” → Hypothetical, not app output; cue “cap hasn’t restored” → $92,700 suggestion ≠ 80% restored; cue “same budget” → Spend / income / Reserve / refill agree.
+
+**Verify:** Standing levels and budget remain distinct; annual inflation/cap applies once, saved choice preserves planned retirement date, and Reserve/refill/tax use the same adopted state.
+
+**Capture dependency:** Dollar-threshold inverse solver and denominator, unsolvable-threshold handling, exact 60/80/95 policy and annual cap/inflation semantics, annual-review Current/Preview, canonical spending/Reserve save and receipt parity.
+
+### Readback and finish — not spoken
+
+The saved budget, income, account/asset funding, Reserve refill and any borrowing policy describe one plan. Each critical interval has a supported funding source or an explicit decision still required. Actual engine, provider and tax/access proof remain distinct from completed manuscripts.
+
+### Source and production notes — not spoken
+
+September 10 action-first revision based on the paired current teaching scripts, supplied slide steps and original dictation. Prior narrative and exact source mapping remain in [the consolidation record](../../delivery/consolidation.md). Historical app labels are superseded by the current chapter pairing here. Product contracts are reference evidence, not permission to change the app or to reproduce private technical documents. Keep every unsupported field, missing source fact and unperformed outside action visible. Record an actual capture pass only from observed evidence.

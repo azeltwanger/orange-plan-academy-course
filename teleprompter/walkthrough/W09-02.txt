@@ -1,0 +1,7 @@
+Open the account where the contribution should have arrived. Compare the contribution date and amount with the provider record. Then check whether the intended investment was purchased or the money is still cash.
+
+If the purchase instruction wasn't completed, fix that instruction with the provider. Don't add a fictional purchase in Orange Plan. If the purchase did happen but the record is missing, use the account's supported update or activity-import path and review the result.
+
+Read the receipt before adding another entry. Existing balances and imported activity may describe the same money. Don't count them twice.
+
+Save the supported correction and check the affected total. If evidence is missing, record exactly what's needed and leave the issue open. Remind me later postpones the question; it doesn't resolve it.

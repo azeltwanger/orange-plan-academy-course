@@ -1,193 +1,116 @@
 # W02 — Verify cash flow, set the Reserve, and add expected events
 
-Status: WALKTHROUGH_REWRITE_REVIEW — chapters 1–3 and 6–7 have replacement teaching narration; the approved Reserve chapters 4–5 are unchanged. All actual screen recordings remain on hold.
-Adapted source: paired Lessons 2.1–2.5, the previously prepared Cash Flow 2.1 walkthrough replacement, and the accepted Reserve pilot with September 8 owner judgment.
-App references: navigation, source coverage, field semantics, calculations and saves require the approved redesign. This run sheet is not evidence of a working feature.
-
+Status: FUTURE_DESIGN_CAPTURE_SCRIPT — complete prepared narration; actual app/device capture remains pending.
 Kind: capture
 Gate: APP_CAPTURE
 Sources: CASHFLOW, DICTATION, OWNER, APP
 
-### Run sheet
+### Production basis — not spoken
 
-Start with the W01 household facts and the original spending state. Record each chapter separately after its paired explanation. Use an authorized synthetic transaction set where a transaction example is needed; no client accounts, statements or secrets. A separate teaching graphic must not be presented as an app screen.
+Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged Reed fixture and a separately reviewed synthetic extension supply all household facts. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
 
-The paragraphs labeled **Narration** are the prepared spoken explanation. The setup, checks and unresolved screen details are for production only. Read the actual displayed amounts during filming; never splice an illustrative result into the app recording. Exact event dates, quotes, beneficiaries and funding outputs still require the reviewed fictional capture extension.
+#### Chapter 1 — Follow the monthly money · after 2.1
 
-#### Chapter 1, after 2.1 — follow the monthly money
-
-**Show:** The income sources entered in W01, with what each amount includes. A synthetic pay-stub diagram can explain gross versus take-home pay; it does not imply that Orange Plan imports pay stubs.
+**Show:** Open Cash Flow → Income and Taxes and withholding, then the summary’s debt and saving routes. Reconcile original income with a synthetic pay-stub/statement source. Show the precise Reed bridge as its own graphic.
 
 **Narration:**
 
-“Let's start with the income we entered earlier. This number is before the deductions, so we're going to check what still has to come out. Take your pay stub and follow it down to the amount deposited in the bank. Where did the difference go? Taxes, insurance, and a retirement contribution can explain part of it. We need those amounts in the cash flow, but we don't want to subtract them a second time from money that's already had those deductions taken out.”
+Open the income source and match its meaning to the records. Gross pay still has deductions to account for; the bank deposit already has them taken out. For Morgan, ordinary business costs are already deducted, but the equipment payment remains separate. In our original teaching calculation, costs leave $1,275 before Alex's $775 contribution and $500 after it. The employer adds $387.50 to retirement money. Now follow where the remaining cash actually went over the period: checking, saving, or a cost missing from the plan. Resolve that difference at its source. Withholding changes cash available and the amount still due; it doesn't by itself change the calculated tax obligation.
 
-For Morgan's income, identify ordinary operating costs already deducted and the equipment-loan payment still shown separately. Do not silently equate business sales, accounting profit and money available to the household.
+**Overlay:** Original example: $1,275 − $775 employee = $500; employer $387.50 separate
 
-**Show:** Reveal the original source arithmetic one row at a time. Gross income $19,416.67; hypothetical tax provision $4,000; normal living $10,800; required debt service $3,341.67; remaining before employee contribution $1,275; Alex's contribution $775; remaining for other priorities $500. Employer money $387.50 is separate retirement money. Calculate from full precision, then round for display.
+**Verify:** Income and deductions reconcile without double subtraction; original $10,800 living remains active. Actual tax output is not forced to the $4,000 teaching provision.
 
-**Narration:**
+**Capture dependency:** D32/D48 income/withholding owners, employee election and business payment convention. Full-precision bridge and tax jurisdiction must be verified; synthetic records need actual period/timing. No reduction, Reserve transfer or future contribution starts here.
 
-“After these costs, they have $1,275 left. But Alex's retirement contribution still comes out of that money. He is contributing $775 a month, which leaves $500 for the other priorities. So when we say they have $500 available, we don't mean they're only saving $500. Alex's contribution has already been accounted for. The employer money is also going toward retirement, but it isn't money they can use for the bills.”
+#### Chapter 2 — Verify spending and bill timing · after 2.1
 
-The source's $4,000 tax provision is not an engine result. If the approved app calculates a different legitimate amount, show the reconciliation and use its actual displayed result in the screen narration. Do not invent a balancing transaction or hide a tax override to force $500.
-
-**Narration for the account check:**
-
-“Now let's check whether that makes sense against the accounts. Does the remaining money stay in checking, move into savings, or go somewhere we haven't included? We're not looking for the balance to be exactly the same every day. We're trying to account for the change over the period, including when the paychecks and bills arrived.”
-
-**Before recording:** Verify the income meanings, employee election, business payment treatment, tax provision versus liability, source freshness and actual updates. Do not activate the $1,200 spending reduction, reserve transfer or future post-card contributions in this chapter.
-
-**Finish:** The member can trace the remaining amount or identify a specific unresolved difference. An unexplained mismatch is not a completed reconciliation.
-
-#### Chapter 2 — check the spending estimate and timing
-
-**Show:** The period and source used to estimate spending. Read the actual available methods—average, typical month, recent trend or manual—rather than promising controls that have not been demonstrated. Use one ordinary card purchase and its settlement where the records establish their relationship.
+**Show:** Open Cash Flow → Your Plan uses and Everyday spending → Verify Spending. Compare the method, source period and categories. Resolve one material uncertainty supported by the synthetic transaction set; show a purchase/settlement pair, annual bill and bill/payday timeline.
 
 **Narration:**
 
-“Here is the purchase, and here is the payment from checking to the card. We've already counted what was bought. The payment settles it; it doesn't mean they spent that money on groceries again. An older balance they are still paying down is a separate commitment, and we need to leave room for that payment too.”
+Read the spending method and the months behind it. Use the records to decide whether that period describes the costs continuing now. A permanent change may make the recent period more useful, but annual bills still need coverage. Here, the grocery purchase is spending and the card payment settles it; counting both would repeat the cost. Keep repayment of an older balance separate. For a generic $1,200 annual premium, allow $100 a month rather than treating eleven months as free. Save the supported spending estimate, then look at payment timing. Keep enough in checking for bills that leave before the next paycheck, and arrange saving after that need is covered.
 
-Inspect the actual classifications before correcting anything. Do not exclude every card-related payment as a blanket rule. For an uncertain item, identify the missing record rather than manufacture a classification.
+**Overlay:** Method + source period · Purchase counted once · $1,200/year = $100/month
 
-**Show:** A separate $1,200 annual-premium graphic unless the reviewed transaction set supplies that exact example. It is not an added Reed bill.
+**Verify:** Supported classifications preserve raw evidence; no blanket exclusion of all card payments. The saved method/value agrees with the chosen period, annual costs and known recent changes.
 
-**Narration:**
+**Capture dependency:** D32 selector methods (12-month average, Typical month, Recent 3-month trend, Manual), D33 category/correction behavior and saved readback. Capture only implemented methods. Annual premium and pay dates remain separate generic graphics unless the reviewed synthetic record supplies them.
 
-“Suppose this bill is $1,200 once a year. That's $100 a month we need to account for, even during the months when the bill hasn't arrived. Leaving it out would make the amount available to save look higher than it really is.”
+#### Chapter 3 — Compare a sustainable spending change · after 2.1
 
-Then compare an annual bill with a genuinely one-time purchase. Explain why a recent permanent change may need a different period while annual bills still need coverage. Choosing a method is not permission to remove inconvenient spending.
-
-**Show:** A simple teaching timeline for pay and bills, without invented Reed pay dates.
+**Show:** Use a Keep/Cut/Reduce teaching card beside the original spending. In Plan → Scenarios compare original living $10,800 with proposed $9,600, other inputs unchanged. Return to Current; use a clearly named reduced-spending rehearsal state for later course arithmetic only after the fictional choice is explicit.
 
 **Narration:**
 
-“The monthly total may work, but look at when the money arrives. If a large bill leaves before the paycheck comes in, moving this transfer earlier could leave checking short. We need to allow for that timing before treating the balance as money we can move elsewhere.”
+Start with a cost you would actually change. Keep it when the value is worth the price. Cut an expense you no longer choose. Reduce the price or amount of something you still want, after checking fees and any lost coverage. The Reeds' proposal reduces living costs by $1,200 a month. In the teaching example that changes remaining money from $500 to $1,700. They still need to identify the bills that make the reduction possible. Compare the proposal first. Record when the real change begins, then update current spending when it has happened. Saving a lower figure doesn't cancel a service or make the saving appear in the bank. In the Reserve and Debt examples that follow, we're testing this reduced-spending version. Your actual surplus stays unchanged until the spending changes happen.
 
-**Before recording:** Verify actual source coverage, spending-method calculation, any supported correction/exclusion, save/readback and treatment of annual versus one-time spending. A synthetic demonstration needs enough records to prove the specific behavior shown, not a staged reassuring total.
+**Overlay:** Proposed: living $10,800 → $9,600; available $500 → $1,700
 
-**Finish:** An explained spending estimate, a realistic available amount and the relevant timing constraints. Final Reserve and extra-debt allocations still belong to later chapters.
+**Verify:** Original and reduced states are distinguishable; no fabricated cancellations or early adoption. Saving amount, effective date and outside action are visible; $7,200 Reserve essentials are never substituted for normal living.
 
-#### Chapter 3, after 2.2 — compare a spending change the household would make
+**Capture dependency:** Approved scenario/preview mechanism, effective-date semantics, return-to-Current and save/reload. Source does not itemize the $1,200 reduction. Actual app tax differences must be explained rather than balanced away.
 
-**Show:** Keep / Cut / Reduce on a separate worksheet or teaching card beside the existing spending. The source fixture does not itemize the $1,200 reduction. Use generic category examples for the method, not a fabricated Reed cancellation history.
+#### Chapter 4 — Set the Reserve target and existing sources · after 2.3
 
-**Narration:**
-
-“Start with something you would actually change. This could be a service you no longer use, or a bill where you can get what you need for less. Write down what it costs now and what it would cost afterward. Then ask what has to happen before that saving is real. A cancellation, a different plan, or a spending habit each needs an action outside this comparison.”
-
-**Show:** Compare $10,800 original living with the source's proposed $9,600, holding the other cash-flow inputs fixed. Under the teaching provision, remaining cash changes from $500 to $1,700. Keep the actual app calculation separate if its tax basis differs.
+**Show:** Open Cash Flow → Cash reserve, inspect essential spending and select months. Use What counts toward this reserve to assign eligible existing funds, including partial assignment only if implemented. Present $7,200 × 6 = $43,200; $32,000 assigned; $11,200 gap from one state.
 
 **Narration:**
 
-“We're testing a $1,200 reduction here. With the other inputs unchanged, that leaves $1,700 for their priorities instead of $500. Now look at what makes that possible: living spending is lower. We haven't found money that was already available in the original picture. They would have to make those changes and maintain them.”
+Start with essential spending. The Reeds' $7,200 includes required household debt payments, so we don't add them again. We're testing six months, which gives a $43,200 target. Now choose what existing money counts. Leave checking money for near-term bills, tax money and other committed amounts out of this assignment. Check access as well as value; pledged Bitcoin or money you can't readily use isn't equivalent to available cash. The example assigns $32,000, leaving $11,200 still to fund. This is a job for existing money, not another asset. Save the assignment and reopen it to check the same sources and gap.
 
-“Before you use a larger amount in your own plan, check the old cost, the new cost, and when it starts. A saving that begins at renewal isn't money available this month. And a smaller saving you can keep may be more useful than a large reduction you can't live with.”
+**Overlay:** Fictional: $7,200 × 6 = $43,200; minus $32,000 = $11,200 gap
 
-**Show:** Return to the original state. Adopt the comparison only in the clearly named reduced-spending rehearsal state after the fictional decision is explicitly established. Explain that a saved planning choice does not cancel a service, change payroll or initiate a transfer.
+**Verify:** Sources total once, remain their original assets and retain partial amounts on readback. Essential debt is not doubled. Target, assigned amount and gap share one state; unavailable/unpriced funds do not create a complete total.
 
-**Narration:**
+**Capture dependency:** D49 reserve role and partial-assignment writer, eligibility, schema reconciliation and exact target/gap display. D32 Cash reserve ownership. Do not mimic a missing partial-assignment control or claim the teaching arithmetic is captured output.
 
-“Keep the current spending as the starting point while you're comparing. Once you decide on a change, record it from the right time and complete the outside action. Then check the actual saving. We'll carry that amount into the reserve and debt decisions rather than assign it to several things at once.”
+#### Chapter 5 — Choose the Reserve pace beside Debt · after 2.3
 
-**Before recording:** Verify the actual preview/comparison mechanism, effective-date treatment, return to Current, save/readback and result freshness. No made-up quotes, categories or silent adoption. Do not substitute bare-bones $7,200—including required payments—for normal living $9,600 or $10,800.
-
-**Finish:** One to three specific changes, their proposed saving and outside action; original and reduced states remain distinguishable. A final transfer waits for the combined Reserve/Debt/contribution choice.
-
-**Chapter 4, after 2.3 — size and fund the Reserve:** Show the spending basis, chosen duration, existing eligible money, remaining gap and proposed funding pace as one connected decision. Use the seven-beat recording plan below. The Reed illustration remains $7,200 including required debt payments, six months, $43,200 target, $32,000 assigned, $11,200 gap and a proposed $500 monthly pace. A target is not another account balance. Funding-pace comparisons must use the same available cash as the debt/contribution decisions. Exact controls, calculation displays and saved results remain build-dependent.
-
-**Chapter 5 — hand off the same money to Debt:** Carry the proposed Reserve claim and the reason for its pace into W03. Apply Austin's conditional liquidity judgment: dependents or reliance on one income can make faster accessible-cash funding more important than extra debt repayment when essential bills otherwise have no dependable funding source. Required payments remain funded; slower debt reduction has a cost. Do not assume another loan will be available. The Reeds still have W-2 and variable business income; the single-income case is a separate verbal comparison, not a rewritten fixture. Debt sets the extra-payment claim, and W04 finishes the combined contribution route. Arrange actual transfers only after the combined choice is settled.
-
-### Reserve recording plan — chapters 4–5 only; not spoken
-
-Record this segment separately from Lesson 2.3. The objective and reusable explanation are prepared now. Read navigation, actual values and state changes from the approved build before recording the screen-dependent inserts.
-
-| Beat | What the member needs to see | Reusable narration | Build-dependent insert |
-|---|---|---|---|
-| 1. Establish spending | Essential monthly amount and what it includes | Start with the amount we've identified for essential spending. Check what's already included before adding another payment. | Exact field, units, source and navigation. |
-| 2. Choose months | Duration and target calculated from that basis | We're testing six months here. This turns the monthly amount into the target. | Actual calculation, displayed target and how the choice is saved. |
-| 3. Identify existing funds | Eligible sources and the amount genuinely available | These are existing dollars available for this job. We aren't adding another account balance. | Source eligibility and partial designation; never stage a missing control. |
-| 4. Explain the gap | Target, assigned amount and gap from the same state | The gap is what remains to be funded. Saving the target doesn't mean the money is already there. | Actual values, result freshness and saved-state readback. |
-| 5. Weigh the pace | Proposed monthly amount alongside cash flow and extra-debt claims | Could the household keep paying essential bills if income stopped, without borrowing more? If cash is too thin, we may need to build it faster and put less toward extra debt payments. | Exact contribution editor, any timeline display and how the affordability conflict is shown. No automatic recommendation invented. |
-| 6. Record the working choice | The intended choice and the outside task still pending | We've recorded the reserve choice. We'll settle it alongside debt before arranging the actual transfer. | Save/reload proof and only actually available controls. Do not imply a bank transfer occurred. |
-| 7. Continue to Debt | The same proposed reserve amount and remaining money | Next, we'll compare the debt decisions using the money that remains. | Exact navigation and current plan-update state. |
-
-**Difficult branch:** Try a pace that exceeds the available pool once other commitments are counted. Explain which amount or priority would need to change; leave required payments covered. A separate verbal single-income/dependent comparison explains why the priority could change without altering the Reed baseline. Do not select a new Reed contribution or fixed threshold without a deliberately labeled comparison. An affordability warning is a demonstration objective, not a claim that the app ships that control.
-
-**Accepted direction, not an exact click script:** Cash Flow owns Cash reserve; eligible existing money receives the job. Verify the final route, labels, partial assignment, contribution owner, saved values and freshness. Keep all unresolved conditions here in production notes, not inside learner narration. Do not simulate absent functionality or substitute worksheet arithmetic for a claimed app result.
-
-### Remaining chapters
-
-#### Chapter 6, after 2.4 — add an expected change and follow its funding
-
-**Show:** One expected vehicle need and one income change with reviewed fictional amounts and dates. Use the source's relative vehicle timing of about three years only as a starting reference. The generic $30,000 car illustration in 2.4 is not automatically its price. Keep the possible renovation in the scenario comparison.
+**Show:** Carry the same gap into the approved Reserve funding/contribution owner. Show proposed $500/month beside the reduced-state $1,700 pool and anticipated $1,200 extra-card claim. Use a separate cash-coverage comparison for dependents or reliance on one income, then return to the unchanged Reed split.
 
 **Narration:**
 
-“They expect to replace the car, so we want the plan to include that need. First, check the amount and when it happens. This is a purchase, not an extra cost that repeats every year. We're also checking whether the amount is today's estimate or the price expected at that future date.”
+We're testing the reduced-spending version with $1,700 available. Your actual surplus stays unchanged until those spending changes happen. At $500 a month, the $11,200 gap takes 22.4 months, reaching the target with part of the twenty-third monthly deposit, before interest or withdrawals. Decide whether the household can carry that gap while income is interrupted. I'd give accessible cash more weight when dependents rely on one income and the bills otherwise need more borrowing. Building cash faster may be worth slower extra-debt repayment, with required payments still covered. The Reeds have a stable paycheck and variable business income; they aren't a single-income example. Their proposed $500 Reserve pace leaves $1,200 of the same $1,700 for the card. Keep that split visible when you move to Debt. Arrange the bank transfer only after the combined choice is settled.
 
-“Adding it here tells the plan that money will be needed. Now let's see how the plan funds it. Having the expense on the timeline doesn't, by itself, mean we've started a separate monthly transfer for it.”
+**Overlay:** Proposed: $500 Reserve + $1,200 extra card = $1,700 once
 
-**Show:** The affected year or period and its actual income, spending, withdrawals and account funding. Explain any lack of event-specific attribution rather than infer it from account order or balance size. When prior saving is used, distinguish the accumulation before the event from spending the resulting balance. A financing comparison needs the purchase price, loan proceeds, any down payment, payments and liabilities to reconcile as one event.
+**Verify:** Pace is affordable from the same pool, gap stays visible and required payments remain covered. Faster Reserve is explained as a conditional trade-off, not a new Reed contribution or fixed threshold.
 
-**Narration:**
+**Capture dependency:** Actual contribution owner, pace save/readback and any affordability display. Final transfer is outside the app. Keep the 22.4 arithmetic off an app screen unless its semantics match; no invented calendar funding date or automatic recommendation.
 
-“Look at the money available in this period and what still has to be covered. Is the expense paid from income, money already set aside, or a withdrawal? Then look at what's left afterward. We need to be comfortable with that funding choice, not only with the retirement date at the top.”
+#### Chapter 6 — Add an expected event and trace its funding · after 2.4
 
-**Show:** An income change, keeping the household member and start/end timing explicit. Then compare the renovation separately and return to the expected-event plan without silently adopting it.
-
-**Narration:**
-
-“This is the income change they intend. It belongs at the time it starts. The renovation is different: they're still deciding whether it's worth the cost. We'll keep that as a comparison until they make the choice.”
-
-**Show:** Rehearse a future recurring reduction becoming part of current spending using the supported process. No client expense details and no invented automatic retirement of the event.
+**Show:** Open Plan → Overview → Life events. Add the reviewed expected vehicle need and one person’s income change, with explicit recurrence and units. Inspect the affected year’s income/costs/funding. Put the possible renovation in Plan → Scenarios and return to Current. Rehearse a planned change becoming current.
 
 **Narration:**
 
-“Once the change has happened, check both places. Today's spending should describe today's cost. The future entry should not reduce it again for the same change. We want one effect in the plan, not two.”
+Enter the expected event with its amount, date and frequency. A vehicle purchase happens once; an income change belongs to the person and period it affects. Check whether the amount is today's estimate or a future quote before applying inflation. Now open the affected year and trace what funds the need. Income, existing savings and an investment withdrawal have different consequences for what remains. The event records an expense; it doesn't start a separate saving transfer. Keep the renovation in its own comparison until chosen. When a planned change later becomes today's fact, reconcile the old event too so the plan doesn't apply it twice.
 
-**Before recording:** Confirm Life Events and Scenarios navigation, amount units, recurrence, income identity, associated asset/debt behavior, supported funding attribution, save/readback and planned-to-actual handling. If the build cannot demonstrate a promised part, keep that part on hold and identify the gap.
+**Overlay:** Event: amount · timing · recurrence · units · funding
 
-**Finish:** One expected event with an understandable funding explanation, one deliberately separate possibility, and the relevant update/review task. This chapter owns the required handoff to Debt; optional college must not block it.
+**Verify:** Expense and income changes occur once at the correct time/person; source funding is supported, not inferred. Renovation remains separate; planned-to-current update creates no duplicate effect.
 
-#### Chapter 7, optional after 2.5 — test the parent commitment beside the same cash flow
+**Capture dependency:** Life-event owner, supported source/account attribution, recurrence, inflation units, event-to-asset/debt treatment and save/readback. Reed vehicle timing is about three years; exact dates and amount need capture extension. Generic $30,000 car is not a fixture price. Unsupported attribution remains unresolved.
 
-**Show:** Parent commitment and annual timing first: $20,000 for four years, $80,000 before future cost increases. Then $58,000 combined education resources assigned once as $29,000 for each child. Verify owner/beneficiary facts separately; the planning split does not change an account.
+#### Chapter 7 — Fit education support beside the same cash · optional after 2.5
 
-**Narration:**
-
-“We're starting with the amount of help they intend to provide. For this comparison, that is $20,000 a year for four years. Now look at the money already available. They're counting $29,000 toward the older child's need and keeping the other $29,000 for the younger child. Using the whole balance for the first child would leave less for the second.”
-
-**Show:** $80,000 − $29,000 = $51,000. Use the existing external worksheet for $51,000 / 60 months = $850 when not supported by an approved app calculation. Label no investment growth, flat cost and the full commitment ready at enrollment. It is not a model result.
+**Show:** Use Plan → Life events for the annual commitment and the existing education resource view/worksheet for assignment by child. Show $20,000 × 4 = $80,000; $58,000 split $29,000 each; $51,000 gap; $850/month flat-cost, no-growth benchmark over 60 months. Inspect actual modeled tuition years only with reviewed dates and account facts.
 
 **Narration:**
 
-“That leaves $51,000 to fund. To have all of it ready in five years, with no growth and no increase in costs, the benchmark is $850 a month. We're using that to see the scale of the gap. A different saving start, investment result or plan to pay from income during college would change the calculation.”
+Record the help the parents intend to provide: $20,000 a year for four years in this example. Assign $29,000 of the education money to the older child and keep the other $29,000 for the younger child. That leaves $51,000 for the older child's commitment. Having it all ready in five years, with flat costs and no growth, takes $850 a month. Now put that claim beside the proposed $500 Reserve and $1,200 extra card payments. They already use the $1,700. Choose what changes or keep the college funding decision open. If saving starts after the card ends, recalculate with fewer months remaining. Then inspect the tuition years and the income and accounts actually funding them.
 
-**Show:** The same reduced-spending $1,700 monthly pool with the proposed $500 Reserve and $1,200 extra-card claims. Keep this a comparison of funding claims; do not imply the later Debt decision has already been finally adopted.
+**Overlay:** $51,000 ÷ 60 = $850/mo; existing $1,700 is already assigned
 
-**Narration:**
+**Verify:** Resources are allocated once, without changing ownership/beneficiaries. Benchmark assumptions stay visible; no extra $850 is silently saved. Actual future income and account funding support the chosen commitment or the unresolved trade-off.
 
-“Now put that $850 beside the other priorities. In this example, the Reserve and extra card payments would already use the full $1,700. We haven't got another $850 to assign. They need to change a commitment, another use of the money, or the funding source.”
+**Capture dependency:** Reviewed dates, education owners/beneficiaries, qualification/tax treatment, timing and any event-specific account attribution. No aid award, return, auto-529 route or hypothetical loan is presumed. Use the worksheet when the exact benchmark is not a supported app result.
 
-“If they wait until the card is paid off, we'll come back to the gap and the time remaining. We can't use five years of saving in the calculation if they don't start saving for another year.”
+### Member checkpoint
 
-**Show:** The four education-payment years beside actual expected household income, overlapping child needs and intended retirement timing. Only use supplied fictional dates, security holdings, returns and tax inputs. Read actual education and other account funding; no automatic 529-routing claim is established by the older call.
+The current monthly amount reconciles to records, and any proposed spending reduction remains separate until it happens. The Reserve has a target, eligible assigned sources, a visible gap and an affordable funding pace beside Debt. Expected events appear once at their dates, with their funding understood or a specific unresolved source identified. If college support applies, its amount and resources fit beside the same monthly money. Each chosen outside change has a next action; a planning entry alone is not a bank transfer or completed cancellation.
 
-**Narration:**
+### Source and continuity notes — not spoken
 
-“Let's look at the tuition years as well. What income are they still earning? What comes out of education savings, and does the plan need money from another account? That's how we check whether the commitment fits the life they're planning.”
-
-**Before recording:** Verify account owners and beneficiaries, supported event/account attribution, contribution timing, tax/access conventions and actual outputs. Current qualified-use, aid and borrowing assumptions require their existing reviews. No unsupported return, aid award, debt availability or second use of an education balance.
-
-**Finish:** The commitment, assigned money, gap and an affordable proposed funding decision—or the specific trade-off still to resolve. No new goal for a member without education support. Return to the required Debt session.
-
-### Readback and finish
-
-The member can follow current cash flow, explain the spending estimate and select a change they would make. The accepted Reserve decision stays connected to the same money used for debt and contributions. Expected events include their funding implications, not only their dates. Optional college compares the parent commitment with actual resources and the existing claims on cash flow. An open decision, uncertain result or outside action stays visible rather than being marked complete.
-
-### Source and production notes
-
-Chapters 1–2 integrate the previously supplied Cash Flow 2.1 narration and examples. Chapter 3 follows the original Keep / Cut / Reduce deck and paired replacement lesson. Chapters 6–7 use the original Life Events explanation, retrieved private-call teaching patterns and unchanged current fixture benchmarks. New connective wording is proposed speech, not prior dictation. No private names, financial amounts, direct client quotations, pay dates, quotes or new household facts are introduced.
-
-The original Reserve chapter summaries and seven-beat block are preserved. Lesson 2.3, source-material, the household fixture and capture receipts are not changed. The duplicate short cues from the rejected pass are removed so there is one recording plan per chapter. No engine, provider, device, bank transfer, hosted account, student test or release is certified by this text.
+The paired teaching scripts retain their deck/source IDs and dated research boundaries. Original dictation, accepted Reserve reference and prior manuscripts remain preserved; this stepwise rewrite follows Austin’s September 10 authorization. It changes no household fixture, financial model, provider state, learner account or real-world financial instruction. Build-dependent proof, final voice review and any qualified review remain separate.
