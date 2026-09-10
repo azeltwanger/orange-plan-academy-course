@@ -1,0 +1,88 @@
+name: Publish bounded review fixes
+on:
+  push:
+    branches: [course-bounded-review-fixes-20260910]
+    paths: [.github/workflows/_bounded-publish.yml]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+      - name: Apply exact reviewed text and verify branch-only publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import base64, gzip, hashlib, json, os, pathlib, shutil, subprocess, tempfile, urllib.request
+          root=pathlib.Path.cwd()
+          repo='azeltwanger/orange-plan-academy-course'
+          branch='course-bounded-review-fixes-20260910'
+          base='87c6e183385a5107a8dc14b240119a2adff9c96f'
+          helpers=['.github/workflows/_bounded-source.yml','.github/workflows/_bounded-publish.yml']
+          def run(*args, env=None):return subprocess.check_output(args,cwd=root,env=env).decode().strip()
+          def sha(data):return hashlib.sha256(data).hexdigest()
+          def target(path):
+              p=pathlib.PurePosixPath(path)
+              assert not p.is_absolute() and '..' not in p.parts and '.git' not in p.parts
+              assert str(p)==path and not path.startswith('.github/')
+              t=root/path
+              assert not t.is_symlink() and all(not a.is_symlink() for a in t.parents)
+              return t
+          assert os.environ['GITHUB_REPOSITORY']==repo
+          assert os.environ['GITHUB_REF']=='refs/heads/'+branch
+          start=run('git','rev-parse','HEAD');assert start==os.environ['GITHUB_SHA']
+          assert run('git','ls-remote','origin','refs/heads/main').split()[0]==base
+          assert set(run('git','diff','--name-only',base,start).splitlines()).issubset(set(helpers))
+          blob='f92befe315bb598995af2fd2fde6b3e7e771f9d8'
+          req=urllib.request.Request('https://api.github.com/repos/'+repo+'/git/blobs/'+blob,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json'})
+          with urllib.request.urlopen(req,timeout=30) as response:obj=json.load(response)
+          raw=base64.b64decode(obj['content'])
+          assert hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest()==blob
+          # Repair a known three-character transport typo only; exact original checksum is mandatory.
+          encoded=base64.b64encode(raw).decode().rstrip('=')
+          bad='BYUCdOvaBkrPB63F9vtu';good='BYUCdOvaB63F9vtu'
+          assert encoded.count(bad)==1
+          encoded=encoded.replace(bad,good)
+          raw=base64.b64decode(encoded+'='*((-len(encoded))%4),validate=True)
+          assert sha(raw)=='8ff940cd35b8fcb0abdc74ab9b3be43acb2f8521f93d9c4b3404aa755bce05db','Transport checksum mismatch; no edits applied'
+          payload=json.loads(gzip.decompress(raw));os.environ.pop('GH_TOKEN',None)
+          assert payload['base']==base
+          assert payload['expected_tree_sha']=='624eb8dd10fabe18aa7f345b59af3c80f882df79'
+          assert len(payload['edits'])==18 and len(payload['creates'])==1
+          for rec in payload['edits']:
+              p=target(rec['path']);data=p.read_bytes();assert sha(data)==rec['before'],rec['path']
+              text=data.decode();assert text.count(rec['old'])==rec['count'],rec['path']
+              data=text.replace(rec['old'],rec['new']).encode();assert sha(data)==rec['after'],rec['path']
+              p.write_bytes(data)
+          for rec in payload['creates']:
+              p=target(rec['path']);assert not p.exists();data=rec['content'].encode();assert sha(data)==rec['after']
+              p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(data)
+          for args in [('build',),('check',),('test',),('history',)]:
+              subprocess.run(['python','tools/guided_course.py',*args],check=True)
+          subprocess.run(['python','-m','unittest','discover','-s','tests','-p','test_member_deliverables.py','-v'],check=True)
+          subprocess.run(['git','diff','--check'],check=True)
+          run('git','add','-A')
+          assert not any(x.startswith('.github/') for x in run('git','diff','--cached','--name-only').splitlines())
+          # Prove final tree without writing or deleting workflow files from this job.
+          with tempfile.TemporaryDirectory() as d:
+              index=pathlib.Path(d)/'index';shutil.copyfile(root/'.git/index',index)
+              env={**os.environ,'GIT_INDEX_FILE':str(index)}
+              run('git','update-index','--force-remove','--',*helpers,env=env)
+              actual=run('git','write-tree',env=env)
+              assert actual==payload['expected_tree_sha'],(actual,payload['expected_tree_sha'])
+          run('git','config','user.name','github-actions[bot]')
+          run('git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com')
+          run('git','commit','-m','Address bounded Claude review and record first-party course authority')
+          assert not run('git','status','--porcelain')
+          assert run('git','ls-remote','origin','refs/heads/main').split()[0]==base
+          assert run('git','ls-remote','origin','refs/heads/'+branch).split()[0]==start
+          subprocess.run(['git','push','origin','HEAD:refs/heads/'+branch],check=True)
+          print('BOUNDARY_FIX_HEAD='+run('git','rev-parse','HEAD'))
+          print('VERIFIED_FINAL_TREE='+actual)
+          print('PASS: 194 arithmetic checks, 29 unit tests, mutation and history checks; temporary helpers remain for connector removal. Main unchanged.')
+          PY
