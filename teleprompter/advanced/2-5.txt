@@ -14,7 +14,7 @@ That distinction matters. If they compare the older child's $80,000 commitment w
 
 For the older child, $80,000 minus the $29,000 assigned leaves $51,000 to fund.
 
-Let's say they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to eight hundred fifty dollars a month.
+Let's say they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to $850 a month.
 
 That's a useful first number. It tells them the size of the commitment they're considering. That number doesn't tell them what tuition will cost, what Bitcoin will return, or which account to use.
 

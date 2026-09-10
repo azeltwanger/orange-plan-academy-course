@@ -1,0 +1,47 @@
+# Targeted script verification — September 10, 2026
+
+This is a scoped editorial fact-check, not a financial recommendation or licensed sign-off. Earlier reviews keep their original dates. Austin's newest conversation decisions authorize the borrowing and insurance reasoning; the examples below are editorial arithmetic, not transactions, client facts or measured app results. Original source material stays unchanged.
+
+## Borrowing: two ratios and the actual contract
+
+Austin's approved method sizes debt against all BTC available for that loan under a severe decline, then may use 50% initial posted-collateral LTV to leave more BTC under personal control. The stressed constraint is below liquidation with chosen room and any stricter intervening contract requirement. The rejected 50% stressed target is not used. Price, balance and threshold examples are hypothetical; an 80% price stress is not a maximum loss.
+
+Provider pages checked September 10, 2026 demonstrate why the script requires actual terms rather than a universal trigger:
+
+- [Ledn liquidation](https://help.ledn.io/hc/en-us/articles/28302717485079-What-Happens-If-the-value-of-your-collateral-significantly-decreases): 80% automatic liquidation; external BTC must be confirmed before it reduces LTV.
+- [Ledn top-up](https://help.ledn.io/hc/en-us/articles/28299695292439-What-is-Auto-Top-Up-and-How-Does-It-Work): draws from its BTC Transaction Account, not external cold storage.
+- [Ledn renewal](https://help.ledn.io/hc/en-us/articles/28299459023767-How-Do-Loan-Renewals-and-Refinancing-Work): eligible renewal above 65% may involve collateral sales to reach 64%; eligibility and maturity matter independently of liquidation.
+- [Strike margin calls](https://strike.me/en/faq/how-do-ltv-margin-calls-and-liquidations-work/): 70% call, cure to 65% or below within 72 hours, 85% immediate liquidation; an unmet call can cause a sale earlier. These dated terms are not evergreen offers in narration.
+
+The $50,000 / 3.5 BTC example uses $100,000 initial BTC, $20,000 stressed BTC and 80% liquidation. Its boundary is 3.125 BTC total, not a sufficient reserve; 3.5 BTC gives 71.4286% only after posting. Debt growth to $56,000 uses that room. A stricter 65% cure would require about 3.846154 BTC total, so 3.5 would not suffice for that requirement. Cash flow, fees, repayment, transfer delays, provider risk and double-committed reserves are separate checks.
+
+## Annual spending: evidence does not validate a product parameter
+
+[Tharp and Fitzpatrick, Kitces.com, March 27, 2024](https://www.kitces.com/blog/guyton-klinger-guardrails-retirement-income-rules-risk-based/) report 3% versus 28% real-spending reductions for the pre-global-financial-crisis scenario. This is historical stock/bond simulation, not Bitcoin evidence. Their illustrated probability policy uses 80% initially, a 100% upper trigger and a 25% lower trigger with different reset logic. It is not Orange Plan's 60/80/95/10 method. The result supports examining policy design, not guaranteed superiority or a promised size of future cuts. The authors disclose Income Lab roles and use of that software.
+
+[Morningstar's February 2026 discussion](https://www.morningstar.com/retirement/heres-how-you-can-spend-more-during-retirement) reports higher starting withdrawals for flexible approaches, with variable cash flows and legacy trade-offs. Its displayed 5.2% guardrails versus 3.9% base comparison is about 33%, not a universal “30% more retirement income.” The page was available through indexed excerpts; direct retrieval returned 403. Narration therefore uses only the qualitative trade-off, with the separately verified Kitces numerical comparison as evidence. It makes no claim that any published starting rate fits Bitcoin.
+
+Read-only product checks at app commit `852a9927361872caa6a508b5e34dbcbbbe5f6596`:
+
+- [spendingPolicy.js](https://github.com/azeltwanger/orange-plan/blob/852a9927361872caa6a508b5e34dbcbbbe5f6596/src/lib/spendingPolicy.js): 60% lower, 80% target, 95% upper, 10% cap. Inflation precedes the bounded correction; boundaries are inclusive; direction must be consistent. A proposal is not a persistence receipt.
+- [Calibration limitations](https://github.com/azeltwanger/orange-plan/blob/852a9927361872caa6a508b5e34dbcbbbe5f6596/docs/research/bitcoin-guardrails-calibration.md): evidence-informed hybrid, not an exact published rule or proof of optimality. No new calibration was run in this pass.
+
+The new household's 55% observation and $86,000 target result are expressly hypothetical. The arithmetic is $100,000 × 1.03 = $103,000; max($86,000, $103,000 × 0.90) = $92,700. The cap does not restore 80% confidence. With $40,000 spendable income and withdrawal taxes separately funded, the gap is $52,700; twelve-month cash target $52,700; six-month review floor $26,350; $45,000 available cash leaves $7,700 to refill. Real taxes, dated bills and actual model output must be included in the capture.
+
+## Basis: uncertainty has a consequence
+
+[IRS digital assets](https://www.irs.gov/filing/digital-assets) and [transaction FAQ 95](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-digital-asset-transactions) require records sufficient to establish the return position. [Coloman v. Commissioner, 540 F.2d 427 (9th Cir. 1976), primary opinion reproduced by Justia](https://law.justia.com/cases/federal/appellate-courts/F2/540/427/468453/) upheld zero basis where taxpayers did not establish basis above zero. That case concerns corporate stock, not a Bitcoin-specific automatic penalty. Narration says “may” and preserves the opportunity to substantiate cost. A missing export alone does not prove zero; invented cost and retrospective convenient selection remain unacceptable. This pass does not change the existing dated identification review or add a categorical legal instruction.
+
+## Security: order without an immunity claim
+
+[CISA's MFA guidance](https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-multifactor-authentication) ranks stronger authenticators ahead of text/email codes. [NIST SP 800-63B-4](https://pages.nist.gov/800-63-4/sp800-63b.html) and [Microsoft's FIDO2 passkey explanation](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless) support phishing-resistant cryptographic authentication, including appropriately implemented passkeys. One-time codes remain phishable; SMS also depends on control of the phone number. Backup and recovery routes still need protection.
+
+Correction for course reference use: “hardware key is the only phishing-proof option” is not valid. Proper security keys and passkeys can resist phishing; neither removes every account-takeover or recovery risk. Turning off cloud backup is not a universal instruction without an alternative recovery route. This dated correction takes precedence over an older voice reference; historical dictation has not been silently rewritten and no app-repository reference was modified.
+
+## Insurance: needs and resources, not one threshold
+
+[NAIC life guidance](https://content.naic.org/consumer/life-insurance.htm) supports considering dependents, obligations, resources and coverage period, and warns health changes can affect replacement. [NAIC disability guidance](https://content.naic.org/article/consumer_insight_simplifying_complications_disability_insurance.htm) supports examining obligations, savings, additional health costs, definitions, waiting period and benefits. These sources inform the needs calculation; Austin supplies the quality-of-life and self-funding preference.
+
+The simple life gap is $40,000 × 10 − $100,000 usable assets − $200,000 existing benefit = $100,000, with zero net real return and other needs funded separately. It is not an insurer quote or a universal ten-year need. Disability changes earnings, future savings and possibly care costs. Actual wealth and event-tested capacity differ from an optimistic expected return.
+
+[Insurance Information Institute umbrella guidance](https://www.iii.org/article/should-i-purchase-an-umbrella-liability-policy) describes excess protection, exposures and underlying coverage. [Home-business guidance](https://www.iii.org/article/insuring-your-home-business) explains the need to distinguish business cover. A $2m covered claim less $500k responding underlying cover and $1m responding umbrella leaves $500k in our illustration; it is not a maximum claim. [Medicare](https://www.medicare.gov/coverage/long-term-care) distinguishes uncovered long-term custodial care from covered skilled services. Confirm the person's actual policies before relying on any benefit or canceling protection.

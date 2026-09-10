@@ -2,7 +2,7 @@
 
 ## [Start with the 25 main scripts](DICTATION-ORDER.md)
 
-**Consolidated September 9, 2026:** 25 main teaching videos and eight **For your situation** videos replace the former 65-script teaching inventory. Related explanations are combined, repeated openings and recaps are cut, and the useful examples and qualifications are retained. The accepted Reserve remains unchanged. Internal lesson IDs are retained where useful for source tracing; they are not additional videos.
+**Consolidated September 9, 2026:** 25 main teaching videos and eight **For your situation** videos replace the former 65-script teaching inventory. Related explanations are combined, repeated openings and recaps are cut, and the useful examples and qualifications are retained. The accepted Reserve retains its example and judgment, with only the September 10 language edits. Internal lesson IDs are retained where useful for source tracing; they are not additional videos.
 
 Record the script first. Text, graphics and supporting footage are added afterward. **No slides, homework, separate practice portfolio, quiz, submission or required community post.** Learn the decision, follow the relevant walkthrough, and apply it to your own Orange Plan. Keep an existing choice when it already fits.
 
@@ -38,3 +38,7 @@ The old Allocation slide package is historical and optional for a later editor. 
 [Current handoff](HANDOFF.md) · [Technical source review](delivery/professional-topic-review.md) · [Historical recovery](ARCHIVE-RECOVERY.md).
 
 Publication on main is for owner recording review. It does not publish to a student platform, alter the app, move money, change commercial terms or certify personal financial decisions.
+
+## September 10 targeted follow-up
+
+The borrowing and insurance passages now use Austin's latest approved reasoning. The annual spending lesson demonstrates the risk-based review through spending and Reserve decisions; hypothetical solver results remain labeled. Remaining voice edits, missing-basis consequences and security ordering are patched. [What changed and what Claude should cross-check](delivery/script-finishing-20260910.md). The source household, original dictation, toolkit and app/device capture evidence remain unchanged. This is the owner-review manuscript, not new footage or student launch approval.

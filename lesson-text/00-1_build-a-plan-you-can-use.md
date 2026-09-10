@@ -21,7 +21,7 @@ Start with what you want the money to make possible. You might want to retire, r
 
 Our example household is Alex and Morgan Reed. They're fictional, and we'll use their situation throughout the course. Alex wants work to become optional at 52. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
 
-First, we'll get a believable starting picture. Then we'll work out what money is available, how much cash to keep for problems, and what to do with debt. Allocation means choosing your investment mix. That section helps you choose what to own and where new savings go. After that, we'll work out how the money can pay for retirement, how to protect access to your Bitcoin, and how to keep the plan useful as life changes.
+We'll start with the money you have and the bills it needs to cover. From there, we'll choose how to invest and fund retirement, then protect the plan and keep it current.
 
 Watch the lesson, follow the walkthrough, and apply it to your own plan in Orange Plan. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, keep going on the main path. Go at a pace that fits your life.
 

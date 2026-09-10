@@ -9,7 +9,7 @@ Sources: APP, BRAIN, DEBT, OWNER, PRIMARY
 
 You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation, even though you haven't borrowed more.
 
-Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the value of the assets, then multiply by 100 to get the percentage. That's the debt-to-assets ratio.
+Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the assets. That's your debt-to-assets ratio.
 
 Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
@@ -32,6 +32,8 @@ The stress example we've just used is deliberately limited. It holds the educati
 A fast price decline is also not the only difficult case. You might handle a brief drop but struggle if returns stay weak for several years while interest and payments continue. Or business income could weaken at the same time as investments. That's why we need more than today's asset total.
 
 A lender's collateral test is separate from that household total. Loan-to-value, or LTV, compares one loan with the assets pledged for it.
+
+For a Bitcoin-backed loan, I'd size the debt against a severe decline first, including the extra Bitcoin available for top-ups. Then I might start the chosen loan at 50% LTV to put less Bitcoin with the lender. That leaves less time to respond to a drop. The Bitcoin-loan lesson works through the reserve calculation before you borrow.
 
 For this example, say the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000. That's a 37.5% decline. The loan balance didn't change.
 
@@ -98,6 +100,8 @@ Show LTV separately from total household DTA and percent of Bitcoin pledged. Pre
 Use the existing debt/financing worksheet rather than add a new member workbook. Reveal purpose and amount, monthly funding, principal exit, relevant dates, personal action point, actual lender rights, response resources, maximum additional collateral, operator and backup as the explanation reaches each one. For a plain fixed loan, don't imply the member needs a Bitcoin collateral-monitoring setup.
 
 Use a response example with no invented LTV threshold: action point reached → named available resource → response time → remaining exposure/household cash. Show a limit on further collateral separately from the current LTV. Record actual contract numbers only when verified; no automatic app monitoring or safe default is implied.
+
+September 10 follow-up: see [the targeted change record](../delivery/script-finishing-20260910.md) and [source verification](../reference/script-finishing-sources.md). This supplements, rather than re-dates, the earlier technical review.
 
 ### Member checkpoint
 

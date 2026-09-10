@@ -54,3 +54,7 @@ Estate authority, trust design, actual insurance contracts, loan agreements, pro
 ## Full topic desk review — September 8, 2026
 
 [Technical accuracy and professional-review packet](delivery/professional-topic-review.md) records the current source version, topic coverage, P01–P11 clarifications, dated 2026 checks, source applicability conflicts, independent arithmetic and exact remaining review requests. It distinguishes sources from editorial inference and actual licensed approval. Earlier timestamps above remain historical; they are not silently refreshed as evidence of newly checked content. No professional gate is marked passed by this addition.
+
+## September 10 scoped follow-up
+
+[Targeted source verification](reference/script-finishing-sources.md) supplements borrowing, annual spending, basis consequences, account authentication and insurance. The original review dates and other fact checks remain historical. The updated scripts distinguish owner reasoning, arithmetic illustrations, published research and unverified app capture.

@@ -835,6 +835,126 @@
       "check": "consolidated recurring loan added interest",
       "value": 9360.0,
       "status": "PASS"
+    },
+    {
+      "check": "downside BTC price at 80 percent decline",
+      "value": 20000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "loan initial posted BTC",
+      "value": 1.0,
+      "status": "PASS"
+    },
+    {
+      "check": "loan reserved BTC",
+      "value": 2.5,
+      "status": "PASS"
+    },
+    {
+      "check": "loan stressed total collateral",
+      "value": 70000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "loan BTC at liquidation equality",
+      "value": 3.125,
+      "status": "PASS"
+    },
+    {
+      "check": "loan extra BTC at equality not sufficient",
+      "value": 2.125,
+      "status": "PASS"
+    },
+    {
+      "check": "loan stressed LTV with posted reserve",
+      "value": 0.7142857142857143,
+      "status": "PASS"
+    },
+    {
+      "check": "loan total value boundary fraction",
+      "value": 0.16,
+      "status": "PASS"
+    },
+    {
+      "check": "loan balance at boundary",
+      "value": 56000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "loan interest can erase stress cushion",
+      "value": 0.8,
+      "status": "PASS"
+    },
+    {
+      "check": "loan stricter 65 percent cure BTC",
+      "value": 3.8461538461538463,
+      "status": "PASS"
+    },
+    {
+      "check": "annual spending inflation first",
+      "value": 103000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual spending correction cap",
+      "value": 10300.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual spending capped lower suggestion",
+      "value": 92700.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual spending change from prior",
+      "value": 7300.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual spending remaining target gap",
+      "value": 6700.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual lifestyle gap after change",
+      "value": 52700.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual lifestyle gap before change",
+      "value": 63000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual reserve twelve month target",
+      "value": 52700.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual reserve six month review floor",
+      "value": 26350.0,
+      "status": "PASS"
+    },
+    {
+      "check": "annual reserve refill gap",
+      "value": 7700.0,
+      "status": "PASS"
+    },
+    {
+      "check": "insurance support need zero real return",
+      "value": 400000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "insurance remaining coverage gap",
+      "value": 100000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "insurance covered liability residual",
+      "value": 500000.0,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,

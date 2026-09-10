@@ -13,7 +13,7 @@ Start with the same spending need and the same date. A sale needs to provide the
 
 A Bitcoin sale reduces the position and may realize a gain. There's no new loan payment from that sale. Borrowing can preserve more Bitcoin initially, but it adds interest, collateral or other contract exposure, and a later repayment obligation.
 
-We covered loan mechanics in Debt. Here the new question is whether that obligation fits a retirement paycheck with less employment income supporting it.
+I can see why you'd consider a loan to keep more Bitcoin invested. But I'd compare that benefit with the cost and the responsibility of carrying it. Use the downside sizing and top-up plan from Debt. Here the question is whether the obligation still fits when employment income stops.
 
 Use a simple illustration. A household needs $20,000. A $20,000 loan at a hypothetical 10% rate costs $2,000 of simple annual interest if the principal remains unchanged. Paying that interest from cash uses another $2,000. Adding it to the loan leaves $22,000 owed after that simplified year.
 
@@ -48,6 +48,8 @@ Record narration first; text and graphics follow in editing. No slides, homework
 #### Retained 6.6 — Visual and source notes — not spoken
 
 Retirement sell/borrow/hold framework applies priorDebt mechanics to netspendingandmulti-year exit. Newillustrative20kloan10%simpleone-year=>2kinterest or22kdebt;notratequote/newReeddebt. Preserve repayment/top-up/concentration/contract/pricepathchecks and sameaftertaxneed. No never-sell promise or totalnetworth hiding lender-specific liquidation. Appunsupportedcontracts remainseparate reviewedanalysis.
+
+September 10 follow-up: see [the targeted change record](../delivery/script-finishing-20260910.md) and [source verification](../reference/script-finishing-sources.md). This supplements, rather than re-dates, the earlier technical review.
 
 ### Member checkpoint
 

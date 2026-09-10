@@ -63,7 +63,7 @@ Set household borrowing limits and a repayment source, with earlier action point
 
 For your situation: You have or are considering a Bitcoin-backed loan, including repeat borrowing.
 
-Complete the contract-derived operating sheet with actual full balance, thresholds, exit, funded responses and exposure limits.
+Record the actual full balance, contract limits, supporting Bitcoin and funded top-up/repayment response in your debt plan. No separate assignment or submitted sheet.
 
 ## Build the whole portfolio around your life
 

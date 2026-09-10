@@ -1,6 +1,6 @@
 # Recording status
 
-25 main and eight situational scripts. Narration first; graphics in editing. No all-slides production prerequisite. The accepted Reserve is unchanged. Other new wording requires Austin's spoken review; actual app/device capture and targeted transaction checks remain separate.
+25 main and eight situational scripts. Narration first; graphics in editing. No all-slides production prerequisite. The accepted Reserve has only the approved language edits; its example and judgment are retained. Other new wording requires Austin's spoken review; actual app/device capture and targeted transaction checks remain separate.
 
 | Recording | Script | Text status | Remaining check |
 |---|---|---|---|
@@ -9,7 +9,7 @@
 | 3 | [Choose assumptions you understand](scripts/01-4_choose-assumptions-you-can-explain.md) | Consolidated recording draft; owner review pending | APP_CAPTURE, OWNER_REVIEW |
 | 4 | [Read the result and find the next useful change](scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md) | Consolidated recording draft; owner review pending | APP_CAPTURE |
 | 5 | [Decide what you can afford to save](scripts/02-1_find-the-amount-your-plan-actually-has-available.md) | Consolidated recording draft; owner review pending | OWNER_REVIEW |
-| 6 | [Size the Reserve for the job it has to do](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md) | Accepted reference; unchanged | OWNER_REVIEW |
+| 6 | [Size the Reserve for the job it has to do](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md) | Accepted reference; limited language edits | OWNER_REVIEW |
 | 7 | [Plan for the changes coming in your life](scripts/02-4_put-future-changes-on-the-timeline.md) | Consolidated recording draft; owner review pending | APP_CAPTURE |
 | 8 | [Choose which debts to pay down](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md) | Consolidated recording draft; owner review pending | OWNER_REVIEW |
 | 9 | [Decide whether financing is worth it](scripts/03-4_decide-whether-new-financing-improves-the-plan.md) | Consolidated recording draft; owner review pending | LENDING_REVIEW |
