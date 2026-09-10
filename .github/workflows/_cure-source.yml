@@ -1,0 +1,30 @@
+name: Snapshot cure research source
+on:
+  push:
+    branches: [course-cure-insurance-research-20260910]
+    paths: [.github/workflows/_cure-source.yml]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: c3e08387c03e6c7236ec5ea798931ace81d4c1f5
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Archive exact tracked source and history
+        run: |
+          set -eu
+          test "$(git rev-parse HEAD)" = c3e08387c03e6c7236ec5ea798931ace81d4c1f5
+          mkdir -p /tmp/cure-source
+          git bundle create /tmp/cure-source/history.bundle HEAD
+          git rev-parse HEAD > /tmp/cure-source/COMMIT.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Academy-Cure-Source
+          path: /tmp/cure-source
+          retention-days: 2
+          if-no-files-found: error
