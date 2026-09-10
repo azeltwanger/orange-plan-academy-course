@@ -1,0 +1,33 @@
+name: Snapshot current course for bounded follow-up
+on:
+  push:
+    branches: [course-judgment-followup-20260910]
+    paths: [.github/workflows/_judgment-snapshot.yml]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    if: github.repository == 'azeltwanger/orange-plan-academy-course'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: d78256ec5a0334b5e68788d6f6414bda3144be5b
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Archive tracked source and history
+        run: |
+          set -eu
+          mkdir -p /tmp/judgment-source
+          test "$(git rev-parse HEAD)" = d78256ec5a0334b5e68788d6f6414bda3144be5b
+          git archive --format=tar HEAD > /tmp/judgment-source/source.tar
+          git bundle create /tmp/judgment-source/history.bundle HEAD
+          git rev-parse HEAD > /tmp/judgment-source/COMMIT.txt
+          sha256sum /tmp/judgment-source/source.tar /tmp/judgment-source/history.bundle > /tmp/judgment-source/SHA256.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Academy-Judgment-Source
+          path: /tmp/judgment-source
+          retention-days: 2
+          if-no-files-found: error
