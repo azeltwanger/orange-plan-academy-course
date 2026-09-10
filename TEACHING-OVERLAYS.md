@@ -8,7 +8,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 |---|---|---|
 | Choose an age when you'd like work to become optional | Work optional at ___ · Annual spending ___ | Reveal two blanks; leave them unfilled. |
 | I had an investment strategy | An investment needs a plan for spending, access and time. | One line beside Austin; no stock footage of luxury retirement. |
-| Our example household is Alex and Morgan Reed. | Fictional household · Alex: work optional at 52 | Show the established household card. |
+| We'll use a fictional household throughout the course. | Fictional household · [Client]: work optional at 52 | Use [Client] and [Partner] as the household card labels; no fictional names. |
 | You'll also see some lessons marked For your situation. | Use a strategy? Complete its situation lesson first. | Show the conditional lesson marker. |
 | You can choose a reserve target today | Decision → next action → date | Reveal the three items as the sentence continues. |
 
@@ -17,12 +17,12 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
 | The example account is worth $145,000. | Fictional Roth IRA: $116,000 spot-fund exposure + $29,000 stocks = $145,000 | Draw one account boundary; amounts live inside it. |
-| The Reeds' existing mortgage is a fact. | Existing mortgage · Expected college · Possible renovation | Reveal fact, expected event and scenario underneath. |
+| Our example household's existing mortgage is a fact. | Existing mortgage · Expected college · Possible renovation | Reveal fact, expected event and scenario underneath. |
 | That doesn't mean the balance is cash. | Balance received ≠ holdings identified | Show a neutral missing-information line. |
 | Entering the current holding isn't a purchase today. | Current holding  /  Purchase history  /  Transfer | Use three separate labels; no invented transaction date. |
 | That's $9,300 a year, or $775 a month. | Employee $775/mo · Employer $387.50/mo | Label fictional example and keep employer money out of spendable cash. |
-| Subtract his $775 contribution, and $500 remains | $1,275 − $775 = $500 remaining | Show $4,000 hypothetical tax provision in the calculation footnote. |
-| Morgan has a separate work timeline | One timeline for each person | Show two independent work lines without inventing dates. |
+| Subtract their $775 contribution, and $500 remains | $1,275 − $775 = $500 remaining | Show $4,000 hypothetical tax provision in the calculation footnote. |
+| Their partner has a separate work timeline | One timeline for each person | Show two independent work lines without inventing dates. |
 
 ## 03 — [Choose assumptions you understand](scripts/01-4_choose-assumptions-you-can-explain.md)
 
@@ -39,18 +39,16 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Putting 52 into Alex's plan | Age 52 = the question being tested | Keep “Fictional household” visible. |
-| 790 out of 1,000 test futures | Illustration only: 790 / 1,000 = 79% through age 95 | Show 210 unsuccessful paths too; never place this over a Reed app result. |
+| Putting 52 into the client's plan | Age 52 = the question being tested | Keep “Fictional household” visible. |
+| 790 out of 1,000 test futures | Illustration only: 790 / 1,000 = 79% through age 95 | Show 210 unsuccessful paths too; never place this over an example household app result. |
 | An account balance can be current | Current balance ≠ current calculation | Use the approved build’s actual state treatment in the walkthrough. |
 | Start with the first year after work stops. | Read one year: income → costs → withdrawals → source | Reveal alongside the spoken sequence. |
-| Walk me from income to the $500 remaining. | Ask: Walk me from income to the $500 remaining. | Show the exact prompt; fictional teaching amount. |
-| A summary for an outside AI review | AI summary and restore backup serve different purposes. | Use neutral file silhouettes; no private data. |
 
 ## 05 — [Decide what you can afford to save](scripts/02-1_find-the-amount-your-plan-actually-has-available.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an added Reed expense. |
+| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an additional expense for our example household. |
 | The groceries are spending. | Count the purchase once; the card payment settles it. | Connect one purchase to its settlement. |
 | The employer money adds retirement savings | Employer money stays outside the household spending pool. | Keep it outside the cash bridge. |
 | the amount left for their other priorities is $500. | Original example: $1,275 − $775 = $500 | Footnote the $4,000 teaching tax provision. |
@@ -75,7 +73,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
 | The vehicle is something they intend to prepare for. | Expected vehicle → Life event · Possible renovation → Scenario | Fictional household; preserve relative timing only. |
-| paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the Reed vehicle. |
+| paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the example household vehicle. |
 | If it's in today's dollars and Orange Plan applies inflation | Amount · Date · Frequency · Dollar basis | Reveal alongside entry explanation. |
 | there are two connected parts | Save before the event → Spend the balance when due | Show one pot of money changing over time. |
 | its market value isn't all money you can spend. | Home sale: value − debt − costs − any tax | No invented tax figure. |
@@ -97,7 +95,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Taking the full project cost from that money would leave $2,000 | Fictional project: $32,000 Reserve − $30,000 = $2,000 left | Do not treat this as a chosen Reed purchase. |
+| Taking the full project cost from that money would leave $2,000 | Fictional project: $32,000 Reserve − $30,000 = $2,000 left | Do not treat this as a chosen example household purchase. |
 | Another loan payment needs room. | Current proposal: $500 Reserve + $1,200 extra card = $1,700 | Show no unassigned payment capacity in that example. |
 | A fully amortizing loan would require about $406 a month. | Generic: $20,000 · 8% · 5 years · no fees | Reveal amortizing column. |
 | An interest-only version at the same rate would cost about $133 | Interest only: about $133/mo; $20,000 principal remains | Keep ending balance next to payment. |
@@ -122,7 +120,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | looking at what you already own across all of your accounts. | 1 · Add holdings across accounts | Step title; show account dollars before percentages. |
-| Together, that's $728,000 | Reed illustration: $728,000 ÷ $1,307,000 ≈ 56% | Keep direct Bitcoin / funds separate in two rows. |
+| Together, that's $728,000 | example household illustration: $728,000 ÷ $1,307,000 ≈ 56% | Keep direct Bitcoin / funds separate in two rows. |
 | the role you want Bitcoin to have. | 2 · Choose Bitcoin's role | Show four named discussion ranges, labeled illustrative. |
 | The spending commitments help us put an amount around that. | 3 · Fund dated commitments | Show Reserve + distinct expenses; avoid duplicate totals. |
 | the remaining investments can have a longer runway. | 4 · Choose the remaining investments | Show purpose / access / risk / cost. |
@@ -142,8 +140,8 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| The amount comes first | 1 · Use the available cash once | Reed reduced-spending state badge. |
-| His $775 leaves $1,700. | $2,475 − $775 = $1,700; $500 + $1,200 = $1,700 | Build arithmetic rows in order. |
+| The amount comes first | 1 · Use the available cash once | example household reduced-spending state badge. |
+| Their $775 leaves $1,700. | $2,475 − $775 = $1,700; $500 + $1,200 = $1,700 | Build arithmetic rows in order. |
 | That's future money. | 2 · Set the start condition | After actual card payoff: $1,605; not available today. |
 | the target helps us choose what it buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
 | For a large one-time amount, timing is another choice. | One-time timing illustration: 0.20 / 0.30 / 0.15 BTC | Label hypothetical prices and no fees. |
@@ -177,7 +175,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Your current spending gives us somewhere to start. | 1 · Retirement spending | Essentials / flexible / dated events. |
 | Then there's the income that continues. | 2 · Income by person and start date | Identify variable income separately. |
 | Let's use a separate household to see how the gap is calculated. | 3 · All costs − income = funding gap | Illustration: $126,000 − $40,000 = $86,000. |
-| the timeline shows us where the source may need to change. | 4 · Trace the important years | Alex: 52 → 59½ = 7½ years; Morgan has separate dates. |
+| the timeline shows us where the source may need to change. | 4 · Trace the important years | [Client]: 52 → 59½ = 7½ years; [Partner] has separate dates. |
 | Now we can follow the withdrawal itself. | 5 · Account → investment sold → cash for bills | Distinguish account order and asset sale order. |
 
 ## 17 — [Budget healthcare and its tax effects](scripts/06-3_price-healthcare-before-leaving-employer-coverage.md)
@@ -217,7 +215,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| The Reeds give us a useful example. | Fictional household: 3.4 BTC self-custody / 0.7 BTC professional custody / Bitcoin ETF in Roth IRA | Reveal each holding when named; retain fictional label. |
+| Let's look at the custody mix in our example household. | Fictional household: 3.4 BTC self-custody / 0.7 BTC professional custody / Bitcoin ETF in Roth IRA | Reveal each holding when named; retain fictional label. |
 | Once you have that picture, we can test it by taking away one thing. | Operator / device / location / provider | Mark one unavailable item at a time. |
 | If both use the same custodian, 60% depends on that custodian. | Hypothetical: 30% + 30% = 60% shared exposure | Connect two provider names to one custodian; label exposure, not loss. |
 | What you're taking forward is a custody direction and the first action that makes it more dependable. | Custody direction / person / next action | Hold on the completed non-secret fields. |
@@ -237,7 +235,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| A backup matters too, because the first person may also be unavailable. | Primary person / agreed role / backup | Show role fields without invented Reed selections. |
+| A backup matters too, because the first person may also be unavailable. | Primary person / agreed role / backup | Show role fields without invented example household selections. |
 | After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document list. |
 | Check account beneficiaries next. | Provider record: primary + contingent beneficiaries | Highlight the provider record. |
 | Here's an example of the first paragraph: | Illustrative family letter | Keep the example label while the paragraph is spoken. |
@@ -272,7 +270,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | --- | --- | --- |
 | Start with the retirement date you're planning around, the spending it supports and how long the plan needs to last. | Date / spending / planning horizon | Use the actual saved report; no staged outcome. |
 | The chance-of-success result describes the modeled paths under the saved inputs and spending policy. | Result + saved inputs + policy + date | Keep inputs beside the result. |
-| Their spending-reduction comparison leaves $1,700. | Reed comparison: $500 now / $1,700 with chosen spending reduction | Label states separately. |
+| Their spending-reduction comparison leaves $1,700. | example household comparison: $500 now / $1,700 with chosen spending reduction | Label states separately. |
 | And the future $1,605 from ending the card payments isn't available today. | $1,605: available only after card payments end | Place on the future timeline, not current surplus. |
 | Focus on the years where the funding changes. | First retirement year / benefit start / major cost / account-access change | Highlight the actual years on one plan. |
 | A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned. | Planned / completed / evidence | End on actual outside-action status. |
@@ -357,7 +355,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
 | The purpose comes first. | Specific purpose / current arrangement / benefit to compare | Use the existing ownership record. |
-| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not a Reed choice. |
+| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not an example household choice. |
 | Grantor and non-grantor describe income-tax treatment. | Revocable / irrevocable: control terms · grantor / non-grantor: income-tax treatment | Keep the two distinctions on separate lines. |
 | Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / actual funding / beneficiary coordination / custody | Highlight the unfinished part only. |
 | Confirm each completed step; signing a document alone doesn't finish them. | Actual status + responsible person + next action | End on the existing action list. |

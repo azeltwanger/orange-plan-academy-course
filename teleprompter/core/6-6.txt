@@ -18,6 +18,6 @@ We also need to follow the loan through its exit. That includes what repays prin
 
 In the comparison, we'll read the plan effect and added risk together. The spending, dates and market assumptions stay the same while we look at the first year, a difficult period and repayment. Tax, Bitcoin retained, loan balance, collateral and accessible cash all help explain the trade-off. A contract term the model doesn't represent still needs its own analysis before we rely on the borrowing result.
 
-The Reeds don't have a Bitcoin-backed loan in their saved baseline. A possible one-time loan stays a separate comparison. Borrowing across retirement is a different strategy, and if it includes repeated draws, the Bitcoin-loan lesson follows each draw and accrued cost into the combined balance.
+Our example household doesn't have a Bitcoin-backed loan in the saved baseline. A possible one-time loan stays a separate comparison. Borrowing across retirement is a different strategy, and if it includes repeated draws, the Bitcoin-loan lesson follows each draw and accrued cost into the combined balance.
 
 The walkthrough will put those funding routes beside the same spending need. You'll take forward the method you prefer and any repayment or response it requires. If borrowing is part of it, complete the conditional loan lesson before relying on that choice. Next, we'll work through how spending and the Reserve are reviewed as the retirement years unfold.

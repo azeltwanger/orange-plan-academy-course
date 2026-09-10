@@ -18,7 +18,7 @@ Open the institution's current record and compare it with your intention. The pr
 
 You may also see a trusted contact on an account. That person can be useful if the institution can't reach you or is concerned about exploitation. It doesn't automatically give them permission to trade or withdraw money. The role needs to be clear before the family relies on it.
 
-Now we can connect the people to the assets. The Reeds' personally controlled Bitcoin needs a lawful route to the protected recovery process. Their professionally custodied Bitcoin uses the provider's family-access process. The ETF in the Roth IRA follows that account's beneficiary and distribution rules. The word “Bitcoin” on an account list wouldn't explain which kind of help applies.
+Now we can connect the people to the assets. Our example household's personally controlled Bitcoin needs a lawful route to the protected recovery process. Their professionally custodied Bitcoin uses the provider's family-access process. The ETF in the Roth IRA follows that account's beneficiary and distribution rules. The word “Bitcoin” on an account list wouldn't explain which kind of help applies.
 
 The instruction shouldn't be to impersonate the owner with their login. It should point to the legitimate provider or recovery process for the person authorized in that situation. Recovery words, private keys, passphrases, passwords, PINs and exact secret locations stay out of the family map. Sensitive wallet configurations belong in the protected recovery process too.
 

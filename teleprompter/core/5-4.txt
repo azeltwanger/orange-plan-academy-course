@@ -2,7 +2,7 @@ In this lesson, we're going to look at when income shows up in your plan. The am
 
 When I say Traditional here, I mean retirement money with tax generally still to be paid when it comes out. That's different from an ordinary taxable brokerage account. A Roth conversion moves existing eligible Traditional retirement money into Roth, with the taxable portion included in income for that year. It's a separate transaction from making a new contribution; the annual contribution limit doesn't cap the amount converted. We still need to see whether its tax cost and access rules fit your plan.
 
-For the Reeds, Alex wanting work to be optional at 52 is only one date. Morgan may still earn income, and both people have their own benefit dates. So the years after Alex stops working aren't automatically low-tax years. We need the income expected in each one before calling it a useful window.
+In our example household, the client wants work to be optional at 52. That's only one date. Their partner may still earn income, and both people have their own benefit dates. So the years after the client stops working aren't automatically low-tax years. We need the income expected in each one before calling it a useful window.
 
 The source of the spending money affects that picture too. A $20,000 taxable sale with $16,000 of basis produces $4,000 of gain before adjustments. A fully taxable $20,000 Traditional withdrawal produces $20,000 of ordinary income. A qualified Roth withdrawal has different treatment again. Similar cash for the bills can create very different taxable income.
 

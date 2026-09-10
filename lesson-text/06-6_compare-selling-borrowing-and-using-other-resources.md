@@ -31,7 +31,7 @@ We also need to follow the loan through its exit. That includes what repays prin
 
 In the comparison, we'll read the plan effect and added risk together. The spending, dates and market assumptions stay the same while we look at the first year, a difficult period and repayment. Tax, Bitcoin retained, loan balance, collateral and accessible cash all help explain the trade-off. A contract term the model doesn't represent still needs its own analysis before we rely on the borrowing result.
 
-The Reeds don't have a Bitcoin-backed loan in their saved baseline. A possible one-time loan stays a separate comparison. Borrowing across retirement is a different strategy, and if it includes repeated draws, the Bitcoin-loan lesson follows each draw and accrued cost into the combined balance.
+Our example household doesn't have a Bitcoin-backed loan in the saved baseline. A possible one-time loan stays a separate comparison. Borrowing across retirement is a different strategy, and if it includes repeated draws, the Bitcoin-loan lesson follows each draw and accrued cost into the combined balance.
 
 The walkthrough will put those funding routes beside the same spending need. You'll take forward the method you prefer and any repayment or response it requires. If borrowing is part of it, complete the conditional loan lesson before relying on that choice. Next, we'll work through how spending and the Reserve are reviewed as the retirement years unfold.
 
@@ -52,9 +52,9 @@ The walkthrough will put those funding routes beside the same spending need. You
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Retirement sell/borrow/hold slide actions retained. September 10 owner borrowing reasoning overrides old 10–20% posted-LTV quotations; size total debt against dedicated supporting BTC first, then evaluate opening collateral. No 50% stressed-LTV target. Preserve $20,000/10% simple-interest illustration and no current Reed loan. Future contexts remain existing loan → Debt, one future loan → Scenarios, retirement policy → Retirement strategy. Exact modeled terms and added-risk outputs need parity proof.
+Retirement sell/borrow/hold slide actions retained. September 10 owner borrowing reasoning overrides old 10–20% posted-LTV quotations; size total debt against dedicated supporting BTC first, then evaluate opening collateral. No 50% stressed-LTV target. Preserve $20,000/10% simple-interest illustration and no current example household loan. Future contexts remain existing loan → Debt, one future loan → Scenarios, retirement policy → Retirement strategy. Exact modeled terms and added-risk outputs need parity proof.
 
 ### Member checkpoint
 

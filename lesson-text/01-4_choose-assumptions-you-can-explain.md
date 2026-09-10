@@ -33,7 +33,7 @@ Income has a similar distinction. A general annual raise assumption describes gr
 
 The other big question is how long this money has to last. That's the planning horizon. Funding through 85 asks something different from funding through 95, and for a couple we need to include the years a surviving spouse may still need support.
 
-Once we understand the starting assumptions, the useful next step is to see what changes under a weaker version. With Alex and Morgan, we'll keep spending, contributions and intended retirement timing the same, and change the investment-growth path. That way, if a year becomes harder to fund, we know which change caused it.
+Once we understand the starting assumptions, the useful next step is to see what changes under a weaker version. With our example household, we'll keep spending, contributions and intended retirement timing the same, and change the investment-growth path. That way, if a year becomes harder to fund, we know which change caused it.
 
 If the plan is short in the early years under slower growth, that points to a real comparison: save more in accessible accounts, spend differently, or change the work timeline. Raising returns until the shortfall disappears hides the question instead of solving it.
 

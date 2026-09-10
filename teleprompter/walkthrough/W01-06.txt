@@ -1,5 +1,5 @@
-Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. Alex's gross pay is before deductions. Morgan's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
+Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. The client's gross pay is before deductions. Their partner's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
 
-In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. Alex's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
+In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. The client's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
 
 Let's follow the app's actual result from its income and tax inputs. If it differs from the illustration, we need to understand those inputs before assigning another transfer. That's the monthly picture we'll use when we record the retirement question next.

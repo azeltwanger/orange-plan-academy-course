@@ -13,7 +13,7 @@ Compare one real financing proposal with cash, a sale and a smaller or delayed p
 
 We've looked at the debt you already have. In this lesson, we're going to consider when a new loan might be worth it. Borrowing can help you keep cash or avoid selling an investment, but it also gives that money another obligation to support. I want to walk through the whole decision, from the reason you're borrowing to how the loan eventually gets repaid.
 
-Let's say Alex and Morgan are considering a $30,000 project. We'll keep the purchase amount and date the same while comparing cash, a sale and one relevant financing offer. A smaller project or a delay stays on the table too. First, what happens if they pay cash?
+Let's say our example household is considering a $30,000 project. We'll keep the purchase amount and date the same while comparing cash, a sale and one relevant financing offer. A smaller project or a delay stays on the table too. First, what happens if they pay cash?
 
 They have $32,000 assigned to the reserve. Taking the full project cost from that money would leave $2,000 there. We have avoided a new loan, but we've also used money that was supposed to keep the household going through an interruption.
 
@@ -85,7 +85,7 @@ We'll put the relevant alternatives side by side in the walkthrough. If a contra
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Taking the full project cost from that money would leave $2,000 | Fictional project: $32,000 Reserve − $30,000 = $2,000 left | Do not treat this as a chosen Reed purchase. |
+| Taking the full project cost from that money would leave $2,000 | Fictional project: $32,000 Reserve − $30,000 = $2,000 left | Do not treat this as a chosen example household purchase. |
 | Another loan payment needs room. | Current proposal: $500 Reserve + $1,200 extra card = $1,700 | Show no unassigned payment capacity in that example. |
 | A fully amortizing loan would require about $406 a month. | Generic: $20,000 · 8% · 5 years · no fees | Reveal amortizing column. |
 | An interest-only version at the same rate would cost about $133 | Interest only: about $133/mo; $20,000 principal remains | Keep ending balance next to payment. |

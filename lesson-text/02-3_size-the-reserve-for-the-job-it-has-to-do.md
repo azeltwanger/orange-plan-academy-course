@@ -38,13 +38,13 @@ More income uncertainty, a longer job search, dependents, and higher fixed bills
 
 Also think about what could happen together. A business slowdown and a Bitcoin decline don't have to take turns. We want the reserve to remain usable in the situation we're planning for.
 
-For Alex and Morgan, our fictional household, we're testing six months of essential spending. Their essential monthly amount is $7,200, including required household debt payments. That puts the target at $43,200.
+For our example household, we're testing six months of essential spending. Their essential monthly amount is $7,200, including required household debt payments. That puts the target at $43,200.
 
 Six months is the comparison used in this example. The calculation doesn't tell us that six is the right number for every household. The reason for choosing the months matters just as much as the multiplication.
 
 That gives us the target. The next part is figuring out how much of the money you already have is available for this job.
 
-Alex and Morgan have $32,000 assigned to their reserve. Against the target we're testing, that leaves an $11,200 gap.
+Our example household has $32,000 assigned to their reserve. Against the target we're testing, that leaves an $11,200 gap.
 
 We haven't added another asset. This is existing money, with a job attached to it.
 
@@ -58,7 +58,7 @@ You might decide that only part of an account belongs to the reserve. What matte
 
 Now we can connect that $11,200 gap to the monthly cash flow from the last lesson. This is where the target becomes a funding decision.
 
-At $500 a month, Alex and Morgan's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. The question I'd think about is whether you could carry that gap for that long and still get through the interruption you're planning for.
+At $500 a month, our example household's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. The question I'd think about is whether you could carry that gap for that long and still get through the interruption you're planning for.
 
 They're also working on expensive debt. We need to compare how quickly to build the reserve with the money being used for that debt. We can't assign the same monthly surplus to both.
 
@@ -104,6 +104,6 @@ Record essential spending, selected months, eligible assigned money, target, gap
 
 ### Source and production notes — not spoken
 
-Accepted Reserve pilot and September 8 owner judgment are preserved in source-material and Git history; this September 10 stepwise rewrite supersedes the prior byte-lock only for the new manuscript. Preserve $7,200 × 6 = $43,200; $32,000 assigned; $11,200 gap; $500 pace; 22.4 contribution-months before interest or withdrawals. The Reeds have one stable W-2 and one variable business income. The single-income/dependent comparison is general. The $500 Reserve and $1,200 extra-card split belongs only to the reduced-spending example. Reserve is a role for existing money; future partial assignment must preserve asset identity. No automatic refill, transfer or elimination of every forced sale is claimed. Historical pilot SHA-256: 7eabd0844c90e0f5234bb2dde2be94705f91dd20f396c42b0fb138f847086c9d.
+Accepted Reserve pilot and September 8 owner judgment are preserved in source-material and Git history; this September 10 stepwise rewrite supersedes the prior byte-lock only for the new manuscript. Preserve $7,200 × 6 = $43,200; $32,000 assigned; $11,200 gap; $500 pace; 22.4 contribution-months before interest or withdrawals. Our example household has one stable W-2 and one variable business income. The single-income/dependent comparison is general. The $500 Reserve and $1,200 extra-card split belongs only to the reduced-spending example. Reserve is a role for existing money; future partial assignment must preserve asset identity. No automatic refill, transfer or elimination of every forced sale is claimed. Historical pilot SHA-256: 7eabd0844c90e0f5234bb2dde2be94705f91dd20f396c42b0fb138f847086c9d.
 
 Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

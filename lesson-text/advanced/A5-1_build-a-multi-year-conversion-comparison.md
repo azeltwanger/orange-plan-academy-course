@@ -55,7 +55,7 @@ In the walkthrough, we'll extend the conversion comparison through the years tha
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../../delivery/consolidation.md). Financial source review remains in [the technical review](../../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../../delivery/consolidation.md). Financial source review remains in [the technical review](../../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Retains original A5.1 no/modest/larger comparison and $20,000/$4,000 plus $20,000/$6,000 incremental illustration. The 25% future rate is a teaching assumption, not a forecast or current tax rule. No invented survivor, healthcare or model outputs; unsupported effects stay in focused external review.
 

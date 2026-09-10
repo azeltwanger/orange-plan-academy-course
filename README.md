@@ -19,7 +19,7 @@ There are 25 main teaching recordings and eight **For your situation** recording
 
 Teaching scripts include `Do this`, complete `Read aloud` text, overlay cues, a walkthrough handoff and a completion check. Walkthrough chapters contain **Show / Narration / Overlay / Verify / Capture dependency**. Only the teaching Read aloud section and walkthrough Narration blocks are spoken. Individual teleprompter files contain speech only.
 
-Members apply the course to their own Orange Plan. The fictional Reeds demonstrate the process. No extra homework, quiz, submission or required community post. Saving a plan does not execute a transfer, lender payment, legal document or custody procedure.
+Members apply the course to their own Orange Plan. A fictional household demonstrates the process, with [Client] and [Partner] as generic display labels. No extra homework, quiz, submission or required community post. Saving a plan does not execute a transfer, lender payment, legal document or custody procedure.
 
 ## Editing source and checks
 

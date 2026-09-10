@@ -1,4 +1,4 @@
-Here we're separating the household's overall debt from one loan's collateral requirements. The Reeds' included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
+Here we're separating the household's overall debt from one loan's collateral requirements. Our example household's included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
 
 In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same. The ratio moves to about 37%. That shows what a fall in asset values does to the household measure.
 

@@ -65,7 +65,7 @@ Debt also remains an estate obligation. The family needs access to the repayment
 
 The model's confidence result doesn't measure whether the provider will remain solvent or whether a transfer will clear in time. Keep those risks alongside the financial comparison.
 
-Alex and Morgan haven't taken out a Bitcoin-backed loan; these separate illustrations are here to help you examine your own situation. In the walkthrough, we'll bring the actual terms, total supporting Bitcoin and funded response into the debt instructions, without wallet secrets. The proposal stays unchosen if the payment, timely response or principal exit is missing. Once you've worked through those, return to the debt rules and carry the chosen obligation into the rest of your plan.
+Our example household hasn't taken out a Bitcoin-backed loan; these separate illustrations are here to help you examine your own situation. In the walkthrough, we'll bring the actual terms, total supporting Bitcoin and funded response into the debt instructions, without wallet secrets. The proposal stays unchosen if the payment, timely response or principal exit is missing. Once you've worked through those, return to the debt rules and carry the chosen obligation into the rest of your plan.
 
 ### Text overlays — not spoken
 
@@ -90,6 +90,6 @@ Record actual thresholds and deadlines, projected full debt, dedicated BTC witho
 
 ### Source and production notes — not spoken
 
-September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no Reed Bitcoin loan is created.
+September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no example household Bitcoin loan is created.
 
 Source provenance remains in [../../production/consolidation.json](../../production/consolidation.json), the original source-material and the dated [../../reference/script-finishing-sources.md](../../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).

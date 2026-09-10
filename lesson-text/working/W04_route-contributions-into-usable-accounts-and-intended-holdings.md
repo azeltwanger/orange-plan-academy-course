@@ -14,27 +14,27 @@ Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
 ### Run sheet — not spoken
 
-Carry forward W01 current holdings and the explicitly named reduced-spending W02/W03 comparison. Keep original $500 surplus distinct from reduced-state $1,700. General allocation subset: $1,307,000; native Bitcoin $410,000 (4.1 BTC), Bitcoin funds $318,000, stocks $504,000, cash/Treasury category $75,000. Excluded home/HSA/education still exist elsewhere. The separate $1 million illustration never changes the Reed fixture. Future owner: Plan → Portfolio and allocation for target/strategy; Cash Flow → Saving and investing for saved contributions; Cash Flow → Cash reserve for Reserve sources.
+Carry forward W01 current holdings and the explicitly named reduced-spending W02/W03 comparison. Keep original $500 surplus distinct from reduced-state $1,700. General allocation subset: $1,307,000; native Bitcoin $410,000 (4.1 BTC), Bitcoin funds $318,000, stocks $504,000, cash/Treasury category $75,000. Excluded home/HSA/education still exist elsewhere. The separate $1 million illustration never changes the example household data. Future owner: Plan → Portfolio and allocation for target/strategy; Cash Flow → Saving and investing for saved contributions; Cash Flow → Cash reserve for Reserve sources.
 
-Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional Reed source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
+Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional household source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
 
 Only each **Narration:** block is spoken. Record the chapter as a separate take; show the action as its instruction is spoken. Other fields are editing and verification instructions.
 
 #### Chapter 1 — Read the current whole portfolio — after 4.3
 
-**Show:** Open Plan → Portfolio and allocation. Expand the included-assets explanation and one account’s holdings. Show the Reed general-subset arithmetic only when the approved app denominator matches it; otherwise show it as a labeled separate teaching graphic and state the actual app scope.
+**Show:** Open Plan → Portfolio and allocation. Expand the included-assets explanation and one account’s holdings. Show the example household general-subset arithmetic only when the approved app denominator matches it; otherwise show it as a labeled separate teaching graphic and state the actual app scope.
 
 **Narration:**
 
 Here's the portfolio we put together earlier. I'm starting in Plan, under Portfolio and allocation, with Current. Before we decide what to change, I want to make sure this percentage describes everything we intended to include.
 
-In the Reed example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
+In the household example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
 
 I'm opening the included assets so we can see where those dollars came from, along with the stock and cash holdings. If an account contains several investments, we count those holdings once. We don't add the account balance again on top.
 
 Dedicated education and healthcare money still have their own jobs. Once the included holdings agree with our records, we can compare Current with a target using that same group of assets. That gives us a useful starting point for the role we want Bitcoin to have.
 
-**Overlay:** Cue “with Current.” → Current holdings; cue “Together, that's $728,000” → $410,000 + $318,000 = $728,000, labeled Reed illustration.
+**Overlay:** Cue “with Current.” → Current holdings; cue “Together, that's $728,000” → $410,000 + $318,000 = $728,000, labeled example household illustration.
 
 **Verify:** Holdings and totals reconcile without duplicate account balances. Any app denominator difference is explicitly explained; no $1,307,000 total is forced onto an incompatible screen.
 
@@ -74,7 +74,7 @@ Now suppose two $50,000 retirement payments still need funding, and the househol
 
 Back in the target comparison, I'm looking at the first important payment and the money that can supply it through a difficult market. If that source is missing, the target still needs work. Once we choose a mix we intend to follow, we can save it and read it beside Current. That saves the target; it doesn't trade the holdings.
 
-**Overlay:** Cue “a separate $1 million illustration” → Hypothetical household, not Reeds; cue “Cash becomes” → 50/30/20 versus 50/40/10.
+**Overlay:** Cue “a separate $1 million illustration” → Hypothetical household, separate from our example household; cue “Cash becomes” → 50/30/20 versus 50/40/10.
 
 **Verify:** Near-term costs are counted once, Reserve uses the same source as Cash Flow, target totals 100%, and save/readback preserves the intended target without trading assets.
 
@@ -88,9 +88,9 @@ Back in the target comparison, I'm looking at the first important payment and th
 
 We're back in Cash Flow, under Saving and investing, to connect the plan to this month's money. I'm using the reduced-spending version from our earlier comparison, so we need to keep that version consistent here.
 
-The $2,475 before Alex's contribution becomes $1,700 after his $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. Alex is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
+The $2,475 before the client's contribution becomes $1,700 after their $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. The client is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
 
-His employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
+Their employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
 
 The card payoff gives us a future decision to prepare for. The illustrated $1,605 becomes available only after those payments stop. When that happens, we'll check what was actually released and whether the other bills have changed before starting a new transfer. Reserve completion has its own condition as well. We can prepare those later choices now while keeping today's contribution instructions affordable.
 
@@ -148,7 +148,7 @@ Once we've compared that cost, we can select Traditional, Roth or a mix and save
 
 We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
 
-First, here's the target gap. In the Reeds' 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
+First, here's the target gap. In our example household's 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
 
 For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
 
@@ -186,7 +186,7 @@ That finishes the contribution setup for this stage. Next, we'll work on the pur
 
 ### Readback and finish — not spoken
 
-Current target and contributions agree with the same funded household state. Each contribution has an amount, account, investment, tax election and timing; provider execution has evidence or a dated pending action. No claim that the Reed target or future split is prescribed for another household.
+Current target and contributions agree with the same funded household state. Each contribution has an amount, account, investment, tax election and timing; provider execution has evidence or a dated pending action. No claim that the example household target or future split is prescribed for another household.
 
 ### Source and production notes — not spoken
 

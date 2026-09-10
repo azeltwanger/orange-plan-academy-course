@@ -14,15 +14,15 @@ Sources: RETIREMENT, RETIREMENT_DECK, APP, PRIMARY
 
 ### Run sheet — not spoken
 
-Prepare the separately reviewed capture extension: as-of date, each spouse’s birth/work/benefit/access dates, adopted spending, coverage, tax source, debt schedules, funding and return assumptions. The source Reed fixture is unchanged and contains no verified retirement result. Future flow: Plan year detail for the funding readback; Retirement strategy for account/funding choices and Bitcoin borrowing; Cash Flow owns spending/Reserve facts; Scenarios holds a possible one-time loan or unchosen idea. Standing dollar guardrails and the annual spending proposal remain separate. No invented result is inserted into a real app screen.
+Prepare the separately reviewed capture extension: as-of date, each spouse’s birth/work/benefit/access dates, adopted spending, coverage, tax source, debt schedules, funding and return assumptions. The source example household data is unchanged and contains no verified retirement result. Future flow: Plan year detail for the funding readback; Retirement strategy for account/funding choices and Bitcoin borrowing; Cash Flow owns spending/Reserve facts; Scenarios holds a possible one-time loan or unchosen idea. Standing dollar guardrails and the annual spending proposal remain separate. No invented result is inserted into a real app screen.
 
-Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional Reed source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
+Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional household source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
 
 Only each **Narration:** block is spoken. Record the chapter as a separate take; show the action as its instruction is spoken. Other fields are editing and verification instructions.
 
 #### Chapter 1 — Build the complete cash need — after 6.1
 
-**Show:** Open the first retirement-year detail and drill into canonical spending/income records where corrections are needed. Show separate labeled $108,000/$68,000 and $126,000/$86,000 graphics, never as a Reed calculated result.
+**Show:** Open the first retirement-year detail and drill into canonical spending/income records where corrections are needed. Show separate labeled $108,000/$68,000 and $126,000/$86,000 graphics, never as an example household calculated result.
 
 **Narration:**
 
@@ -46,7 +46,7 @@ If a source record is missing or duplicated, we correct it there. After saving, 
 
 **Narration:**
 
-Let's put the early retirement years on the timeline. Alex wants work to become optional at 52. That leaves seven and a half years to 59½, but Morgan has separate dates and account rules. We need both people's timing for the household plan.
+Let's put the early retirement years on the timeline. The client wants work to become optional at 52. That leaves seven and a half years to 59½, but their partner has separate dates and account rules. We need both people's timing for the household plan.
 
 I'm opening each period before a new benefit or access route begins. We can see the income that continues and the accessible money assigned to the remaining gap. The Reserve and other committed expenses already have jobs, so we can't spend those same dollars a second time.
 
@@ -54,7 +54,7 @@ If an account needs an early-access exception, we need the owner, amount, dates 
 
 Here's the benefit-timing comparison using the same spending and actual estimates. Waiting may provide more later income, but the intervening years need funding too. We're reading both sides. By the end of each period, we want to see the money supplying it or the specific gap still to solve. Healthcare is the next dated cost we'll add to that picture.
 
-**Overlay:** Cue “Morgan has separate dates” → Two people, two timelines; cue “specific gap still to solve” → Funding interval readback.
+**Overlay:** Cue “their partner has separate dates” → Two people, two timelines; cue “specific gap still to solve” → Funding interval readback.
 
 **Verify:** All material early intervals have supported sources or explicit gaps; source ages, access evidence and inflation convention are correct.
 
@@ -136,7 +136,7 @@ In the simple illustration, a $20,000 loan at 10% uses $2,000 of cash interest o
 
 I'm opening a weak period and the repayment year to follow the payment source, lender-specific collateral exposure, any top-up and any sale used to repay. Those risks belong beside the change in the plan result.
 
-The Reeds have no current Bitcoin-backed loan. If we choose ongoing borrowing as part of retirement funding, we save that policy in Retirement strategy. An unchosen one-time loan stays in its scenario. Before relying on a real loan, the separate loan lesson takes us through the actual contract and response resources.
+Our example household has no current Bitcoin-backed loan. If we choose ongoing borrowing as part of retirement funding, we save that policy in Retirement strategy. An unchosen one-time loan stays in its scenario. Before relying on a real loan, the separate loan lesson takes us through the actual contract and response resources.
 
 **Overlay:** Cue “the same spending on the same date” → Equal net spending; cue “beside the change in the plan result” → Plan effect + risk added.
 

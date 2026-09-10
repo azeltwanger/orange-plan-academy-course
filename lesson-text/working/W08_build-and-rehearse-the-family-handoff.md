@@ -7,7 +7,7 @@ Sources: ESTATE, CUSTODY, APP, PRIMARY
 
 ### Run sheet
 
-Use Protect's intended sections: Who receives what, Bitcoin access, Instructions for your family, Trusted people, Estate documents, Check-in plan and Plan packet. Reuse the existing Heir Letter, Executor Packet, Family Custody Map and insurance audit. They organize decisions; they do not create legal authority or coverage. No invented Reed legal appointments.
+Use Protect's intended sections: Who receives what, Bitcoin access, Instructions for your family, Trusted people, Estate documents, Check-in plan and Plan packet. Reuse the existing Heir Letter, Executor Packet, Family Custody Map and insurance audit. They organize decisions; they do not create legal authority or coverage. No invented example household legal appointments.
 
 Only Narration blocks are spoken. All actions use authorized fictional or test data. Read actual evidence; no staged result counts as a successful action.
 
@@ -103,7 +103,7 @@ Your own policy gives us the benefit, term, waiting period and exclusions to wor
 
 **Overlay:** Illustration: $400k need − $100k assets − $200k coverage = $100k gap
 
-**Verify:** Actual benefits, needs and resources stay distinct; no invented insurance solver, quote, adopted Reed policy or coverage cancellation. Necessary replacement must be active before recording old protection as safely removed.
+**Verify:** Actual benefits, needs and resources stay distinct; no invented insurance solver, quote, adopted example household policy or coverage cancellation. Necessary replacement must be active before recording old protection as safely removed.
 
 **Capture dependency:** Verify applicable Cash Flow/Life event fields and current policy evidence. Qualified review is specific to unresolved terms or the chosen transaction; no blanket attorney gate.
 

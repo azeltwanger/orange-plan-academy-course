@@ -1,5 +1,5 @@
 We know this Roth account is worth $145,000. What we're doing here is explaining that balance, so the plan knows how the money is invested.
 
-When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. The Reeds' teaching example has $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
+When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. In our example, there's $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
 
 Any cash needs to come from the statement too. We won't make an unexplained remainder into cash just to finish the record. After saving, let's reopen the account and make sure the composition explains the same total once. Any remaining difference stays visible until we can explain it.

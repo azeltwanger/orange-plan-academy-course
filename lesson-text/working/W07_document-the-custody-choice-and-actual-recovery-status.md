@@ -21,7 +21,7 @@ After 7.1, use [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professio
 
 **Narration:**
 
-We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
+We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. Our example household has directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
 
 For this holding, we're recording what the money is for and who controls it today. If you're considering a move, that belongs beside the current arrangement as a planned change. We don't want the family reading a future intention as something that's already happened.
 
@@ -29,7 +29,7 @@ The next part is who handles the ordinary work and who has agreed to help if tha
 
 **Overlay:** Holding / owner / current method / intended change / agreed person
 
-**Verify:** Saved record belongs to the correct holding; responsibility was actually agreed or is explicitly pending. No invented Reed contact, provider right, insurance or completed transfer.
+**Verify:** Saved record belongs to the correct holding; responsibility was actually agreed or is explicitly pending. No invented example household contact, provider right, insurance or completed transfer.
 
 **Capture dependency:** Verify Protect's Bitcoin access and Trusted people fields, ownership context, save/reopen behavior and the external map reference on the filming build. If a needed field is absent, show that part in the existing map without simulating an app control.
 

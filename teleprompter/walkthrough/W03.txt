@@ -2,9 +2,9 @@ We're going to look at what the existing debts require before deciding about ext
 
 The home-equity line has a different issue. Its interest-only payment leaves principal to repay later, so the payment-change date and exit matter. Let's keep those beside the cash-flow picture.
 
-The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and Alex's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
+The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and the client's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
 
-Here we're separating the household's overall debt from one loan's collateral requirements. The Reeds' included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
+Here we're separating the household's overall debt from one loan's collateral requirements. Our example household's included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
 
 In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same. The ratio moves to about 37%. That shows what a fall in asset values does to the household measure.
 
@@ -34,7 +34,7 @@ After sizing the debt, posting 1 BTC starts it at 50% LTV and leaves 2.5 BTC res
 
 Repeat borrowing uses the same supporting resources too. In the recurring illustration, $25,000 becomes $28,000 after 12% interest. The next $25,000 draw makes $53,000, and another 12% makes $59,360. We can't reuse the same spare collateral for each draw. If the payment, timed response or final repayment still lacks a resource, the proposal stays unchosen. Once the rules are supported, we can carry the chosen obligation back into the household cash flow.
 
-Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before Alex's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
+Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before the client's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
 
 When the card is actually paid off, we'll verify which payments ended and whether any charge remains. The example's $405 required plus $1,200 extra would release $1,605 if those were still being paid. That future money needs a new decision; payoff doesn't automatically send it into investments.
 

@@ -29,9 +29,9 @@ What matters is that you and your child understand the same promise. Tuition alo
 
 You can start with an estimate while your child is young. Use actual school cost information and net-price estimates where available, then update it as the choices become clearer. Don't assume published tuition is the entire bill, or that estimated aid is already guaranteed.
 
-Let's give that promise a number. For Alex and Morgan, we'll compare $20,000 a year for four years for the older child, measured in today's dollars. That's $80,000 before future cost increases. It isn't a claim about what every college costs. It's the amount of help we're testing in their plan.
+Let's give that promise a number. For our example household, we'll compare $20,000 a year for four years for the older child, measured in today's dollars. That's $80,000 before future cost increases. It isn't a claim about what every college costs. It's the amount of help we're testing in their plan.
 
-They aren't starting from zero. The Reeds have $58,000 in education savings for two children. In this illustration, we're assigning $29,000 to the older child's plan and preserving $29,000 for the younger child. We're deciding what existing money we're counting for each child; we haven't created money or changed an actual account's beneficiary.
+They aren't starting from zero. Our example household has $58,000 in education savings for two children. In this illustration, we're assigning $29,000 to the older child's plan and preserving $29,000 for the younger child. We're deciding what existing money we're counting for each child; we haven't created money or changed an actual account's beneficiary.
 
 That distinction matters. If they compare the older child's $80,000 commitment with the entire $58,000 balance, the gap looks smaller. But then the same money isn't still there for the younger child. Start with the actual account ownership and beneficiaries, then make sure the family totals only count the money once.
 
@@ -45,11 +45,11 @@ It also depends on wanting the whole amount available at the start. The college 
 
 That brings us back to the whole retirement plan. During those tuition years, will both parents still be working? Will the other child also be in college? If the costs overlap with the years you wanted to reduce work or start withdrawals, that future income may already have another job.
 
-In the reduced-spending example, they have $1,700 available after the costs and Alex's existing employee contribution. The later funding example puts $500 toward the reserve and $1,200 toward extra card payments. That uses the full amount.
+In the reduced-spending example, they have $1,700 available after the costs and the client's existing employee contribution. The later funding example puts $500 toward the reserve and $1,200 toward extra card payments. That uses the full amount.
 
 There isn't another $850 available just because we've calculated a college gap.
 
-So something has to change for this commitment to fit. The Reeds could change how much they intend to contribute, change another use of the monthly money, identify an existing resource that really is available or begin saving at a different pace later. Each option affects another part of the plan, which is why the college calculation can't settle the decision by itself.
+So something has to change for this commitment to fit. Our example household could change how much they intend to contribute, change another use of the monthly money, identify an existing resource that really is available or begin saving at a different pace later. Each option affects another part of the plan, which is why the college calculation can't settle the decision by itself.
 
 For example, waiting until the card is paid off could free money for education. But it also leaves fewer months before college starts. Recalculate the gap and the time remaining at that point. Don't keep the original $850 amount as though they had been saving it all along.
 
@@ -165,7 +165,7 @@ Debt also remains an estate obligation. The family needs access to the repayment
 
 The model's confidence result doesn't measure whether the provider will remain solvent or whether a transfer will clear in time. Keep those risks alongside the financial comparison.
 
-Alex and Morgan haven't taken out a Bitcoin-backed loan; these separate illustrations are here to help you examine your own situation. In the walkthrough, we'll bring the actual terms, total supporting Bitcoin and funded response into the debt instructions, without wallet secrets. The proposal stays unchosen if the payment, timely response or principal exit is missing. Once you've worked through those, return to the debt rules and carry the chosen obligation into the rest of your plan.
+Our example household hasn't taken out a Bitcoin-backed loan; these separate illustrations are here to help you examine your own situation. In the walkthrough, we'll bring the actual terms, total supporting Bitcoin and funded response into the debt instructions, without wallet secrets. The proposal stays unchosen if the payment, timely response or principal exit is missing. Once you've worked through those, return to the debt rules and carry the chosen obligation into the rest of your plan.
 
 ### Text overlays — not spoken
 
@@ -190,7 +190,7 @@ Record actual thresholds and deadlines, projected full debt, dedicated BTC witho
 
 ### Source and production notes — not spoken
 
-September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no Reed Bitcoin loan is created.
+September 10 first-party direction in reference/owner-decisions-20260910.md supersedes the historical 10–20% posted-LTV teaching default. Preserve the historical quote at its source. The $50,000/3.5 BTC example assumes separately funded costs; capitalized costs require resizing before borrowing. No 50% stressed-LTV requirement. Stricter cure/maturity rules, custody availability and lender crediting govern. The 12% illustrations are hypothetical annual capitalization, not modeled daily accrual or provider rates. No automatic access to cold-wallet funds; no example household Bitcoin loan is created.
 
 Source provenance remains in [../../production/consolidation.json](production/consolidation.json), the original source-material and the dated [../../reference/script-finishing-sources.md](reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](production/STEPWISE-SCRIPT-STANDARD.md).
 
@@ -233,7 +233,7 @@ Securities-backed credit adds a use restriction check. A non-purpose line genera
 
 Retirement-plan loans add employment and plan-rule consequences. Read what happens if the job ends or payments fail, and how repayment affects other saving. Interest returning to the plan doesn't make the lost flexibility and investment exposure irrelevant.
 
-For the Reeds' project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment isn't funded. They may decide not to do the project for now.
+For our example household's project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment isn't funded. They may decide not to do the project for now.
 
 We can still use Orange Plan for the parts it supports, with the actual payment and settlement schedule beside the comparison. If it doesn't represent an important contract term, using an ordinary loan as a substitute doesn't show how the full agreement behaves.
 
@@ -323,7 +323,7 @@ In the walkthrough, we'll extend the conversion comparison through the years tha
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Retains original A5.1 no/modest/larger comparison and $20,000/$4,000 plus $20,000/$6,000 incremental illustration. The 25% future rate is a teaching assumption, not a forecast or current tax rule. No invented survivor, healthcare or model outputs; unsupported effects stay in focused external review.
 
@@ -394,7 +394,7 @@ In the walkthrough, we'll prepare that packet and follow the transaction back to
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Retains source reconstruction, 0.1 BTC transfer, original three lots, carryforward continuity, timely identification and securities IRA-replacement consequence. The September 8/10 technical record governs existing temporary broker-held identification relief; no date-specific relief is extended in evergreen speech. Provider behavior and tax-data export coverage need actual capture evidence.
 
@@ -439,7 +439,7 @@ The required period generally runs until the later of five years from the first 
 
 The household also needs to be able to maintain that schedule through a weak market or changing spending. An improper modification can lead to retroactive additional tax and interest. That's why the calculation and setup need review before the income becomes part of the retirement funding we're relying on.
 
-For Alex and Morgan, we're doing this separately for each person's account and dates. Alex's age doesn't make Morgan's money available. A special route earns its place when it helps fund the actual gap; accessible savings may preserve more flexibility when they can do the job.
+For our example household, we're doing this separately for each person's account and dates. The client's age doesn't make their partner's money available. A special route earns its place when it helps fund the actual gap; accessible savings may preserve more flexibility when they can do the job.
 
 In the walkthrough, we'll connect the route to its person, account, amount and dates, with the tax treatment, evidence and actions that could invalidate it. The provider and tax professional confirm their respective parts before a dependent transaction. Then we'll put that source back on the retirement timeline and continue to healthcare, knowing which early years it can support.
 
@@ -459,7 +459,7 @@ In the walkthrough, we'll connect the route to its person, account, amount and d
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](delivery/consolidation.md). Financial source review remains in [the technical review](delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Retains Roth contribution/conversion/earnings distinctions, Rule of 55 employer-plan scope, governmental 457(b) rolled-in amounts, SEPP employer separation and later-of-five-years-or-59½ duration. No individualized payment or new age exception is introduced. IRS Publication 590-B re-opened September 10; existing technical review records the exception chart and SEPP sources. Exact dates and provider permissions remain external evidence.
 
@@ -606,7 +606,7 @@ We'll bring the resulting authority and status back into the family walkthrough.
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
 | The purpose comes first. | Specific purpose / current arrangement / benefit to compare | Use the existing ownership record. |
-| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not a Reed choice. |
+| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not an example household choice. |
 | Grantor and non-grantor describe income-tax treatment. | Revocable / irrevocable: control terms · grantor / non-grantor: income-tax treatment | Keep the two distinctions on separate lines. |
 | Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / actual funding / beneficiary coordination / custody | Highlight the unfinished part only. |
 | Confirm each completed step; signing a document alone doesn't finish them. | Actual status + responsible person + next action | End on the existing action list. |

@@ -4,7 +4,7 @@ The household view begins with a balance sheet. That's just a list of the assets
 
 Here we're using asset value before subtracting debt. Net worth is what remains after the subtraction, so it answers a different question. Keeping those two numbers separate helps us understand what the percentage is really describing.
 
-For Alex and Morgan, our example includes just under $2 million in assets and $444,500 in debt. That puts debt at about 22% of the included assets. Subtracting the debt leaves about $1.55 million of net worth.
+Our example household has just under $2 million in assets and $444,500 in debt. That puts debt at about 22% of the included assets. Subtracting the debt leaves about $1.55 million of net worth.
 
 Their home is part of that value. So are retirement accounts and money set aside for education and healthcare. Those assets have different access rules and other jobs. A home can make the balance sheet stronger without being a source of cash you can use quickly.
 
@@ -68,7 +68,7 @@ Your spouse or trusted person should know that the obligation exists, where the 
 
 Some situations are reasons to stop before borrowing. An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you can't access. If someone in the household shares the consequences but hasn't agreed to the risk, stop and talk.
 
-For Alex and Morgan, the Reserve and high-rate card still need funding. They haven't taken out a Bitcoin-backed loan. We can compare borrowing without adding it to the plan they've chosen.
+For our example household, the Reserve and high-rate card still need funding. They haven't taken out a Bitcoin-backed loan. We can compare borrowing without adding it to the plan they've chosen.
 
 Now we can bring the chosen debt actions back to Cash Flow. Required payments have already been counted. Extra payments need to fit beside the Reserve and other commitments. A proposed loan stays separate until you choose it, and money released by a future payoff stays in the future until that payment ends.
 

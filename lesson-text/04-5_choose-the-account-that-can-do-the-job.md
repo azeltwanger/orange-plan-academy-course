@@ -15,7 +15,7 @@ Now that we have a reason for the investments in your plan, we need somewhere to
 
 I think it's helpful to start with when you need the money. If you're trying to fund the years before you can use retirement accounts, another tax deduction may leave the actual gap untouched. Taxable savings, a brokerage account or personally held Bitcoin can give you access for those years. A sale may create tax, but you generally don't need an early-retirement exception just to use taxable proceeds.
 
-For money you won't need until later, the workplace plan you already have may do the job. Its provider or employer benefits documents can tell you the investment menu, fees, match and withdrawal rules. Alex's fictional plan permits a Bitcoin fund. Yours may only offer stock and bond funds. That can still work: the workplace account holds part of the overall allocation, and Bitcoin can be held elsewhere.
+For money you won't need until later, the workplace plan you already have may do the job. Its provider or employer benefits documents can tell you the investment menu, fees, match and withdrawal rules. The client's fictional plan permits a Bitcoin fund. Yours may only offer stock and bond funds. That can still work: the workplace account holds part of the overall allocation, and Bitcoin can be held elsewhere.
 
 An IRA is worth comparing when its menu, cost or contribution treatment gives you something useful. Being allowed to contribute and being allowed to deduct a Traditional contribution are separate questions. Roth IRA contributions have income limits too, so the contribution year's rules and what you've already contributed matter.
 
@@ -37,7 +37,7 @@ Your real comparison uses working income, later benefits and required distributi
 
 We also need the access rules for the account you actually have. For ordinary retirement use, qualified Roth IRA earnings generally require age 59½ and the five-tax-year period starting with the first tax year you funded any Roth IRA. Other qualifying circumstances exist. Regular contributions, conversions and workplace Roth distributions have different rules. We'll use the early-access lesson if your plan depends on that money sooner.
 
-There's one immediate effect to check before we finish: the paycheck. If Alex keeps sending $775 but switches from pretax to Roth, his take-home pay may fall. That extra tax has to fit beside the Reserve and debt choices. Changing the election affects new contributions; moving an existing Traditional balance into Roth is a separate conversion that we'll cover in Tax.
+There's one immediate effect to check before we finish: the paycheck. If the client keeps sending $775 but switches from pretax to Roth, their take-home pay may fall. That extra tax has to fit beside the Reserve and debt choices. Changing the election affects new contributions; moving an existing Traditional balance into Roth is a separate conversion that we'll cover in Tax.
 
 In the walkthrough, we'll compare the relevant accounts and the actual household cost of your election. If an existing account fits, you can keep it. Once those choices are clear, the next lesson connects the amount you can afford to the account and the investment it will actually buy.
 
@@ -57,7 +57,7 @@ In the walkthrough, we'll compare the relevant accounts and the actual household
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Allocation deck steps 7–9 and conditional HSA → IRA → workplace sequence retained. The $1,000/$800 comparison assumes deductible Traditional, qualified Roth, equal returns and stated hypothetical marginal rates. No annual limit or provider availability is asserted. IRA pledging and prohibited-transaction consequences remain distinct. Relevant IRS Publication 590-B and Publication 969 pages re-opened September 10; use the existing technical review for source scope and transaction-specific facts.
 

@@ -1,5 +1,7 @@
 # Current handoff — step-by-step filming package
 
+Latest manuscript corrections: Austin requested generic placeholders in place of the named fictional household. Active speech now uses “our example household,” “the client” and “their partner”; filming labels use [Client] / [Partner]. The source data, amounts and separate account ownership remain unchanged. Austin also moved AI-question guidance out of Teaching 4 (source 1.5) into the walkthrough; keep the teaching focused on understanding the result and choosing the next comparison. W01 chapter 10 retains the Ask demonstration.
+
 Austin asked to replace indirect narration with “do this, how to think about it, how to implement in walkthrough video,” using the slide steps. Teaching and walkthroughs are separate recordings. The current authority is [the September 10 direction](reference/owner-stepwise-direction-20260910.md).
 
 Start at [all scripts in one file](ALL-FILMING-SCRIPTS.md), or [START-FILMING.md](START-FILMING.md) for recording guidance. The package retains 25 main and eight situational teaching scripts, ten app walkthroughs and one device demonstration. Austin's latest correction requires conversational introductions, transitions and spoken handoffs; [the conversational standard](production/CONVERSATIONAL-VOICE-PASS.md) governs delivery. Every teaching source also includes the unspoken task, overlay cues and completion check. Each walkthrough chapter contains complete speech plus Show, Overlay, Verify and Capture dependency instructions.

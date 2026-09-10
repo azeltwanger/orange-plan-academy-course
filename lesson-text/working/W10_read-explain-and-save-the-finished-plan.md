@@ -59,7 +59,7 @@ If an account's access rule or a funding source is unresolved, we'll leave that 
 
 Now let's connect the long-term plan to the next month of implementation. We need to see where the contribution goes, what it buys, and how it fits alongside the Reserve transfer and any extra debt payment in the same cash flow.
 
-The Reeds show why the timing matters. Their $500 current amount and $1,700 spending-reduction comparison come from different spending choices. The extra $1,605 from ending card payments is future money. We need the same consistency in your plan before assigning a dollar to its next job.
+Our example household shows why the timing matters. Their $500 current amount and $1,700 spending-reduction comparison come from different spending choices. The extra $1,605 from ending card payments is future money. We need the same consistency in your plan before assigning a dollar to its next job.
 
 From here, we'll read the next real action and what would show that it's complete. If you share household decisions, the summary can help you explain the spending, investment mix and first retirement funding period. The calculations can stay in the app; share what's useful for that conversation.
 
@@ -67,7 +67,7 @@ You don't need to prepare a separate presentation to finish this. Any unresolved
 
 **Overlay:** Use one spending state / future payoff money stays future / next real action
 
-**Verify:** No mixed cash-flow states or requirement to copy Reed choices. Household sharing optional; no invented learner outcome, submission or instructor approval.
+**Verify:** No mixed cash-flow states or requirement to copy example household choices. Household sharing optional; no invented learner outcome, submission or instructor approval.
 
 **Capture dependency:** Verify current chosen cash-flow state and actual contribution owner. Capture only the matching summary and saved result; real outside implementation remains separate.
 

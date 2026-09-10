@@ -15,7 +15,7 @@ In this lesson, we're going to look at when income shows up in your plan. The am
 
 When I say Traditional here, I mean retirement money with tax generally still to be paid when it comes out. That's different from an ordinary taxable brokerage account. A Roth conversion moves existing eligible Traditional retirement money into Roth, with the taxable portion included in income for that year. It's a separate transaction from making a new contribution; the annual contribution limit doesn't cap the amount converted. We still need to see whether its tax cost and access rules fit your plan.
 
-For the Reeds, Alex wanting work to be optional at 52 is only one date. Morgan may still earn income, and both people have their own benefit dates. So the years after Alex stops working aren't automatically low-tax years. We need the income expected in each one before calling it a useful window.
+In our example household, the client wants work to be optional at 52. That's only one date. Their partner may still earn income, and both people have their own benefit dates. So the years after the client stops working aren't automatically low-tax years. We need the income expected in each one before calling it a useful window.
 
 The source of the spending money affects that picture too. A $20,000 taxable sale with $16,000 of basis produces $4,000 of gain before adjustments. A fully taxable $20,000 Traditional withdrawal produces $20,000 of ordinary income. A qualified Roth withdrawal has different treatment again. Similar cash for the bills can create very different taxable income.
 
@@ -62,7 +62,7 @@ The walkthrough will compare the year and amount you're considering with keeping
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Tax deck steps 2–5 and 7–8, with current total-after-tax comparison instead of automatic bracket filling. Required-distribution dates depend on birth year/account/employment facts; no fixed-age rule imported from old slides. Preserve $30,000/$6,000 opportunity-cost illustration and 20/30/10% variants. Pro-rata IRA basis, Form 8606, RMD exclusion, withholding, conversion finality and separate access clocks retained. Future contextual Tax strategy is the sole conversion writer; Cash Flow owns withholding/payments without changing calculated liability.
 

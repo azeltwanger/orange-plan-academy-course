@@ -1,4 +1,4 @@
-Let's give the Reserve a target using the essential costs from the lesson. The Reeds' $7,200 includes required household debt, so we're not adding those payments again. Testing six months gives a $43,200 target.
+Let's give the Reserve a target using the essential costs from the lesson. Our example household's $7,200 includes required household debt, so we're not adding those payments again. Testing six months gives a $43,200 target.
 
 Now we're looking at the existing money available for that job. Checking money for near-term bills, tax money and other committed amounts stay out of this assignment. Access matters too: pledged Bitcoin or money you can't readily use isn't the same as available cash.
 

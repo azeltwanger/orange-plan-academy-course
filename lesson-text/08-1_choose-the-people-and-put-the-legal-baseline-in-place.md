@@ -31,7 +31,7 @@ Open the institution's current record and compare it with your intention. The pr
 
 You may also see a trusted contact on an account. That person can be useful if the institution can't reach you or is concerned about exploitation. It doesn't automatically give them permission to trade or withdraw money. The role needs to be clear before the family relies on it.
 
-Now we can connect the people to the assets. The Reeds' personally controlled Bitcoin needs a lawful route to the protected recovery process. Their professionally custodied Bitcoin uses the provider's family-access process. The ETF in the Roth IRA follows that account's beneficiary and distribution rules. The word “Bitcoin” on an account list wouldn't explain which kind of help applies.
+Now we can connect the people to the assets. Our example household's personally controlled Bitcoin needs a lawful route to the protected recovery process. Their professionally custodied Bitcoin uses the provider's family-access process. The ETF in the Roth IRA follows that account's beneficiary and distribution rules. The word “Bitcoin” on an account list wouldn't explain which kind of help applies.
 
 The instruction shouldn't be to impersonate the owner with their login. It should point to the legitimate provider or recovery process for the person authorized in that situation. Recovery words, private keys, passphrases, passwords, PINs and exact secret locations stay out of the family map. Sensitive wallet configurations belong in the protected recovery process too.
 
@@ -57,7 +57,7 @@ If a trust might solve a specific family or legal problem, the related lesson wi
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
-| A backup matters too, because the first person may also be unavailable. | Primary person / agreed role / backup | Show role fields without invented Reed selections. |
+| A backup matters too, because the first person may also be unavailable. | Primary person / agreed role / backup | Show role fields without invented example household selections. |
 | After death, estate, trust and beneficiary processes apply instead. | While alive: appropriate authority / after death: estate, trust and beneficiary process | Display beside the document list. |
 | Check account beneficiaries next. | Provider record: primary + contingent beneficiaries | Highlight the provider record. |
 | Here's an example of the first paragraph: | Illustrative family letter | Keep the example label while the paragraph is spoken. |
@@ -70,7 +70,7 @@ If a trust might solve a specific family or legal problem, the related lesson wi
 
 ### Source and production notes — not spoken
 
-Consolidated 7.4, 8.1, 8.2 and 8.3 remain recoverable through [source mapping](../production/consolidation.json). The letter paragraph is editorial illustration, not a legal instrument or approved Reed arrangement. The [dated technical review](../delivery/professional-topic-review.md), P11/S28, covers the POA/trusted-contact distinctions within its recorded scope. Actual law, instruments, appointment, provider acceptance and trust funding determine authority.
+Consolidated 7.4, 8.1, 8.2 and 8.3 remain recoverable through [source mapping](../production/consolidation.json). The letter paragraph is editorial illustration, not a legal instrument or approved example household arrangement. The [dated technical review](../delivery/professional-topic-review.md), P11/S28, covers the POA/trusted-contact distinctions within its recorded scope. Actual law, instruments, appointment, provider acceptance and trust funding determine authority.
 
 The September 10 owner ruling excludes a categorical will-drafting instruction and an invented reviewer gate. The older Estate deck's fixed 90-day promise and universal seed/passphrase split are not teaching defaults. No notification is sent or legal status changed by this manuscript. PR #227 preserves Protect's seven sections; actual fields, packet generation and Check-in plan delivery require capture evidence.
 

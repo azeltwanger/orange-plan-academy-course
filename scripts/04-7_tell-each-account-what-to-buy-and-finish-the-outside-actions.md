@@ -13,23 +13,23 @@ Give each affordable contribution an amount, start condition, receiving account 
 
 We've chosen a portfolio mix and looked at the accounts that can hold it. Now we're going to connect that plan to the money coming in each month. We'll follow each contribution from the amount you can afford, through the receiving account, to the investment you intend it to buy.
 
-The amount comes first, because a target percentage doesn't tell us what we can afford to buy. In the Reeds' reduced-spending comparison, $2,475 is left before Alex's employee contribution. His $775 leaves $1,700. The proposed $500 Reserve contribution and $1,200 extra card payment use all of it. There's no additional investment transfer available in that version.
+The amount comes first, because a target percentage doesn't tell us what we can afford to buy. In our example household's reduced-spending comparison, $2,475 is left before the client's employee contribution. Their $775 leaves $1,700. The proposed $500 Reserve contribution and $1,200 extra card payment use all of it. There's no additional investment transfer available in that version.
 
-Alex is still investing through payroll. His employer adds $387.50 under the fictional match: half of his 6% contribution on a $155,000 salary. Your own formula may differ, and vesting tells you the requirements for keeping the employer's money. That employer contribution adds retirement saving, but it isn't money available for another household transfer.
+The client is still investing through payroll. Their employer adds $387.50 under the fictional match: half of their 6% contribution on a $155,000 salary. Your own formula may differ, and vesting tells you the requirements for keeping the employer's money. That employer contribution adds retirement saving, but it isn't money available for another household transfer.
 
 So the order we're using begins with the necessary Reserve pace, an available employer match and the extra-debt choice. Any remainder can go toward the first funding need that still has a gap. Those things can receive money together. We don't have to finish every earlier item before anything reaches the next one.
 
 If the gap is in the early retirement years, accessible saving may be more useful than another contribution to an account you can't yet use. If the early years are covered and the money is for later, we have the retirement-account choices from the last lesson. College and other commitments also need to fit before that remainder becomes available.
 
-This changes when a payment ends. After the Reeds' card is actually paid off, the illustrated $405 required payment and $1,200 extra could release $1,605 a month. That's future money. We'd check what stopped and what else changed before starting the new contribution. The same applies when the Reserve reaches its target: its build contribution may move somewhere else, while the Reserve balance keeps its protection job.
+This changes when a payment ends. After our example household's card is actually paid off, the illustrated $405 required payment and $1,200 extra could release $1,605 a month. That's future money. We'd check what stopped and what else changed before starting the new contribution. The same applies when the Reserve reaches its target: its build contribution may move somewhere else, while the Reserve balance keeps its protection job.
 
-Once we have an affordable amount, the target helps us choose what it buys. The Reeds are comparing 60% Bitcoin, 34% stocks and 6% cash in the $1,307,000 portfolio. Sixty percent is $784,200, compared with their current $728,000 of Bitcoin exposure. The difference is $56,200.
+Once we have an affordable amount, the target helps us choose what it buys. Our example household is comparing 60% Bitcoin, 34% stocks and 6% cash in the $1,307,000 portfolio. Sixty percent is $784,200, compared with their current $728,000 of Bitcoin exposure. The difference is $56,200.
 
 That difference can guide new purchases, but it doesn't create $56,200 of cash. New money directed toward a shortfall can move the mix without a taxable sale. If an existing holding creates an immediate funding problem, a trade may still deserve a comparison with its tax, fees and effect on the approaching payment.
 
 The accounts can work together here. A workplace plan without Bitcoin access may hold the stock funds wanted in the overall portfolio. Another account supplies Bitcoin exposure. Retirement treatment can reduce ongoing tax on some investments, while taxable holdings preserve early access. The tax benefit and the spending job both belong in that choice.
 
-One future route for the Reeds' $1,605 is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution continues separately. We're comparing that route after payoff; it isn't running today. Another commitment could use part of the released money and change the split.
+One future route for our example household's $1,605 is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution continues separately. We're comparing that route after payoff; it isn't running today. Another commitment could use part of the released money and change the split.
 
 The last part of that instruction is the actual investment. A spot Bitcoin fund, a leveraged fund and a company associated with Bitcoin do different things. With stock funds, several names on the statement can still mean the same companies underneath. The holdings, fees and strategy tell us whether the purchase matches the job.
 
@@ -49,8 +49,8 @@ The walkthrough will help you put the chosen contribution route into Orange Plan
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
-| The amount comes first | 1 · Use the available cash once | Reed reduced-spending state badge. |
-| His $775 leaves $1,700. | $2,475 − $775 = $1,700; $500 + $1,200 = $1,700 | Build arithmetic rows in order. |
+| The amount comes first | 1 · Use the available cash once | example household reduced-spending state badge. |
+| Their $775 leaves $1,700. | $2,475 − $775 = $1,700; $500 + $1,200 = $1,700 | Build arithmetic rows in order. |
 | That's future money. | 2 · Set the start condition | After actual card payoff: $1,605; not available today. |
 | the target helps us choose what it buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
 | For a large one-time amount, timing is another choice. | One-time timing illustration: 0.20 / 0.30 / 0.15 BTC | Label hypothetical prices and no fees. |
@@ -62,7 +62,7 @@ The walkthrough will help you put the chosen contribution route into Orange Plan
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Allocation deck steps 6, 7 and 10 retained with former A4.1 timing mechanics. Preserve $775 employee, $387.50 employer, $500 Reserve, $1,200 extra card and conditional $1,605/$1,000/$605. Future Plan → Portfolio and allocation previews direction; Cash Flow → Saving and investing owns contribution saves. No automated broker execution, exact routing engine or current target adoption is claimed.
 

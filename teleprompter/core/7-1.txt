@@ -2,7 +2,7 @@ We've worked through how the money could support your retirement. Now I want to 
 
 That's what we're talking about with custody: who controls the Bitcoin, what you're relying on, and how access would work if something goes wrong. A setup can be comfortable for you today and still leave your family unsure where to begin. So we're going to work through the trade-offs and choose an arrangement your household can maintain.
 
-The Reeds give us a useful example. They have 3.4 Bitcoin in self-custody, 0.7 with a professional custodian, and a Bitcoin ETF in a Roth IRA. Those all give them Bitcoin exposure, but the access process is different for each one. Their hardware-wallet backup won't recover the retirement account.
+Let's look at the custody mix in our example household. They have 3.4 Bitcoin in self-custody, 0.7 with a professional custodian, and a Bitcoin ETF in a Roth IRA. Those all give them Bitcoin exposure, but the access process is different for each one. Their hardware-wallet backup won't recover the retirement account.
 
 I'd begin with what each portion is for. Some might be long-term Bitcoin that you want to control yourself. Some might be in a retirement account for its tax treatment. Pledged Bitcoin has a loan attached to it. Knowing the owner and the job helps us decide which responsibilities make sense.
 

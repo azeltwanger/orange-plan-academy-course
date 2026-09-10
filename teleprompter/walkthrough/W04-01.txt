@@ -1,6 +1,6 @@
 Here's the portfolio we put together earlier. I'm starting in Plan, under Portfolio and allocation, with Current. Before we decide what to change, I want to make sure this percentage describes everything we intended to include.
 
-In the Reed example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
+In the household example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
 
 I'm opening the included assets so we can see where those dollars came from, along with the stock and cash holdings. If an account contains several investments, we count those holdings once. We don't add the account balance again on top.
 

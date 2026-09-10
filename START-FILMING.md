@@ -4,6 +4,8 @@ Film the teaching and walkthroughs separately. The lesson page pairs them so a m
 
 **[Open all scripts in one file](ALL-FILMING-SCRIPTS.md).** It contains every teaching and walkthrough script, with spoken sections first and production directions clearly labeled.
 
+Use **[Client]** and **[Partner]** for names in screenshots, household cards and account labels. Spoken examples use “our example household,” “the client” and “their partner.” The financial examples keep their existing amounts and ownership.
+
 ## Teaching session
 
 1. Open [the recording order](DICTATION-ORDER.md).

@@ -16,7 +16,7 @@ Open the intended Home → Your Plan entry, then Plan → Build & improve. Point
 
 We're going to start building the plan from the information you have today. Here on Home, I'll open the plan and use Build & improve to get to the next piece we need.
 
-Before we add anything, notice the difference between these three examples. The Reeds' mortgage already exists, so it's a debt. College support is a future commitment with dates attached. The renovation is still an idea, so we'll compare it separately.
+Before we add anything, notice the difference between these three examples. Our example household's mortgage already exists, so it's a debt. College support is a future commitment with dates attached. The renovation is still an idea, so we'll compare it separately.
 
 Let's begin with the first account that needs attention, with the latest statement beside it. We'll work through that record before moving on, so we can see where each number comes from.
 
@@ -38,13 +38,13 @@ PR #227 foundation contract: Home/Plan/Build & improve and Starting Plan states 
 
 **Show:**
 
-Use Home → Your Money to open the category-filtered Accounts view and one account detail. Review the existing checking account ($18,000), Alex Roth ($145,000) and direct-Bitcoin location (3.4 BTC) in separate takes. Use the approved contextual add/update entry only where a record is missing.
+Use Home → Your Money to open the category-filtered Accounts view and one account detail. Review the existing checking account ($18,000), [Client] Roth IRA ($145,000) and direct-Bitcoin location (3.4 BTC) in separate takes. Use the approved contextual add/update entry only where a record is missing.
 
 **Narration:**
 
 Here we're looking at one account from the money category on Home. Before getting into what it owns, I'm matching its name, owner and account type to the statement. If it's already entered, this is the record we're reviewing. Adding another would count the same money twice.
 
-Alex's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
+The client's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
 
 After a correction is saved, I'll reopen the account beside the same statement. That lets us see whether the record now describes what the household actually owns.
 
@@ -100,7 +100,7 @@ At the same $145,000 Roth account, use Holdings needed → Add investments. Ente
 
 We know this Roth account is worth $145,000. What we're doing here is explaining that balance, so the plan knows how the money is invested.
 
-When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. The Reeds' teaching example has $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
+When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. In our example, there's $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
 
 Any cash needs to come from the statement too. We won't make an unexplained remainder into cash just to finish the record. After saving, let's reopen the account and make sure the composition explains the same total once. Any remaining difference stays visible until we can explain it.
 
@@ -150,13 +150,13 @@ Certified upload adapter, scoped mapping, transfer ledger, history/position reco
 
 **Show:**
 
-Open Cash Flow → Income, Taxes and withholding, Everyday spending, Debt payments and Saving and investing as needed. Enter original source state only. Present the exact Reed cash bridge as a separate teaching graphic, never a fabricated app result.
+Open Cash Flow → Income, Taxes and withholding, Everyday spending, Debt payments and Saving and investing as needed. Enter original source state only. Present the exact example household cash bridge as a separate teaching graphic, never a fabricated app result.
 
 **Narration:**
 
-Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. Alex's gross pay is before deductions. Morgan's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
+Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. The client's gross pay is before deductions. Their partner's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
 
-In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. Alex's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
+In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. The client's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
 
 Let's follow the app's actual result from its income and tax inputs. If it differs from the illustration, we need to understand those inputs before assigning another transfer. That's the monthly picture we'll use when we record the retirement question next.
 
@@ -178,11 +178,11 @@ D32/D48 income and withholding semantics, payroll election, business-loan inclus
 
 **Show:**
 
-Use Plan → Build & improve to reach the accepted retirement timing and spending owners. Enter Alex’s intended age 52, Morgan’s separately supported timeline and the reviewed fictional spending/benefit/horizon extension. Show each date and dollar basis before saving.
+Use Plan → Build & improve to reach the accepted retirement timing and spending owners. Enter [Client]’s intended age 52, [Partner]’s separately supported timeline and the reviewed fictional spending/benefit/horizon extension. Show each date and dollar basis before saving.
 
 **Narration:**
 
-With the starting facts in place, we can enter the work-change question you wrote down at the beginning. Alex wants work to become optional at 52. That records his intention; the calculation will test whether it can be funded. Morgan's income stays on its own timeline.
+With the starting facts in place, we can enter the work-change question you wrote down at the beginning. The client wants work to become optional at 52. That records their intention; the calculation will test whether it can be funded. Their partner's income stays on its own timeline.
 
 For retirement spending, we'll begin with current costs, remove the ones that really end and add healthcare or other costs that begin. The dollar units shown here matter, so we don't apply inflation twice. Any Social Security or pension estimate belongs to the right person and start date.
 
@@ -292,13 +292,13 @@ Approved Ask route/context/permissions and source links. Market report requires 
 
 **Show:**
 
-Open Cash Flow → Income and Taxes and withholding, then the summary’s debt and saving routes. Reconcile original income with a synthetic pay-stub/statement source. Show the precise Reed bridge as its own graphic.
+Open Cash Flow → Income and Taxes and withholding, then the summary’s debt and saving routes. Reconcile original income with a synthetic pay-stub/statement source. Show the precise example household bridge as its own graphic.
 
 **Narration:**
 
-We've entered a starting monthly picture. Here we're checking whether it agrees with the records before using the amount left over. I'll begin with the income source, because gross pay still has deductions to account for while a bank deposit already has them taken out. Morgan's ordinary business costs are deducted, but the equipment payment remains separate.
+We've entered a starting monthly picture. Here we're checking whether it agrees with the records before using the amount left over. I'll begin with the income source, because gross pay still has deductions to account for while a bank deposit already has them taken out. In our example, the partner's ordinary business costs are deducted, but the equipment payment remains separate.
 
-In our original teaching calculation, $1,275 before Alex's $775 contribution becomes $500 afterward. The employer adds $387.50 to retirement money. Let's follow where the remaining household cash actually went: checking, saving or a cost we haven't included.
+In our original teaching calculation, $1,275 before the client's $775 contribution becomes $500 afterward. The employer adds $387.50 to retirement money. Let's follow where the remaining household cash actually went: checking, saving or a cost we haven't included.
 
 Any difference needs resolving at its source. A withholding change affects cash available and the amount still due; it doesn't by itself change the calculated tax obligation. Once the income side makes sense, we can look more closely at the spending period.
 
@@ -354,7 +354,7 @@ Use a Keep/Cut/Reduce teaching card beside the original spending. In Plan → Sc
 
 Now we can use the spending records to compare a change you'd actually make. With Keep, Cut and Reduce, we're asking which costs are worth their price, which you no longer choose and which could cost less without giving up something you need. Fees and lost coverage belong in that last decision.
 
-The Reeds' proposal cuts living costs by $1,200 a month. In the teaching example, that changes the amount available from $500 to $1,700. They still need to identify the bills that make it possible. We'll compare the proposal first, then record when the real change begins and update current spending once it has happened. Saving a lower figure doesn't cancel a service.
+Our example household's proposal cuts living costs by $1,200 a month. In the teaching example, that changes the amount available from $500 to $1,700. They still need to identify the bills that make it possible. We'll compare the proposal first, then record when the real change begins and update current spending once it has happened. Saving a lower figure doesn't cancel a service.
 
 For the Reserve and Debt examples that follow, we're testing this reduced-spending version. Your actual surplus stays unchanged until those spending changes happen. Keep that distinction with the number as we move on.
 
@@ -380,7 +380,7 @@ Open Cash Flow → Cash reserve, inspect essential spending and select months. U
 
 **Narration:**
 
-Let's give the Reserve a target using the essential costs from the lesson. The Reeds' $7,200 includes required household debt, so we're not adding those payments again. Testing six months gives a $43,200 target.
+Let's give the Reserve a target using the essential costs from the lesson. Our example household's $7,200 includes required household debt, so we're not adding those payments again. Testing six months gives a $43,200 target.
 
 Now we're looking at the existing money available for that job. Checking money for near-term bills, tax money and other committed amounts stay out of this assignment. Access matters too: pledged Bitcoin or money you can't readily use isn't the same as available cash.
 
@@ -404,13 +404,13 @@ D49 reserve role and partial-assignment writer, eligibility, schema reconciliati
 
 **Show:**
 
-Carry the same gap into the approved Reserve funding/contribution owner. Show proposed $500/month beside the reduced-state $1,700 pool and anticipated $1,200 extra-card claim. Use a separate cash-coverage comparison for dependents or reliance on one income, then return to the unchanged Reed split.
+Carry the same gap into the approved Reserve funding/contribution owner. Show proposed $500/month beside the reduced-state $1,700 pool and anticipated $1,200 extra-card claim. Use a separate cash-coverage comparison for dependents or reliance on one income, then return to the unchanged example household split.
 
 **Narration:**
 
 We're still testing the reduced-spending version with $1,700 available. Your actual surplus stays unchanged until those spending changes happen. At $500 a month, the $11,200 Reserve gap takes 22.4 months, reaching the target with part of the twenty-third deposit before interest or withdrawals. That's almost two years to consider alongside the risk we're covering.
 
-I'd give accessible cash more weight when dependents rely on one income and an interruption would otherwise require more borrowing. Building it faster may be worth slower extra-debt repayment, with required payments still covered. The Reeds have a stable paycheck and variable business income; they aren't a single-income example.
+I'd give accessible cash more weight when dependents rely on one income and an interruption would otherwise require more borrowing. Building it faster may be worth slower extra-debt repayment, with required payments still covered. Our example household has a stable paycheck and variable business income; they aren't a single-income example.
 
 Their proposed $500 Reserve pace leaves $1,200 of the same $1,700 for the card. We'll carry that split into Debt before settling it. The bank transfer comes after the combined decision, when we know the two choices fit together.
 
@@ -420,7 +420,7 @@ Proposed: $500 Reserve + $1,200 extra card = $1,700 once
 
 **Verify:**
 
-Pace is affordable from the same pool, gap stays visible and required payments remain covered. Faster Reserve is explained as a conditional trade-off, not a new Reed contribution or fixed threshold.
+Pace is affordable from the same pool, gap stays visible and required payments remain covered. Faster Reserve is explained as a conditional trade-off, not a new example household contribution or fixed threshold.
 
 **Capture dependency:**
 
@@ -452,7 +452,7 @@ Expense and income changes occur once at the correct time/person; source funding
 
 **Capture dependency:**
 
-Life-event owner, supported source/account attribution, recurrence, inflation units, event-to-asset/debt treatment and save/readback. Reed vehicle timing is about three years; exact dates and amount need capture extension. Generic $30,000 car is not a fixture price. Unsupported attribution remains unresolved.
+Life-event owner, supported source/account attribution, recurrence, inflation units, event-to-asset/debt treatment and save/readback. Example household vehicle timing is about three years; exact dates and amount need capture extension. Generic $30,000 car is not a fixture price. Unsupported attribution remains unresolved.
 
 ### Chapter 7 — Fit education support beside the same cash · optional after 2.5
 
@@ -498,7 +498,7 @@ We're going to look at what the existing debts require before deciding about ext
 
 The home-equity line has a different issue. Its interest-only payment leaves principal to repay later, so the payment-change date and exit matter. Let's keep those beside the cash-flow picture.
 
-The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and Alex's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
+The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and the client's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
 
 **Overlay:**
 
@@ -522,7 +522,7 @@ Read included household assets and debt, with net worth separately. Use the unch
 
 **Narration:**
 
-Here we're separating the household's overall debt from one loan's collateral requirements. The Reeds' included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
+Here we're separating the household's overall debt from one loan's collateral requirements. Our example household's included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
 
 In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same. The ratio moves to about 37%. That shows what a fall in asset values does to the household measure.
 
@@ -534,7 +534,7 @@ Household DTA: 22.27% → 36.52% · One loan’s LTV uses pledged collateral
 
 **Verify:**
 
-Assets/debt/net-worth denominators remain distinct. Stress assumptions/exclusions are visible. No Reed Bitcoin loan or integrated worst-case result is fabricated.
+Assets/debt/net-worth denominators remain distinct. Stress assumptions/exclusions are visible. No example household Bitcoin loan or integrated worst-case result is fabricated.
 
 **Capture dependency:**
 
@@ -602,7 +602,7 @@ Reviewed fictional offer/date, taxes/basis, permitted uses and guarantee terms; 
 
 **Show:**
 
-Use the existing debt instructions/worksheet alongside Debt for actual loans or Plan → Scenarios for proposals. Record purpose, amount, payment source, principal exit, dates, fallback, operator and backup. For A3.1 only, use a separate generic $50,000/3.5 BTC sizing graphic and an authorized non-broadcast procedure diagram; do not create a Reed Bitcoin loan or initiate a real top-up.
+Use the existing debt instructions/worksheet alongside Debt for actual loans or Plan → Scenarios for proposals. Record purpose, amount, payment source, principal exit, dates, fallback, operator and backup. For A3.1 only, use a separate generic $50,000/3.5 BTC sizing graphic and an authorized non-broadcast procedure diagram; do not create an example household Bitcoin loan or initiate a real top-up.
 
 **Narration:**
 
@@ -640,7 +640,7 @@ Return to Cash Flow → Debt payments and Saving and investing. Read the saved e
 
 **Narration:**
 
-Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before Alex's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
+Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before the client's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
 
 When the card is actually paid off, we'll verify which payments ended and whether any charge remains. The example's $405 required plus $1,200 extra would release $1,605 if those were still being paid. That future money needs a new decision; payoff doesn't automatically send it into investments.
 
@@ -666,13 +666,13 @@ D37 payoff/removal semantics and D32 saving owner; exact source state, schedule,
 
 **Show:**
 
-Open Plan → Portfolio and allocation. Expand the included-assets explanation and one account’s holdings. Show the Reed general-subset arithmetic only when the approved app denominator matches it; otherwise show it as a labeled separate teaching graphic and state the actual app scope.
+Open Plan → Portfolio and allocation. Expand the included-assets explanation and one account’s holdings. Show the example household general-subset arithmetic only when the approved app denominator matches it; otherwise show it as a labeled separate teaching graphic and state the actual app scope.
 
 **Narration:**
 
 Here's the portfolio we put together earlier. I'm starting in Plan, under Portfolio and allocation, with Current. Before we decide what to change, I want to make sure this percentage describes everything we intended to include.
 
-In the Reed example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
+In the household example, the Bitcoin itself is worth $410,000 and their spot Bitcoin funds are worth $318,000. Together, that's $728,000 of Bitcoin exposure. The funds are investments inside their accounts. The separate 4.1 Bitcoin is split between 3.4 in self-custody and 0.7 with a professional custodian.
 
 I'm opening the included assets so we can see where those dollars came from, along with the stock and cash holdings. If an account contains several investments, we count those holdings once. We don't add the account balance again on top.
 
@@ -680,7 +680,7 @@ Dedicated education and healthcare money still have their own jobs. Once the inc
 
 **Overlay:**
 
-Cue “with Current.” → Current holdings; cue “Together, that's $728,000” → $410,000 + $318,000 = $728,000, labeled Reed illustration.
+Cue “with Current.” → Current holdings; cue “Together, that's $728,000” → $410,000 + $318,000 = $728,000, labeled example household illustration.
 
 **Verify:**
 
@@ -740,7 +740,7 @@ Back in the target comparison, I'm looking at the first important payment and th
 
 **Overlay:**
 
-Cue “a separate $1 million illustration” → Hypothetical household, not Reeds; cue “Cash becomes” → 50/30/20 versus 50/40/10.
+Cue “a separate $1 million illustration” → Hypothetical household, separate from our example household; cue “Cash becomes” → 50/30/20 versus 50/40/10.
 
 **Verify:**
 
@@ -762,9 +762,9 @@ Open Cash Flow → Saving and investing with the reviewed reduced-spending state
 
 We're back in Cash Flow, under Saving and investing, to connect the plan to this month's money. I'm using the reduced-spending version from our earlier comparison, so we need to keep that version consistent here.
 
-The $2,475 before Alex's contribution becomes $1,700 after his $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. Alex is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
+The $2,475 before the client's contribution becomes $1,700 after their $775. Then the $500 Reserve contribution and $1,200 extra card payment use that entire amount. The client is investing through payroll, but there's no additional investment transfer available from the remaining household cash today.
 
-His employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
+Their employer's $387.50 adds retirement saving separately. It doesn't give the household another $387.50 to spend.
 
 The card payoff gives us a future decision to prepare for. The illustrated $1,605 becomes available only after those payments stop. When that happens, we'll check what was actually released and whether the other bills have changed before starting a new transfer. Reserve completion has its own condition as well. We can prepare those later choices now while keeping today's contribution instructions affordable.
 
@@ -852,7 +852,7 @@ Read target/Current in Portfolio and allocation, then receiving amount/investmen
 
 We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
 
-First, here's the target gap. In the Reeds' 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
+First, here's the target gap. In our example household's 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
 
 For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
 
@@ -980,7 +980,7 @@ From Plan open the contextual Tax strategy/roadmap and a relevant year. Show eac
 
 Here's the tax roadmap. We're looking for a year when the household's income changes enough that a withdrawal or conversion might be worth comparing.
 
-I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. Alex stopping work doesn't automatically make the household's income low if other income continues.
+I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. The client stopping work doesn't automatically make the household's income low if other income continues.
 
 Now we can compare that year with the next important income change. If there's a lower-income interval, we have a reason to examine it. We still need the total cost of adding income, including effects beyond the tax bracket.
 
@@ -1096,7 +1096,7 @@ Approved export content, source/realized/remaining-lot consistency, private shar
 
 **Show:**
 
-Open the first retirement-year detail and drill into canonical spending/income records where corrections are needed. Show separate labeled $108,000/$68,000 and $126,000/$86,000 graphics, never as a Reed calculated result.
+Open the first retirement-year detail and drill into canonical spending/income records where corrections are needed. Show separate labeled $108,000/$68,000 and $126,000/$86,000 graphics, never as an example household calculated result.
 
 **Narration:**
 
@@ -1130,7 +1130,7 @@ Show both adults’ timelines and every material funding interval. Open underlyi
 
 **Narration:**
 
-Let's put the early retirement years on the timeline. Alex wants work to become optional at 52. That leaves seven and a half years to 59½, but Morgan has separate dates and account rules. We need both people's timing for the household plan.
+Let's put the early retirement years on the timeline. The client wants work to become optional at 52. That leaves seven and a half years to 59½, but their partner has separate dates and account rules. We need both people's timing for the household plan.
 
 I'm opening each period before a new benefit or access route begins. We can see the income that continues and the accessible money assigned to the remaining gap. The Reserve and other committed expenses already have jobs, so we can't spend those same dollars a second time.
 
@@ -1140,7 +1140,7 @@ Here's the benefit-timing comparison using the same spending and actual estimate
 
 **Overlay:**
 
-Cue “Morgan has separate dates” → Two people, two timelines; cue “specific gap still to solve” → Funding interval readback.
+Cue “their partner has separate dates” → Two people, two timelines; cue “specific gap still to solve” → Funding interval readback.
 
 **Verify:**
 
@@ -1260,7 +1260,7 @@ In the simple illustration, a $20,000 loan at 10% uses $2,000 of cash interest o
 
 I'm opening a weak period and the repayment year to follow the payment source, lender-specific collateral exposure, any top-up and any sale used to repay. Those risks belong beside the change in the plan result.
 
-The Reeds have no current Bitcoin-backed loan. If we choose ongoing borrowing as part of retirement funding, we save that policy in Retirement strategy. An unchosen one-time loan stays in its scenario. Before relying on a real loan, the separate loan lesson takes us through the actual contract and response resources.
+Our example household has no current Bitcoin-backed loan. If we choose ongoing borrowing as part of retirement funding, we save that policy in Retirement strategy. An unchosen one-time loan stays in its scenario. Before relying on a real loan, the separate loan lesson takes us through the actual contract and response resources.
 
 **Overlay:**
 
@@ -1346,7 +1346,7 @@ After 7.1, open Protect → Bitcoin access beside the existing Family Custody Ma
 
 **Narration:**
 
-We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. The Reeds have directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
+We're in Bitcoin access, where we're connecting the custody decision to the actual holdings. Our example household has directly held Bitcoin, professionally custodied Bitcoin and a Bitcoin ETF in a Roth IRA. Each has its own owner and access process, so we'll work through them separately.
 
 For this holding, we're recording what the money is for and who controls it today. If you're considering a move, that belongs beside the current arrangement as a planned change. We don't want the family reading a future intention as something that's already happened.
 
@@ -1358,7 +1358,7 @@ Holding / owner / current method / intended change / agreed person
 
 **Verify:**
 
-Saved record belongs to the correct holding; responsibility was actually agreed or is explicitly pending. No invented Reed contact, provider right, insurance or completed transfer.
+Saved record belongs to the correct holding; responsibility was actually agreed or is explicitly pending. No invented example household contact, provider right, insurance or completed transfer.
 
 **Capture dependency:**
 
@@ -1812,7 +1812,7 @@ Illustration: $400k need − $100k assets − $200k coverage = $100k gap
 
 **Verify:**
 
-Actual benefits, needs and resources stay distinct; no invented insurance solver, quote, adopted Reed policy or coverage cancellation. Necessary replacement must be active before recording old protection as safely removed.
+Actual benefits, needs and resources stay distinct; no invented insurance solver, quote, adopted example household policy or coverage cancellation. Necessary replacement must be active before recording old protection as safely removed.
 
 **Capture dependency:**
 
@@ -2046,7 +2046,7 @@ Review current cash flow/contributions, the selected spending state and the next
 
 Now let's connect the long-term plan to the next month of implementation. We need to see where the contribution goes, what it buys, and how it fits alongside the Reserve transfer and any extra debt payment in the same cash flow.
 
-The Reeds show why the timing matters. Their $500 current amount and $1,700 spending-reduction comparison come from different spending choices. The extra $1,605 from ending card payments is future money. We need the same consistency in your plan before assigning a dollar to its next job.
+Our example household shows why the timing matters. Their $500 current amount and $1,700 spending-reduction comparison come from different spending choices. The extra $1,605 from ending card payments is future money. We need the same consistency in your plan before assigning a dollar to its next job.
 
 From here, we'll read the next real action and what would show that it's complete. If you share household decisions, the summary can help you explain the spending, investment mix and first retirement funding period. The calculations can stay in the app; share what's useful for that conversation.
 
@@ -2058,7 +2058,7 @@ Use one spending state / future payoff money stays future / next real action
 
 **Verify:**
 
-No mixed cash-flow states or requirement to copy Reed choices. Household sharing optional; no invented learner outcome, submission or instructor approval.
+No mixed cash-flow states or requirement to copy example household choices. Household sharing optional; no invented learner outcome, submission or instructor approval.
 
 **Capture dependency:**
 

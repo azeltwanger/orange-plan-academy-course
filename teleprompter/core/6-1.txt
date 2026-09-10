@@ -10,7 +10,7 @@ Let's use a separate household to see how the gap is calculated. They have $96,0
 
 Nothing about their lifestyle changed between those two calculations. We included costs that were missing. And the withdrawal itself can raise tax, so the complete calculation has to account for that interaction. Gross income and total tax can work, or net deposits with withholding reconciled can work. Subtracting the same tax twice doesn't. Dividends already included in returns and cash can't become another source of growth and income either.
 
-Once that first year makes sense, the timeline shows us where the source may need to change. Alex wants work to be optional at 52, seven and a half years before 59½. Morgan is two years younger and has her own account-access and benefit dates. The year another income begins, healthcare changes or an account becomes usable deserves another look.
+Once that first year makes sense, the timeline shows us where the source may need to change. The client wants work to be optional at 52, seven and a half years before 59½. Their partner is two years younger and has their own account-access and benefit dates. The year another income begins, healthcare changes or an account becomes usable deserves another look.
 
 For each interval, we need money that's available then. Cash and taxable investments may fund the early years, but some of those balances already belong to the Reserve or another commitment. A large retirement-account balance doesn't automatically fill an accessible-money gap.
 

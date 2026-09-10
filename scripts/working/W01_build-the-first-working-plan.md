@@ -7,7 +7,7 @@ Sources: FOUNDATION, DICTATION, APP
 
 ### Production basis — not spoken
 
-Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged Reed fixture and a separately reviewed synthetic extension supply all household facts. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
+Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged example household data and a separately reviewed synthetic extension supply all household facts. Use [Client] and [Partner] as display labels throughout capture. [Client] owns the workplace plan and Roth IRA and has the age-52 work goal; [Partner] has the business income and a separate work timeline. Use these roles in account labels too. The original source identifiers are internal references, not filming labels. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
 
 #### Chapter 1 — Find the first task · after 0.1
 
@@ -17,7 +17,7 @@ Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e
 
 We're going to start building the plan from the information you have today. Here on Home, I'll open the plan and use Build & improve to get to the next piece we need.
 
-Before we add anything, notice the difference between these three examples. The Reeds' mortgage already exists, so it's a debt. College support is a future commitment with dates attached. The renovation is still an idea, so we'll compare it separately.
+Before we add anything, notice the difference between these three examples. Our example household's mortgage already exists, so it's a debt. College support is a future commitment with dates attached. The renovation is still an idea, so we'll compare it separately.
 
 Let's begin with the first account that needs attention, with the latest statement beside it. We'll work through that record before moving on, so we can see where each number comes from.
 
@@ -29,13 +29,13 @@ Let's begin with the first account that needs attention, with the latest stateme
 
 #### Chapter 2 — Review accounts and holdings · after 1.2
 
-**Show:** Use Home → Your Money to open the category-filtered Accounts view and one account detail. Review the existing checking account ($18,000), Alex Roth ($145,000) and direct-Bitcoin location (3.4 BTC) in separate takes. Use the approved contextual add/update entry only where a record is missing.
+**Show:** Use Home → Your Money to open the category-filtered Accounts view and one account detail. Review the existing checking account ($18,000), [Client] Roth IRA ($145,000) and direct-Bitcoin location (3.4 BTC) in separate takes. Use the approved contextual add/update entry only where a record is missing.
 
 **Narration:**
 
 Here we're looking at one account from the money category on Home. Before getting into what it owns, I'm matching its name, owner and account type to the statement. If it's already entered, this is the record we're reviewing. Adding another would count the same money twice.
 
-Alex's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
+The client's Roth IRA tells us the account type, but we still need the investments inside it. For cash, we're checking the balance. For the Bitcoin location, we're checking the quantity and where the coins are held, using a plain name without recovery information.
 
 After a correction is saved, I'll reopen the account beside the same statement. That lets us see whether the record now describes what the household actually owns.
 
@@ -71,7 +71,7 @@ That tells us what's ready to use and which part still needs our input. Next we'
 
 We know this Roth account is worth $145,000. What we're doing here is explaining that balance, so the plan knows how the money is invested.
 
-When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. The Reeds' teaching example has $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
+When the statement supplies actual investment names and quantities, those are what we use. If all we have is an approximate mix, it stays labeled as an estimate. In our example, there's $116,000 of spot Bitcoin-fund exposure and $29,000 of stocks inside the same $145,000 account. Those amounts explain the total; they don't increase it.
 
 Any cash needs to come from the statement too. We won't make an unexplained remainder into cash just to finish the record. After saving, let's reopen the account and make sure the composition explains the same total once. Any remaining difference stays visible until we can explain it.
 
@@ -101,13 +101,13 @@ I'll compare the household quantity before and after the history is attached. It
 
 #### Chapter 6 — Enter the starting monthly picture · after 1.2
 
-**Show:** Open Cash Flow → Income, Taxes and withholding, Everyday spending, Debt payments and Saving and investing as needed. Enter original source state only. Present the exact Reed cash bridge as a separate teaching graphic, never a fabricated app result.
+**Show:** Open Cash Flow → Income, Taxes and withholding, Everyday spending, Debt payments and Saving and investing as needed. Enter original source state only. Present the exact example household cash bridge as a separate teaching graphic, never a fabricated app result.
 
 **Narration:**
 
-Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. Alex's gross pay is before deductions. Morgan's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
+Now we're connecting the accounts to the money moving through the household each month. The first thing I'm checking is what each income amount includes. The client's gross pay is before deductions. Their partner's example income is after ordinary business costs, but the equipment payment is counted separately. Those meanings need to match the fields.
 
-In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. Alex's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
+In our teaching calculation, gross income is about $19,417 a month. After the $4,000 tax allowance, $10,800 living costs and about $3,342 required debt, there's $1,275. The client's $775 contribution leaves $500 for other priorities. The employer's $387.50 goes into retirement saving; it isn't bill money.
 
 Let's follow the app's actual result from its income and tax inputs. If it differs from the illustration, we need to understand those inputs before assigning another transfer. That's the monthly picture we'll use when we record the retirement question next.
 
@@ -119,11 +119,11 @@ Let's follow the app's actual result from its income and tax inputs. If it diffe
 
 #### Chapter 7 — Record each person’s retirement question · after 1.2
 
-**Show:** Use Plan → Build & improve to reach the accepted retirement timing and spending owners. Enter Alex’s intended age 52, Morgan’s separately supported timeline and the reviewed fictional spending/benefit/horizon extension. Show each date and dollar basis before saving.
+**Show:** Use Plan → Build & improve to reach the accepted retirement timing and spending owners. Enter [Client]’s intended age 52, [Partner]’s separately supported timeline and the reviewed fictional spending/benefit/horizon extension. Show each date and dollar basis before saving.
 
 **Narration:**
 
-With the starting facts in place, we can enter the work-change question you wrote down at the beginning. Alex wants work to become optional at 52. That records his intention; the calculation will test whether it can be funded. Morgan's income stays on its own timeline.
+With the starting facts in place, we can enter the work-change question you wrote down at the beginning. The client wants work to become optional at 52. That records their intention; the calculation will test whether it can be funded. Their partner's income stays on its own timeline.
 
 For retirement spending, we'll begin with current costs, remove the ones that really end and add healthcare or other costs that begin. The dollar units shown here matter, so we don't apply inflation twice. Any Social Security or pension estimate belongs to the right person and start date.
 

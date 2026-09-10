@@ -19,7 +19,7 @@ Say your car insurance costs $1,200 a year and you pay it all at once. That uses
 
 The same kind of mismatch can happen with income. When we start from gross pay, taxes and other payroll deductions still need accounting for. When we start from the deposit in your bank, they've already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
 
-Sales aren't all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. Morgan's income in our example is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
+Sales aren't all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. In our example, the partner's income is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
 
 That's why I'd look across more than one month. A full year helps bring back the costs that are easy to forget, like annual insurance, gifts and expenses around the holidays. The bills still need money even when they don't show up on this month's statement.
 
@@ -33,11 +33,11 @@ An older card balance you're still paying off is different. That repayment needs
 
 Something else you'll see leaving checking is money transferred to savings or investments. That has a different job from money spent on your lifestyle. Keeping those movements separate helps us see how much you're already saving, before we decide what anything left over can do.
 
-Alex and Morgan earn about $19,417 a month between them. For this example, we're allowing $4,000 a month for taxes. That's an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
+Our example household earns about $19,417 a month between them. For this example, we're allowing $4,000 a month for taxes. That's an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
 
-Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before Alex's retirement contribution.
+Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before the client's retirement contribution.
 
-The employer money adds retirement savings without adding money for bills. Alex contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
+The employer money adds retirement savings without adding money for bills. The client contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
 
 So we've calculated $500. The next question is whether that agrees with their accounts. It might be accumulating in checking, moving into savings or paying for something missing from the plan. Looking across a few months helps us follow it. A balance just before payday can be very different from one just after, even when the monthly totals are right.
 
@@ -63,11 +63,11 @@ That's why I'd look at recurring bills before spending hours trying to squeeze a
 
 For example, moving somewhere cheaper might lower the housing bill, but add a longer commute or move you away from people who help with the kids. A less expensive car might reduce a payment, but selling the current one could require cash to clear the loan. Compare the whole change, not just the bill that gets smaller.
 
-The Reeds' original living spending is $10,800 a month. With the other costs and Alex's retirement contribution already accounted for, they have $500 left. We're going to compare reducing that living spending by $1,200 a month, bringing it down to $9,600.
+Our example household's original living spending is $10,800 a month. With the other costs and the client's retirement contribution already accounted for, they have $500 left. We're going to compare reducing that living spending by $1,200 a month, bringing it down to $9,600.
 
 If everything else stays the same, that gives them $1,700 for their other priorities instead of $500. They haven't increased their income or changed an investment assumption. They would be keeping more of the money they already earn.
 
-For now, that $1,200 is a reduction we're testing. We haven't established which bills would make it possible. Before the Reeds rely on it, they need to choose those changes and when they begin. The same is true in your plan: the lower spending number needs an actual change behind it.
+For now, that $1,200 is a reduction we're testing. We haven't established which bills would make it possible. Before they rely on it, they need to choose those changes and when they begin. The same is true in your plan: the lower spending number needs an actual change behind it.
 
 Some changes won't start immediately. You might have a contract to finish or a renewal coming up. Keep the current cost in the starting picture until it changes, and include the future reduction at the time you expect it. We'll work through those dated changes in Life Events.
 
@@ -83,7 +83,7 @@ We'll use the walkthrough to check your spending against the records and compare
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
-| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an added Reed expense. |
+| Say your car insurance costs $1,200 a year | Generic example: $1,200/year ÷ 12 = $100/month | Use a separate graphic; this is not an additional expense for our example household. |
 | The groceries are spending. | Count the purchase once; the card payment settles it. | Connect one purchase to its settlement. |
 | The employer money adds retirement savings | Employer money stays outside the household spending pool. | Keep it outside the cash bridge. |
 | the amount left for their other priorities is $500. | Original example: $1,275 − $775 = $500 | Footnote the $4,000 teaching tax provision. |
@@ -101,6 +101,6 @@ Your spending method and source period are recorded. Monthly available money rec
 
 ### Source and production notes — not spoken
 
-Cash Flow + Reserve deck: usable surplus and Keep/Cut/Reduce steps. The original $500 and proposed $1,700 are distinct states. The $1,200 reduction is not itemized in the source; no fictional cancellation history is added. Normal living ($10,800 or proposed $9,600) excludes separately counted required debt; Reserve essentials $7,200 includes required household debt. Generic $40/month = $480/year saving and annual-premium examples are not Reed invoices. Withholding is not calculated liability.
+Cash Flow + Reserve deck: usable surplus and Keep/Cut/Reduce steps. The original $500 and proposed $1,700 are distinct states. The $1,200 reduction is not itemized in the source; no fictional cancellation history is added. Normal living ($10,800 or proposed $9,600) excludes separately counted required debt; Reserve essentials $7,200 includes required household debt. Generic $40/month = $480/year saving and annual-premium examples are not example household invoices. Withholding is not calculated liability.
 
 Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

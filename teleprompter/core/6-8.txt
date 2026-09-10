@@ -6,7 +6,7 @@ There are two different numbers you may see in this process. A standing portfoli
 
 Underneath that review, Orange Plan uses an 80% target, with triggers at 60% or below and 95% or above. Between the triggers, the normal suggestion is the inflation-adjusted amount. At a trigger, it moves toward spending associated with the target, with the suggested annual correction capped at 10% of the inflation-adjusted amount. These percentages describe model runs meeting the funding test, not a guaranteed outcome. Other spending methods use different rules from Orange Plan, so we don't combine their starting rates and adjustment percentages with this policy.
 
-Let's follow a separate household through the dollars. Last year's budget was $100,000. With 3% inflation, the starting amount becomes $103,000. Suppose that amount gives a 55% result and the model finds $86,000 at the 80% target. Those two results are made up to explain the process; they aren't the Reeds' results.
+Let's follow a separate household through the dollars. Last year's budget was $100,000. With 3% inflation, the starting amount becomes $103,000. Suppose that amount gives a 55% result and the model finds $86,000 at the 80% target. Those two results are made up to explain the process; they aren't our example household's results.
 
 The lower trigger is crossed. Ten percent of $103,000 is $10,300, which gives a capped suggestion of $92,700. That's $7,300 below last year's budget and $10,300 below the inflation-adjusted budget. The cap hasn't restored 80% confidence; the example's target amount is still lower. We need to read the remaining difficult years, rather than apply the annual correction several times in one sitting.
 

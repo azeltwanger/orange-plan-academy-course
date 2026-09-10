@@ -59,7 +59,7 @@ In the walkthrough, we'll prepare that packet and follow the transaction back to
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../../delivery/consolidation.md). Financial source review remains in [the technical review](../../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../../delivery/consolidation.md). Financial source review remains in [the technical review](../../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Retains source reconstruction, 0.1 BTC transfer, original three lots, carryforward continuity, timely identification and securities IRA-replacement consequence. The September 8/10 technical record governs existing temporary broker-held identification relief; no date-specific relief is extended in evergreen speech. Provider behavior and tax-data export coverage need actual capture evidence.
 

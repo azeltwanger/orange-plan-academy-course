@@ -7,17 +7,17 @@ Sources: CASHFLOW, DICTATION, OWNER, APP
 
 ### Production basis — not spoken
 
-Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged Reed fixture and a separately reviewed synthetic extension supply all household facts. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
+Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged example household data and a separately reviewed synthetic extension supply all household facts. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
 
 #### Chapter 1 — Follow the monthly money · after 2.1
 
-**Show:** Open Cash Flow → Income and Taxes and withholding, then the summary’s debt and saving routes. Reconcile original income with a synthetic pay-stub/statement source. Show the precise Reed bridge as its own graphic.
+**Show:** Open Cash Flow → Income and Taxes and withholding, then the summary’s debt and saving routes. Reconcile original income with a synthetic pay-stub/statement source. Show the precise example household bridge as its own graphic.
 
 **Narration:**
 
-We've entered a starting monthly picture. Here we're checking whether it agrees with the records before using the amount left over. I'll begin with the income source, because gross pay still has deductions to account for while a bank deposit already has them taken out. Morgan's ordinary business costs are deducted, but the equipment payment remains separate.
+We've entered a starting monthly picture. Here we're checking whether it agrees with the records before using the amount left over. I'll begin with the income source, because gross pay still has deductions to account for while a bank deposit already has them taken out. In our example, the partner's ordinary business costs are deducted, but the equipment payment remains separate.
 
-In our original teaching calculation, $1,275 before Alex's $775 contribution becomes $500 afterward. The employer adds $387.50 to retirement money. Let's follow where the remaining household cash actually went: checking, saving or a cost we haven't included.
+In our original teaching calculation, $1,275 before the client's $775 contribution becomes $500 afterward. The employer adds $387.50 to retirement money. Let's follow where the remaining household cash actually went: checking, saving or a cost we haven't included.
 
 Any difference needs resolving at its source. A withholding change affects cash available and the amount still due; it doesn't by itself change the calculated tax obligation. Once the income side makes sense, we can look more closely at the spending period.
 
@@ -53,7 +53,7 @@ Once the supported estimate is saved, let's look at when the money leaves. Check
 
 Now we can use the spending records to compare a change you'd actually make. With Keep, Cut and Reduce, we're asking which costs are worth their price, which you no longer choose and which could cost less without giving up something you need. Fees and lost coverage belong in that last decision.
 
-The Reeds' proposal cuts living costs by $1,200 a month. In the teaching example, that changes the amount available from $500 to $1,700. They still need to identify the bills that make it possible. We'll compare the proposal first, then record when the real change begins and update current spending once it has happened. Saving a lower figure doesn't cancel a service.
+Our example household's proposal cuts living costs by $1,200 a month. In the teaching example, that changes the amount available from $500 to $1,700. They still need to identify the bills that make it possible. We'll compare the proposal first, then record when the real change begins and update current spending once it has happened. Saving a lower figure doesn't cancel a service.
 
 For the Reserve and Debt examples that follow, we're testing this reduced-spending version. Your actual surplus stays unchanged until those spending changes happen. Keep that distinction with the number as we move on.
 
@@ -69,7 +69,7 @@ For the Reserve and Debt examples that follow, we're testing this reduced-spendi
 
 **Narration:**
 
-Let's give the Reserve a target using the essential costs from the lesson. The Reeds' $7,200 includes required household debt, so we're not adding those payments again. Testing six months gives a $43,200 target.
+Let's give the Reserve a target using the essential costs from the lesson. Our example household's $7,200 includes required household debt, so we're not adding those payments again. Testing six months gives a $43,200 target.
 
 Now we're looking at the existing money available for that job. Checking money for near-term bills, tax money and other committed amounts stay out of this assignment. Access matters too: pledged Bitcoin or money you can't readily use isn't the same as available cash.
 
@@ -83,19 +83,19 @@ The example assigns $32,000, leaving $11,200 to fund. We haven't added an asset;
 
 #### Chapter 5 — Choose the Reserve pace beside Debt · after 2.3
 
-**Show:** Carry the same gap into the approved Reserve funding/contribution owner. Show proposed $500/month beside the reduced-state $1,700 pool and anticipated $1,200 extra-card claim. Use a separate cash-coverage comparison for dependents or reliance on one income, then return to the unchanged Reed split.
+**Show:** Carry the same gap into the approved Reserve funding/contribution owner. Show proposed $500/month beside the reduced-state $1,700 pool and anticipated $1,200 extra-card claim. Use a separate cash-coverage comparison for dependents or reliance on one income, then return to the unchanged example household split.
 
 **Narration:**
 
 We're still testing the reduced-spending version with $1,700 available. Your actual surplus stays unchanged until those spending changes happen. At $500 a month, the $11,200 Reserve gap takes 22.4 months, reaching the target with part of the twenty-third deposit before interest or withdrawals. That's almost two years to consider alongside the risk we're covering.
 
-I'd give accessible cash more weight when dependents rely on one income and an interruption would otherwise require more borrowing. Building it faster may be worth slower extra-debt repayment, with required payments still covered. The Reeds have a stable paycheck and variable business income; they aren't a single-income example.
+I'd give accessible cash more weight when dependents rely on one income and an interruption would otherwise require more borrowing. Building it faster may be worth slower extra-debt repayment, with required payments still covered. Our example household has a stable paycheck and variable business income; they aren't a single-income example.
 
 Their proposed $500 Reserve pace leaves $1,200 of the same $1,700 for the card. We'll carry that split into Debt before settling it. The bank transfer comes after the combined decision, when we know the two choices fit together.
 
 **Overlay:** Proposed: $500 Reserve + $1,200 extra card = $1,700 once
 
-**Verify:** Pace is affordable from the same pool, gap stays visible and required payments remain covered. Faster Reserve is explained as a conditional trade-off, not a new Reed contribution or fixed threshold.
+**Verify:** Pace is affordable from the same pool, gap stays visible and required payments remain covered. Faster Reserve is explained as a conditional trade-off, not a new example household contribution or fixed threshold.
 
 **Capture dependency:** Actual contribution owner, pace save/readback and any affordability display. Final transfer is outside the app. Keep the 22.4 arithmetic off an app screen unless its semantics match; no invented calendar funding date or automatic recommendation.
 
@@ -115,7 +115,7 @@ We'll keep the possible renovation in its own comparison until it's chosen. And 
 
 **Verify:** Expense and income changes occur once at the correct time/person; source funding is supported, not inferred. Renovation remains separate; planned-to-current update creates no duplicate effect.
 
-**Capture dependency:** Life-event owner, supported source/account attribution, recurrence, inflation units, event-to-asset/debt treatment and save/readback. Reed vehicle timing is about three years; exact dates and amount need capture extension. Generic $30,000 car is not a fixture price. Unsupported attribution remains unresolved.
+**Capture dependency:** Life-event owner, supported source/account attribution, recurrence, inflation units, event-to-asset/debt treatment and save/readback. Example household vehicle timing is about three years; exact dates and amount need capture extension. Generic $30,000 car is not a fixture price. Unsupported attribution remains unresolved.
 
 #### Chapter 7 — Fit education support beside the same cash · optional after 2.5
 

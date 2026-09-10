@@ -33,7 +33,7 @@ The required period generally runs until the later of five years from the first 
 
 The household also needs to be able to maintain that schedule through a weak market or changing spending. An improper modification can lead to retroactive additional tax and interest. That's why the calculation and setup need review before the income becomes part of the retirement funding we're relying on.
 
-For Alex and Morgan, we're doing this separately for each person's account and dates. Alex's age doesn't make Morgan's money available. A special route earns its place when it helps fund the actual gap; accessible savings may preserve more flexibility when they can do the job.
+For our example household, we're doing this separately for each person's account and dates. The client's age doesn't make their partner's money available. A special route earns its place when it helps fund the actual gap; accessible savings may preserve more flexibility when they can do the job.
 
 In the walkthrough, we'll connect the route to its person, account, amount and dates, with the tax treatment, evidence and actions that could invalidate it. The provider and tax professional confirm their respective parts before a dependent transaction. Then we'll put that source back on the retirement timeline and continue to healthcare, knowing which early years it can support.
 
@@ -53,7 +53,7 @@ In the walkthrough, we'll connect the route to its person, account, amount and d
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../../delivery/consolidation.md). Financial source review remains in [the technical review](../../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../../delivery/consolidation.md). Financial source review remains in [the technical review](../../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Retains Roth contribution/conversion/earnings distinctions, Rule of 55 employer-plan scope, governmental 457(b) rolled-in amounts, SEPP employer separation and later-of-five-years-or-59½ duration. No individualized payment or new age exception is introduced. IRS Publication 590-B re-opened September 10; existing technical review records the exception chart and SEPP sources. Exact dates and provider permissions remain external evidence.
 

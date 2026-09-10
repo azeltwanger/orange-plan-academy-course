@@ -23,7 +23,7 @@ Let's use a separate household to see how the gap is calculated. They have $96,0
 
 Nothing about their lifestyle changed between those two calculations. We included costs that were missing. And the withdrawal itself can raise tax, so the complete calculation has to account for that interaction. Gross income and total tax can work, or net deposits with withholding reconciled can work. Subtracting the same tax twice doesn't. Dividends already included in returns and cash can't become another source of growth and income either.
 
-Once that first year makes sense, the timeline shows us where the source may need to change. Alex wants work to be optional at 52, seven and a half years before 59½. Morgan is two years younger and has her own account-access and benefit dates. The year another income begins, healthcare changes or an account becomes usable deserves another look.
+Once that first year makes sense, the timeline shows us where the source may need to change. The client wants work to be optional at 52, seven and a half years before 59½. Their partner is two years younger and has their own account-access and benefit dates. The year another income begins, healthcare changes or an account becomes usable deserves another look.
 
 For each interval, we need money that's available then. Cash and taxable investments may fund the early years, but some of those balances already belong to the Reserve or another commitment. A large retirement-account balance doesn't automatically fill an accessible-money gap.
 
@@ -48,7 +48,7 @@ In the walkthrough, we'll open the first retirement year and follow income, cost
 | Your current spending gives us somewhere to start. | 1 · Retirement spending | Essentials / flexible / dated events. |
 | Then there's the income that continues. | 2 · Income by person and start date | Identify variable income separately. |
 | Let's use a separate household to see how the gap is calculated. | 3 · All costs − income = funding gap | Illustration: $126,000 − $40,000 = $86,000. |
-| the timeline shows us where the source may need to change. | 4 · Trace the important years | Alex: 52 → 59½ = 7½ years; Morgan has separate dates. |
+| the timeline shows us where the source may need to change. | 4 · Trace the important years | [Client]: 52 → 59½ = 7½ years; [Partner] has separate dates. |
 | Now we can follow the withdrawal itself. | 5 · Account → investment sold → cash for bills | Distinguish account order and asset sale order. |
 
 ### Walkthrough handoff — not spoken
@@ -57,9 +57,9 @@ In the walkthrough, we'll open the first retirement year and follow income, cost
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Retirement deck steps 1–4 and funding waterfall, with required distributions handled under their actual dates and no universal Roth-last or taxable-only rule. Preserve rough $68,000 gap versus separate $86,000 complete-cost illustration, not an engine tax solution. All spouse dates, benefit estimates and dollar conventions need source evidence. SSA own-benefit delayed-credit age 70 retained from dated source review. No actual Reed feasibility result is supplied.
+Retirement deck steps 1–4 and funding waterfall, with required distributions handled under their actual dates and no universal Roth-last or taxable-only rule. Preserve rough $68,000 gap versus separate $86,000 complete-cost illustration, not an engine tax solution. All spouse dates, benefit estimates and dollar conventions need source evidence. SSA own-benefit delayed-credit age 70 retained from dated source review. No actual example household feasibility result is supplied.
 
 ### Member checkpoint
 

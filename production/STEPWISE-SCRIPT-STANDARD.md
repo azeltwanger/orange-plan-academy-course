@@ -19,7 +19,7 @@ Austin's September 10 direction: use the slide steps; each lesson says what to d
 Keep the existing W01–W10 and D07 IDs and chapter numbers so the course map remains stable. Update old lesson references to their current consolidated IDs. Each chapter contains:
 
 1. `**Show:**` a specific action and the information on screen, using PR #227's intended owner and flow.
-2. `**Narration:**` complete speech for that action. No quotes around the whole block, no placeholders and no instructions to the editor. Never state an unverified calculated result as fact.
+2. `**Narration:**` complete speech for that action. No quotes around the whole block, no unfinished narration placeholders and no instructions to the editor. Generic [Client] / [Partner] labels belong in screen directions; say “the client” / “their partner” in speech. Never state an unverified calculated result as fact.
 3. `**Overlay:**` brief text tied to that scene.
 4. `**Verify:**` what must be visible or saved at the end, and the error that would invalidate the demonstration.
 5. `**Capture dependency:**` the exact screen, calculation or safe procedure to verify before filming. This is production metadata, not learner narration.

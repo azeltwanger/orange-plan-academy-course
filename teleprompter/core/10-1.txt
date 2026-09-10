@@ -10,7 +10,7 @@ If the result is weaker than you need, that gives us a place to work. First corr
 
 From there, follow the money available today. The employee contribution, Reserve funding, extra debt payment and other investment instructions need to fit the same cash flow. Employer money belongs in retirement saving, but it isn't available for another household transfer.
 
-The Reeds started with $500 available. Their spending-reduction comparison leaves $1,700. The plan needs to use the spending that goes with the amount they've chosen. And the future $1,605 from ending the card payments isn't available today. Those are different points in the plan, and mixing them would assign money before it exists.
+Our example household started with $500 available. Their spending-reduction comparison leaves $1,700. The plan needs to use the spending that goes with the amount they've chosen. And the future $1,605 from ending the card payments isn't available today. Those are different points in the plan, and mixing them would assign money before it exists.
 
 Now look at the portfolio by the job each amount does. Some money is available soon, some supports the years before retirement-account access, and some can stay invested much longer. The Bitcoin position and the other holdings need to make sense together, with account access that matches those dates.
 

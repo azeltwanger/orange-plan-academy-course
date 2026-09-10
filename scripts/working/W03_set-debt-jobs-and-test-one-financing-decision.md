@@ -7,7 +7,7 @@ Sources: DEBT, OWNER, APP
 
 ### Production basis — not spoken
 
-Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged Reed fixture and a separately reviewed synthetic extension supply all household facts. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
+Use PR #227 accepted direction at reference head `21fedfbb1290bfdd637f3b0879bf7e7d6bfdbbc2`; the [latest directive](https://github.com/azeltwanger/orange-plan/pull/227#issuecomment-5618008737) governs future behavior. This is a capture manuscript, not proof that the planned screens or writers ship. The unchanged example household data and a separately reviewed synthetic extension supply all household facts. Use separate takes after the paired lessons. Only Narration blocks are spoken; overlays are added in editing. All amounts inside an app recording must come from its actual inputs and result. Common rules: [stepwise script standard](../../production/STEPWISE-SCRIPT-STANDARD.md).
 
 #### Chapter 1 — Verify payments and changing terms · after 3.1
 
@@ -19,7 +19,7 @@ We're going to look at what the existing debts require before deciding about ext
 
 The home-equity line has a different issue. Its interest-only payment leaves principal to repay later, so the payment-change date and exit matter. Let's keep those beside the cash-flow picture.
 
-The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and Alex's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
+The teaching payments are about 17% of gross income, but the original example has only $500 after other costs and the client's contribution. The ratio doesn't give us extra payment money. That $500 and any proposed spending change are the starting point for choosing what each debt does next.
 
 **Overlay:** Required payment → interest + principal; DTI does not equal surplus
 
@@ -33,7 +33,7 @@ The teaching payments are about 17% of gross income, but the original example ha
 
 **Narration:**
 
-Here we're separating the household's overall debt from one loan's collateral requirements. The Reeds' included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
+Here we're separating the household's overall debt from one loan's collateral requirements. Our example household's included assets are $1,996,000 before subtracting debt. Against $444,500 owed, that's about 22% debt-to-assets. The home and restricted or dedicated accounts aren't all cash available for repayment.
 
 In the partial stress illustration, included assets fall to $1,217,200 while debt stays the same. The ratio moves to about 37%. That shows what a fall in asset values does to the household measure.
 
@@ -41,7 +41,7 @@ Now consider the separate lender test. With fixed debt and an assumed 80% liquid
 
 **Overlay:** Household DTA: 22.27% → 36.52% · One loan’s LTV uses pledged collateral
 
-**Verify:** Assets/debt/net-worth denominators remain distinct. Stress assumptions/exclusions are visible. No Reed Bitcoin loan or integrated worst-case result is fabricated.
+**Verify:** Assets/debt/net-worth denominators remain distinct. Stress assumptions/exclusions are visible. No example household Bitcoin loan or integrated worst-case result is fabricated.
 
 **Capture dependency:** Exact supported asset denominator and scenario fields. Source partial stress: BTC exposure −70%, selected stocks −30%, home −20%; education/health unchanged; vehicle/business values omitted while debts included. Fixed-debt threshold graphics are hypothetical, not lender offers.
 
@@ -83,7 +83,7 @@ We'll keep any contract term the app doesn't represent beside the comparison and
 
 #### Chapter 5 — Write funded repayment and response rules · after 3.6; A3.1 when relevant
 
-**Show:** Use the existing debt instructions/worksheet alongside Debt for actual loans or Plan → Scenarios for proposals. Record purpose, amount, payment source, principal exit, dates, fallback, operator and backup. For A3.1 only, use a separate generic $50,000/3.5 BTC sizing graphic and an authorized non-broadcast procedure diagram; do not create a Reed Bitcoin loan or initiate a real top-up.
+**Show:** Use the existing debt instructions/worksheet alongside Debt for actual loans or Plan → Scenarios for proposals. Record purpose, amount, payment source, principal exit, dates, fallback, operator and backup. For A3.1 only, use a separate generic $50,000/3.5 BTC sizing graphic and an authorized non-broadcast procedure diagram; do not create an example household Bitcoin loan or initiate a real top-up.
 
 **Narration:**
 
@@ -111,7 +111,7 @@ Repeat borrowing uses the same supporting resources too. In the recurring illust
 
 **Narration:**
 
-Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before Alex's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
+Let's bring the debt choice back to Cash Flow and see the same money one more time. In the reduced-spending illustration, $2,475 before the client's $775 contribution becomes $1,700 afterward. The $500 Reserve and $1,200 extra-card plan use that amount once, so there isn't another amount to invest now.
 
 When the card is actually paid off, we'll verify which payments ended and whether any charge remains. The example's $405 required plus $1,200 extra would release $1,605 if those were still being paid. That future money needs a new decision; payoff doesn't automatically send it into investments.
 

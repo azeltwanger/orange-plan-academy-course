@@ -15,7 +15,7 @@ We've worked out what your household can save, how much cash you want available,
 
 I'd start by looking at what you already own across all of your accounts. It's easy to look at the Bitcoin in your wallet and forget that a retirement account also holds a Bitcoin fund. Those amounts belong together when we're talking about exposure to Bitcoin's price.
 
-For the Reeds, that's $410,000 of Bitcoin and $318,000 of spot Bitcoin-fund exposure. Together, that's $728,000 out of the $1,307,000 portfolio we're using here, or about 56%. They own 4.1 Bitcoin outside the funds: 3.4 in self-custody and 0.7 with a professional custodian. The funds are still securities in retirement accounts. Adding their dollar exposure doesn't give the Reeds more coins in their own wallets.
+For our example household, that's $410,000 of Bitcoin and $318,000 of spot Bitcoin-fund exposure. Together, that's $728,000 out of the $1,307,000 portfolio we're using here, or about 56%. They own 4.1 Bitcoin outside the funds: 3.4 in self-custody and 0.7 with a professional custodian. The funds are still securities in retirement accounts. Adding their dollar exposure doesn't give our example household more coins in their own wallets.
 
 That percentage only makes sense when we know what went into it. This example leaves out the home and dedicated HSA and education money because those have other jobs. When we compare their current mix with a target, we're going to use that same group of assets. And we're adding the dollars first. Averaging the percentages from a small account and a large account would give us the wrong household mix.
 
@@ -50,7 +50,7 @@ In the walkthrough, we'll put your proposed mix beside what you already own and 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
 | looking at what you already own across all of your accounts. | 1 · Add holdings across accounts | Step title; show account dollars before percentages. |
-| Together, that's $728,000 | Reed illustration: $728,000 ÷ $1,307,000 ≈ 56% | Keep direct Bitcoin / funds separate in two rows. |
+| Together, that's $728,000 | example household illustration: $728,000 ÷ $1,307,000 ≈ 56% | Keep direct Bitcoin / funds separate in two rows. |
 | the role you want Bitcoin to have. | 2 · Choose Bitcoin's role | Show four named discussion ranges, labeled illustrative. |
 | The spending commitments help us put an amount around that. | 3 · Fund dated commitments | Show Reserve + distinct expenses; avoid duplicate totals. |
 | the remaining investments can have a longer runway. | 4 · Choose the remaining investments | Show purpose / access / risk / cost. |
@@ -62,9 +62,9 @@ In the walkthrough, we'll put your proposed mix beside what you already own and 
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
-Allocation deck steps 1–5 retained. Four path ranges are orientation, not suitability rankings. Preserve the $1,307,000 Reed subset and separate $1 million teaching household. The 75% drawdown is a hypothetical partial stress, not a frequency claim or full model run. Future Plan → Portfolio and allocation reads the canonical Reserve assignment; next-dollar amounts and the eligible denominator require actual build verification.
+Allocation deck steps 1–5 retained. Four path ranges are orientation, not suitability rankings. Preserve the $1,307,000 example household subset and separate $1 million teaching household. The 75% drawdown is a hypothetical partial stress, not a frequency claim or full model run. Future Plan → Portfolio and allocation reads the canonical Reserve assignment; next-dollar amounts and the eligible denominator require actual build verification.
 
 ### Member checkpoint
 

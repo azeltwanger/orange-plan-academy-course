@@ -35,7 +35,7 @@ Securities-backed credit adds a use restriction check. A non-purpose line genera
 
 Retirement-plan loans add employment and plan-rule consequences. Read what happens if the job ends or payments fail, and how repayment affects other saving. Interest returning to the plan doesn't make the lost flexibility and investment exposure irrelevant.
 
-For the Reeds' project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment isn't funded. They may decide not to do the project for now.
+For our example household's project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment isn't funded. They may decide not to do the project for now.
 
 We can still use Orange Plan for the parts it supports, with the actual payment and settlement schedule beside the comparison. If it doesn't represent an important contract term, using an ordinary loan as a substitute doesn't show how the full agreement behaves.
 

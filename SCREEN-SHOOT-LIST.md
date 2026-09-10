@@ -24,7 +24,7 @@ Each debt has verified payment terms and a chosen job or a precise missing contr
 
 [Run sheet](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md)
 
-Current target and contributions agree with the same funded household state. Each contribution has an amount, account, investment, tax election and timing; provider execution has evidence or a dated pending action. No claim that the Reed target or future split is prescribed for another household.
+Current target and contributions agree with the same funded household state. Each contribution has an amount, account, investment, tax election and timing; provider execution has evidence or a dated pending action. No claim that the example household target or future split is prescribed for another household.
 
 ## W05 — Reconcile tax records and prepare one useful comparison
 

@@ -1,6 +1,6 @@
 Here's the tax roadmap. We're looking for a year when the household's income changes enough that a withdrawal or conversion might be worth comparing.
 
-I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. Alex stopping work doesn't automatically make the household's income low if other income continues.
+I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. The client stopping work doesn't automatically make the household's income low if other income continues.
 
 Now we can compare that year with the next important income change. If there's a lower-income interval, we have a reason to examine it. We still need the total cost of adding income, including effects beyond the tax bracket.
 

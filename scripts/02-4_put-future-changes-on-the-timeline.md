@@ -13,13 +13,13 @@ Add one expected change with its amount, timing and funding. Keep an unchosen po
 
 So far we've been working with what your household looks like today. But retirement planning also needs room for things you already expect to change. In this lesson, we'll bring those changes into the timeline and look at how they'll be funded. That could be a vehicle, college, a move or one person's work changing. The useful part is seeing the cost before it arrives.
 
-Alex and Morgan expect to replace a vehicle in about three years. They're also considering a renovation in two years. The vehicle is something they intend to prepare for. The renovation is still a decision. They want to see what it would mean before committing to it.
+Our example household expects to replace a vehicle in about three years. They're also considering a renovation in two years. The vehicle is something they intend to prepare for. The renovation is still a decision. They want to see what it would mean before committing to it.
 
 That's the distinction between an expected Life Event and a scenario. Include the vehicle in the plan they're building toward. Compare the renovation separately until they decide to do it. A real cost stays in the plan even when it makes the projection look worse. And running the numbers on an idea doesn't mean you've committed to it.
 
 To put either one into a comparison, we need more than the price. We need to know how the change happens. A purchase happens once; a recurring expense continues. Income may change on a particular date and change again later. Those describe different needs even when the dollar amount looks similar.
 
-For a simple illustration, paying $30,000 in cash for a car is a one-time cost. It doesn't mean you spend an extra $30,000 every year. Financing a car is different: some money may leave now as a down payment, and the loan payments continue afterward. This isn't a vehicle quote for Alex and Morgan. It's a way to see why the amount alone doesn't explain the event.
+For a simple illustration, paying $30,000 in cash for a car is a one-time cost. It doesn't mean you spend an extra $30,000 every year. Financing a car is different: some money may leave now as a down payment, and the loan payments continue afterward. This isn't a vehicle quote for our example household. It's a way to see why the amount alone doesn't explain the event.
 
 The same applies when a cost ends. A recurring expense stopping next year should affect the months after it stops, not make your current spending look lower before it happens. A temporary expense should also have an end instead of continuing for the rest of the plan.
 
@@ -58,7 +58,7 @@ Let's add the next expected change and work through that funding in the walkthro
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
 | The vehicle is something they intend to prepare for. | Expected vehicle → Life event · Possible renovation → Scenario | Fictional household; preserve relative timing only. |
-| paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the Reed vehicle. |
+| paying $30,000 in cash for a car | Generic illustration: one purchase ≠ $30,000 every year | Clearly separate from the example household vehicle. |
 | If it's in today's dollars and Orange Plan applies inflation | Amount · Date · Frequency · Dollar basis | Reveal alongside entry explanation. |
 | there are two connected parts | Save before the event → Spend the balance when due | Show one pot of money changing over time. |
 | its market value isn't all money you can spend. | Home sale: value − debt − costs − any tax | No invented tax figure. |
@@ -74,6 +74,6 @@ An expected event has the right person, timing, recurrence and dollar convention
 
 ### Source and production notes — not spoken
 
-Foundation and Cash Flow life-event steps; original August 25 dictation. Reed vehicle timing is about three years; possible renovation about two. The generic $30,000 car is not its quoted price. Final amount/date/account attribution requires the capture extension. Purchase funding, proceeds, down payment and repayment must reconcile once; unsupported attribution cannot be inferred from a balance. No automatic goal-specific transfer is promised.
+Foundation and Cash Flow life-event steps; original August 25 dictation. Example household vehicle timing is about three years; possible renovation about two. The generic $30,000 car is not its quoted price. Final amount/date/account attribution requires the capture extension. Purchase funding, proceeds, down payment and repayment must reconcile once; unsupported attribution cannot be inferred from a balance. No automatic goal-specific transfer is promised.
 
 Source provenance remains in [../production/consolidation.json](../production/consolidation.json), the original source-material and the dated [../reference/script-finishing-sources.md](../reference/script-finishing-sources.md). New transitions are edited speech, not historical quotations. Film the paired walkthrough after its capture dependencies are verified; common production rules are in [the script standard](../production/STEPWISE-SCRIPT-STANDARD.md).

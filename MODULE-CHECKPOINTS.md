@@ -16,7 +16,7 @@ The saved assumption set and spending units are understood. One weaker-path comp
 
 ## Read the result and find the next useful change
 
-You can identify the date, spending, horizon and freshness of the result, explain one funding year and retain the current plan or name a specific correction/comparison. Any AI explanation agrees with the underlying evidence.
+You can identify the date, spending, horizon and freshness of the result, explain one funding year and retain the current plan or name a specific correction/comparison.
 
 ## Decide what you can afford to save
 

@@ -53,7 +53,7 @@ In the walkthrough, we'll follow one sale from proceeds through basis, gain, est
 
 ### Source and production notes — not spoken
 
-September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The Reed fixture is unchanged. Illustrative arithmetic is separate from actual app results.
+September 10 step-by-step editorial revision using the supplied slide actions, original Austin dictation, and the existing consolidated teaching. New wording is proposed speech, not a quotation of prior dictation. Historical topic attribution remains in [the consolidation record](../delivery/consolidation.md). Financial source review remains in [the technical review](../delivery/professional-topic-review.md); this revision does not claim licensed sign-off. The example amounts and assumptions are unchanged. Illustrative arithmetic is separate from actual app results.
 
 Tax deck steps 1, 6 and 8. Original three lots and $20,000/$16,000 gain/loss mechanisms retained. Missing basis remains unknown rather than silently zero in app records; failure to substantiate it can affect tax treatment. Asset/account/year-specific identification and replacement rules stay in A5.2. Temporary digital-asset relief is not an evergreen immediate-repurchase or after-the-fact identification rule. See existing September 10 source verification for the missing-basis consequence.
 

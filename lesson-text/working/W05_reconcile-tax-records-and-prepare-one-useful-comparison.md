@@ -13,9 +13,9 @@ Sources: TAX, TAX_DECK, APP, PRIMARY
 
 ### Run sheet — not spoken
 
-Use the unchanged three-lot teaching source and a separately reviewed synthetic record extension for imports/transfers, income dates and transaction confirmations. The $30,000 conversion/$6,000 tax comparison is illustrative arithmetic, not a Reed tax result. Future Tax is reached contextually from Plan; purchase details belong to the actual holding/account, conversion strategy has one Tax owner, and withholding/payments remain in Cash Flow. No new fifth primary navigation destination is implied.
+Use the unchanged three-lot teaching source and a separately reviewed synthetic record extension for imports/transfers, income dates and transaction confirmations. The $30,000 conversion/$6,000 tax comparison is illustrative arithmetic, not an example household tax result. Future Tax is reached contextually from Plan; purchase details belong to the actual holding/account, conversion strategy has one Tax owner, and withholding/payments remain in Cash Flow. No new fifth primary navigation destination is implied.
 
-Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional Reed source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
+Use the future design associated with Orange Plan PR #227; these manuscripts do not certify current controls. Keep teaching graphics visibly separate from application results. Before filming, bind each scene to the approved build, source extension, saved input and result date in CAPTURE-RECEIPTS.md. Use the unchanged fictional household source; prepare missing capture inputs as a separate reviewed extension. No live money movement or provider transaction is performed by this script revision.
 
 Only each **Narration:** block is spoken. Record the chapter as a separate take; show the action as its instruction is spoken. Other fields are editing and verification instructions.
 
@@ -69,7 +69,7 @@ When the history agrees, we have a supported basis for the sale comparison. We'v
 
 Here's the tax roadmap. We're looking for a year when the household's income changes enough that a withdrawal or conversion might be worth comparing.
 
-I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. Alex stopping work doesn't automatically make the household's income low if other income continues.
+I'm opening the first relevant year and looking at each person's work income and benefits. Distributions, gains, conversions and a supported loss carryforward belong in that same year's picture too. The client stopping work doesn't automatically make the household's income low if other income continues.
 
 Now we can compare that year with the next important income change. If there's a lower-income interval, we have a reason to examine it. We still need the total cost of adding income, including effects beyond the tax bracket.
 

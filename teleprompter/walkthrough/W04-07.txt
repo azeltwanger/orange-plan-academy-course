@@ -1,6 +1,6 @@
 We've got the account and an amount we can afford. Let's connect those to the investment the contribution will buy.
 
-First, here's the target gap. In the Reeds' 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
+First, here's the target gap. In our example household's 60% Bitcoin comparison, the target is $784,200 against $728,000 currently held. That $56,200 difference helps us decide where purchases could go over time. It isn't cash available to invest today.
 
 For the future card-payoff example, the proposed split is $1,000 to personally held Bitcoin and $605 to a taxable stock fund. The $500 Reserve contribution stays separate. This new investment route remains inactive until payoff, when we check the actual money released.
 

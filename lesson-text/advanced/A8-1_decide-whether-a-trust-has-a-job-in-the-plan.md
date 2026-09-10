@@ -46,7 +46,7 @@ We'll bring the resulting authority and status back into the family walkthrough.
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
 | The purpose comes first. | Specific purpose / current arrangement / benefit to compare | Use the existing ownership record. |
-| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not a Reed choice. |
+| That continuing management is a specific objective to discuss with the attorney. | Example: manage a child's assets over time | Label as an illustration, not an example household choice. |
 | Grantor and non-grantor describe income-tax treatment. | Revocable / irrevocable: control terms · grantor / non-grantor: income-tax treatment | Keep the two distinctions on separate lines. |
 | Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. | Legal document / actual funding / beneficiary coordination / custody | Highlight the unfinished part only. |
 | Confirm each completed step; signing a document alone doesn't finish them. | Actual status + responsible person + next action | End on the existing action list. |
